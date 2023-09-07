@@ -3,13 +3,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "55 23 * * *"
-  push:
-    branches:
-      - master
-    paths-ignore:
-      - "**/README.md"
 jobs:
-  build:
+  bot:
     runs-on: ubuntu-latest
     steps:
       - name: Download Files
@@ -23,6 +18,7 @@ jobs:
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
       - name: commit
         run: |
+          git init
           git config --global user.name "github-actions[bot]"
           git config --global user.email github-actions@github.com
           git add out/*
