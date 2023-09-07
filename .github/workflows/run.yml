@@ -16,6 +16,9 @@ jobs:
         run: |
           wget https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
           wget https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
+      - name: Remove Old Files
+        run: |
+          rm out/*.txt
       - name: Sed Files
         run: |
           sed s/^/*./ direct-list.txt > out/direct-list.txt
