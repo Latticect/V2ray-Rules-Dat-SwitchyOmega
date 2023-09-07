@@ -5,7 +5,7 @@ on:
     - cron: "55 23 * * *"
   push:
     branches:
-      - main
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
