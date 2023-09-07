@@ -19,7 +19,7 @@ jobs:
           mkdir out
           sed s/^/*./ direct-list.txt > out/direct-list.txt
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
-      - name: commit
+      - name: Commit
         run: |
           git init
           git config --global user.name "github-actions[bot]"
