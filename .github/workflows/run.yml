@@ -19,8 +19,8 @@ jobs:
       - name: Sed Files
         run: |
           mkdir out
-          sed ed s/^/*./ direct-list.txt > out/direct-list.txt
-          sed ed s/^/*./ proxy-list.txt > out/proxy-list.txt
+          sed ed s/^/*./ direct-list.txt > ./out/direct-list.txt
+          sed ed s/^/*./ proxy-list.txt > ./out/proxy-list.txt
       - name: commit
         run: |
           cd out
