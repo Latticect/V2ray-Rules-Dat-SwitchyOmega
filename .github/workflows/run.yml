@@ -18,7 +18,6 @@ jobs:
           wget https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
       - name: Sed Files
         run: |
-          mkdir out
           sed s/^/*./ direct-list.txt > out/direct-list.txt
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
       - name: Commit
