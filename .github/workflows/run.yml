@@ -21,8 +21,8 @@ jobs:
           rm out/*.txt
       - name: Sed Files
         run: |
-          sed s/^/*./ direct-list.txt > out/proxy-list.txt
-          sed -i '0 r direct-list-head.txt' out/proxy-list.txt
+          sed s/^/*./ direct-list.txt > out/direct-list.txt
+          sed -i '0 r direct-list-head.txt' out/direct-list.txt
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
       - name: Commit
         run: |
