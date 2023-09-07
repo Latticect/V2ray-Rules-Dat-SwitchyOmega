@@ -22,7 +22,7 @@ jobs:
       - name: Sed Files
         run: |
           sed s/^/*./ direct-list.txt > temp.txt
-          sed -i '1 r direct-list-head.txt' temp > out/direct-list.txt
+          sed -i '1 r direct-list-head.txt' temp.txt > out/direct-list.txt
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
       - name: Commit
         run: |
