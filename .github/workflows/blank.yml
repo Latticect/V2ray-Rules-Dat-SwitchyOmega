@@ -1,0 +1,34 @@
+name: Build rules files
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "55 23 * * *"
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - "**/README.md"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Files
+        run: |
+          wget https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
+          wget https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
+      - name: Sed Files
+        run: |
+          sed ed s/^/*./ direct-list.txt > out/direct-list.txt
+          sed ed s/^/*./ proxy-list.txt > out/proxy-list.txt
+      - name: commit
+        run: |
+          cd out
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email github-actions@github.com
+          git add .
+          git commit -m "update by actions"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
