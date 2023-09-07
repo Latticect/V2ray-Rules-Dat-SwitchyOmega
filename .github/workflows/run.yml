@@ -24,6 +24,7 @@ jobs:
       - name: commit
         run: |
           cd out
+          git init
           git config --global user.name "github-actions[bot]"
           git config --global user.email github-actions@github.com
           git add .
