@@ -29,7 +29,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
-          git add out/*.txt
+          git add out/direct-list.txt
+          git ad  out/proxy-list.txt
           git commit -m "update by actions"
       - name: Push changes
         uses: ad-m/github-push-action@master
