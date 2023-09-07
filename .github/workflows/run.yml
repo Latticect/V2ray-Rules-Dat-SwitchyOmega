@@ -24,6 +24,7 @@ jobs:
           sed s/^/*./ direct-list.txt > temp.txt
           sed -i '1 r direct-list-head.txt' temp.txt > out/direct-list.txt
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
+          rm temp.txt
       - name: Commit
         run: |
           git config --global user.name "github-actions[bot]"
