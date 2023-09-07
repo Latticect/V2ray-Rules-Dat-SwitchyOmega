@@ -21,7 +21,6 @@ jobs:
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
       - name: Commit
         run: |
-          git init
           git config --global user.name "github-actions[bot]"
           git config --global user.email github-actions@github.com
           git add out/*
