@@ -23,11 +23,9 @@ jobs:
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
       - name: commit
         run: |
-          cd out
-          git init
           git config --global user.name "github-actions[bot]"
           git config --global user.email github-actions@github.com
-          git add .
+          git add out/*
           git commit -m "update by actions"
       - name: Push changes
         uses: ad-m/github-push-action@master
