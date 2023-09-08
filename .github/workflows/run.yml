@@ -24,9 +24,9 @@ jobs:
           sed s/^/*./ direct-list.txt > out/direct-list.txt
           sed -i '1 r direct-list-head.txt' out/direct-list.txt
           sed s/^/*./ proxy-list.txt > out/proxy-list.txt
-          TIME=$(date "+%Y\-%m\-%d %H:%M:%S")
-          sed -i "1i `$TIME` " out/direct-list.txt
-          sed -i "1i `$TIME` " out/proxy-list.txt
+          TIME=$(date "+%Y-%m-%d %H:%M:%S")
+          sed -i "1i '`$TIME`' " out/direct-list.txt
+          sed -i "1i '`$TIME`' " out/proxy-list.txt
       - name: Commit
         run: |
           head out/direct-list.txt
