@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-;更新时间：2023-09-10 14:41:32
+;更新时间：2023-09-10 18:34:32
 *.000webhost.com
 *.01.org
 *.02weqj32.com
