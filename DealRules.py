@@ -1,3 +1,4 @@
+import os.path
 import time
 
 
@@ -15,8 +16,12 @@ def deal_content(content: str):
         line = line.strip()
         if line.isspace():
             continue
-        if not line.startswith('full:') and not line.startswith('regexp:'):
+        elif not line.startswith('full:') and not line.startswith('regexp:'):
             line = f'*.{line}'
+        elif line.startswith('regexp:'):
+            line = line.replace('regexp:', 'UrlRegex: ')
+        elif line.startswith('full:'):
+            line = line.replace('full:', '')
         result.append(line)
     return result
 
