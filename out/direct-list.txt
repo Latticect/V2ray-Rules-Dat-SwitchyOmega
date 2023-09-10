@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-09-11 07:29:29
+; 更新时间：2023-09-11 07:32:47
 ; cn域名都不走代理
 *.cn
 
@@ -65597,41 +65597,41 @@ xn--9kr7l.com
 xn--flw351e.com
 xp.apple.com
 xz.pphimalayanrt.com
-UrlRegex: .+\.awsdns-cn-[0-9][0-9]\.biz$
-UrlRegex: .+\.awsdns-cn-[0-9][0-9]\.com$
-UrlRegex: .+\.awsdns-cn-[0-9][0-9]\.net$
-UrlRegex: .+\.awsdns-cn-[0-9][0-9]\.top$
-UrlRegex: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-UrlRegex: .+\.azchcdn[a-s]\.com$
-UrlRegex: .+\.azure-dns-([1-9]|10)\.cn$
-UrlRegex: .+\.cdnhwc([1-9]|10)\.(cn|com)$
-UrlRegex: .+\.dnse[0-5]\.(cn|com)$
-UrlRegex: .+\.tdnsv([1-9]|1[0-5])\.(com|net)$
-UrlRegex: \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
-UrlRegex: \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-UrlRegex: \.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
-UrlRegex: \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-UrlRegex: \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
-UrlRegex: \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-UrlRegex: \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
-UrlRegex: \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-UrlRegex: \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
-UrlRegex: \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-UrlRegex: \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
-UrlRegex: \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-UrlRegex: \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
-UrlRegex: \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
-UrlRegex: ^(.+\.)*zh\.okaapps\.com$
-UrlRegex: ^.+-mihayo\.akamaized\.net$
-UrlRegex: ^a[1-5]\.mzstatic\.com$
-UrlRegex: ^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
-UrlRegex: ^cdn-akamai-.+\.gog-services\.com$
-UrlRegex: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-UrlRegex: ^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
-UrlRegex: ^cl[1-5]\.apple\.com$
-UrlRegex: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
-UrlRegex: ^gog-cdn-.+\.footprint\.net$
-UrlRegex: ^images(-\d)?\.gog-statics\.com$
-UrlRegex: ^is[1-5](-ssl)?\.mzstatic\.com$
-UrlRegex: ^s[1-5]?\.mzstatic\.com$
+HostRegex: .+\.awsdns-cn-[0-9][0-9]\.biz$
+HostRegex: .+\.awsdns-cn-[0-9][0-9]\.com$
+HostRegex: .+\.awsdns-cn-[0-9][0-9]\.net$
+HostRegex: .+\.awsdns-cn-[0-9][0-9]\.top$
+HostRegex: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+HostRegex: .+\.azchcdn[a-s]\.com$
+HostRegex: .+\.azure-dns-([1-9]|10)\.cn$
+HostRegex: .+\.cdnhwc([1-9]|10)\.(cn|com)$
+HostRegex: .+\.dnse[0-5]\.(cn|com)$
+HostRegex: .+\.tdnsv([1-9]|1[0-5])\.(com|net)$
+HostRegex: \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
+HostRegex: \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+HostRegex: \.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
+HostRegex: \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+HostRegex: \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
+HostRegex: \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+HostRegex: \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
+HostRegex: \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+HostRegex: \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
+HostRegex: \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+HostRegex: \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
+HostRegex: \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+HostRegex: \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
+HostRegex: \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+HostRegex: ^(.+\.)*zh\.okaapps\.com$
+HostRegex: ^.+-mihayo\.akamaized\.net$
+HostRegex: ^a[1-5]\.mzstatic\.com$
+HostRegex: ^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
+HostRegex: ^cdn-akamai-.+\.gog-services\.com$
+HostRegex: ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+HostRegex: ^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
+HostRegex: ^cl[1-5]\.apple\.com$
+HostRegex: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
+HostRegex: ^gog-cdn-.+\.footprint\.net$
+HostRegex: ^images(-\d)?\.gog-statics\.com$
+HostRegex: ^is[1-5](-ssl)?\.mzstatic\.com$
+HostRegex: ^s[1-5]?\.mzstatic\.com$
 *.
