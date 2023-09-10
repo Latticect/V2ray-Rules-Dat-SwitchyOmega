@@ -10,7 +10,7 @@ def deal_content(content: str):
     result = []
     for line in content.split('\n'):
         line = line.strip()
-        if line.__len__() == 0:
+        if line.isspace():
             continue
         if not line.startswith('full:') and not line.startswith('regexp:'):
             line = f'*.{line}'
