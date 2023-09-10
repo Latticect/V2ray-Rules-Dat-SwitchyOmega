@@ -12,29 +12,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      
+
       - name: Checkout
         uses: actions/checkout@v1
-      
+
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.11
+
       - name: Download Files
         run: |
           wget https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
           wget https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
-      
+
       - name: Remove Old Files
-        run: |
-          rm out/*.txt
-      
-      - name: Sed Files
-        run: |
-          sed s/^/*./ direct-list.txt > out/direct-list.txt
-          sed -i '1 r direct-list-head.txt' out/direct-list.txt
-          sed s/^/*./ proxy-list.txt > out/proxy-list.txt
-          sed -i "1i ;更新时间：`date +"%Y-%m-%d %H:%M:%S"`" out/direct-list.txt
-          sed -i "1i ;更新时间：`date +"%Y-%m-%d %H:%M:%S"`" out/proxy-list.txt
-          sed -i "1i [SwitchyOmega Conditions]" out/direct-list.txt
-          sed -i "1i [SwitchyOmega Conditions]" out/proxy-list.txt
-      
+        run: rm out/*.txt
+
+      - name: Deal Files
+        run: python3 ./DealRules.py
+
       - name: Commit
         run: |
           head out/direct-list.txt
@@ -42,17 +39,17 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add out/*
           git commit -m "update by actions"
-      
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Set variables
         run: |
           echo "RELEASE_NAME=Released on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
           echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
-     
+
       - name: Release and upload assets
         uses: svenstaro/upload-release-action@v2
         with:
