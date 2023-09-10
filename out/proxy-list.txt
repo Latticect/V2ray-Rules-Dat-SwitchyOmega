@@ -1,4 +1,5 @@
-; 更新时间：2023-09-10 22:09:04*.000webhost.com
+[SwitchyOmega Conditions]
+; 更新时间：2023-09-10 22:12:38*.000webhost.com
 *.01.org
 *.02weqj32.com
 *.030buy.com
