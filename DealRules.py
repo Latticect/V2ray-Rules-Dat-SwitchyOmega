@@ -19,7 +19,7 @@ def deal_content(content: str):
         elif not line.startswith('full:') and not line.startswith('regexp:'):
             line = f'*.{line}'
         elif line.startswith('regexp:'):
-            line = line.replace('regexp:', 'UrlRegex: ')
+            line = line.replace('regexp:', 'HostRegex: ')
         elif line.startswith('full:'):
             line = line.replace('full:', '')
         result.append(line)
