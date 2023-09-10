@@ -1,3 +1,6 @@
+import time
+
+
 def read_file(path):
     txt = ''
     with open(path, 'r', encoding='utf8') as f:
@@ -20,6 +23,7 @@ def deal_content(content: str):
 
 def output_file(path: str, content: list):
     with open(path, 'w', encoding='utf8') as f:
+        f.write(f'; 更新时间：{time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())}')
         for line in content:
             f.write(line + '\n')
 
