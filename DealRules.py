@@ -1,33 +1,32 @@
 def read_file(path):
     txt = ''
-    with open(path, 'r') as f:
-        for line in f:
+    with open(path, 'r', encoding='utf8') as f:
+        for line in f.readlines():
             txt += line
     return txt
 
 
 def deal_content(content: str):
     result = []
-    for line in content:
-        if line.startswith('full:') or line.startswith('.regexp:'):
-            continue
-        else:
-            line += f'*.{line}'
+    for line in content.split('\n'):
+        if not line.startswith('full:') and not line.startswith('regexp:'):
+            line = f'*.{line}'
         result.append(line)
     return result
 
 
 def output_file(path: str, content: list):
-    with open(path, 'w') as f:
+    with open(path, 'w', encoding='utf8') as f:
         for line in content:
-            f.write(line)
+            f.write(line + '\n')
 
 
 def deal_list(head_path: str, content_path: str, need_head: bool, output_path: str):
-    head = read_file(head_path)
     content = read_file(content_path)
     if need_head:
-        result = deal_content(f'{head}\n{content}')
+        head = read_file(head_path)
+        result = head.split('\n')
+        result += (deal_content(f'{content}'))
     else:
         result = deal_content(content)
 
