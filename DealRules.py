@@ -9,6 +9,9 @@ def read_file(path):
 def deal_content(content: str):
     result = []
     for line in content.split('\n'):
+        line = line.strip()
+        if line.__len__() == 0:
+            continue
         if not line.startswith('full:') and not line.startswith('regexp:'):
             line = f'*.{line}'
         result.append(line)
