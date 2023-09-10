@@ -24,7 +24,7 @@ def deal_content(content: str):
 def output_file(path: str, content: list):
     with open(path, 'w', encoding='utf8') as f:
         f.write('[SwitchyOmega Conditions]\n')
-        f.write(f'; 更新时间：{time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())}')
+        f.write(f'; 更新时间：{time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())}\n')
         for line in content:
             f.write(line + '\n')
 
