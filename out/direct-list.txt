@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-09-11 07:55:43
+; 更新时间：2023-09-12 07:55:44
 ; cn域名都不走代理
 *.cn
 
@@ -4349,7 +4349,6 @@ ff00:*
 *.52solution.com
 *.52souji.net
 *.52souluo.com
-*.52soutu.com
 *.52survey.com
 *.52svip.cc
 *.52svn.com
@@ -11866,6 +11865,7 @@ ff00:*
 *.bx58.com
 *.bxb2b.com
 *.bxcc.vip
+*.bxcqd.com
 *.bxdaka.com
 *.bxdlkj.com
 *.bxemln.com
@@ -30159,7 +30159,6 @@ ff00:*
 *.ipuu.net
 *.ipv4.host
 *.ipv6dns.com
-*.ipyker.com
 *.ipyy.com
 *.iq123.com
 *.iqalliance.org
@@ -33314,6 +33313,7 @@ ff00:*
 *.kaiyuan.me
 *.kaiyuangroup.cc
 *.kaiyuanhotels.com
+*.kaiyuanweilaikeji.com
 *.kaiyun.com
 *.kajicam.com
 *.kaka.com
@@ -37714,7 +37714,6 @@ ff00:*
 *.markmall.com
 *.markmiao.com
 *.marknum.com
-*.markonreview.com
 *.markorchem.com
 *.marksmile.com
 *.marmot-cloud.com
@@ -41934,7 +41933,6 @@ ff00:*
 *.pandatv.com
 *.pandoe.com
 *.pandolia.net
-*.pandownload.com
 *.panduoduo.net
 *.panduoduo.online
 *.panewslab.com
@@ -45784,6 +45782,7 @@ ff00:*
 *.ruixunidc.com
 *.ruixunidc.net
 *.ruiyang-ra.com
+*.ruiyuanobserve.com
 *.ruiyunit.com
 *.ruizong-gz.com
 *.rujiazg.com
@@ -52184,7 +52183,6 @@ ff00:*
 *.tripbe.com
 *.tripcdn.com
 *.triphr.com
-*.triple7photography.com
 *.triplexservice.com
 *.tripodeck.com
 *.tripsanxia.net
@@ -55808,7 +55806,6 @@ ff00:*
 *.whzydz.com
 *.whzyht.com
 *.wi799.com
-*.wiblog.net
 *.wicep.com
 *.wicp.net
 *.wicp.vip
@@ -61088,6 +61085,7 @@ ff00:*
 *.yongsy.com
 *.yongtu.net
 *.yongxinby.com
+*.yongxinji.com
 *.yongxintex.com
 *.yongzhentang.com
 *.yonho.com
@@ -62693,6 +62691,7 @@ ff00:*
 *.zcsbbs.com
 *.zcskj.com
 *.zctl.net
+*.zctpt.com
 *.zctx.com
 *.zcwlsc.com
 *.zcwxjx.com
@@ -62717,6 +62716,7 @@ ff00:*
 *.zdface.com
 *.zdfans.com
 *.zdfx.net
+*.zdgzc.com
 *.zdh168.com
 *.zdhaitao.com
 *.zdhaitao.net

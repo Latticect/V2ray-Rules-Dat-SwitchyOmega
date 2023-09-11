@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-09-11 07:55:43
+; 更新时间：2023-09-12 07:55:44
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1384,6 +1384,7 @@
 *.appmediagroup.com
 *.approvedusedbmw.com
 *.apps5.oingo.com
+*.appsflayer.com
 *.appshopper.com
 *.appsocks.net
 *.appsonebay.net
@@ -2502,6 +2503,7 @@
 *.bitcoinworld.com
 *.bitfinex.com
 *.bitflyer.com
+*.bitget.com
 *.bithumb.com
 *.bitly.com
 *.bitmex.com
@@ -4132,6 +4134,7 @@
 *.cruel-furies.com
 *.crunchyroll.com
 *.crustwebsites.net
+*.crypto.com
 *.cryptocompare.com
 *.crystalgunnsworld.com
 *.crystalmiss.com
@@ -9574,6 +9577,7 @@
 *.kiehls
 *.kik.com
 *.kikdirty.com
+*.killcovid2021.com
 *.killwall.com
 *.kilmeadeandfriends.com
 *.kimogirl.cc
@@ -10556,6 +10560,8 @@
 *.metrotoons.com
 *.meuhentai.com
 *.mewe.com
+*.mexc.com
+*.mexcsensors.com
 *.meyul.com
 *.mf
 *.mfg-inspector.com
@@ -14081,6 +14087,7 @@
 *.sa-saopaulo.myqcloud.com
 *.sa.hao123.com
 *.saarland
+*.saasexch.com
 *.sabuibo.net
 *.sacduc.com
 *.sacks.com
@@ -17266,6 +17273,7 @@
 *.weblagu.com
 *.webmoneyinfo.com
 *.webmproject.org
+*.webnovel.com
 *.webobjects.com
 *.webobjects.net
 *.webofknowledge.com
