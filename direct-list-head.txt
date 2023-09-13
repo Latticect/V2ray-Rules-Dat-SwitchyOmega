@@ -54,6 +54,9 @@ ff00:*
 *.springer.com
 *.tandfonline.com
 *.uni-trier.de
+; 其他
+*.cloudflare.com
+*.sharepoint.com
 *.webofknowledge.com
 *.wiley.com
 
