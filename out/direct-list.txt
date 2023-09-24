@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-09-24 07:55:57
+; 更新时间：2023-09-25 07:55:36
 ; cn域名都不走代理
 *.cn
 
@@ -1785,7 +1785,6 @@ ff00:*
 *.1kxun.com
 *.1kyx.com
 *.1lan.tv
-*.1lewen.com
 *.1liantu.com
 *.1look.tv
 *.1lou.com
@@ -4586,7 +4585,6 @@ ff00:*
 *.576tv.com
 *.57821.com
 *.579609.com
-*.57ac.com
 *.57auto.com
 *.57dp.com
 *.57gif.com
@@ -13788,7 +13786,6 @@ ff00:*
 *.china3gpp.com
 *.china4a.org
 *.china50plus.com
-*.china51766.com
 *.china5e.com
 *.china60.com
 *.china618.com
@@ -17994,6 +17991,7 @@ ff00:*
 *.dfyydl.com
 *.dfyzx.com
 *.dfzmzyc.com
+*.dfzxvip.com
 *.dfzystt.com
 *.dg-360lhx.com
 *.dg-cxwj.com
@@ -18504,7 +18502,6 @@ ff00:*
 *.djye.com
 *.djyjob.com
 *.djysx.com
-*.djyyh.com
 *.djzbl.com
 *.djzhj.com
 *.djzr88.com
@@ -19340,7 +19337,6 @@ ff00:*
 *.duoduoyouli888.com
 *.duoduozb.com
 *.duoduozhifu.com
-*.duoente.net
 *.duoerpharmacy.com
 *.duofriend.com
 *.duogouhui.com
@@ -19778,6 +19774,7 @@ ff00:*
 *.eastall.com
 *.eastar-group.com
 *.eastbest.com
+*.eastbuy.com
 *.eastchinafair.com
 *.eastcom-sw.com
 *.eastcom.com
@@ -22867,7 +22864,6 @@ ff00:*
 *.gameabc2.com
 *.gamebaike.com
 *.gamebar.com
-*.gamebbm.com
 *.gamebean.com
 *.gamebean.net
 *.gamebee.net
@@ -26234,7 +26230,6 @@ ff00:*
 *.hengyoux.com
 *.henha.com
 *.henhaoji.com
-*.heniehillsoceanside.com
 *.henjay724.com
 *.henkuai.com
 *.henmimang.com
@@ -29802,6 +29797,7 @@ ff00:*
 *.infoxgame.com
 *.inframe.mobi
 *.inftab.com
+*.infyniclick.com
 *.infzm.com
 *.ing10bbs.com
 *.ingageapp.com
@@ -31308,7 +31304,6 @@ ff00:*
 *.jianweidata.com
 *.jianweitv.com
 *.jianwenapp.com
-*.jianxin-tech.com
 *.jianxinyun.com
 *.jianxun.io
 *.jianyu360.com
@@ -32114,7 +32109,6 @@ ff00:*
 *.jkximg.com
 *.jkydt.com
 *.jkyeo.com
-*.jkys5.com
 *.jkzgr.net
 *.jkzhilu.com
 *.jkzl.com
@@ -32478,6 +32472,7 @@ ff00:*
 *.jsd.cc
 *.jsdaima.com
 *.jsdcly.com
+*.jsdesign1.com
 *.jsdthx.com
 *.jseepub.com
 *.jseoptics.com
@@ -32883,7 +32878,6 @@ ff00:*
 *.juzisy.com
 *.juzivr.com
 *.juzix.io
-*.juziyinyue.com
 *.juzizhoutou.net
 *.jvcxp.com
 *.jvmai.com
@@ -36756,7 +36750,6 @@ ff00:*
 *.lua.ren
 *.luaninfo.com
 *.luanren.com
-*.luanzun.com
 *.luastudio.net
 *.lubandata.com
 *.lubangd.com
@@ -42027,7 +42020,6 @@ ff00:*
 *.pceggs.com
 *.pceva.net
 *.pcfreetime.com
-*.pcfuns.com
 *.pcgeshi.com
 *.pcgogo.com
 *.pch.pub
@@ -46188,6 +46180,7 @@ ff00:*
 *.sctbc.net
 *.sctcd.com
 *.sctdzl.com
+*.sctfia.com
 *.sctobacco.com
 *.sctszh.com
 *.sctv.com
@@ -46639,7 +46632,6 @@ ff00:*
 *.sfyb.com
 *.sfygroup.com
 *.sfystatic.com
-*.sfyy120.com
 *.sfzj123.com
 *.sg-micro.com
 *.sg.work
@@ -48118,7 +48110,6 @@ ff00:*
 *.siwaman.com
 *.siwazywcdn2.com
 *.siwazywcdn3.com
-*.siwazywimg.com
 *.siweidaotu.com
 *.siweiearth.com
 *.siweikongjian.net
@@ -54512,7 +54503,6 @@ ff00:*
 *.wanhui365.com
 *.wanhunet.com
 *.wanimal1983.org
-*.wanjiajinfu.com
 *.wanjiashe.com
 *.wanjidashi.com
 *.wanjiedata.com
@@ -55750,7 +55740,6 @@ ff00:*
 *.win866.com
 *.win8china.com
 *.win8e.com
-*.win8pc.com
 *.win8xiazai.com
 *.win9008.com
 *.winasdaq.com
@@ -57644,6 +57633,7 @@ ff00:*
 *.xiaolai.net
 *.xiaolajiao.com
 *.xiaolanben.com
+*.xiaolangtt.com
 *.xiaolantiao.com
 *.xiaolee.net
 *.xiaoleidm.com
@@ -59456,7 +59446,6 @@ ff00:*
 *.yac8.com
 *.yac8.net
 *.yadashi.com
-*.yadgen.com
 *.yadingtour.com
 *.yaduo.com
 *.yaeherhealth.com
@@ -59668,7 +59657,6 @@ ff00:*
 *.yasking.org
 *.yasn.com
 *.yasuotu.com
-*.yataici.com
 *.yatiku.com
 *.yatiwang.com
 *.yatsenglobal.com
@@ -61067,6 +61055,7 @@ ff00:*
 *.youkego.com
 *.youkelai.com
 *.youkexueyuan.com
+*.youkia.net
 *.youkongkan.com
 *.youkongwan.com
 *.youku.com
@@ -62450,7 +62439,6 @@ ff00:*
 *.zazsz.com
 *.zb-kc.com
 *.zb1.org
-*.zb128x9.cc
 *.zb580.tv
 *.zbbar.net
 *.zbfilm.com
