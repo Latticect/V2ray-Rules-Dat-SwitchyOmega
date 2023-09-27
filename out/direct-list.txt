@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-09-27 07:55:30
+; 更新时间：2023-09-28 07:55:34
 ; cn域名都不走代理
 *.cn
 
@@ -16654,6 +16654,7 @@ ff00:*
 *.ctfmall.com
 *.ctfo.com
 *.ctfund.com
+*.ctg75.com
 *.ctghealthy.com
 *.ctghr.com
 *.cthhmu.com
@@ -34573,7 +34574,6 @@ ff00:*
 *.lactec.net
 *.ladiyoga.com
 *.ladjzs.com
-*.ladouban.com
 *.lady177.com
 *.lady361.com
 *.lady8844.com
