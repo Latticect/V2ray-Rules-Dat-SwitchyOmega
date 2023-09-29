@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-09-29 07:55:47
+; 更新时间：2023-09-30 07:55:48
 ; cn域名都不走代理
 *.cn
 
@@ -65054,6 +65054,7 @@ corp.google.com
 corp.googleapis.com
 crashlyticsreports-pa.googleapis.com
 crl-lb.apple.com.akadns.net
+crl.alphassl.com
 crl.apple.com
 crl.pki.goog
 crl2.alphassl.com
@@ -65099,6 +65100,7 @@ g2.gstatic.com
 g3.gstatic.com
 gcpnode.com
 geetest.datasink.sensorsdata.cn
+global.prd.cdn.globalsign.com
 gog.qtlglb.com
 gogalaxy.gog-statics.com
 gonglchuangl.net
