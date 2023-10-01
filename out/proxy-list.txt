@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-01 07:55:34
+; 更新时间：2023-10-02 07:55:49
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7813,6 +7813,7 @@
 *.hentaisub.info
 *.hentaitalk.com
 *.hentaitk.com
+*.hentaitokyo.com
 *.hentaitube.online
 *.hentaiverse.org
 *.hentaivideos.net
@@ -9368,6 +9369,7 @@
 *.jjgirls.com
 *.jkb.cc
 *.jkbeats.com
+*.jkf.net
 *.jkface.net
 *.jkforum.net
 *.jkub.com
@@ -16035,6 +16037,7 @@
 *.tokyocn.com
 *.tokyomotion.com
 *.tokyomotion.net
+*.tokyonightstyle.com
 *.tokyoporns.com
 *.tokyotosho.info
 *.tomatespodres.com
