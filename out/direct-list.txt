@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-03 07:55:53
+; 更新时间：2023-10-04 07:55:34
 ; cn域名都不走代理
 *.cn
 
@@ -777,7 +777,6 @@ ff00:*
 *.100ye.net
 *.100yigui.com
 *.100yingcai.com
-*.100yiyao.com
 *.100zhuang.com
 *.100zp.com
 *.101.com
@@ -2153,7 +2152,6 @@ ff00:*
 *.23qb.net
 *.23qun.com
 *.23sk.com
-*.23tgo.com
 *.23txt.com
 *.23us.so
 *.23us.tv
@@ -4122,7 +4120,6 @@ ff00:*
 *.520fx.com
 *.520hello.com
 *.520hhht.com
-*.520im.com
 *.520it.com
 *.520jiabo.com
 *.520jita.com
@@ -4871,7 +4868,6 @@ ff00:*
 *.5sem.com
 *.5sha.com
 *.5snow.com
-*.5stmt.com
 *.5sw.com
 *.5tangs.com
 *.5tdalmui.cfd
@@ -13337,7 +13333,6 @@ ff00:*
 *.chaoxingv.com
 *.chaoyi996.com
 *.chaoyindj.com
-*.chaoyinfastcdnbestcdn.vip
 *.chaoyisy.com
 *.chaoyuesd.com
 *.chaoyuyun.com
@@ -15780,7 +15775,6 @@ ff00:*
 *.cocas.cc
 *.coccccc.cc
 *.cocimg.com
-*.cocinacieloverde.com
 *.coco413.com
 *.cocoachina.com
 *.cocodiy.com
@@ -16863,7 +16857,6 @@ ff00:*
 *.cyb-bot.com
 *.cyb-cie.com
 *.cyb800.com
-*.cyberfunn.xyz
 *.cybermedicine2000.com
 *.cyberway-china.net
 *.cybtc.com
@@ -21425,7 +21418,6 @@ ff00:*
 *.fcczp.com
 *.fcgsnews.com
 *.fcgtt.com
-*.fcheche.com
 *.fcjob.net
 *.fcjob88.com
 *.fclouddns.net
@@ -23019,6 +23011,7 @@ ff00:*
 *.gathernames.com
 *.gaussianoptics.com
 *.gavindesign.com
+*.gaxgame.com
 *.gaxrmyy.com
 *.gbase8a.com
 *.gbasebi.com
@@ -23759,6 +23752,7 @@ ff00:*
 *.goepe.com
 *.goertek.com
 *.goetheslz.com
+*.goforandroid.com
 *.goframe.org
 *.gogbuy.com
 *.gogo.so
@@ -25315,7 +25309,6 @@ ff00:*
 *.hao315.com
 *.hao315.tv
 *.hao3399.com
-*.hao3450.com
 *.hao352.com
 *.hao353.com
 *.hao360.com
@@ -26085,7 +26078,6 @@ ff00:*
 *.helingqi.com
 *.helishun.com
 *.heliuyan.com
-*.hello-algo.com
 *.hello-inc.com
 *.hello1010.com
 *.hellobanma.com
@@ -26619,7 +26611,6 @@ ff00:*
 *.hkance.com
 *.hkance.xyz
 *.hkanews.com
-*.hkartist.net
 *.hkbchina.com
 *.hkcgart.com
 *.hkcna.hk
@@ -31979,7 +31970,6 @@ ff00:*
 *.jjj.ee
 *.jjj802.com
 *.jjjaaa.com
-*.jjjg.co
 *.jjjoystudios.com
 *.jjjsgczbtb.com
 *.jjkeq.com
@@ -33054,7 +33044,6 @@ ff00:*
 *.k12zx.com
 *.k165.com
 *.k18.com
-*.k18882.com
 *.k1u.com
 *.k2ma.com
 *.k2os.com
@@ -33123,7 +33112,6 @@ ff00:*
 *.kaihuia.com
 *.kaijia.com
 *.kaikeba.com
-*.kailincheng.com
 *.kailing.pub
 *.kaimanhua.com
 *.kaimg.com
@@ -34977,7 +34965,6 @@ ff00:*
 *.ldd.me
 *.lddengine.com
 *.lddgo.net
-*.ldeng.com
 *.ldkj-zs.com
 *.ldmap.net
 *.ldmnq.com
@@ -36026,7 +36013,6 @@ ff00:*
 *.liuxue114.com
 *.liuxue360.com
 *.liuxue51.net
-*.liuxue86.com
 *.liuxuegang.site
 *.liuxuehksg.com
 *.liuxuehr.com
@@ -38295,7 +38281,6 @@ ff00:*
 *.midway.run
 *.midwayjs.org
 *.miecod.com
-*.miejw.com
 *.miemie.la
 *.miercn.com
 *.mieseng.com
@@ -40566,7 +40551,6 @@ ff00:*
 *.nongbaike.net
 *.nongcun5.com
 *.nongfen.com
-*.nongfujing.com
 *.nongfuspring.com
 *.nongji1688.com
 *.nongji360.com
@@ -40830,7 +40814,6 @@ ff00:*
 *.nxist.com
 *.nxit.us
 *.nxly766.com
-*.nxnet.net
 *.nxnews.net
 *.nxnjw.com
 *.nxnresearch.com
@@ -40917,6 +40900,7 @@ ff00:*
 *.oborad.com
 *.obowin.com
 *.obsapp.net
+*.obsbot.com
 *.obyee.com
 *.ocar.tv
 *.ocd120.com
@@ -42451,7 +42435,6 @@ ff00:*
 *.pjrcn.com
 *.pjrunfutang.com
 *.pjtime.com
-*.pjtt445.xyz
 *.pk052.com
 *.pk106.com
 *.pk1xia.com
@@ -44991,6 +44974,7 @@ ff00:*
 *.remax-bj.com
 *.remeins.com
 *.rememtek.com
+*.remo-ai.com
 *.remoteaps.com
 *.remotedu.com
 *.renaren.com
@@ -48913,7 +48897,6 @@ ff00:*
 *.srzc.com
 *.srzxjt.com
 *.ss-ceo.com
-*.ss6.co
 *.ss8899888.com
 *.ssaxx.com
 *.ssaya.win
@@ -49915,7 +49898,6 @@ ff00:*
 *.szhytrip.com
 *.szicc.net
 *.szider.com
-*.szihao.com
 *.szisland.com
 *.szjcyyy.com
 *.szjhxjt.com
@@ -54020,6 +54002,7 @@ ff00:*
 *.vurl3.vip
 *.vutimes.com
 *.vux.li
+*.vuz.me
 *.vv8.com
 *.vv881.com
 *.vv8yx.com
@@ -56037,7 +56020,6 @@ ff00:*
 *.wonpearl.com
 *.wonplug.net
 *.wonse.info
-*.wonxun.net
 *.woo.im
 *.wooaii.com
 *.woocg.com
@@ -58715,7 +58697,6 @@ ff00:*
 *.xslb.me
 *.xsm818.com
 *.xsmaofa.com
-*.xsmnews.com
 *.xsmore.com
 *.xsmy54s.com
 *.xsnsyh.com
@@ -61198,11 +61179,13 @@ ff00:*
 *.yqh.com
 *.yqh5.com
 *.yqhapp.com
+*.yqhbook.com
 *.yqhlm.com
 *.yqhouseware.com
 *.yqhzz.com
 *.yqjsj.com
 *.yqjtgs.com
+*.yqkbook.la
 *.yqkk.link
 *.yqkqw.com
 *.yqmb001.com
@@ -62231,7 +62214,6 @@ ff00:*
 *.zailouxia.com
 *.zaiminglvsuo.com
 *.zainanjing365.com
-*.zaisd.com
 *.zaitong.net
 *.zaiwai.com
 *.zaixian-fanyi.com
