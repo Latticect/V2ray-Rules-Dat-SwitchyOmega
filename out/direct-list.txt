@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-04 07:55:34
+; 更新时间：2023-10-05 07:55:35
 ; cn域名都不走代理
 *.cn
 
@@ -694,6 +694,7 @@ ff00:*
 *.1000phone.com
 *.1000phone.net
 *.1000plan.org
+*.1000qoi.com
 *.1000thinktank.com
 *.1000tuan.com
 *.1000uc.com
@@ -3370,7 +3371,6 @@ ff00:*
 *.45win.com
 *.45xie.com
 *.45yx.com
-*.462546.com
 *.46412.com
 *.46466.me
 *.465676.tv
@@ -6078,7 +6078,6 @@ ff00:*
 *.8bb8b.com
 *.8bcd9.com
 *.8bears.com
-*.8bit.xin
 *.8btc-ops.com
 *.8btc.com
 *.8btm.com
@@ -6875,6 +6874,7 @@ ff00:*
 *.9host.org
 *.9hou.com
 *.9ht.com
+*.9huadian.net
 *.9icode.net
 *.9icy.com
 *.9idudu.com
@@ -12451,6 +12451,7 @@ ff00:*
 *.ccchz.com
 *.cccitu.com
 *.cccity.cc
+*.cccm-em120.com
 *.cccmat.com
 *.cccnec.com
 *.cccollector.com
@@ -13433,7 +13434,6 @@ ff00:*
 *.chemcyber.com
 *.chemdrug.com
 *.chemicalbook.com
-*.chemishu.com
 *.chemm.com
 *.chemmade.com
 *.chemnet.com
@@ -15165,6 +15165,7 @@ ff00:*
 *.cmt7.com
 *.cmtdi.com
 *.cmtech.net
+*.cmtopdr.com
 *.cmtrq.com
 *.cmu1h.com
 *.cmuliang.com
@@ -15559,7 +15560,6 @@ ff00:*
 *.cnobol.com
 *.cnoic.com
 *.cnoil.com
-*.cnol.cc
 *.cnolnic.com
 *.cnolnic.net
 *.cnonline.org
@@ -16570,6 +16570,7 @@ ff00:*
 *.csw18.com
 *.csweigou.com
 *.cswf888.com
+*.csxbank.com
 *.csxcdj.com
 *.csxdf.com
 *.csxingfutemple.org
@@ -18252,7 +18253,6 @@ ff00:*
 *.digiwin.com
 *.digiwork.com
 *.digod.com
-*.digpage.com
 *.digu.com
 *.digu365.com
 *.digua.com
@@ -21396,6 +21396,7 @@ ff00:*
 *.fb.mu
 *.fbabi.com
 *.fbaichuan.com
+*.fbank.com
 *.fbirdsmall.com
 *.fbkjapp.com
 *.fblife.com
@@ -28182,6 +28183,7 @@ ff00:*
 *.hwclouds.mobi
 *.hwclouds.net
 *.hwcloudvis.com
+*.hwcpb.com
 *.hwcrazy.com
 *.hwehs.com
 *.hweimall.com
@@ -29027,7 +29029,6 @@ ff00:*
 *.idouzi.com
 *.idoyun.com
 *.idqqimg.com
-*.idreamschool.com
 *.idreamsky.com
 *.idreamsoft.com
 *.idrools.com
@@ -30305,7 +30306,6 @@ ff00:*
 *.itjspx.com
 *.itjuzi.com
 *.itkoudai.com
-*.itlsc.com
 *.itlu.org
 *.itmanbu.com
 *.itmastergame.com
@@ -30481,7 +30481,6 @@ ff00:*
 *.iwopop.com
 *.iwordnet.com
 *.iwordshow.com
-*.iworm.net
 *.iwpai.com
 *.iwshang.com
 *.iwshuma.com
@@ -32344,7 +32343,6 @@ ff00:*
 *.jrecchina.com
 *.jrexam.com
 *.jrgang.com
-*.jrhdg.com
 *.jrj.com
 *.jrjhg.com
 *.jrjingshan.com
@@ -33345,6 +33343,7 @@ ff00:*
 *.kbwq.com
 *.kbyun.com
 *.kc87.com
+*.kcbebank.com
 *.kccidc.com
 *.kcdn0.com
 *.kcdnvip.com
@@ -38876,7 +38875,6 @@ ff00:*
 *.mohu.org
 *.moihu.com
 *.moimg.net
-*.moioi.com
 *.moith.com
 *.moji.com
 *.moji001.com
@@ -38935,7 +38933,6 @@ ff00:*
 *.monsterlin.com
 *.montage-tech.com
 *.monternet.com
-*.monthdate.com
 *.montnets.com
 *.monv.com
 *.monxin.com
@@ -39740,6 +39737,7 @@ ff00:*
 *.naimei.com
 *.nainiuapp.com
 *.naiping.net
+*.naisiw.com
 *.naitang.com
 *.naiveblue.com
 *.naixuecha.com
@@ -40158,6 +40156,7 @@ ff00:*
 *.newtouch-elec.com
 *.newtrip.com
 *.newume.com
+*.newupbank.com
 *.newvfx.com
 *.newxing.com
 *.newxitong.com
@@ -43773,7 +43772,6 @@ ff00:*
 *.qingzhouaote.com
 *.qingzhouip.com
 *.qingzhu.co
-*.qiniao.com
 *.qiniu.com
 *.qiniu.in
 *.qiniu.io
@@ -44749,6 +44747,7 @@ ff00:*
 *.ramboplay.com
 *.ramostear.com
 *.ran10.com
+*.random-online.com
 *.ranfenghd.com
 *.rangercd.com
 *.rangnihaokan.com
@@ -49707,6 +49706,7 @@ ff00:*
 *.sykong.com
 *.sylixos.com
 *.sylnst.com
+*.sylnyx.com
 *.symama.com
 *.symtc.com
 *.symuge.com
@@ -50283,6 +50283,7 @@ ff00:*
 *.tao616.com
 *.tao800.com
 *.tao8090.com
+*.taoa.com
 *.taobao
 *.taobao-img.com
 *.taobao.com
@@ -50639,7 +50640,6 @@ ff00:*
 *.tehui001.com
 *.tehuituan.com
 *.tejiabei.com
-*.tejiaquan.com
 *.tejiawang.com
 *.tel-id.com
 *.tel139.com
@@ -52630,7 +52630,6 @@ ff00:*
 *.u58.com
 *.u5wan.com
 *.u69cn.com
-*.u6u.com
 *.u77.com
 *.u7u9.com
 *.u8sy.com
@@ -56639,6 +56638,7 @@ ff00:*
 *.wxpushuo.com
 *.wxrb.com
 *.wxrrd.com
+*.wxsbank.com
 *.wxscreen.com
 *.wxsell.com
 *.wxshake.com
@@ -56797,6 +56797,7 @@ ff00:*
 *.x86android.com
 *.x8ds.com
 *.x8sb.com
+*.xa-bank.com
 *.xa-online.com
 *.xa.com
 *.xa189.net
@@ -60077,6 +60078,7 @@ ff00:*
 *.yilingshop.com
 *.yilinguoji.com
 *.yilinweb.com
+*.yillionbank.com
 *.yilong.com
 *.yilongnews.com
 *.yilongtv.com
@@ -60133,6 +60135,7 @@ ff00:*
 *.ying-ji.com
 *.yingbar.com
 *.yingbei365.com
+*.yingbio.com
 *.yingbishufa.com
 *.yingcankeji.com
 *.yingchaozhibo.com
@@ -60585,6 +60588,7 @@ ff00:*
 *.ymatou.com
 *.ymatou.hk
 *.ymbaidu.com
+*.ymbank.com
 *.ymbq301.com
 *.ymcall.com
 *.ymcart.com
