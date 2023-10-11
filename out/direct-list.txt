@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-11 07:55:37
+; 更新时间：2023-10-12 07:55:50
 ; cn域名都不走代理
 *.cn
 
@@ -5664,7 +5664,6 @@ ff00:*
 *.7tt3333.com
 *.7tui.net
 *.7usa.net
-*.7v46.icu
 *.7v6.net
 *.7vd7.com
 *.7vk.com
@@ -7858,7 +7857,6 @@ ff00:*
 *.aizongyi.com
 *.aizuna.com
 *.aizuopin.com
-*.aj4j.icu
 *.ajaxjs.com
 *.ajbbkf.com
 *.ajcass.org
@@ -16200,7 +16198,6 @@ ff00:*
 *.cqfire.com
 *.cqfuzhuang.com
 *.cqfygzfw.com
-*.cqfzb.org
 *.cqgc.com
 *.cqggzy.com
 *.cqgmfw.com
@@ -24995,6 +24992,7 @@ ff00:*
 *.haiboyi.com
 *.haicent.com
 *.haichangchina.com
+*.haichangoceanpark.com
 *.haichuanmei.com
 *.haichufang.com
 *.haici.com
@@ -35304,7 +35302,6 @@ ff00:*
 *.lfhacks.com
 *.lfhospital.net
 *.lfhygl.com
-*.lfidc.net
 *.lfkjgh.com
 *.lfksqzj.com
 *.lflucky.com
@@ -41522,7 +41519,6 @@ ff00:*
 *.ovuems.com
 *.ovupre.com
 *.ovuwork.com
-*.ovwin.com
 *.owecn.com
 *.owendswang.com
 *.owllook.net
@@ -43963,7 +43959,6 @@ ff00:*
 *.qmconfig.com
 *.qmei.me
 *.qmei.vip
-*.qmf3.cc
 *.qmhd87.com
 *.qmht.com
 *.qmht.mobi
@@ -57801,7 +57796,6 @@ ff00:*
 *.xineurope.com
 *.xinfangsheng.com
 *.xinfee.com
-*.xinfeel.com
 *.xinfei.com
 *.xinfeijituan.com
 *.xinfengxitong.net
