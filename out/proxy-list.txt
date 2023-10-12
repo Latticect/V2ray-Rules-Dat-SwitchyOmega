@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-12 07:55:50
+; 更新时间：2023-10-13 07:55:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7149,6 +7149,7 @@
 *.githubapp.com
 *.githubassets.com
 *.githubhackathon.com
+*.githubnext.com
 *.githubpreview.dev
 *.githubstatus.com
 *.githubuniverse.com
