@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-17 07:55:41
+; 更新时间：2023-10-18 07:55:53
 ; cn域名都不走代理
 *.cn
 
@@ -8671,7 +8671,6 @@ ff00:*
 *.apowo.com
 *.apowogame.com
 *.apoyl.com
-*.app-123.com
 *.app-router.com
 *.app-web-seo-aso.com
 *.app-zh.com
@@ -37428,6 +37427,7 @@ ff00:*
 *.marioin.com
 *.markdown.xyz
 *.markdream.com
+*.marketingconv.com
 *.marketreportchina.com
 *.markhoo.com
 *.markiapp.com
@@ -50090,7 +50090,6 @@ ff00:*
 *.tandjx.com
 *.tang-lei.com
 *.tang.su
-*.tang8.com
 *.tangdaoya.com
 *.tangdou.com
 *.tangdouimg.com
@@ -61440,7 +61439,6 @@ ff00:*
 *.yuncdndun.com
 *.yunceng.com
 *.yuncheng.com
-*.yunchong-powder.com
 *.yunchou.com
 *.yuncii.com
 *.yuncode.net
