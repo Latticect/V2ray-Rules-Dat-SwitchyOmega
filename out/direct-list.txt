@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-20 07:55:36
+; 更新时间：2023-10-21 07:55:56
 ; cn域名都不走代理
 *.cn
 
@@ -2425,7 +2425,6 @@ ff00:*
 *.3033c.com
 *.3044.com
 *.306t.com
-*.308308.com
 *.30c.org
 *.30cgy.com
 *.30cn.net
@@ -5982,7 +5981,6 @@ ff00:*
 *.8855.org
 *.885741.com
 *.88582.com
-*.8858a.com
 *.8860.net
 *.8864.com
 *.8864.org
@@ -6952,6 +6950,7 @@ ff00:*
 *.a-sy.com
 *.a0598.com
 *.a0bi.com
+*.a0f5etf2.icu
 *.a135.net
 *.a166.com
 *.a1736.com
@@ -7105,7 +7104,6 @@ ff00:*
 *.acewill.net
 *.acftu.org
 *.acfunchina.com
-*.acg-moe.com
 *.acg.gd
 *.acg.tv
 *.acg17.com
@@ -7683,6 +7681,7 @@ ff00:*
 *.ainiu.net
 *.ainyi.com
 *.aiops.com
+*.aiotoolbox.com
 *.aipage.com
 *.aipai.com
 *.aipark.com
@@ -9519,6 +9518,7 @@ ff00:*
 *.baiseyun.com
 *.baishakm.com
 *.baishan-cloud.com
+*.baishan-cloud.net
 *.baishan.com
 *.baishancloud.com
 *.baishancloud.org
@@ -11595,6 +11595,7 @@ ff00:*
 *.btcside.com
 *.btcsos.com
 *.btcwatch.com
+*.btcxue.com
 *.btdad.live
 *.btdad17.xyz
 *.btdog.com
@@ -15244,6 +15245,7 @@ ff00:*
 *.cnblogs.com
 *.cnbluebox.com
 *.cnboat.com
+*.cnbooking.net
 *.cnbooks.org
 *.cnbp.net
 *.cnbuses.com
@@ -16317,6 +16319,7 @@ ff00:*
 *.crc.hk
 *.crc81.com
 *.crcapital.info
+*.crcgas.com
 *.crcrfsp.com
 *.crcsz.com
 *.crct.com
@@ -18044,7 +18047,6 @@ ff00:*
 *.diangongbao.com
 *.diangongwu.com
 *.dianhen.com
-*.dianhi.com
 *.dianhong.com
 *.dianhou.com
 *.dianji007.com
@@ -21734,6 +21736,7 @@ ff00:*
 *.ficochina.net
 *.fiehff.com
 *.fieldschina.com
+*.fifedu.com
 *.fifo.cc
 *.fifsky.com
 *.fiinote.com
@@ -24088,6 +24091,7 @@ ff00:*
 *.grzq.com
 *.gs.ww.np.dl.playstation.net
 *.gs14.com
+*.gs1cn.org
 *.gs2.ww.prod.dl.playstation.net
 *.gs307.com
 *.gs3jro.xyz
@@ -26000,7 +26004,6 @@ ff00:*
 *.heisha.net
 *.heishao.net
 *.heishenhua.com
-*.heisiwang.com
 *.heitao.com
 *.heitao2014.com
 *.heixi.com
@@ -26554,6 +26557,7 @@ ff00:*
 *.hjyl.org
 *.hjz518.com
 *.hk-island.hk
+*.hk-titan.com
 *.hk-vstart.com
 *.hk.uy
 *.hk515.net
@@ -27346,7 +27350,6 @@ ff00:*
 *.htgjjl.com
 *.htguosheng.com
 *.htgwf.com
-*.hthdo.com
 *.htidc.com
 *.htinfor.com
 *.htinns.com
@@ -29426,6 +29429,7 @@ ff00:*
 *.images-cache.com
 *.images-huoshan.com
 *.images.samsung.com
+*.imagestoryai.com
 *.imageter.com
 *.imagetotxt.com
 *.imaginde.com
@@ -34298,9 +34302,6 @@ ff00:*
 *.kvegg.com
 *.kvenjoy.com
 *.kvevv.com
-*.kveww.com
-*.kvexx.com
-*.kvhmm.com
 *.kviso.com
 *.kvkaa.com
 *.kvogues.com
@@ -36804,7 +36805,6 @@ ff00:*
 *.lvwenhan.com
 *.lvwmb.com
 *.lvxing.net
-*.lvya.com
 *.lvye.com
 *.lvye.org
 *.lvyestudy.com
@@ -38008,7 +38008,6 @@ ff00:*
 *.mfqyw.com
 *.mftianshanam.com
 *.mftvideo.com
-*.mfys12321.com
 *.mfzdb.com
 *.mfzxcs.com
 *.mg-cdn.com
@@ -39298,7 +39297,6 @@ ff00:*
 *.mxzx123.net
 *.mxzzzs.com
 *.my-3dcad.com
-*.my-best-products.com
 *.my-imcloud.com
 *.my-qcloud.com
 *.my-summit.com
@@ -39531,7 +39529,6 @@ ff00:*
 *.mysteelcms.com
 *.mysubmail.com
 *.mysupa.com
-*.mysuperbest.com
 *.mysuperdns.com
 *.mysvw.com
 *.myt126.com
@@ -40952,7 +40949,6 @@ ff00:*
 *.okex.vip
 *.okex.win
 *.okeycar.com
-*.okfri.com
 *.okhimalayanzi.com
 *.okhqb.com
 *.okidc.com
@@ -42938,7 +42934,6 @@ ff00:*
 *.pychina.org
 *.pyddd.com
 *.pyer.site
-*.pygdzhcs.com
 *.pyhead.com
 *.pyjia.com
 *.pyjsh.com
@@ -44483,7 +44478,6 @@ ff00:*
 *.qxwz.com
 *.qxxsjk.com
 *.qxyaoc.com
-*.qxzc.net
 *.qxzxp.com
 *.qy-office.com
 *.qy-qq.com
@@ -44719,7 +44713,6 @@ ff00:*
 *.rdamicro.com
 *.rdbom.com
 *.rdbuy.com
-*.rdcy.org
 *.rddoc.com
 *.rdfybk.com
 *.rdgz.org
@@ -46189,6 +46182,7 @@ ff00:*
 *.secretmine.net
 *.secrss.com
 *.secrui.com
+*.secshow.net
 *.secsilo.com
 *.sectigochina.com
 *.secu100.net
@@ -47917,6 +47911,7 @@ ff00:*
 *.sjgle.com
 *.sjgnskf.com
 *.sjhcip.com
+*.sjhfkhgut009.com
 *.sjhfrj.com
 *.sjhgo.com
 *.sjhl.cc
@@ -48704,6 +48699,7 @@ ff00:*
 *.sposter.net
 *.spot.download
 *.spoto.net
+*.spotpear.com
 *.spouyashop.com
 *.spplnet.com
 *.spprec.com
@@ -48888,7 +48884,6 @@ ff00:*
 *.starfivetech.com
 *.stargame.com
 *.starlakelab.com
-*.starlight-generator.com
 *.starlott.com
 *.starming.com
 *.starooo.com
@@ -49296,7 +49291,6 @@ ff00:*
 *.superbrowser.hk
 *.superbuy.com
 *.superbuyy.com
-*.supercell.com
 *.supercodepower.com
 *.supercrm.com
 *.superfix.com
@@ -53331,6 +53325,7 @@ ff00:*
 *.vcbeat.net
 *.vcchar.com
 *.vcd.io
+*.vcdisgd.com
 *.vceshi.net
 *.vcg.com
 *.vchangyi.com
@@ -53468,6 +53463,7 @@ ff00:*
 *.vial.cc
 *.vibaike.com
 *.vibit.cc
+*.vibrou.com
 *.vic18.com
 *.vicchen.me
 *.vichamp.com
@@ -60417,7 +60413,6 @@ ff00:*
 *.yluu.com
 *.ylwl.cc
 *.ylws.net
-*.ylwt33.com
 *.ylwyw.com
 *.ylxdtww.com
 *.ylxw.net
@@ -60858,7 +60853,6 @@ ff00:*
 *.youtube-dubbing.com
 *.youtuzi.com
 *.youtx.com
-*.youwanc.com
 *.youwawa.com
 *.youwei.com
 *.youwinedu.com
@@ -62053,7 +62047,6 @@ ff00:*
 *.zahuishi.com
 *.zahuoji.com
 *.zai-art.com
-*.zaibei.net
 *.zaiduu.com
 *.zaifan.com
 *.zaih.com
@@ -64362,7 +64355,6 @@ ff00:*
 *.zuohuodong.com
 *.zuoji-scm.com
 *.zuojiachubanshe.com
-*.zuojiaju.com
 *.zuojiawang.com
 *.zuojing.com
 *.zuojj.com
