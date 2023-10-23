@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-23 07:55:32
+; 更新时间：2023-10-24 07:55:44
 ; cn域名都不走代理
 *.cn
 
@@ -8559,6 +8559,7 @@ ff00:*
 *.aoomoo.com
 *.aoongmob.com
 *.aopayun.com
+*.aorankj.com
 *.aoratec.com
 *.aoscdn.com
 *.aoscom.net
@@ -18100,7 +18101,6 @@ ff00:*
 *.dianxin.net
 *.dianxinnews.com
 *.dianxinos.com
-*.dianyatc.com
 *.dianyingjie.com
 *.dianyingshow.com
 *.dianyingwenxue.com
@@ -29415,6 +29415,7 @@ ff00:*
 *.im5i.com
 *.im9.com
 *.imaccn.com
+*.imacso.com
 *.imaegoo.com
 *.image-mangdiaxyz.com
 *.imageaccelerate.com
@@ -29698,6 +29699,7 @@ ff00:*
 *.initialview.com
 *.initroot.com
 *.inja.com
+*.injoinic.com
 *.inkankan.com
 *.inkanke.com
 *.inkcn.com
@@ -29715,6 +29717,7 @@ ff00:*
 *.inmuu.com
 *.inneed.club
 *.innity.com
+*.innity.net
 *.innjia.com
 *.innocn.com
 *.innocomn.com
@@ -32085,6 +32088,7 @@ ff00:*
 *.jnzycw.com
 *.jo43.com
 *.joaquinchou.com
+*.job-cunni.com
 *.job0768.com
 *.job10000.com
 *.job1001.com
@@ -38868,6 +38872,7 @@ ff00:*
 *.mooreelite.com
 *.mooreiot.com
 *.mooreren.com
+*.moorext.com
 *.moowo.com
 *.mop.com
 *.mopaas.com
@@ -40808,7 +40813,6 @@ ff00:*
 *.oceanlau.com
 *.oceanol.com
 *.oceanplayable.com
-*.oceeq.com
 *.ocideal.com
 *.ocimg.com
 *.oclkj.com
@@ -47186,6 +47190,7 @@ ff00:*
 *.shopin.net
 *.shopj.net
 *.shopjyh.com
+*.shoplazza.com
 *.shopmaxmb.com
 *.shopnc.net
 *.shopplus.vip
@@ -58569,7 +58574,6 @@ ff00:*
 *.xsycps.com
 *.xsyk021.com
 *.xsyqmztg.com
-*.xsyushan.com
 *.xsyx.xyz
 *.xsyxsc.com
 *.xszp.cc
@@ -61754,7 +61758,6 @@ ff00:*
 *.ywshouyou.com
 *.ywsoftware.com
 *.ywtd.xyz
-*.ywtrzm.com
 *.ywtuchuang1.com
 *.ywwpay.com
 *.ywxue.com
@@ -62914,6 +62917,7 @@ ff00:*
 *.zhihjf.com
 *.zhihu.com
 *.zhihu.dev
+*.zhihuclub.com
 *.zhihudsp.com
 *.zhihuiep.com
 *.zhihuihuiwu.com
@@ -63051,7 +63055,6 @@ ff00:*
 *.zhiyinhao.com
 *.zhiyinlou.com
 *.zhiyinmedia.com
-*.zhiyoo.com
 *.zhiyoubao.com
 *.zhiyousx.com
 *.zhiyuan98.com
@@ -63657,6 +63660,7 @@ ff00:*
 *.zjapk.com
 *.zjaqxy.com
 *.zjautoparts.com
+*.zjbinya.com
 *.zjbiz.net
 *.zjbyte.com
 *.zjca.org
