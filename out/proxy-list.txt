@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-24 07:55:44
+; 更新时间：2023-10-25 07:55:41
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -12050,6 +12050,7 @@
 *.nudevista.vip
 *.nudewifeporn.com
 *.nudewomenpics.net
+*.nudify.online
 *.nudistbeachporn.com
 *.nudistic.com
 *.nudistlog.com
