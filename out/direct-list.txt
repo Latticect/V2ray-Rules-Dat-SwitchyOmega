@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-25 07:55:41
+; 更新时间：2023-10-26 07:55:32
 ; cn域名都不走代理
 *.cn
 
@@ -4917,6 +4917,7 @@ ff00:*
 *.60kan.com
 *.60mil.com
 *.60nm.com
+*.60u1x.app
 *.60wr.com
 *.61.com
 *.610115.com
@@ -5570,7 +5571,6 @@ ff00:*
 *.7do.net
 *.7down.com
 *.7down.net
-*.7dsp.com
 *.7dtest.com
 *.7dugo.com
 *.7e.hk
@@ -10655,7 +10655,6 @@ ff00:*
 *.biqugebook.com
 *.biqugeg.com
 *.biqugegg.cc
-*.biqugeq.com
 *.biquges.com
 *.biqugesk.org
 *.biqugetv.com
@@ -15643,6 +15642,7 @@ ff00:*
 *.cntrades.com
 *.cntranslators.com
 *.cntronics.com
+*.cntslawfirm.com
 *.cntuw.com
 *.cntv.com
 *.cntwg.com
@@ -18673,7 +18673,6 @@ ff00:*
 *.dodonew.com
 *.dodovip.com
 *.doergob.com
-*.dofund.com
 *.dogecdn.com
 *.dogecloud.com
 *.dogedoge.com
@@ -23843,6 +23842,7 @@ ff00:*
 *.goodkejian.com
 *.goodlcm.com
 *.goodlucknet.com
+*.goodmorening.com
 *.goodnic.net
 *.goodprogrammer.org
 *.goodrain.com
@@ -26723,7 +26723,6 @@ ff00:*
 *.hngwg.com
 *.hngyzx.org
 *.hnh.cc
-*.hnhaofang.com
 *.hnhflqgc.com
 *.hnhnled.com
 *.hnhxin.com
@@ -29434,7 +29433,6 @@ ff00:*
 *.imayitxt.com
 *.imazingchina.com
 *.imbackr.com
-*.imbeer.com
 *.imbeiyu.com
 *.imblog.in
 *.imbtk.com
@@ -32562,7 +32560,6 @@ ff00:*
 *.julihun.com
 *.julinghu.com
 *.julive.com
-*.julyclyde.org
 *.julydate.com
 *.julyedu.com
 *.julym.com
@@ -36833,6 +36830,7 @@ ff00:*
 *.lx3.cok.elexapp.com
 *.lx598.com
 *.lxbbt.com
+*.lxc1.com
 *.lxcvc.com
 *.lxdms.com
 *.lxdns.com
@@ -40721,7 +40719,6 @@ ff00:*
 *.nysmfc.com
 *.nyxr-home.com
 *.nyyzjg.com
-*.nz.ma
 *.nz86.com
 *.nz998.com
 *.nzbdw.com
@@ -43134,6 +43131,7 @@ ff00:*
 *.qefee.com
 *.qeodns.com
 *.qeodns.net
+*.qerwsoft.com
 *.qeto.com
 *.qf027.com
 *.qfamilylaw.com
@@ -44331,7 +44329,6 @@ ff00:*
 *.qunba.com
 *.quncrm.com
 *.qunfenxiang.net
-*.qungong.com
 *.qunhai.net
 *.qunhei.com
 *.qunhequnhe.com
@@ -48391,7 +48388,6 @@ ff00:*
 *.somcool.com
 *.somdom.com
 *.someabcd.com
-*.someet.cc
 *.someonegao.com
 *.somepen.com
 *.something8.com
@@ -49873,6 +49869,7 @@ ff00:*
 *.szxsdmy.com
 *.szxuexiao.com
 *.szxxtx.com
+*.szycil.com
 *.szyfdz.net
 *.szyibei.com
 *.szyin.com
@@ -54183,7 +54180,6 @@ ff00:*
 *.wangzhanbao.cc
 *.wangzhanbianji.com
 *.wangzhanchi.com
-*.wangzhanmeng.com
 *.wangzhanzj.com
 *.wangzhe.com
 *.wangzhengzhen.com
@@ -58299,7 +58295,6 @@ ff00:*
 *.xmpaoyou.com
 *.xmpcba.com
 *.xmqianzun.com
-*.xmqyh321.com
 *.xmr-zh.com
 *.xmrbi.com
 *.xms45.com
@@ -61868,7 +61863,6 @@ ff00:*
 *.yyjzt.com
 *.yyk100.com
 *.yyk2.com
-*.yykepu.com
 *.yykj.site
 *.yylending.com
 *.yylm.org
@@ -63526,6 +63520,7 @@ ff00:*
 *.zimuzu.tv
 *.zine.la
 *.zinewow.com
+*.zinffer.com
 *.zing-api.com
 *.zingke.com
 *.ziniao.com
