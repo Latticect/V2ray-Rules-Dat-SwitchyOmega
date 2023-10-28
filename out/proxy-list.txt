@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-28 07:55:49
+; 更新时间：2023-10-29 07:55:51
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -10684,6 +10684,7 @@
 *.microsoftsilverlight.org
 *.microsoftsiteselection.com
 *.microsoftsqlserver.com
+*.microsoftstart.com
 *.microsoftstore.com
 *.microsoftstream.com
 *.microsoftteams.com
@@ -12855,6 +12856,8 @@
 *.piaget
 *.piapro.net
 *.picacg2022.com
+*.picacgp.com
+*.picacgy.com
 *.picacn.xyz
 *.picacomic.com
 *.picacomic.xyz
@@ -15216,6 +15219,7 @@
 *.starp2p.com
 *.starplus.com
 *.starsze.icu
+*.start.com
 *.startpage.com
 *.startpath.com
 *.startupjournal.com
@@ -16348,6 +16352,7 @@
 *.turbohide.com
 *.turborepo.org
 *.turbotwitter.com
+*.turkeyblocks.org
 *.turkistantimes.com
 *.tushy.com
 *.tushycash.com
@@ -17835,6 +17840,7 @@
 *.xcum.com
 *.xda-cdn.com
 *.xda-developers.com
+*.xdaforums.com
 *.xdir.vip
 *.xdporner.com
 *.xdsummit.com
