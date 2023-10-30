@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-10-30 07:55:32
+; 更新时间：2023-10-31 07:55:32
 ; cn域名都不走代理
 *.cn
 
@@ -48023,6 +48023,7 @@ ff00:*
 *.sl-360.com
 *.sl.al
 *.sl153.com
+*.sl916.com
 *.sl91d.com
 *.slamtec.com
 *.slanissue.com
@@ -64670,6 +64671,9 @@ adcdownload.apple.com.akadns.net
 admob-cn.com
 adservice.google.com
 ai.ytimg.com
+amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+amp-api-edge-lb.itunes-apple.com.akadns.net
+amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
 aod.itunes.apple.com
@@ -64857,17 +64861,23 @@ images.apple.com
 images.apple.com.akadns.net
 images.apple.com.edgekey.net.globalredir.akadns.net
 imasdk.googleapis.com
+inappcheck-cn.itunes-apple.com.akadns.net
+inappcheck-lb.itunes-apple.com.akadns.net
+inappcheck.itunes.apple.com
 init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
 init-p01st-lb.push-apple.com.akadns.net
 init-p01st.push.apple.com
 init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
+init.gc-lb.apple.com.akadns.net
+init.gc.apple.com
 init.itunes.apple.com
 iosapps.itunes.apple.com
 iosapps.itunes.g.aaplimg.com
 ipcdn.apple.com
 iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
 is1-ssl.mzstatic.com
 is1.mzstatic.com
 is2-ssl.mzstatic.com
@@ -64909,6 +64919,7 @@ opencourse.pku.edu.cn
 oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 osxapps.itunes.apple.com
+osxapps.itunes.g.aaplimg.com
 p1-juejin.byteimg.com
 p2-juejin.byteimg.com
 p3-juejin.byteimg.com
@@ -65004,6 +65015,7 @@ su.itunes.apple.com
 support-china.apple-support.akadns.net
 support.1ucrs.com
 support.apple.com
+swallow-apple-com.v.aaplimg.com
 swallow.apple.com
 swcatalog-cdn.apple.com.akadns.net
 swcatalog.apple.com
@@ -65034,6 +65046,9 @@ valid.apple.com
 valid.origin-apple.com.akadns.net
 wear.googleapis.com
 weather-data.apple.com
+weather-data.apple.com.akadns.net
+weather-map.apple.com
+weather-map2.apple.com
 wl.dlservice.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
