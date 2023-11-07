@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-11-07 07:55:40
+; 更新时间：2023-11-08 07:55:48
 ; cn域名都不走代理
 *.cn
 
@@ -2030,6 +2030,7 @@ ff00:*
 *.2218j.com
 *.222.com
 *.222255268.com
+*.222aa333bb.com
 *.222bz.com
 *.222i.net
 *.223.so
@@ -10937,7 +10938,6 @@ ff00:*
 *.bjsubway.cc
 *.bjsubway.com
 *.bjsuewin.com
-*.bjswds.org
 *.bjsxt.com
 *.bjsyqw.com
 *.bjszhd.net
@@ -19040,6 +19040,7 @@ ff00:*
 *.dsp.com
 *.dspwhy.com
 *.dsq.com
+*.dsspinfo.com
 *.dssz.com
 *.dstfsbc.com
 *.dsti.net
@@ -20272,7 +20273,6 @@ ff00:*
 *.emilhk.com
 *.emjob.com
 *.emlinix.com
-*.emlog.net
 *.emodor.com
 *.emojimobile.com
 *.emojiwiz.com
@@ -23523,6 +23523,7 @@ ff00:*
 *.gm88.com
 *.gm99game.net
 *.gmacsaic.com
+*.gmarket.co.kr
 *.gmcc.net
 *.gmcchina.net
 *.gmdun.com
@@ -31473,7 +31474,6 @@ ff00:*
 *.jinjiang.com
 *.jinjianginns.com
 *.jinjie.tech
-*.jinjingquan.com
 *.jinju8.com
 *.jinjuasdwehjkqwnfbjanfa.xyz
 *.jinjunmei.net
@@ -32367,6 +32367,7 @@ ff00:*
 *.jtbole.com
 *.jtbtech.com
 *.jtfengtou.com
+*.jtfgzlm.icu
 *.jtggame.com
 *.jtgzfw.com
 *.jthailang.com
@@ -34578,7 +34579,6 @@ ff00:*
 *.laofuxi.com
 *.laoge.xyz
 *.laogongshuo.com
-*.laogu.cc
 *.laogu.com
 *.laohu.com
 *.laohu8.com
@@ -45590,7 +45590,6 @@ ff00:*
 *.sap-nj.com
 *.sap1000.com
 *.saraba1st.com
-*.sarafeehan.com
 *.sarft.net
 *.sass.hk
 *.sasschina.com
@@ -52928,6 +52927,7 @@ ff00:*
 *.uunt.com
 *.uuoo.com
 *.uupages.com
+*.uupan.net
 *.uupaotui.com
 *.uupee.com
 *.uupei.com
@@ -53720,6 +53720,7 @@ ff00:*
 *.vxuey.com
 *.vxv.ink
 *.vycool.com
+*.vyh9v.app
 *.vyin.com
 *.vynior.com
 *.vysj.com
@@ -59171,7 +59172,6 @@ ff00:*
 *.ybin.cc
 *.ybirds.com
 *.ybj.com
-*.ybjasb.com
 *.ybjk.com
 *.yblp.com
 *.ybm100.com
@@ -60946,6 +60946,7 @@ ff00:*
 *.yuanbao.com
 *.yuanbaobaoxian.com
 *.yuanbaohui.com
+*.yuanbaokc.com
 *.yuanbin.me
 *.yuancdn.com
 *.yuancefund.com
