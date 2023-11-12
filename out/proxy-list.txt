@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-11-12 07:55:55
+; 更新时间：2023-11-13 07:55:39
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -3907,8 +3907,6 @@
 *.cnappinstall.googleadapis.com
 *.cnbc.com
 *.cnbcfm.com
-*.cnbeta.com
-*.cnbetacdn.com
 *.cncrivals.com
 *.cnd.org
 *.cnet.com
