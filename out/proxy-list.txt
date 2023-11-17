@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-11-17 07:55:48
+; 更新时间：2023-11-18 07:55:44
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -3518,6 +3518,7 @@
 *.chase
 *.chat
 *.chatango.com
+*.chatgpt.com
 *.chatnook.com
 *.chatr
 *.chatter.com
@@ -12133,6 +12134,7 @@
 *.o365weve-ppe.com
 *.o365weve.com
 *.oaistatic.com
+*.oaiusercontent.com
 *.oanda.com
 *.oanencore.com
 *.oann.com
