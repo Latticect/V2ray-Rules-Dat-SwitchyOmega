@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-11-18 07:55:44
+; 更新时间：2023-11-19 07:55:54
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4351,6 +4351,7 @@
 *.darwinsource.com
 *.darwinsource.org
 *.darwinsourcecode.com
+*.dasaob.online
 *.dashwood360.com
 *.dastanhisexy.cc
 *.dastrassi.org
@@ -9716,6 +9717,7 @@
 *.koskade.com
 *.kostenlosepornoclips.com
 *.kotlinlang.org
+*.kouwobb.com
 *.kp
 *.kphimsex.net
 *.kpmg
@@ -14225,6 +14227,7 @@
 *.sanspo.com
 *.sanvaras.com
 *.sanwapub.com
+*.saobjpg.com
 *.saoni91.xyz
 *.saonidh01.cc
 *.sap
@@ -18398,9 +18401,6 @@
 *.yespornpleasexxx.com
 *.yeswegays.com
 *.yeyeclub.com
-*.yeyuehuachao11.com
-*.yeyuehuachao12.com
-*.yeyuehuachao13.com
 *.ygto.com
 *.ygugu4.com
 *.yhcw.net
@@ -18777,7 +18777,6 @@
 *.zzcartoon.com
 *.zzcloud.me
 *.zzgays.com
-*.zzitube.com
 *.zzux.com
 *.zzycdz.com
 3dns-1.adobe.com
