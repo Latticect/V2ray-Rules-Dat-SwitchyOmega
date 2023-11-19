@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-11-19 07:55:54
+; 更新时间：2023-11-20 07:55:38
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -3843,6 +3843,7 @@
 *.cloudcredibility.com
 *.cloudflare-dns.com
 *.cloudflare-ech.com
+*.cloudflare-esni.com
 *.cloudflare-gateway.com
 *.cloudflare-ipfs.com
 *.cloudflare-quic.com
@@ -9043,6 +9044,7 @@
 *.is-a-hunter.com
 *.isaacmao.com
 *.isasecret.com
+*.isbgpsafeyet.com
 *.isca-speech.org
 *.ischool.com
 *.iselect
@@ -11389,6 +11391,7 @@
 *.mymusclevideo.com
 *.mynetav.net
 *.mynetav.org
+*.mynetname.net
 *.mynike.com
 *.mynumber.org
 *.myoctocat.com
