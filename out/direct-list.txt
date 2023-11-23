@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-11-23 07:55:47
+; 更新时间：2023-11-24 07:55:49
 ; cn域名都不走代理
 *.cn
 
@@ -4912,7 +4912,6 @@ ff00:*
 *.61sou.com
 *.61tg.com
 *.62.com
-*.623k.com
 *.62669.com
 *.626x.com
 *.628.com
@@ -6299,7 +6298,6 @@ ff00:*
 *.91yxbox.com
 *.91yxl.com
 *.91zhiwang.com
-*.91zwk.com
 *.92.net
 *.921.com
 *.9211.com
@@ -13628,7 +13626,6 @@ ff00:*
 *.chinaagv.com
 *.chinaairer.com
 *.chinaamc.com
-*.chinaanonymous.com
 *.chinaartificialstone.com
 *.chinaasc.org
 *.chinaaseanenv.org
@@ -16983,7 +16980,6 @@ ff00:*
 *.daicuo.vip
 *.daidaicp.com
 *.daidaidui.club
-*.daidaitv.com
 *.daidongxi.com
 *.daigou.com
 *.daijun.com
@@ -23926,7 +23922,6 @@ ff00:*
 *.gs1cn.org
 *.gs2.ww.prod.dl.playstation.net
 *.gs307.com
-*.gs3jro.xyz
 *.gsadds.com
 *.gsafc.com
 *.gsafety.com
@@ -25205,6 +25200,7 @@ ff00:*
 *.haommn.com
 *.haomove.com
 *.haomugua.com
+*.haomzl.com
 *.haonames.com
 *.haonic.com
 *.haonongzi.com
@@ -32561,7 +32557,6 @@ ff00:*
 *.jxcua.com
 *.jxdcnc.com
 *.jxdiguo.com
-*.jxdkzz.net
 *.jxdown.com
 *.jxdyf.com
 *.jxedt.com
@@ -34134,6 +34129,7 @@ ff00:*
 *.ky01010.com
 *.ky01013.com
 *.ky01020.com
+*.ky01022.com
 *.ky107.co
 *.ky151.co
 *.ky55005.com
@@ -39360,7 +39356,6 @@ ff00:*
 *.naadou.com
 *.nacorokevalve.com
 *.nadianshi.com
-*.nafanlong.com
 *.nagagame.net
 *.nagain.com
 *.nagcloudcs.com
@@ -46808,7 +46803,6 @@ ff00:*
 *.shjob.work
 *.shjsit.com
 *.shjt.net
-*.shjxfc.com
 *.shjyou.com
 *.shjyyx.com
 *.shjzfutures.com
@@ -48057,7 +48051,6 @@ ff00:*
 *.sojixun.com
 *.sojson.com
 *.sojump.com
-*.sojump.hk
 *.sokoban.ws
 *.soku.com
 *.sokuba.com
@@ -53355,6 +53348,7 @@ ff00:*
 *.vojs.tv
 *.vokop.com
 *.vol.moe
+*.volcanicengine.com
 *.volccdn.com
 *.volcdns.com
 *.volceapplog.com
@@ -56058,7 +56052,6 @@ ff00:*
 *.www4.djicdn.com
 *.www48-365365.com
 *.www5.djicdn.com
-*.www8.hp.com
 *.wwwatch.in
 *.wwwbuild.net
 *.wwwer.net
@@ -58010,6 +58003,7 @@ ff00:*
 *.xn--w9qy23cc6adz7d.net
 *.xn--wlqw5ebvdhpi5hepihs3c.com
 *.xn--xhq521b
+*.xn--xhqq1kgvbk54a.com
 *.xn--xkrs9ba41r.com
 *.xn--xxv969f.xn--ses554g
 *.xn--y8jhmm6gn.moe
@@ -59651,6 +59645,7 @@ ff00:*
 *.yinhanglilv.net
 *.yinhangzhaopin.com
 *.yinhe.com
+*.yinhecn.com
 *.yinheyuedu.com
 *.yinhu.com
 *.yini.org
@@ -63888,7 +63883,6 @@ ff00:*
 *.zuiwan.net
 *.zuixiaoyao.com
 *.zuixinyiqi.com
-*.zuixu.com
 *.zuiyou.com
 *.zuiyouxi.com
 *.zujuan.com
