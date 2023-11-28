@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-11-28 07:55:29
+; 更新时间：2023-11-29 07:55:46
 ; cn域名都不走代理
 *.cn
 
@@ -7281,6 +7281,7 @@ ff00:*
 *.affu.net
 *.afgame.com
 *.afie.xin
+*.afirstsoft.com
 *.afjk.com
 *.afjob88.com
 *.afriendx.com
@@ -13043,7 +13044,6 @@ ff00:*
 *.ch999.com
 *.ch999img.com
 *.cha-tm.com
-*.cha001.com
 *.cha127.com
 *.cha138.com
 *.chabeichong.com
@@ -22528,7 +22528,6 @@ ff00:*
 *.gaclib.net
 *.gacmotor.com
 *.gacsofinco.com
-*.gadscc.xyz
 *.gaeadata.com
 *.gaeamobile.net
 *.gafata.com
@@ -27165,7 +27164,6 @@ ff00:*
 *.htmleaf.com
 *.htmlsucai.com
 *.htnice.com
-*.htobl.com
 *.htoo.vip
 *.htqyy.com
 *.htranslate.com
@@ -29273,11 +29271,9 @@ ff00:*
 *.img16888.com
 *.img4399.com
 *.img898.com
-*.imgads.xyz
 *.imgcdc.com
 *.imgcdn2.com
 *.imgchr.com
-*.imgds.xyz
 *.imgeek.org
 *.imgets.com
 *.imgii.com
@@ -37051,7 +37047,6 @@ ff00:*
 *.mangxuewang.com
 *.mangzitian.com
 *.manhua1.com
-*.manhua101.com
 *.manhua166.com
 *.manhua188.com
 *.manhua365.com
@@ -43152,6 +43147,7 @@ ff00:*
 *.qiguo.com
 *.qiguoread.com
 *.qih.cc
+*.qihaoaoban.com
 *.qihaoip.com
 *.qihaxiaoshuo.com
 *.qihihi.com
@@ -45979,7 +45975,6 @@ ff00:*
 *.seopre.com
 *.seosiguan.com
 *.seosn.com
-*.seosrx.net
 *.seotcs.com
 *.seowhy.com
 *.seoxiaosai.com
@@ -50260,6 +50255,7 @@ ff00:*
 *.tenmh.com
 *.tennoo.com
 *.tenorshare.com
+*.tenorshare.tw
 *.tenpay.com
 *.tenqent.com
 *.tensafe.com
@@ -51468,7 +51464,6 @@ ff00:*
 *.ts95.com
 *.tscf8.com
 *.tsddu.com
-*.tsdm.net
 *.tsdxb.com
 *.tsg-online.net
 *.tsggwl.com
@@ -56101,7 +56096,6 @@ ff00:*
 *.wxscreen.com
 *.wxsell.com
 *.wxshake.com
-*.wxsky.net
 *.wxsteed.com
 *.wxsy.net
 *.wxsywh.com

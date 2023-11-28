@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-11-28 07:55:29
+; 更新时间：2023-11-29 07:55:46
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -913,7 +913,6 @@
 *.allspyclips.com
 *.allstate
 *.allswingersclubs.org
-*.allthefallen.moe
 *.ally
 *.almasdarnews.com
 *.almostmy.com
@@ -7585,7 +7584,6 @@
 *.hadesex.com
 *.haha888.xyz
 *.hahlo.com
-*.haho.moe
 *.hairy-amateurs.com
 *.hairy-beauty.com
 *.hairy-women-pussy.net
@@ -7780,7 +7778,6 @@
 *.hentai69.online
 *.hentaia.net
 *.hentaiaction.net
-*.hentaiasmr.moe
 *.hentaiathome.net
 *.hentaibaka.one
 *.hentaibar.com
@@ -9415,11 +9412,9 @@
 *.jmcomic.ltd
 *.jmcomic.me
 *.jmcomic.mobi
-*.jmcomic.moe
 *.jmcomic1.city
 *.jmcomic1.me
 *.jmcomic1.mobi
-*.jmcomic2.moe
 *.jmlr.org
 *.jmp
 *.jmscult.com
@@ -9781,7 +9776,6 @@
 *.la-forum.org
 *.la-north-2.myhuaweicloud.com
 *.la-south-2.myhuaweicloud.com
-*.lab.skk.moe
 *.labiennale.org
 *.lacaixa
 *.lacomics.org
@@ -10960,6 +10954,7 @@
 *.modeltv.com
 *.modernchinastudies.org
 *.modrinth.com
+*.moe
 *.moeero-library.com
 *.moeerolibrary.com
 *.moefuns.co
@@ -11130,7 +11125,6 @@
 *.moviesfree4u.xyz
 *.moviesneek.com
 *.movistar
-*.mox.moe
 *.moxing.mobi
 *.moxing.news
 *.moystoys.com
@@ -11386,7 +11380,6 @@
 *.myminisexdoll.com
 *.myminiso.com
 *.mymmode.com
-*.mymoe.moe
 *.mymom.info
 *.mymusclevideo.com
 *.mynetav.net
@@ -11510,7 +11503,6 @@
 *.naspers
 *.nasty.singles
 *.nastyvids.com
-*.nat.moe
 *.nataliefiore.com
 *.natgeomaps.com
 *.nationalawakening.org
@@ -11937,7 +11929,6 @@
 *.nitter.cc
 *.nitter.net
 *.nitter.pussthecat.org
-*.niu.moe
 *.niuc2.com
 *.niusnews.com
 *.nivodz.com
@@ -13035,7 +13026,6 @@
 *.pogo.com
 *.pogobeta.com
 *.pohl
-*.poi.moe
 *.poisontube.com
 *.pojiefuli20033.xyz
 *.pojiefuli9113.xyz
@@ -15193,8 +15183,6 @@
 *.sssjav.com
 *.sssuo1.xyz
 *.sstatic.net
-*.sstm.moe
-*.sstmlt.moe
 *.sstmlt.net
 *.ssx3.com
 *.st
@@ -17134,7 +17122,6 @@
 *.vodka
 *.voicettank.org
 *.vokevr.com
-*.vol.moe
 *.volkswagen
 *.volvo
 *.volvo.com
