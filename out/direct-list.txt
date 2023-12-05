@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-12-05 07:55:33
+; 更新时间：2023-12-06 07:55:44
 ; cn域名都不走代理
 *.cn
 
@@ -11398,6 +11398,7 @@ ff00:*
 *.boyuonline.com
 *.bozhihua.com
 *.bozhong.com
+*.bpaykwai.com
 *.bpfqmg7.xyz
 *.bpimg.com
 *.bplslb.com
@@ -14184,7 +14185,6 @@ ff00:*
 *.chinavideo.org
 *.chinavipsoft.com
 *.chinavisual.com
-*.chinavoa.com
 *.chinavr.net
 *.chinawanda.com
 *.chinawatchnet.com
@@ -19645,6 +19645,7 @@ ff00:*
 *.easthome.com
 *.eastib.com
 *.easticloud.com
+*.eastjuntai.com
 *.eastled.com
 *.eastlending.com
 *.eastmannplastics.com
@@ -22323,7 +22324,6 @@ ff00:*
 *.fukeha.com
 *.fulantv.com
 *.fuli1024.com
-*.fuli404.net
 *.fuliansheng.com
 *.fuliao.com
 *.fulijd.com
@@ -25618,7 +25618,6 @@ ff00:*
 *.hbsocar.com
 *.hbsoft.net
 *.hbsogdjt.com
-*.hbspcar.com
 *.hbsql.com
 *.hbsrjyy.com
 *.hbssfw.com
@@ -28169,6 +28168,7 @@ ff00:*
 *.hyrainbow.com
 *.hysdknb.com
 *.hysec.com
+*.hyseim.com
 *.hysemi-ic.com
 *.hyshi.net
 *.hysteeltube.com
@@ -29752,6 +29752,7 @@ ff00:*
 *.iouluo.com
 *.iovweek.com
 *.iowiki.com
+*.ioxunyun.com
 *.ip-cdn.com
 *.ip-guard.net
 *.ip008.com
@@ -35818,6 +35819,7 @@ ff00:*
 *.liuyangfcw.com
 *.liuyanzhao.com
 *.liuyifei.cc
+*.liuyimin4.com
 *.liuzaoqi.com
 *.liuzhixiang.com
 *.liuzongyang.com
@@ -49000,6 +49002,7 @@ ff00:*
 *.sunnyos.com
 *.sunnyqi.com
 *.sunnyxx.com
+*.sunocean.life
 *.sunofbeaches.com
 *.sunowo.com
 *.sunpala.com
@@ -52885,6 +52888,7 @@ ff00:*
 *.uuecs.com
 *.uufa2017.com
 *.uufund.com
+*.uufuns.com
 *.uugai.com
 *.uugame.com
 *.uugtv.com
