@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-12-06 07:55:44
+; 更新时间：2023-12-07 07:55:33
 ; cn域名都不走代理
 *.cn
 
@@ -843,8 +843,6 @@ ff00:*
 *.1111191.com
 *.111155268.com
 *.1113.cc
-*.1113dns.com
-*.1114dns.com
 *.11160066.com
 *.111867.com
 *.111com.net
@@ -2628,7 +2626,6 @@ ff00:*
 *.35lz.com
 *.35nic.com
 *.35pic.com
-*.35pn.com
 *.35q.com
 *.35zww.com
 *.36.la
@@ -10604,7 +10601,6 @@ ff00:*
 *.biquku.co
 *.biquku.la
 *.biqukun.la
-*.biqulou.net
 *.biquluo.com
 *.biqupai.com
 *.biqusa.com
@@ -12700,7 +12696,6 @@ ff00:*
 *.cdn-uc.cc
 *.cdn-v.com
 *.cdn.fun
-*.cdn.marketplaceimages.windowsphone.com
 *.cdn.razersynapse.com
 *.cdn.samsung.com
 *.cdn.shanghai.nyu.edu
@@ -13215,6 +13210,7 @@ ff00:*
 *.changshabdc.com
 *.changshang.com
 *.changshiban.com
+*.changshizu.com
 *.changtong2800.com
 *.changtounet.com
 *.changtu.com
@@ -14445,7 +14441,6 @@ ff00:*
 *.chuangyebaba.com
 *.chuangyejia.com
 *.chuangyejmw.com
-*.chuangyepu.com
 *.chuangyijisu.com
 *.chuangyimao.com
 *.chuangyouqi.com
@@ -15992,7 +15987,6 @@ ff00:*
 *.coooz.com
 *.coophone.com
 *.coorain.net
-*.coorfeon.com
 *.cootek.com
 *.cootekos.com
 *.cootekservice.com
@@ -17970,7 +17964,6 @@ ff00:*
 *.dianbo.org
 *.dianbobao.com
 *.dianbucuo.com
-*.diancaijun.com
 *.dianchacha.com
 *.dianchouapp.com
 *.diandanbao.com
@@ -19170,6 +19163,7 @@ ff00:*
 *.dumi0898.com
 *.dumpapp.com
 *.dun-mfy-cdn.com
+*.dun.tax
 *.dunjiaodu.com
 *.dunkhome.com
 *.dunstanhardcastle.com
@@ -20695,7 +20689,6 @@ ff00:*
 *.eversino.com
 *.everstar.xyz
 *.everstray.com
-*.everturst.com
 *.everybodygame.com
 *.everychina.com
 *.everydo.com
@@ -23513,7 +23506,6 @@ ff00:*
 *.gltjk.com
 *.gltop.com
 *.glvs.com
-*.glxf110.com
 *.glxinhu.com
 *.glxlawyer.com
 *.glzip.com
@@ -27619,7 +27611,6 @@ ff00:*
 *.huelead.com
 *.huenhuenfood.com
 *.hufangyun.com
-*.hugaoba.com
 *.hugd.com
 *.hugecdn168.com
 *.hugeland.com
@@ -29456,6 +29447,7 @@ ff00:*
 *.imp3.net
 *.imperfectionstudio.com
 *.imperial-vision.com
+*.imperialsprings.com
 *.impk.cc
 *.impnails.com
 *.impopper.com
@@ -30121,7 +30113,6 @@ ff00:*
 *.itgeeker.net
 *.itgege.com
 *.itgemini.net
-*.itgo.me
 *.itgochina.com
 *.itgoodboy.com
 *.ithaowai.com
@@ -30752,7 +30743,6 @@ ff00:*
 *.jdxcw.com
 *.jdxfw.com
 *.jdxlt.com
-*.jdxs5200.net
 *.jdxzz.com
 *.jdy.com
 *.jdycdn.com
@@ -35980,6 +35970,7 @@ ff00:*
 *.lmdouble.com
 *.lmeee.com
 *.lmf9.com
+*.lmgg01.com
 *.lmgouwu.com
 *.lmjtgs.com
 *.lmjx.net
@@ -36833,7 +36824,6 @@ ff00:*
 *.lz520.net
 *.lzabcd.com
 *.lzane.com
-*.lzaru.com
 *.lzbank.com
 *.lzc369.com
 *.lzcbnews.com
@@ -40508,7 +40498,6 @@ ff00:*
 *.nvdiao.com
 *.nvdisngg-sdfsdy.com
 *.nvidia-china.com
-*.nvloo.com
 *.nvpuse.com
 *.nvpuwo.com
 *.nvsay.com
@@ -42293,6 +42282,7 @@ ff00:*
 *.pocomagnetic.com
 *.pocosite.com
 *.pocsuite.org
+*.podfest.tech
 *.podinns.com
 *.podjiasu.org
 *.poem88.com
@@ -42390,7 +42380,6 @@ ff00:*
 *.potplayer.org
 *.potplayercn.com
 *.pouchcontainer.io
-*.poweizu.com
 *.power-bd.com
 *.power-sensor.com
 *.powerapp.io
@@ -42413,7 +42402,6 @@ ff00:*
 *.pp-xxgd.com
 *.pp.cc
 *.pp100.com
-*.pp130.com
 *.pp1o.com
 *.pp25.com
 *.pp250.com
@@ -42755,6 +42743,7 @@ ff00:*
 *.pysmei.com
 *.pystarter.com
 *.pytgo.com
+*.python-brief.com
 *.python-china.com
 *.python100.com
 *.python51.com
@@ -47260,6 +47249,7 @@ ff00:*
 *.shunong.com
 *.shunshikj.com
 *.shunshunliuxue.com
+*.shuntongtong.com
 *.shunwang.com
 *.shuo66.com
 *.shuoba.org
@@ -48959,7 +48949,6 @@ ff00:*
 *.sunboyu.com
 *.suncco.com
 *.sundan.com
-*.sundayrx.net
 *.sundns.com
 *.sundray.com
 *.sundung.com
@@ -49942,7 +49931,6 @@ ff00:*
 *.taobaozxw.com
 *.taobc.com
 *.taobeihai.com
-*.taobeirj.com
 *.taobizhong.com
 *.taobz.com
 *.taoc.cc
@@ -50188,6 +50176,7 @@ ff00:*
 *.tdatamaster.com
 *.tddmp.com
 *.tdfcw.com
+*.tdgod.com
 *.tdict.com
 *.tdigcw.com
 *.tdimg.com
@@ -51449,7 +51438,6 @@ ff00:*
 *.toyean.com
 *.toysir.com
 *.tozzger.info
-*.tp8.me
 *.tpbook.com
 *.tpcdnde88de.com
 *.tpengyun.com
@@ -52472,6 +52460,7 @@ ff00:*
 *.uhomecp.com
 *.uhomes.com
 *.uhouzz.com
+*.uhuibao.com
 *.uhuitong.com
 *.uhuwang.com
 *.uhzcdn.com
@@ -54325,6 +54314,7 @@ ff00:*
 *.weathercn.com
 *.weatherdt.com
 *.weatherol.com
+*.weavatar.com
 *.weaverdream.com
 *.weaversoftware.com
 *.weavi.com
@@ -54381,6 +54371,7 @@ ff00:*
 *.websocket-test.com
 *.websoft9.com
 *.webterren.com
+*.webullbroker.com
 *.webullzone.com
 *.webuy.ai
 *.webuy.vip
@@ -54954,7 +54945,6 @@ ff00:*
 *.whadexpo.com
 *.whairport.com
 *.whalecloud.com
-*.whaledu.com
 *.whalenas.com
 *.whaleunique.com
 *.whalipaycs.com
@@ -57896,6 +57886,7 @@ ff00:*
 *.xiuzhan365.com
 *.xiuzhanwang.com
 *.xivcdn.com
+*.xiwan.vip
 *.xiwangame.com
 *.xiwangchina.com
 *.xiwangd.com
@@ -59198,7 +59189,6 @@ ff00:*
 *.yaypool.com
 *.yayu.org
 *.yayunjiqi.com
-*.yazhifan.com
 *.yazhougoufang.com
 *.yazjy.com
 *.yazuo.com
@@ -59442,7 +59432,6 @@ ff00:*
 *.yeswan.com
 *.yesxun.com
 *.yetianzi.com
-*.yetingjk.com
 *.yettos.com
 *.yewen.us
 *.yewuyuan.com
@@ -59481,6 +59470,7 @@ ff00:*
 *.yfgj68.com
 *.yfhl.net
 *.yfhxtech.com
+*.yfinds.com
 *.yfiot.com
 *.yfjiakao.com
 *.yfklxz.com
@@ -59614,7 +59604,6 @@ ff00:*
 *.yidaservice.com
 *.yideamobile.com
 *.yidejia.com
-*.yidejr.net
 *.yidengxuetang.com
 *.yidian360.com
 *.yidianchina.com
@@ -59818,7 +59807,6 @@ ff00:*
 *.yinghecloud.com
 *.yingheying.com
 *.yinghezhong.com
-*.yinghualiu.com
 *.yinghuaonline.com
 *.yinghub.com
 *.yingjia360.com
