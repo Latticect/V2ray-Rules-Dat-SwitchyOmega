@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-12-19 07:55:38
+; 更新时间：2023-12-20 07:55:30
 ; cn域名都不走代理
 *.cn
 
@@ -34405,6 +34405,7 @@ ff00:*
 *.landed.cc
 *.landi.com
 *.landian.vip
+*.landian.xyz
 *.landiannews.com
 *.landing-med.com
 *.landingbj.com
@@ -41200,6 +41201,7 @@ ff00:*
 *.ourjiangsu.com
 *.ourjs.com
 *.ourjz.com
+*.ourl.co
 *.ourlife365.com
 *.ourlinc.com
 *.ourpalm.com

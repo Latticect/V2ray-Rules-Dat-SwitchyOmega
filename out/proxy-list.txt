@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-12-19 07:55:38
+; 更新时间：2023-12-20 07:55:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -24,8 +24,11 @@
 *.10musume.com
 *.10xfotolia.com
 *.110xnxx.com
+*.1111mode.xyz
+*.1111modpo.info
 *.112263.com
 *.114av.xyz
+*.119474.xyz
 *.11jav.com
 *.123-hp.com
 *.123hplaserjet.com
@@ -59,8 +62,10 @@
 *.177pic.info
 *.177picyy.com
 *.179na.com
+*.17lu.xyz
 *.17mimei.club
 *.17mimei.com
+*.17supxxx.com
 *.17t17p.com
 *.18-teen-porn.com
 *.18-teen-xxx.com
@@ -98,6 +103,7 @@
 *.1984bbs.com
 *.1984bbs.org
 *.1991way.com
+*.1992qq.xyz
 *.1998cdp.org
 *.1bao.org
 *.1bigclub.com
@@ -129,6 +135,7 @@
 *.2013newbeatsworld.com
 *.2013pascherbeatsbydre.com
 *.2014cheapbeatsbydre.com
+*.2019baidu.xyz
 *.2021hkcharter.com
 *.2022.dev
 *.2047.name
@@ -151,6 +158,7 @@
 *.265.com
 *.265sdwe3.com
 *.2789av.com
+*.27mmwmmw.top
 *.2adultflashgames.com
 *.2beatsdre.com
 *.2bit8.com
@@ -306,6 +314,7 @@
 *.69-sexgames.com
 *.69av.one
 *.69bag.xyz
+*.69dys.pw
 *.69femdom.com
 *.69flv.com
 *.69gayporno.com
@@ -344,6 +353,7 @@
 *.8-d.com
 *.8008206616.com
 *.8111y.top
+*.81tower.com
 *.82mvmv.com
 *.85cc.net
 *.85st.com
@@ -395,6 +405,7 @@
 *.91se.fun
 *.91sesex.xyz
 *.91sew.xyz
+*.91sew40.buzz
 *.91vps.club
 *.920share.com
 *.921bb.com
@@ -436,6 +447,7 @@
 *.a7sex.com
 *.aa1141.com
 *.aa1142.com
+*.aa77kk.com
 *.aaa
 *.aaagradeheadphones.com
 *.aaapp.cyou
@@ -466,6 +478,7 @@
 *.abebooks.com
 *.abellalist.com
 *.abema-tv.com
+*.abgsp1.buzz
 *.abigass.com
 *.abitno.linpie.com
 *.able
@@ -513,6 +526,7 @@
 *.acgdv.com
 *.acgfabu.com
 *.acgfbw.com
+*.acgjump.com
 *.acgkj.com
 *.acgnmanhua.com
 *.acgvipss.com
@@ -728,6 +742,7 @@
 *.ai
 *.ai-kan.net
 *.ai-wen.net
+*.ai7995.site
 *.ai91porn.cc
 *.aiaa.org
 *.aig
@@ -770,6 +785,7 @@
 *.aiv-cdn.net
 *.aiweiwei.com
 *.aiweiweiblog.com
+*.aixingge2.cc
 *.ajplus.net
 *.ajsjx.com
 *.ajtalk.com
@@ -1669,8 +1685,13 @@
 *.avmoo.pw
 *.avn.com
 *.avnana5.com
+*.avnight-shipin.com
 *.avoision.com
 *.avpanda.cc
+*.avrila.cc
+*.avrila2.cc
+*.avrila2023.top
+*.avrila23.cc
 *.avriri.top
 *.avseesee.com
 *.avsforum.com
@@ -1696,6 +1717,7 @@
 *.awempire.com
 *.awetv.com
 *.awflapp.top
+*.awjq.cc
 *.aws
 *.aws-iot-hackathon.com
 *.awsautopilot.com
@@ -1820,6 +1842,7 @@
 *.badvirtue.com
 *.baeb.com
 *.bag-glasses1.com
+*.bai29.xyz
 *.baicaonetwork.com
 *.baijie.org
 *.bailandaily.com
@@ -1873,6 +1896,7 @@
 *.barrons-advisor.com
 *.barrons-conferences.com
 *.barrons.com
+*.barss1207.pro
 *.baselinestudy.com
 *.baselinestudy.org
 *.basilisk-browser.org
@@ -1916,6 +1940,7 @@
 *.bbgwatch.com
 *.bbkz.com
 *.bbnradio.org
+*.bbqm1.xyz
 *.bbs-tw.com
 *.bbs.brockbbs.com
 *.bbs.ecstart.com
@@ -1941,6 +1966,7 @@
 *.bbtoystore.com
 *.bbva
 *.bbwmilftube.com
+*.bbwyoyo.info
 *.bby.com
 *.bbycloud.com
 *.bbycontent.com
@@ -2522,6 +2548,7 @@
 *.bizhat.com
 *.bizographics.com
 *.bj
+*.bjini.cc
 *.bjnewlife.org
 *.bjs.org
 *.bjzc.org
@@ -2828,6 +2855,7 @@
 *.bobovip.cc
 *.bobs-tube.com
 *.bobvoyeur.com
+*.bocici.buzz
 *.bodgirls.com
 *.bodog88.com
 *.bodyfluids-jav.com
@@ -2881,6 +2909,7 @@
 *.bootstrapcdn.com
 *.bootyliciousmag.com
 *.bootysource.com
+*.boqimod.com
 *.borderlessprepaid.com
 *.borgenmagazine.com
 *.boringcompany.com
@@ -3034,6 +3063,7 @@
 *.bs-adreview.com
 *.bsersd.xyz
 *.bstatic.com
+*.bsxm1213.pro
 *.bt
 *.bt2mag.com
 *.bt95.com
@@ -3156,6 +3186,7 @@
 *.bycbe.com
 *.bycsi.com
 *.bydrebeats.com
+*.bygpp1207.world
 *.byjhd.com
 *.bypasscensorship.org
 *.byrut.org
@@ -3184,6 +3215,7 @@
 *.cactusvpn.com
 *.cadillac
 *.cafepress.com
+*.cai21.xyz
 *.caijinglengyan.com
 *.caime.xyz
 *.cairn.info
@@ -3344,6 +3376,7 @@
 *.catmiimi.com
 *.cato.org
 *.cattt.com
+*.cavhot.com
 *.cavporn.com
 *.cba
 *.cbart.net
@@ -3489,6 +3522,8 @@
 *.chat
 *.chatango.com
 *.chatgpt.com
+*.chatgptvideo.xyz
+*.chatgptvideob.buzz
 *.chatnook.com
 *.chatr
 *.chatter.com
@@ -3555,6 +3590,8 @@
 *.chemnetbase.com
 *.chengjuanseo.com
 *.chengmingmag.com
+*.chengrendouyin-app.com
+*.chengrenshipin-app.com
 *.chenguangcheng.com
 *.chenpokong.com
 *.chenpokong.net
@@ -3572,6 +3609,7 @@
 *.chevrolet
 *.chevy
 *.chhongbi.org
+*.chianxv.buzz
 *.chicagolandbmw.com
 *.chicagoncmtv.com
 *.chickstagram.com
@@ -3681,12 +3719,16 @@
 *.chroniclesec.com
 *.chrysler
 *.chuang-yen.org
+*.chuangb15.xyz
 *.chubbypornonly.com
 *.chubold.com
 *.chubun.com
+*.chuneo.xyz
 *.chunja19.net
 *.chuporno.com
 *.churchinhongkong.org
+*.chutuno.fun
+*.chuzs2.xyz
 *.chwr7s8u.com
 *.chyoa.com
 *.ci
@@ -3957,6 +3999,7 @@
 *.colorprotechnology.com
 *.comcast
 *.comdotgame.com
+*.come29.xyz
 *.comeav.com
 *.comefromchina.com
 *.cometotheduckside.com
@@ -4258,6 +4301,7 @@
 *.dafabet.com
 *.dafagood.com
 *.dafahao.com
+*.dafanhao-app.com
 *.dafoh.org
 *.daftporn.com
 *.daftsex-hd.com
@@ -4358,6 +4402,8 @@
 *.dcmilitary.com
 *.dctbeatsbydre.com
 *.ddd-smart.net
+*.ddff66.com
+*.ddff77.com
 *.ddg.co
 *.ddhw.info
 *.dditsadn.com
@@ -4480,6 +4526,7 @@
 *.dfn.org
 *.dgaqp.com
 *.dgwav.com
+*.dh44.lol
 *.dharamsalanet.com
 *.dharmakara.net
 *.dhcp.biz
@@ -4668,10 +4715,12 @@
 *.distribution.qpdp1.net
 *.diy
 *.diyarbakirescort.com
+*.diyuser.buzz
 *.dizhidizhi.com
 *.dizhuzhishang.com
 *.dj
 *.djangosnippets.org
+*.djkav.mom
 *.djorz.com
 *.djreprints.com
 *.dk
@@ -4682,6 +4731,8 @@
 *.dkrecttv.com
 *.dl-iphone.com
 *.dl.box.net
+*.dlap001.xyz
+*.dlap301.com
 *.dldlinks.com
 *.dldshare.net
 *.dlercloud.com
@@ -4986,6 +5037,8 @@
 *.dunlop
 *.duns
 *.dunyabulteni.net
+*.duolaapian126.xyz
+*.duolaapian127.xyz
 *.duolingo.com
 *.duoweitimes.com
 *.duoweiweek.com
@@ -5027,6 +5080,7 @@
 *.dx9527.cc
 *.dxyav.co
 *.dydx.exchange
+*.dyfl1.pw
 *.dykycl.com
 *.dynacw.com
 *.dynafleetonline.com
@@ -5646,6 +5700,7 @@
 *.f-dro1d.org
 *.f-droid.com
 *.f-droid.org
+*.f5pf.com
 *.f6988.com
 *.f8.com
 *.faacebok.com
@@ -5964,6 +6019,7 @@
 *.fanhaodang.com
 *.fanhaodian.com
 *.fanhaolou.com
+*.fanhowab.buzz
 *.fanleakstoday.com
 *.fanqiang.network
 *.fanqiangdang.com
@@ -6278,6 +6334,7 @@
 *.flathub.org
 *.flatpak.org
 *.flbjc.net
+*.fldz8.buzz
 *.fleshbot.com
 *.fleshlyx.com
 *.fleursdeslettres.com
@@ -6319,6 +6376,8 @@
 *.flyvpn.com
 *.flyzy2005.com
 *.fm
+*.fmav.top
+*.fmav51.icu
 *.fmcebook.com
 *.fnac.com
 *.fnacebook.com
@@ -6360,6 +6419,7 @@
 *.foreignpolicy.com
 *.forgecdn.net
 *.forhertube.com
+*.forpojie.pics
 *.fortawesome.com
 *.forthebadge.com
 *.forthethrone.com
@@ -6746,6 +6806,7 @@
 *.fujixerox
 *.fukzr1.cc
 *.fulanax.com
+*.fuli-wangzhan.com
 *.fuli3.net
 *.fulib711.shop
 *.fuliba2021.com
@@ -6868,6 +6929,7 @@
 *.gaopi.net
 *.gaozhisheng.net
 *.gaozhisheng.org
+*.gaozs18.buzz
 *.gap
 *.gardennetworks.com
 *.gardennetworks.org
@@ -7255,6 +7317,7 @@
 *.goldsexvideos.com
 *.goldstep.net
 *.goldteenporn.com
+*.goldvip.cyou
 *.goldwave.com
 *.golosameriki.com
 *.gonglchuangl.net
@@ -7372,6 +7435,9 @@
 *.gospelherald.com
 *.gosq.co
 *.gosq.com
+*.gossipfuli4511.xyz
+*.gossipfuli5522.xyz
+*.gossipfuli6883.xyz
 *.gostorego.com
 *.gostosanovinha.com
 *.got-game.org
@@ -7452,6 +7518,7 @@
 *.gstatic.com
 *.gsuite.com
 *.gt
+*.gt536.top
 *.gtm.oasisfeng.com
 *.gtricks.com
 *.gts-vpn.com
@@ -7571,6 +7638,8 @@
 *.hanunyi.com
 *.hanzhen.xmulib.org
 *.hao.news
+*.hao21.xyz
+*.hao62.xyz
 *.haori888.com
 *.haplorrhini.com
 *.happy-vpn.com
@@ -7665,6 +7734,7 @@
 *.headphonessupply.com
 *.headphonezip.com
 *.headset987.com
+*.health026.click
 *.healthcarecareeronline.com
 *.heartbreakers.gallery
 *.heartbreakers.info
@@ -7678,6 +7748,7 @@
 *.hechaji.com
 *.hegre-art.com
 *.hegre.com
+*.heiguab.top
 *.heijidi.life
 *.heinonline.org
 *.heinz
@@ -7850,6 +7921,7 @@
 *.heywire.com
 *.heyzo.com
 *.hf-iphone.com
+*.hg.cool
 *.hgamer.pro
 *.hgsacx.com
 *.hgseav.com
@@ -7984,6 +8056,7 @@
 *.hkvwet.com
 *.hkzone.org
 *.hlbelygl.com
+*.hlsp1.pw
 *.hm
 *.hm.com
 *.hmd.site
@@ -8295,6 +8368,8 @@
 *.hstern.net
 *.hstt.net
 *.hsxhr.cc
+*.hsxsp1.buzz
+*.hsyy.vip
 *.ht
 *.ht3200.top
 *.htanime.epizy.com
@@ -8311,6 +8386,8 @@
 *.hu
 *.hu1u.com
 *.hua-yue.net
+*.huabansp.com
+*.huabansp7.club
 *.huaglad.com
 *.huanghuagang.org
 *.huangse.love
@@ -8327,6 +8404,7 @@
 *.huaxia-news.com
 *.huaxiabao.org
 *.huaxin-lls.xyz
+*.huaxin80.com
 *.huayuworld.org
 *.hubblephone.com
 *.hudson.org
@@ -8816,6 +8894,7 @@
 *.instgram.com
 *.institut-tibetain.org
 *.instituteofwar.org
+*.insuyo.xyz
 *.intagram.com
 *.intagrm.com
 *.intc.com
@@ -9273,7 +9352,12 @@
 *.jcb
 *.jcp
 *.jcpenney.com
+*.jdav-css.shop
+*.jdavsp.com
+*.jdavsp.info
 *.jdavsp.pw
+*.jdavsp.top
+*.jdavsp.xyz
 *.jdbimgs.com
 *.jdbstatic.com
 *.jdforum.net
@@ -9307,6 +9391,8 @@
 *.jgoodies.com
 *.jhxl.org
 *.jiangweiping.com
+*.jiaochuanba25.buzz
+*.jiaochuanba26.buzz
 *.jiaoyou8.com
 *.jiayoulu.com
 *.jibemobile.com
@@ -9351,6 +9437,10 @@
 *.jkface.net
 *.jkforum.net
 *.jkub.com
+*.jkycjk.mom
+*.jkzvz.shop
+*.jkzw.shop
+*.jlb0011.site
 *.jlc
 *.jll
 *.jm
@@ -9379,6 +9469,7 @@
 *.joinmaidez.com
 *.joinmastodon.org
 *.joinside.org
+*.jokerlu.world
 *.jokerlu1.cc
 *.jokerlu1.info
 *.joox.com
@@ -9461,6 +9552,7 @@
 *.juyangbee.xyz
 *.juyangto.info
 *.juyuange.org
+*.juzi-js.shop
 *.juzige.xyz
 *.juziyue.com
 *.jvid.com
@@ -9679,6 +9771,7 @@
 *.ksyp10.com
 *.ktvu.com
 *.ktzhk.com
+*.kuaimao-app.com
 *.kuaipa.net
 *.kuanrenxs.com
 *.kubakuba.global
@@ -9690,6 +9783,7 @@
 *.kuke.com
 *.kum.com
 *.kumo.com
+*.kun66.xyz
 *.kundun1069.com
 *.kuokgroup
 *.kurashsultan.com
@@ -10006,6 +10100,7 @@
 *.llnwd.net
 *.llnwi.net
 *.llwht88.xyz
+*.lmm167.shop
 *.lmmbtc.com
 *.lncn.org
 *.lnstagram-help.com
@@ -10095,6 +10190,7 @@
 *.lplfinancial
 *.lpsg.com
 *.lqh0bon3.xyz
+*.lqpjw.cyou
 *.lr
 *.lrfz.com
 *.lrip.org
@@ -10143,6 +10239,7 @@
 *.lustteens.net
 *.lustylist.com
 *.luticlip.com
+*.lutube2310.com
 *.luvmov.com
 *.luw666.xyz
 *.luw666cm.cc
@@ -10308,6 +10405,7 @@
 *.manytoon.com
 *.manyvids.com
 *.manyvoices.news
+*.maomi-shipin.com
 *.mapbox.com
 *.maple.finance
 *.maplew.com
@@ -10453,6 +10551,7 @@
 *.mdnplay.dev
 *.mdnyalp.dev
 *.mdpi.com
+*.mdpj-mov.shop
 *.me
 *.me-gay.com
 *.me.com
@@ -10686,7 +10785,10 @@
 *.milph.net
 *.milsurps.com
 *.mimei.store
+*.mimi-zhibo.com
+*.mimi2022.link
 *.mimi22.top
+*.mimi222.top
 *.mimiai.net
 *.mimivip.com
 *.mimivv.com
@@ -10863,6 +10965,7 @@
 *.mmmca.com
 *.mmonsterheadphones.net
 *.mmtv.life
+*.mmwxl27.top
 *.mn
 *.mnet
 *.mnewstv.com
@@ -11134,6 +11237,7 @@
 *.msunlimitedcloudsummit.com
 *.mswe1.org
 *.mt
+*.mt0011.site
 *.mtao.fun
 *.mthruf.com
 *.mtn
@@ -11402,6 +11506,8 @@
 *.nadex
 *.nagoya
 *.naiadsystems.com
+*.naihenda.shop
+*.naihendauou.lol
 *.naijauncut.com
 *.nailedhard.com
 *.naitik.net
@@ -12043,6 +12149,7 @@
 *.nyc
 *.nylon-angel.com
 *.nylonstockingsonline.com
+*.nym97.net
 *.nypost.com
 *.nypost.help
 *.nypostreprints.com
@@ -12674,6 +12781,7 @@
 *.payu
 *.payypal.com
 *.pbabes.com
+*.pbjar1205.pro
 *.pbs.org
 *.pbwiki.com
 *.pbworks.com
@@ -12876,6 +12984,8 @@
 *.pixnet.net
 *.pixnet.pro
 *.pixtronix.com
+*.pjbyj.top
+*.pjful-app.lol
 *.pjgirls.com
 *.pk
 *.pk.com
@@ -12930,6 +13040,7 @@
 *.plusone8.com
 *.plusporn.net
 *.plutotv.net
+*.plzpf.com
 *.pm
 *.pmatehunter.com
 *.pmates.com
@@ -12950,6 +13061,8 @@
 *.pogobeta.com
 *.pohl
 *.poisontube.com
+*.pojapp.cfd
+*.pojbayj1030.top
 *.pojiefuli20033.xyz
 *.pojiefuli9113.xyz
 *.pokedex3d.com
@@ -13343,6 +13456,7 @@
 *.pp-soc.com
 *.pp6.info
 *.ppaypal.com
+*.ppb-mod.buzz
 *.ppe.lawyer
 *.pplah.com
 *.pplusstatic.com
@@ -13556,6 +13670,9 @@
 *.pythonhackers.com
 *.pythonhosted.org
 *.pytorch.org
+*.pzforever.skin
+*.pzforever01.homes
+*.pzhanfor.today
 *.q13.com
 *.q13fox.com
 *.qa
@@ -13593,6 +13710,7 @@
 *.qprize.com
 *.qpx.googleflights.net
 *.qq.design
+*.qqbs.work
 *.qqgamedesign.com
 *.qstatus.com
 *.qt-project.org
@@ -13653,6 +13771,7 @@
 *.r18.clickme.net
 *.r18.com
 *.r18av.com
+*.r18lu-avi.shop
 *.r18lu.com
 *.r34porn.net
 *.rabbitscams.com
@@ -13741,6 +13860,7 @@
 *.rconversation.blogs.com
 *.rd.com
 *.rdio.com
+*.rds-yes.buzz
 *.rdtcdn.com
 *.re
 *.re25.vip
@@ -13918,6 +14038,7 @@
 *.rfaweb.org
 *.rferl.org
 *.rhodeislandbmw.com
+*.rhyw31.life
 *.ricefever.com
 *.richardli
 *.ricoh
@@ -13943,6 +14064,8 @@
 *.riseup.net
 *.risextube.com
 *.rixcloud.com
+*.rjgsp.buzz
+*.rjgsp1.buzz
 *.rk.com
 *.rlczdo.xyz
 *.rlwlw.com
@@ -14133,6 +14256,8 @@
 *.sanwapub.com
 *.saobjpg.com
 *.saoni91.xyz
+*.saonia.xyz
+*.saonidh.world
 *.saonidh01.cc
 *.sap
 *.sapikachu.net
@@ -14250,6 +14375,8 @@
 *.scrolller.com
 *.sd
 *.sdcountybmw.com
+*.sdnice.one
+*.sdnitube.buzz
 *.se
 *.seagroup.com
 *.seamonkey-project.org
@@ -14292,7 +14419,9 @@
 *.seiroganmania.com
 *.seiron-sankei.com
 *.sejie.com
+*.sejie80.com
 *.sekai.colorfulpalette.org
+*.sekur1213.guru
 *.selectanescort.com
 *.selectyourgame.com
 *.selfloversworld.com
@@ -14565,6 +14694,7 @@
 *.shat-tibet.com
 *.shaw
 *.shazam.com
+*.shdd.ink
 *.sheflix.com
 *.shegg.com
 *.shegods.com
@@ -14611,6 +14741,7 @@
 *.shipcamouflage.com
 *.shireyishunjian.com
 *.shiroutoav.net
+*.shishijump001
 *.shit-porn.net
 *.shitaotv.org
 *.shithd.com
@@ -14664,6 +14795,8 @@
 *.showybeauty.com
 *.shriram
 *.shrkurl.com
+*.shsh201.com
+*.shuangmawei.xyz
 *.shufflesex.com
 *.shutterstock.com
 *.shuziyimin.org
@@ -14748,9 +14881,11 @@
 *.siteripz.com
 *.siteripz.net
 *.situero.com
+*.six9dy.pw
 *.sixth.biz
 *.sj
 *.sjcollect.com
+*.sjhsp1.buzz
 *.sjrt.org
 *.sk
 *.skate2.com
@@ -14781,6 +14916,7 @@
 *.skyvegas.com
 *.skyxvpn.com
 *.sl
+*.sl99mod.buzz
 *.slack-core.com
 *.slack-edge.com
 *.slack-files.com
@@ -14901,6 +15037,7 @@
 *.sohcradio.com
 *.sohfrance.org
 *.soirt4.fun
+*.sojiy1124.top
 *.sokamonline.com
 *.sokmil.com
 *.solana.com
@@ -14939,6 +15076,7 @@
 *.sonypicturestelevision.com
 *.sonypicturestelevisiongames.com
 *.soolakhi.com
+*.soooyinfor.lol
 *.sopcast.com
 *.sopcast.org
 *.soporn.com
@@ -14948,6 +15086,7 @@
 *.sorcerersarena.com
 *.sorting-algorithms.com
 *.sos.org
+*.sos44.com
 *.soso7778.com
 *.sosreader.com
 *.sostibet.org
@@ -14968,6 +15107,7 @@
 *.southfloridamini.com
 *.southpark.cc.com
 *.sovec.net
+*.soyinyj.top
 *.soylentnews.org
 *.sp.cool
 *.spaceexplored.com
@@ -15408,8 +15548,11 @@
 *.sxshentai.com
 *.sxyprn.com
 *.sy
+*.sybj91.one
+*.sybjav.online
 *.sydney
 *.sydneytoday.com
+*.syfor.click
 *.syhacked.com
 *.sylfoundation.org
 *.symantec
@@ -15606,6 +15749,7 @@
 *.tellme.pw
 *.tellmewhygame.com
 *.temasek
+*.temetube.xyz
 *.tenacy.com
 *.tenbyfotolia.com
 *.tencent.design
@@ -15932,6 +16076,7 @@
 *.timtales.com
 *.tinc-vpn.org
 *.tineye.com
+*.ting53.xyz
 *.tinhduc.org
 *.tintuc101.com
 *.tiny.cc
@@ -17153,6 +17298,7 @@
 *.waltermartin.com
 *.waltermartin.org
 *.wanderinghorse.net
+*.wanduww.buzz
 *.wangafu.net
 *.wangjinbo.org
 *.wanglixiong.com
@@ -17676,6 +17822,7 @@
 *.x.company
 *.x.org
 *.x.team
+*.x0rd38.xyz
 *.x18r.co
 *.x18r.com
 *.x1949x.com
@@ -17693,12 +17840,14 @@
 *.xanimeporn.com
 *.xapplist.com
 *.xattractive.com
+*.xaxy.xyz
 *.xbabe.com
 *.xbabe.mobi
 *.xbahis33.com
 *.xbahis44.com
 *.xbanny.com
 *.xbeegtube.com
+*.xbhuijiab.info
 *.xbnat.com
 *.xbookcn.com
 *.xbookcn.net
@@ -17733,6 +17882,7 @@
 *.xda-cdn.com
 *.xda-developers.com
 *.xdaforums.com
+*.xdh999.one
 *.xdir.vip
 *.xdporner.com
 *.xdsummit.com
@@ -17755,6 +17905,8 @@
 *.xgirls.webcam
 *.xgmyd.com
 *.xgroovy.com
+*.xgtd3.com
+*.xgtdr.buzz
 *.xh-porn.com
 *.xh.video
 *.xhamster.com
@@ -17767,22 +17919,28 @@
 *.xhot.pro
 *.xianba.net
 *.xianchawang.net
+*.xiangrikui-app.com
 *.xianqiao.net
 *.xiaobaiwu.com
 *.xiaochuncnjp.com
 *.xiaogirls.com
 *.xiaohexie.com
 *.xiaoma.org
+*.xiaoshuobb.life
 *.xiaoyaoge.xyz
 *.xiaxiaoqiang.net
 *.xie56.xyz
 *.xiezhua.com
+*.xin21.xyz
 *.xindelu.com
 *.xinfhw.com
 *.xing.com
 *.xing66.life
+*.xing840.info
+*.xinggan77.vip
 *.xinhuanet.org
 *.xinjiangpolicefiles.org
+*.xinlan995.xyz
 *.xinmeitulu.com
 *.xinqimeng.over-blog.com
 *.xinsheng.net
@@ -17808,10 +17966,20 @@
 *.xlstudio.com
 *.xm.com
 *.xmalay.com
+*.xmav99.com
+*.xmbsyj.top
+*.xmforever.rest
 *.xml-training-guide.com
 *.xmovies.com
 *.xmoviesforyou.com
+*.xn--096-4g6em5t.com
+*.xn--201-4g6em5t.com
+*.xn--202-4g6em5t.com
+*.xn--203-4g6em5t.com
+*.xn--204-4g6em5t.com
+*.xn--205-4g6em5t.com
 *.xn--2scrj9c
+*.xn--2vxsp6vi4j.com
 *.xn--3e0b707e
 *.xn--3et96bj49ahpq.com
 *.xn--3hcrj9c
@@ -17838,6 +18006,7 @@
 *.xn--9kr7l.com
 *.xn--9pr62r24a.com
 *.xn--9trs65b.com
+*.xn--av-o44ep1d.com
 *.xn--b4w605ferd
 *.xn--cck4d8b3009a.com
 *.xn--cckwcxetd
@@ -17855,6 +18024,7 @@
 *.xn--fzys8d69uvgm
 *.xn--gecrj9c
 *.xn--ggle-55da.com
+*.xn--gmq348bujlxrb.com
 *.xn--gmq92kd2rm1kx34a.com
 *.xn--gogl-0nd52e.com
 *.xn--gogl-1nd42e.com
@@ -18193,6 +18363,7 @@
 *.xxxxvideo.uno
 *.xxxy.biz
 *.xxxy.info
+*.xxxyaom.xyz
 *.xxxymovies.com
 *.xxxyoungxxx.com
 *.xys.dxiong.com
@@ -18237,6 +18408,8 @@
 *.yaohubaba.com
 *.yaoimangaonline.com
 *.yaoiotaku.com
+*.yaole91.xyz
+*.yaoliuno.fun
 *.yaoyaomumu.com
 *.yaptube.com
 *.yarininsuyu.com
@@ -18287,6 +18460,7 @@
 *.yinlei.org
 *.yinmh.com
 *.yinshuiger.info
+*.yinya.shop
 *.yipub.com
 *.yiqiedoushiganggangkaishi.org
 *.yiyechat.com
@@ -18414,6 +18588,7 @@
 *.ysinto.com
 *.ysiron.com
 *.ysjail.com
+*.yskg-ber.buzz
 *.yslawn.com
 *.ysleaf.com
 *.ysleft.com
@@ -18464,6 +18639,8 @@
 *.ywoos.com
 *.ywpw.com
 *.yx51.net
+*.yy7y.com
+*.yy8y.com
 *.yyfb.cyou
 *.yyii.org
 *.yyjlymb.xyz
@@ -18477,6 +18654,7 @@
 *.z5.com
 *.z676869.com
 *.za
+*.za77.xyz
 *.zacebook.com
 *.zalmos.com
 *.zannel.com
@@ -18533,6 +18711,7 @@
 *.zhainanjidid.top
 *.zhanbin.net
 *.zhangboli.net
+*.zhangboz1.xyz
 *.zhangtianliang.com
 *.zhanlve.org
 *.zhao.1984.city
@@ -18549,8 +18728,10 @@
 *.zhongmeng.org
 *.zhoushuguang.com
 *.zhreader.com
+*.zhtv01.com
 *.zhuatieba.com
 *.zhuichaguoji.org
+*.zhuzhushipin-app.com
 *.zi.media
 *.zibacity.com
 *.ziddu.com
@@ -19105,14 +19286,18 @@ HostRegex: (^|\.)989[a-z]?\.tv$
 HostRegex: (^|\.)99pp[1-9][0-9]\.com$
 HostRegex: (^|\.)aipa(111|222|333|444|555|666|777|888|999)\.life$
 HostRegex: (^|\.)aisejushi(2|3|5|6)\.com$
+HostRegex: (^|\.)aiwei[1-9]{2}\.buzz$
 HostRegex: (^|\.)aqdk[0-9]{3}\.com$
 HostRegex: (^|\.)avcc1[0-9]\.com$
 HostRegex: (^|\.)avstar0[1-9]\.(com|me)$
+HostRegex: (^|\.)awjd[1-9]?\.tv$
 HostRegex: (^|\.)banyinjia[0-9]?\.com$
 HostRegex: (^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$
+HostRegex: (^|\.)bjini[0-9]{2}\.buzz
 HostRegex: (^|\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com$
 HostRegex: (^|\.)cav1(0[2-9]|1[0-9])\.com$
 HostRegex: (^|\.)cgbb([1-9]|1[0-9]|20)\.com$
+HostRegex: (^|\.)chuzs[1-9]{0,2}\.buzz$
 HostRegex: (^|\.)cosaa[a-z]\.cyou$
 HostRegex: (^|\.)douyintt[0-9]\.me$
 HostRegex: (^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
@@ -19121,10 +19306,12 @@ HostRegex: (^|\.)fi11sm([0-9]+)?\.com$
 HostRegex: (^|\.)fiftymvapi\..+$
 HostRegex: (^|\.)forduck[0-1][0-9]\.com$
 HostRegex: (^|\.)gaogediao\.(com|me|net|org)$
+HostRegex: (^|\.)gossipfuli[0-9]{3,4}\.xyz$
 HostRegex: (^|\.)guifw3[1-3]\.cc$
 HostRegex: (^|\.)h5ccav[1-5]\.com$
 HostRegex: (^|\.)hhmen[1-3]\.xyz$
 HostRegex: (^|\.)hkfg[1-7]\.xyz$
+HostRegex: (^|\.)hs[1-9]{2}\.vip$
 HostRegex: (^|\.)jav777\.(cc|tv|work)$
 HostRegex: (^|\.)jbk0([0-1][0-9]?)?\.com$
 HostRegex: (^|\.)jdyy[1-9]?\.me$
@@ -19133,8 +19320,10 @@ HostRegex: (^|\.)jstv[0-9]{2}\.com$
 HostRegex: (^|\.)kimoav([1-9][0-9]?)?\.com$
 HostRegex: (^|\.)ksyp0[1-9]\.com$
 HostRegex: (^|\.)lianren[1-7]\.cc$
+HostRegex: (^|\.)llyysp[0-9]{4}\.top$
 HostRegex: (^|\.)loibus(100|101|202|505|606)\.top$
 HostRegex: (^|\.)loibus\.(cc|com|link)$
+HostRegex: (^|\.)luchuxue([0-9]{0,5})\.buzz$
 HostRegex: (^|\.)maa18[0-2][0-9]\.com$
 HostRegex: (^|\.)madouqu[0-9]{2}\.cc$
 HostRegex: (^|\.)mdyy[0-1][0-9]\.com$
@@ -19145,11 +19334,15 @@ HostRegex: (^|\.)mitao[1-3]\.tv$
 HostRegex: (^|\.)mmtv[1-5]\.life$
 HostRegex: (^|\.)mmwz\.(fun|in|la|me|one|pro|pw|run|tv|ws)$
 HostRegex: (^|\.)putaozy([1-9][0-9]?)?\.com$
+HostRegex: (^|\.)qqbs([0-9]{2})?\.vip$
 HostRegex: (^|\.)qqsp0[1-3]\.com$
 HostRegex: (^|\.)rbp[1-9][0-9]\.com$
 HostRegex: (^|\.)sao[1-6]0000\.com$
 HostRegex: (^|\.)sg11[3-9]\.me$
+HostRegex: (^|\.)shdd[0-9]{2}\.buzz$
+HostRegex: (^|\.)shuangmawei[0-9]{2}\.buzz$
 HostRegex: (^|\.)spankwire[1-9]\.com$
+HostRegex: (^|\.)supxxx[0-9]{0,2}\.com$
 HostRegex: (^|\.)syjc1[1-6]\.xyz$
 HostRegex: (^|\.)tianbiav([1-9]|1[0-6])?\.com$
 HostRegex: (^|\.)tqav[1-9][0-9]\.com$
@@ -19161,11 +19354,19 @@ HostRegex: (^|\.)uu[a-z][1-9][0-9]?\.com$
 HostRegex: (^|\.)whtdh0[1-3]\.cc$
 HostRegex: (^|\.)wmm33[0-5]\.com$
 HostRegex: (^|\.)wyfuli[1-9]\.net$
+HostRegex: (^|\.)xaxy[0-9]{2}\.one$
+HostRegex: (^|\.)xgyy([0-9]{2})?\.vip$
+HostRegex: (^|\.)xg[0-9]{2}\.vip$
+HostRegex: (^|\.)xingdh([0-9]{3})?\.xyz$
 HostRegex: (^|\.)xnkl[3-8]\.cn$
+HostRegex: (^|\.)xv[0-9]{4}\.top$
+HostRegex: (^|\.)xxxyaom[0-9]{2}\.buzz$
 HostRegex: (^|\.)yiren[1-9][0-9]\.com$
 HostRegex: (^|\.)youyuapi\..+$
 HostRegex: (^|\.)yrrj[1-9]?\.buzz$
+HostRegex: (^|\.)zayy([0-9]{0,3})?\.xyz$
 HostRegex: (^|\.)zh9[0-7]\.net$
+HostRegex: (^|\.)zy[0-9]{4}\.top$
 HostRegex: (^|\.)zztt[1-6][0-9]\.com$
 HostRegex: (^|\.)zzz[1-9][0-9]\.top$
 HostRegex: (^|\.)[1-5]gaoap\.com$
