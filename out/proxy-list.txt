@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2023-12-29 07:55:30
+; 更新时间：2023-12-30 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7462,7 +7462,6 @@
 *.graphql.org
 *.gravatar.com
 *.gravitytank.com
-*.greasespot.net
 *.great-firewall.com
 *.great-roc.org
 *.greatergothammini.com
@@ -12172,6 +12171,7 @@
 *.obsrvbl.com
 *.obutsumania.com
 *.obutu.com
+*.obyte.org
 *.ocaspro.com
 *.ocbmwdealers.com
 *.occupytiananmen.com
@@ -17630,7 +17630,6 @@
 *.wnacg.org
 *.wnoaissulli1.com
 *.woeser.com
-*.woesermiddle-way.net
 *.woflthenewsstation.com
 *.wogx.com
 *.wokar.org
