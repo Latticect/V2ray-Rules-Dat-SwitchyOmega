@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-01-01 07:55:27
+; 更新时间：2024-01-02 07:55:40
 ; cn域名都不走代理
 *.cn
 
@@ -64384,6 +64384,7 @@ docs.microsoft.com
 doubleclick-cn.net
 doubleclick.net
 download.developer.apple.com
+download.jetbrains.com
 download.microsoft.com
 download.mlcc.google.com
 download.qatp1.net
