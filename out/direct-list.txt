@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-01-04 07:55:49
+; 更新时间：2024-01-05 07:55:41
 ; cn域名都不走代理
 *.cn
 
@@ -12632,6 +12632,7 @@ ff00:*
 *.cdn-uc.cc
 *.cdn-v.com
 *.cdn.fun
+*.cdn.jetbrains.com
 *.cdn.razersynapse.com
 *.cdn.samsung.com
 *.cdn.shanghai.nyu.edu
@@ -64384,7 +64385,6 @@ docs.microsoft.com
 doubleclick-cn.net
 doubleclick.net
 download.developer.apple.com
-download.jetbrains.com
 download.microsoft.com
 download.mlcc.google.com
 download.qatp1.net
