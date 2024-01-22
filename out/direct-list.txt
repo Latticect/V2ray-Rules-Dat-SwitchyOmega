@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-01-22 07:55:29
+; 更新时间：2024-01-23 07:55:27
 ; cn域名都不走代理
 *.cn
 
@@ -1046,7 +1046,6 @@ ff00:*
 *.125.la
 *.12530.com
 *.12580.com
-*.12580.net
 *.12580.tv
 *.12580study.com
 *.125edu.com
@@ -1173,7 +1172,6 @@ ff00:*
 *.13yx.com
 *.140414.com
 *.1415926.com
-*.1415926.mobi
 *.14294.com
 *.14498.com
 *.1451cn.com
@@ -19146,6 +19144,7 @@ ff00:*
 *.duobei.com
 *.duobeiyun.net
 *.duobiji.com
+*.duocaish.com
 *.duocaitou.com
 *.duochang.cc
 *.duodaa.com
@@ -21819,7 +21818,6 @@ ff00:*
 *.fl365.com
 *.fl5.co
 *.flachina.com
-*.flacro.me
 *.flamecdn.com
 *.flamesky.org
 *.flamingcold.com
@@ -30718,7 +30716,6 @@ ff00:*
 *.jdedu.net
 *.jdemall.com
 *.jdfcloud.com
-*.jdfhq.com
 *.jdfschool.com
 *.jdfw1.com
 *.jdgogo.com
@@ -40001,7 +39998,6 @@ ff00:*
 *.niceimg.net
 *.niceisp.com
 *.nicekid.com
-*.nicekodi.xyz
 *.nicelabel.cc
 *.nicelinks.site
 *.niceloo.com
@@ -42671,6 +42667,7 @@ ff00:*
 *.puh3.com
 *.puhuacapital.com
 *.puhuahui.com
+*.puidc.com
 *.puiedu.com
 *.pujia8.com
 *.pujiaba.com
@@ -45367,7 +45364,6 @@ ff00:*
 *.rzrc114.com
 *.rzspx.com
 *.rzszp.com
-*.rzwssy.com
 *.rzx.me
 *.rzzyfw.com
 *.s-02.com
@@ -47368,6 +47364,7 @@ ff00:*
 *.shyihuoh.com
 *.shykx.com
 *.shykz123456.com
+*.shyojin.com
 *.shyonghui.xyz
 *.shyongzeng.com
 *.shyouai.com
@@ -48214,6 +48211,7 @@ ff00:*
 *.sokutu.com
 *.solarbe.com
 *.solaridc.com
+*.soldeazy.com
 *.soldierstory-toys.com
 *.soleilneon.com
 *.solepic.com
@@ -60476,6 +60474,7 @@ ff00:*
 *.yongheyinian.com
 *.yonghongtech.com
 *.yonghuivip.com
+*.yongjindl.com
 *.yongkao.com
 *.yongqianbao.com
 *.yongqiaonews.com
