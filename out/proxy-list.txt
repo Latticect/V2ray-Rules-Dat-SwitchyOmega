@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-01-23 07:55:27
+; 更新时间：2024-01-24 07:55:28
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -445,6 +445,7 @@
 *.9xav.cc
 *.9xlove.xyz
 *.9zipai.net
+*.a-msedge.net
 *.a-normal-day.com
 *.a-teenz.com
 *.a0pple.net
@@ -949,7 +950,6 @@
 *.alphabet.info
 *.alphabetfinance.net
 *.alphaporno.com
-*.alphassl.com
 *.alphera.com
 *.alphera.net
 *.alpinelinux.org
@@ -2523,6 +2523,7 @@
 *.bing
 *.bing.com
 *.bing.net
+*.bing123.com
 *.bingads.com
 *.bingagencyawards.com
 *.bingapis.com
@@ -3874,6 +3875,7 @@
 *.clipseksi.com
 *.clitgames.com
 *.cloakpoint.com
+*.clock.isc.org
 *.clojure.org
 *.cloudapp.net
 *.cloudappsecurity.com
@@ -5303,11 +5305,11 @@
 *.ecuatorianas.best
 *.edeka
 *.edengay.net
-*.edge-skype-com.s-0001.s-msedge.net
 *.edge.steam-dns.top.comcast.net
 *.edgecastcdn.net
 *.edgedatg.com
 *.edgefonts.net
+*.edgekey.net
 *.edgemeplease.com
 *.edgesuite.net
 *.edicypages.com
@@ -7187,7 +7189,6 @@
 *.globalriskregulator.com
 *.globalsecurity.org
 *.globalsign-media.com
-*.globalsign.com
 *.globalsign.net
 *.globalspec.com
 *.globaltm.org
@@ -7472,7 +7473,6 @@
 *.gscanada.info
 *.gsccdn.com
 *.gsearch.media
-*.gsp4-cn.ls.apple.com.edgekey.net
 *.gstatic-cn.com
 *.gstatic.com
 *.gsuite.com
@@ -10726,6 +10726,7 @@
 *.mii
 *.miitomo.com
 *.miiverse.com
+*.mikanani.me
 *.mike.cz.cc
 *.mikesoltys.com
 *.mikrotik.com
@@ -12032,6 +12033,7 @@
 *.ntdtv.org
 *.ntdtvla.com
 *.ntdvn.com
+*.ntp.ripe.net
 *.ntrfun.com
 *.ntt
 *.ntten-mg.buzz
@@ -13078,6 +13080,7 @@
 *.polymerproject.org
 *.ponyanimalsex.com
 *.poofetish.com
+*.pool.ntp.org
 *.poolin.com
 *.poop-pee.online
 *.poopee-puke.com
@@ -14155,8 +14158,10 @@
 *.s-books.com
 *.s-cashonmobile.com
 *.s-cute.com
+*.s-dc-msedge.net
 *.s-dragon.org
 *.s-microsoft.com
+*.s-msedge.net
 *.s-msft.com
 *.s-msn.com
 *.s-nbcnews.com
@@ -15197,6 +15202,7 @@
 *.sstmlt.net
 *.ssx3.com
 *.st
+*.st.com
 *.stackage.org
 *.stackapps.com
 *.stackauth.com
@@ -15326,7 +15332,6 @@
 *.stoptibetcrisis.net
 *.storagenewsletter.com
 *.store-bridgestonesports.com
-*.store.apple.com.edgekey.net
 *.storesense.com
 *.storiesonline.net
 *.storify.com
@@ -17710,7 +17715,6 @@
 *.www.ajsands.com
 *.www.antd.org
 *.www.aolnews.com
-*.www.apple.com.edgekey.net
 *.www.cmoinc.org
 *.www.destinationurl.com
 *.www.dwheeler.com
@@ -19210,6 +19214,8 @@ HostRegex: (^|\.)9cha[0-9]{2}\.cc$
 HostRegex: (^|\.)aipa(111|222|333|444|555|666|777|888|999)\.life$
 HostRegex: (^|\.)aisejushi(2|3|5|6)\.com$
 HostRegex: (^|\.)aiwei[1-9]{2}\.buzz$
+HostRegex: (^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
+HostRegex: (^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 HostRegex: (^|\.)aqdk[0-9]{3}\.com$
 HostRegex: (^|\.)avcc1[0-9]\.com$
 HostRegex: (^|\.)avstar0[1-9]\.(com|me)$
@@ -19348,8 +19354,13 @@ HostRegex: .+\.na-siliconvalley\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.na-toronto\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.sa-saopaulo\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com
+HostRegex: ^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?)).nist.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?)).colorado.edu)$
 HostRegex: ^epicgames-download\d\.akamaized\.net$
 HostRegex: ^ewcdn[0-9]{2}\.nowe\.com$
 HostRegex: ^hses[1-7]?.akamaized.net$
+HostRegex: ^ntp[0-7].ntp-servers.net$
+HostRegex: ^time(.euro)?.apple.com$
+HostRegex: ^time([1-4])?.google.com$
+HostRegex: ^time([1-5])?.facebook.com$
 HostRegex: ^[0-9]+vod-adaptive\.akamaized\.net$
 *.
