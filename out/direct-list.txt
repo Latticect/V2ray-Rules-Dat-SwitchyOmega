@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-01-29 07:55:46
+; 更新时间：2024-01-30 07:55:30
 ; cn域名都不走代理
 *.cn
 
@@ -564,7 +564,6 @@ ff00:*
 *.07cn.com
 *.07ren.com
 *.07swz.com
-*.07yue.com
 *.0813fs.com
 *.0817tv.com
 *.0818tuan.com
@@ -640,6 +639,7 @@ ff00:*
 *.0s8s.com
 *.0sm.com
 *.0uai.com
+*.0x3.com
 *.0x3.me
 *.0x5.me
 *.0x6.me
@@ -2482,7 +2482,6 @@ ff00:*
 *.328f.com
 *.328vip.com
 *.3290.com
-*.32c3.com
 *.32ka.com
 *.32r.com
 *.32wan.com
@@ -3109,6 +3108,7 @@ ff00:*
 *.3songshu.com
 *.3stl.com
 *.3tilabs.com
+*.3tomszob.com
 *.3u.com
 *.3unshine.com
 *.3uol.com
@@ -4252,6 +4252,7 @@ ff00:*
 *.52wlw.com
 *.52wmb.com
 *.52wubi.com
+*.52xcyx.com
 *.52xiaoshuowang.com
 *.52xiaoyuan.net
 *.52xie.com
@@ -6375,6 +6376,7 @@ ff00:*
 *.95297801.com
 *.95303.com
 *.95408.com
+*.95447.com
 *.95504.net
 *.95508.com
 *.95516.com
@@ -7788,7 +7790,6 @@ ff00:*
 *.alianhome.com
 *.aliapp.com
 *.aliapp.org
-*.aliav9.com
 *.aliavv.com
 *.alibaba
 *.alibaba-inc.com
@@ -9059,6 +9060,7 @@ ff00:*
 *.aword.net
 *.awotuan.com
 *.awoyun.com
+*.awsdns-cn-19.net
 *.awsdns-cn-21.biz
 *.awsdns-cn-24.com
 *.awsdns-cn-24.net
@@ -13155,7 +13157,6 @@ ff00:*
 *.changhe.tech
 *.changhong-network.com
 *.changhong.com
-*.changhongdianzi.com
 *.changhongit.com
 *.changhuapower.com
 *.changjiangdata.com
@@ -14924,6 +14925,7 @@ ff00:*
 *.cloudseeplus.com
 *.cloudseetech.com
 *.cloudserver01.com
+*.cloudses.com
 *.cloudsgis.com
 *.cloudshanghai.com
 *.cloudshaoyang.com
@@ -17486,6 +17488,7 @@ ff00:*
 *.ddbiu.com
 *.ddd-china.com
 *.ddddns.net
+*.dddfe.com
 *.dddwan.com
 *.dde-desktop.org
 *.ddfans.com
@@ -17825,6 +17828,7 @@ ff00:*
 *.dgggs.com
 *.dggjqw.com
 *.dggvip.net
+*.dghnyhbvs.xyz
 *.dghqmotor.com
 *.dginfo.com
 *.dgjiuqi.com
@@ -18791,7 +18795,6 @@ ff00:*
 *.doulaidu.com
 *.doulaidu8.cc
 *.douluodalu3.com
-*.doumengkeji.mobi
 *.doumi.com
 *.doumistatic.com
 *.doumobsix.site
@@ -20669,6 +20672,7 @@ ff00:*
 *.evotrue.com
 *.evv1.com
 *.evzhidao.com
+*.ew-wirestripping.com
 *.ew52.com
 *.ew9z.com
 *.ewaga.com
@@ -24647,6 +24651,7 @@ ff00:*
 *.gzrmw.com
 *.gzrobot.com
 *.gzrobots.com
+*.gzsd56.com
 *.gzshciw.com
 *.gzshuangyue.com
 *.gzshuimh.com
@@ -26473,7 +26478,6 @@ ff00:*
 *.hldbtv.com
 *.hldgp.com
 *.hldnews.com
-*.hldsjsjx.com
 *.hlej.com
 *.hlgad.com
 *.hlgdata.com
@@ -27530,6 +27534,7 @@ ff00:*
 *.huayang.net
 *.huayanghui.net
 *.huayanxiu.net
+*.huayaody.com
 *.huayicn.com
 *.huayidiaosu.com
 *.huayijiahe.com
@@ -29449,6 +29454,7 @@ ff00:*
 *.impk.cc
 *.impnails.com
 *.impopper.com
+*.importingtochina.com
 *.impta.com
 *.imqq.com
 *.imququ.com
@@ -34250,6 +34256,7 @@ ff00:*
 *.kyemall.com
 *.kygf1.com
 *.kygf3.com
+*.kygf5.com
 *.kyhtech.com
 *.kyjxy.com
 *.kylc.com
@@ -34358,6 +34365,7 @@ ff00:*
 *.lailook.net
 *.laima-tech.com
 *.laimaidi.com
+*.lainzy.net
 *.laiqi.net
 *.laiqukankan.com
 *.laird-tek.com
@@ -34867,7 +34875,6 @@ ff00:*
 *.leeco.com
 *.leefanmr.com
 *.leehon.com
-*.leeiio.me
 *.leenzhu.com
 *.leeon.me
 *.leepoint.net
@@ -34903,7 +34910,6 @@ ff00:*
 *.lehuiso.com
 *.lei001.com
 *.leibei.cc
-*.leibeiyipei.xyz
 *.leida310.com
 *.leidianip.com
 *.leiduhuaya.com
@@ -35993,6 +35999,7 @@ ff00:*
 *.lmm8.com
 *.lmnsaas.com
 *.lmsail.com
+*.lmsub.com
 *.lmth2013.com
 *.lmtw.com
 *.lmubbs.com
@@ -36159,7 +36166,6 @@ ff00:*
 *.longk.com
 *.longkui.site
 *.longmaosoft.com
-*.longmaoyouxifuwu.com
 *.longmarchspace.com
 *.longmeng.com
 *.longmenhongfu.com
@@ -39377,7 +39383,6 @@ ff00:*
 *.myun.tv
 *.myunke.com
 *.myunying.com
-*.myushan.com
 *.myvactrip.com
 *.myvs.download.prss.microsoft.com
 *.mywakao.com
@@ -41805,6 +41810,7 @@ ff00:*
 *.pf110.com
 *.pf168.com
 *.pf178.com
+*.pfcexpress.com
 *.pfchai.com
 *.pfhoo.com
 *.pfwx.com
@@ -43636,7 +43642,6 @@ ff00:*
 *.qjbian.com
 *.qjcz.com
 *.qjfy.com
-*.qjgyjjh.org
 *.qjhlw.com
 *.qjhm.com
 *.qjimage.com
@@ -46895,7 +46900,6 @@ ff00:*
 *.shiyan.com
 *.shiyanbar.com
 *.shiyanbar.net
-*.shiyanbbs.com
 *.shiyanhospital.com
 *.shiyanjia.com
 *.shiyanlou.com
@@ -50614,6 +50618,7 @@ ff00:*
 *.thmovie.com
 *.thmz.com
 *.thn21.com
+*.thosefree.com
 *.thoughtworkers.org
 *.thrbs.com
 *.threadcn.com
@@ -52759,6 +52764,7 @@ ff00:*
 *.ups-huawei.net
 *.ups.ksmobile.net
 *.ups001.com
+*.ups88.net
 *.upsapp.com
 *.upst86.com
 *.upsunet.com
@@ -53228,7 +53234,6 @@ ff00:*
 *.veryns.com
 *.veryol.com
 *.verypan.com
-*.verysou.com
 *.verysource.com
 *.verystar.net
 *.veryweibo.com
@@ -53772,7 +53777,6 @@ ff00:*
 *.vvv.io
 *.vvvcd.com
 *.vvvdj.com
-*.vvvvzv.com
 *.vvzero.com
 *.vwhulian.com
 *.vwvvwv.com
@@ -54310,6 +54314,7 @@ ff00:*
 *.wdmuz.com
 *.wdodo.com
 *.wdomob.com
+*.wdptj.com
 *.wdres.com
 *.wdsrc.com
 *.wdstory.com
@@ -56488,6 +56493,7 @@ ff00:*
 *.x23us.me
 *.x23us.us
 *.x23wxw.com
+*.x2image.com
 *.x315.com
 *.x3322.net
 *.x3366.com
@@ -58450,6 +58456,7 @@ ff00:*
 *.xtedu.com
 *.xthinking.net
 *.xtibet.com
+*.xtion.net
 *.xtjc.com
 *.xtjky.com
 *.xtjxsb.com
@@ -58845,7 +58852,6 @@ ff00:*
 *.xycloud.com
 *.xyclouds.com
 *.xycwei.com
-*.xyd686.com
 *.xydcname.com
 *.xydcname.net
 *.xydhl.com
@@ -59365,7 +59371,6 @@ ff00:*
 *.ye40.com
 *.yea.im
 *.yeah.net
-*.yeahexp.com
 *.yeahka.com
 *.yeahworld.com
 *.yeai.com
@@ -60106,6 +60111,7 @@ ff00:*
 *.yiyaha.com
 *.yiyakq.com
 *.yiyanche.com
+*.yiyancloud.com
 *.yiyangidc.com
 *.yiyaohang.com
 *.yiyaojd.com
@@ -60220,7 +60226,6 @@ ff00:*
 *.yl1001.com
 *.yladm.com
 *.ylallinone.com
-*.ylcs.cc
 *.yle888.vip
 *.ylfx.com
 *.ylghsj.com
@@ -60365,7 +60370,6 @@ ff00:*
 *.ynycloud.xyz
 *.ynyes.com
 *.ynyp.com
-*.ynzczs.com
 *.ynzg.org
 *.ynzp.com
 *.ynzxpx.com
@@ -62600,6 +62604,7 @@ ff00:*
 *.zhengjicn.com
 *.zhengjie.com
 *.zhengjimt.com
+*.zhenglianp.com
 *.zhenglibin.cloud
 *.zhengmeng.net
 *.zhengpinle.com
@@ -64166,6 +64171,7 @@ ff00:*
 *.zuker.im
 *.zulijian.com
 *.zulinbao.com
+*.zulinks.com
 *.zumbacn.com
 *.zun.com
 *.zun.gd
