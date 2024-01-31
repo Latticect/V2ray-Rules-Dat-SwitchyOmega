@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-01-31 07:55:35
+; 更新时间：2024-02-01 07:55:44
 ; cn域名都不走代理
 *.cn
 
@@ -1084,7 +1084,6 @@ ff00:*
 *.12jn.com
 *.12ky.com
 *.12pk.com
-*.12rj.com
 *.12sporting.com
 *.12tiku.com
 *.12yao.com
@@ -1817,7 +1816,6 @@ ff00:*
 *.1xiezuo.com
 *.1xinzulin.com
 *.1xmb.com
-*.1xz.com
 *.1y.com
 *.1y0g.com
 *.1y2y.com
@@ -4920,7 +4918,6 @@ ff00:*
 *.6543210.com
 *.654321wan.com
 *.654h.com
-*.65522v.com
 *.655u.com
 *.655yx.com
 *.656463.com
@@ -6179,7 +6176,6 @@ ff00:*
 *.91rjz.com
 *.91ronghui.com
 *.91ruyu.com
-*.91safety.com
 *.91sd.com
 *.91sem.cc
 *.91shenshu.com
@@ -6190,7 +6186,6 @@ ff00:*
 *.91sph.com
 *.91spj.com
 *.91sport.cc
-*.91ssw.com
 *.91student.com
 *.91suan.com
 *.91suke.com
@@ -8260,7 +8255,6 @@ ff00:*
 *.anlogic.com
 *.anlu114.com
 *.anmobc.com
-*.anmoxiansheng.com
 *.ann9.com
 *.annabelz.com
 *.anneijun.com
@@ -9278,7 +9272,6 @@ ff00:*
 *.baidu.cc
 *.baidu.cm
 *.baidu.com
-*.baidu.hk
 *.baidu.mobi
 *.baidu.to
 *.baidu1.com
@@ -9334,7 +9327,6 @@ ff00:*
 *.baiheee.com
 *.baihemob.com
 *.baihephoto.com
-*.baihexs.com
 *.baihong.com
 *.baihui.com
 *.baihui168.com
@@ -9772,7 +9764,6 @@ ff00:*
 *.bbbcdns.com
 *.bbbtgo.com
 *.bbchin.com
-*.bbcss.com
 *.bbctop.com
 *.bbdservice.com
 *.bbdup.com
@@ -13001,7 +12992,6 @@ ff00:*
 *.cfca-c.org
 *.cfcglx.com
 *.cfcpn.com
-*.cfcyb.com
 *.cfd-china.com
 *.cfd163.com
 *.cfda.pub
@@ -15208,7 +15198,6 @@ ff00:*
 *.cncbinternational.com
 *.cncc.bingj.com
 *.cnccac.com
-*.cnccar.com
 *.cnccchina.com
 *.cncdn.com
 *.cncelab.com
@@ -16482,7 +16471,6 @@ ff00:*
 *.csvclub.org
 *.csvsc.com
 *.csvw.com
-*.csw18.com
 *.csweigou.com
 *.cswf888.com
 *.csxbank.com
@@ -17126,7 +17114,6 @@ ff00:*
 *.damai.com
 *.damaibs.com
 *.damaicheng.com
-*.damatu1.com
 *.damddos.com
 *.dameisheng.com
 *.dameiweb.com
@@ -21642,7 +21629,6 @@ ff00:*
 *.fh86.com
 *.fhd001.com
 *.fhdjh.com
-*.fhhgj.com
 *.fhldns.com
 *.fhlun.com
 *.fhmion.com
@@ -32098,6 +32084,7 @@ ff00:*
 *.joinwaylawfirm.com
 *.joinwee.com
 *.jojoin.com
+*.jojoread.com
 *.jojoreading.com
 *.jokecommunity.com
 *.jokecommunity.net
@@ -32403,7 +32390,6 @@ ff00:*
 *.jstzrcb.com
 *.jsw988.com
 *.jswebcall.com
-*.jswfg.com
 *.jswjkj.net
 *.jswku.com
 *.jswmw.com
@@ -32537,7 +32523,6 @@ ff00:*
 *.julive.com
 *.julydate.com
 *.julyedu.com
-*.julym.com
 *.julysong.com
 *.jumanhua.com
 *.jumanlou.com
@@ -32810,7 +32795,6 @@ ff00:*
 *.jxyrzdh.com
 *.jxysyz.com
 *.jxyuging.com
-*.jxyworld.com
 *.jxzyx.com
 *.jy0604.com
 *.jy0832.com
@@ -34386,7 +34370,6 @@ ff00:*
 *.l68.net
 *.l7audiolab.com
 *.l99.com
-*.l9p9b.xyz
 *.la-mo.com
 *.laakan.com
 *.lab-z.com
@@ -41701,7 +41684,6 @@ ff00:*
 *.pc811.com
 *.pc89.com
 *.pc9.com
-*.pcaposter.com
 *.pcapqz.com
 *.pcb-hl.com
 *.pcb3.com
@@ -42782,7 +42764,6 @@ ff00:*
 *.pupurazzi.com
 *.pupuwang.com
 *.purcotton.com
-*.purcow.com
 *.pureage.info
 *.purecpp.org
 *.pureh2b.com
@@ -46328,7 +46309,6 @@ ff00:*
 *.sghxz.com
 *.sgjwb.com
 *.sgllk.com
-*.sgmedia.cloud
 *.sgmlink.com
 *.sgmwlu.com
 *.sgmwsales.com
@@ -48386,7 +48366,6 @@ ff00:*
 *.soogif.com
 *.soohaid.com
 *.soojs.com
-*.soolco.com
 *.soolun.com
 *.soomal.com
 *.soonku.net
@@ -57338,7 +57317,6 @@ ff00:*
 *.xiaoleimob.com
 *.xiaoliangkou.com
 *.xiaoliebian.com
-*.xiaoligushihui.com
 *.xiaolin.in
 *.xiaolincoding.com
 *.xiaolinsi.com
@@ -60878,7 +60856,6 @@ ff00:*
 *.youxichaguan.com
 *.youxicheng.net
 *.youxicitang.com
-*.youxicity.com
 *.youxicool.net
 *.youxidaxue.com
 *.youxidr.com
@@ -62760,7 +62737,6 @@ ff00:*
 *.zhengdaotang.com
 *.zhengdichaiqian.com
 *.zhengdongzulin.com
-*.zhengfenduojin.com
 *.zhengguzhishen.com
 *.zhenghangyq.net
 *.zhengjia.com
