@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-02-08 07:55:39
+; 更新时间：2024-02-09 07:55:38
 ; cn域名都不走代理
 *.cn
 
@@ -6525,7 +6525,6 @@ ff00:*
 *.987.com
 *.9873.com
 *.987app.com
-*.987jx.net
 *.987you.com
 *.98809.com
 *.988272.com
@@ -7741,6 +7740,7 @@ ff00:*
 *.ak1ak1.com
 *.ak47ids.com
 *.akaifa.com
+*.akamai.com
 *.akashadata.com
 *.akaxin.com
 *.akbe.com
@@ -8647,6 +8647,7 @@ ff00:*
 *.apsgo.com
 *.aptchina.com
 *.aptchip.com
+*.aptdn.net
 *.aptenon.com
 *.apusic.com
 *.apxm.net
@@ -16099,7 +16100,6 @@ ff00:*
 *.cqbnedu.com
 *.cqbnrc.com
 *.cqbntv.com
-*.cqbyer.net
 *.cqbys.com
 *.cqcaee.com
 *.cqcatr.com
@@ -17312,7 +17312,6 @@ ff00:*
 *.data5u.com
 *.data777.com
 *.data985.com
-*.datacachelocation.com
 *.datacaciques.com
 *.datacname.com
 *.datadragon.net
@@ -18270,7 +18269,6 @@ ff00:*
 *.div.io
 *.divcss5.com
 *.divepai.com
-*.divetgallery.com
 *.diving-fish.com
 *.diwork.com
 *.dixintong.com
@@ -18660,7 +18658,6 @@ ff00:*
 *.domengle.com
 *.dominoh.com
 *.domobcdn.com
-*.domolo.com
 *.domp4.cc
 *.domyshop.com
 *.donews.com
@@ -30341,7 +30338,6 @@ ff00:*
 *.iucars.com
 *.iucdn.com
 *.iuctrip.com
-*.iudodo.com
 *.iufida.com
 *.iuinns.com
 *.iuni.com
@@ -30583,6 +30579,7 @@ ff00:*
 *.janmeng.com
 *.janpn.com
 *.janrain.biz
+*.janrainservices.com
 *.jarencai.com
 *.jarhu.com
 *.jarvisw.com
@@ -34757,7 +34754,6 @@ ff00:*
 *.laserfair.com
 *.lashou.com
 *.lastdream.net
-*.lasy.site
 *.lategege.com
 *.latepost.com
 *.latexstudio.net
@@ -36489,7 +36485,6 @@ ff00:*
 *.lsfyw.net
 *.lsg3.com
 *.lsgrandtheatre.com
-*.lsgsgs.com
 *.lsgw.com
 *.lsgzn.com
 *.lsh-cat.com
@@ -49723,7 +49718,6 @@ ff00:*
 *.szlilun.com
 *.szline9.com
 *.szlingsheng.com
-*.szlips.com
 *.szlos.com
 *.szlottery.org
 *.szltech.com
@@ -53812,6 +53806,7 @@ ff00:*
 *.vpssir.com
 *.vpsss.net
 *.vpszh.com
+*.vqlai.com
 *.vqs.com
 *.vqu.show
 *.vqudo.com
@@ -56426,7 +56421,6 @@ ff00:*
 *.www-63608.com
 *.www-hangzhou-aliyun.com
 *.www.adobe.com
-*.www.akamai.com
 *.www.amd.com
 *.www.analog.com
 *.www.cc
@@ -58012,7 +58006,6 @@ ff00:*
 *.xishuai.com
 *.xishuai.net
 *.xishuashuatuan.com
-*.xisj.com
 *.xitaoinfo.com
 *.xitek.com
 *.xitek.net
@@ -58523,7 +58516,6 @@ ff00:*
 *.xqnmz.com
 *.xqsbw.com
 *.xqship.com
-*.xqtesting.com
 *.xqyk024.com
 *.xqymuy.com
 *.xqypay.com
@@ -58599,7 +58591,6 @@ ff00:*
 *.xsstomy.com
 *.xssz.net
 *.xsteach.com
-*.xsthmy.com
 *.xsti.net
 *.xstqj.com
 *.xstx.info
@@ -58916,7 +58907,6 @@ ff00:*
 *.xwjr.com
 *.xwjy.org
 *.xwkjcms.com
-*.xwko.com
 *.xwlunwen.com
 *.xwlxw.com
 *.xwtex.com
