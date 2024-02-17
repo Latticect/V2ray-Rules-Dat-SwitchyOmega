@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-02-17 07:55:43
+; 更新时间：2024-02-18 07:55:36
 ; cn域名都不走代理
 *.cn
 
@@ -15563,8 +15563,11 @@ ff00:*
 *.clouddongying.com
 *.clouddream.net
 *.cloudflare-cn.com
+*.cloudflareanycast.net
 *.cloudflarecn.net
+*.cloudflareglobal.net
 *.cloudflareinsights-cn.com
+*.cloudflareperf.com
 *.cloudflareprod.com
 *.cloudflarestaging.com
 *.cloudflarestoragegw.com

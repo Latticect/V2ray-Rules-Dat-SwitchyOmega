@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-02-17 07:55:43
+; 更新时间：2024-02-18 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2541,6 +2541,7 @@
 *.bingapis.com
 *.bingapistatistics.com
 *.bingo
+*.bingparachute.com
 *.bingsandbox.com
 *.bingvisualsearch.com
 *.bingworld.com
@@ -7203,6 +7204,7 @@
 *.globalriskregulator.com
 *.globalsecurity.org
 *.globalsign-media.com
+*.globalsign.cloud
 *.globalsign.net
 *.globalspec.com
 *.globaltm.org
@@ -17425,6 +17427,8 @@
 *.wetplace.com
 *.wetpussygames.com
 *.wetsextube.com
+*.wetv.vip
+*.wetvinfo.com
 *.wexiaobo.org
 *.wezhiyong.org
 *.wezone.net
@@ -19108,6 +19112,7 @@ vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
 weblive-hamivideo.cdn.hinet.net
+wetv.qq.com
 widgets.stripst.com
 wip.adobe.com
 wip1.adobe.com
