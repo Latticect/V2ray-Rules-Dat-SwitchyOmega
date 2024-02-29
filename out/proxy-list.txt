@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-02-29 07:55:40
+; 更新时间：2024-03-01 07:55:48
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -627,7 +627,6 @@
 *.accountpaypal.com
 *.accountpaypal.net
 *.accountpaypal.org
-*.accounts.googlers.com
 *.accuweather.com
 *.accv.es
 *.acebooik.com
@@ -8679,7 +8678,6 @@
 *.gcmasia.com
 *.gcolle.net
 *.gcpnews.com
-*.gcpnode.com
 *.gcr.io
 *.gcrtires.com
 *.gdansk-amazon.com
@@ -17423,6 +17421,7 @@
 *.rebates.jp
 *.rebatesrule.net
 *.rebrandly.com
+*.recaptcha-cn.net
 *.recaptcha.net
 *.recelebrity.com
 *.reckitt.net
@@ -20688,7 +20687,6 @@
 *.uo.com
 *.uocn.org
 *.uoherald.com
-*.up.gcp.googlers.com
 *.up01.cc
 *.update.crashlytics.com
 *.updatetube.com
