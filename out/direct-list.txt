@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-03-03 07:55:54
+; 更新时间：2024-03-04 07:55:47
 ; cn域名都不走代理
 *.cn
 
@@ -1792,6 +1792,7 @@ ff00:*
 *.188lanxi.com
 *.188mb.com
 *.188naicha.com
+*.188pi.com
 *.188soft.com
 *.188wan.com
 *.188yd.com
@@ -3513,7 +3514,6 @@ ff00:*
 *.4001961200.com
 *.400301.com
 *.40046aa.com
-*.400516.com
 *.4006026717.com
 *.4006055885.com
 *.4006216888.com
@@ -3908,7 +3908,6 @@ ff00:*
 *.517na.com
 *.517rcw.com
 *.517tez.com
-*.517w.com
 *.517xc.com
 *.5184.com
 *.51845.com
@@ -6033,7 +6032,6 @@ ff00:*
 *.7cxk.com
 *.7dah8.com
 *.7didc.com
-*.7do.net
 *.7down.com
 *.7down.net
 *.7dtest.com
@@ -6332,7 +6330,6 @@ ff00:*
 *.860527.com
 *.860598.com
 *.860816.com
-*.861522.com
 *.861718.com
 *.86175.com
 *.861817.com
@@ -6851,7 +6848,6 @@ ff00:*
 *.91xfw.com
 *.91xhg.com
 *.91xiake.com
-*.91xiazai.com
 *.91xinshang.com
 *.91xsj.com
 *.91xueshu.com
@@ -7782,7 +7778,6 @@ ff00:*
 *.adbkwai.com
 *.adbxb.com
 *.adc-expo.com
-*.adccd.com
 *.adcdn.com
 *.adcomeon.com
 *.adconfer.com
@@ -9006,6 +9001,7 @@ ff00:*
 *.amzndns-cn.biz
 *.amzndns-cn.com
 *.amzndns-cn.net
+*.an1health.com
 *.analysysdata.com
 *.analytics-china.com
 *.analyticskey.com
@@ -10850,6 +10846,7 @@ ff00:*
 *.bazhuay.com
 *.bazhuayu.cc
 *.bazhuayu.com
+*.bazhuayukeji.com
 *.bazi.cloud
 *.bazi.xin
 *.bazi5.com
@@ -11107,7 +11104,6 @@ ff00:*
 *.behrenswatches.shop
 *.bei1688.com
 *.beianidc.com
-*.beianw.net
 *.beibaozq.com
 *.beibei.com
 *.beibeicdn.com
@@ -11479,7 +11475,6 @@ ff00:*
 *.bianzhile.com
 *.bianzhirensheng.com
 *.biao12.com
-*.biao6688.com
 *.biao689.com
 *.biaoceo.com
 *.biaodan.info
@@ -14884,7 +14879,6 @@ ff00:*
 *.cheerupmail.com
 *.cheetahfun.com
 *.chefafa.com
-*.chefans.com
 *.chefugao.com
 *.chegud.com
 *.cheguo.com
@@ -15508,7 +15502,6 @@ ff00:*
 *.chinaidaa.org
 *.chinaidcnet.com
 *.chinaidcnet.net
-*.chinaidns.com
 *.chinaido.com
 *.chinaidr.com
 *.chinaielts.org
@@ -16806,7 +16799,6 @@ ff00:*
 *.cmidc.net
 *.cming.com
 *.cmjz.net
-*.cmljs.org
 *.cmlong.com
 *.cmmim.com
 *.cmnxt.com
@@ -18067,7 +18059,6 @@ ff00:*
 *.cqnews.net
 *.cqnhn.com
 *.cqnkhz4j8nmhqp.com
-*.cqpa.org
 *.cqpbx.com
 *.cqph.com
 *.cqpinjian.com
@@ -18588,6 +18579,7 @@ ff00:*
 *.cuour.org
 *.cupdapp.com
 *.cupdata.com
+*.cupddns.com
 *.cupddns.net
 *.cupdns.com
 *.cupfox.com
@@ -18601,7 +18593,6 @@ ff00:*
 *.custeel.com
 *.customsapp.com
 *.cut35.com
-*.cutecomm.com
 *.cutefishos.com
 *.cuteng.com
 *.cutercounter.com
@@ -19124,7 +19115,6 @@ ff00:*
 *.daliansky.net
 *.dalianxianting.com
 *.daliapp.net
-*.daling.com
 *.dalipan.com
 *.dalongkeji.com
 *.dalongyun.com
@@ -24379,6 +24369,7 @@ ff00:*
 *.fjnet.com
 *.fjotic.com
 *.fjpta.com
+*.fjptzyt.com
 *.fjreading.com
 *.fjsdn.com
 *.fjsen.com
@@ -24538,6 +24529,7 @@ ff00:*
 *.fn-tech.com
 *.fn.com
 *.fn01.vip
+*.fn02.vip
 *.fn03.vip
 *.fnconn.com
 *.fnetlink.com
@@ -30041,6 +30033,7 @@ ff00:*
 *.hnpfw.com
 *.hnpic.com
 *.hnpolice.com
+*.hnpwholesale.com.au
 *.hnqbb.com
 *.hnqfseed.com
 *.hnqingnuo.com
@@ -30697,6 +30690,7 @@ ff00:*
 *.ht73mm.xyz
 *.ht88.com
 *.ht9.com
+*.ht97hh.xyz
 *.htanwang.com
 *.htaocloud.com
 *.htbaba.com
@@ -31605,6 +31599,7 @@ ff00:*
 *.hwehs.com
 *.hweimall.com
 *.hwfcw.com
+*.hwhidc.com
 *.hwht.com
 *.hwjnf12.com
 *.hwjyw.com
@@ -33378,6 +33373,7 @@ ff00:*
 *.inrugao.com
 *.insarticle.com
 *.inshiqi.com
+*.inshotapp.com
 *.insidelinuxdev.net
 *.insightblog.ca
 *.insnail.com
@@ -34943,6 +34939,7 @@ ff00:*
 *.jiankanghebei.com
 *.jiankangju.com
 *.jiankangsn.com
+*.jiankangyouyi.com
 *.jianke.cc
 *.jianke.com
 *.jianke.net
@@ -38777,7 +38774,6 @@ ff00:*
 *.laihema.com
 *.laihua.com
 *.laijiawen.com
-*.laijiuye.com
 *.laikan.com
 *.laikanxing.com
 *.laikanxs.com
@@ -45211,7 +45207,6 @@ ff00:*
 *.niceisp.com
 *.nicekid.com
 *.nicelabel.cc
-*.nicelinks.site
 *.niceloo.com
 *.nicemme.com
 *.nicesnow.com
@@ -45856,7 +45851,6 @@ ff00:*
 *.nwdlink.com
 *.nweon.com
 *.nwnthevast.net
-*.nwtongcheng.com
 *.nx-sc.com
 *.nx.cm
 *.nx5.com
@@ -47376,7 +47370,6 @@ ff00:*
 *.phonecoolgame.com
 *.phonegap.me
 *.phonegap100.com
-*.phonekr.com
 *.phonelinksoft.com
 *.phonertech.com
 *.phopic.com
@@ -50263,7 +50256,6 @@ ff00:*
 *.ramboplay.com
 *.ramostear.com
 *.rancat.im
-*.random-online.com
 *.ranfenghd.com
 *.rangercd.com
 *.rangnihaokan.com
@@ -50632,6 +50624,7 @@ ff00:*
 *.return.net
 *.returnc.com
 *.reverselove.com
+*.revy.asia
 *.rew65.com
 *.rewnat.xyz
 *.reworlder.com
@@ -57023,7 +57016,6 @@ ff00:*
 *.tdgod.com
 *.tdict.com
 *.tdimg.com
-*.tdldz.com
 *.tdlegg.com
 *.tdmall.cc
 *.tdmoli2.com
@@ -58177,6 +58169,7 @@ ff00:*
 *.tongliangrc.com
 *.tongliaowang.com
 *.tonglu-tour.com
+*.tongmengge.com
 *.tongniguoji.com
 *.tongren.jp
 *.tongshanbank.com
@@ -62623,6 +62616,7 @@ ff00:*
 *.whzph.com
 *.whzsrc.com
 *.whzu.net
+*.whzww.com
 *.whzwzk.com
 *.whzwzs.com
 *.whzxht.com
@@ -63968,6 +63962,7 @@ ff00:*
 *.wzime.com
 *.wzits.com
 *.wzj9.com
+*.wzjbbus.com
 *.wzjxyq.com
 *.wzkex.com
 *.wzksw.com
@@ -65672,6 +65667,8 @@ ff00:*
 *.xiyouchat.com
 *.xiyouence.com
 *.xiyouji.com
+*.xiyoulink.net
+*.xiyoumao.com
 *.xiyouquan.com
 *.xiyousdk.com
 *.xiyouwebgame.com
@@ -67195,6 +67192,7 @@ ff00:*
 *.ycbright.com
 *.yccar.com
 *.yccdn.com
+*.yccr.net
 *.ycdongxu.com
 *.ycduile.com
 *.ycdz.shop
@@ -72008,7 +72006,6 @@ ff00:*
 *.zizhuauto.com
 *.zizhupark.com
 *.zizhuyuangongyuan.com
-*.zizisi.com
 *.zizizizizi.com
 *.zizzs.com
 *.zj-art.com
