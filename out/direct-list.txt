@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-03-11 07:55:48
+; 更新时间：2024-03-12 07:55:38
 ; cn域名都不走代理
 *.cn
 
@@ -4857,7 +4857,6 @@ ff00:*
 *.5548.net
 *.555000d3.com
 *.5551557.com
-*.5553089.com
 *.55555558.com
 *.555bb666cc.com
 *.555bb888bb.com
@@ -9818,6 +9817,7 @@ ff00:*
 *.asktao.com
 *.askxt.org
 *.askzybf.com
+*.askzycdn.com
 *.aslk2018.com
 *.aslzw.com
 *.asm64.com
@@ -15350,7 +15350,6 @@ ff00:*
 *.china356.com
 *.china3gpp.com
 *.china4a.org
-*.china50plus.com
 *.china5e.com
 *.china60.com
 *.china6688.com
@@ -22398,7 +22397,6 @@ ff00:*
 *.ediuschina.com
 *.edk24.com
 *.edlcaster.com
-*.edmadf.com
 *.edmcn.net
 *.edmseller.com
 *.edns.com
@@ -22993,7 +22991,6 @@ ff00:*
 *.eqnvip.com
 *.equdong.net
 *.equipmentimes.com
-*.equn.com
 *.eqxiu.com
 *.eqxiu.mobi
 *.eqxiul.com
@@ -24344,6 +24341,7 @@ ff00:*
 *.fi-play.com
 *.fi0.cc
 *.fi11tv162.com
+*.fi11tv170.com
 *.fi1818.com
 *.fi94.com
 *.fibercrops.com
@@ -50373,7 +50371,6 @@ ff00:*
 *.qyjks.com
 *.qyjpzx.com
 *.qykh2009.com
-*.qykodo.com
 *.qyle1.com
 *.qymgc.com
 *.qyous.com
@@ -57829,6 +57826,7 @@ ff00:*
 *.thupdi.com
 *.thurcacca.org
 *.thwiki.cc
+*.thwpmanage.com
 *.thxbxg.com
 *.thxddb.com
 *.thxedu.com
