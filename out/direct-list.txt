@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-03-13 07:55:44
+; 更新时间：2024-03-14 07:57:47
 ; cn域名都不走代理
 *.cn
 
@@ -5254,6 +5254,7 @@ ff00:*
 *.5jli.com
 *.5joys.com
 *.5jwl.com
+*.5k.work
 *.5kbox.com
 *.5kcrm.com
 *.5kcrm.net
@@ -5836,7 +5837,6 @@ ff00:*
 *.7220z.com
 *.7230.com
 *.7239ll.net
-*.724001.com
 *.7255.com
 *.726033.com
 *.726p.com
@@ -6607,6 +6607,7 @@ ff00:*
 *.8lk.com
 *.8llp.com
 *.8mhh.com
+*.8mi.tech
 *.8miu.com
 *.8miu.net
 *.8mkt.com
@@ -13131,6 +13132,8 @@ ff00:*
 *.byfcw.com
 *.byfen.com
 *.byfunds.com
+*.byfurry.com
+*.byfurry.net
 *.byfzxy.com
 *.bygamesdk.com
 *.byguitar.com
@@ -17366,7 +17369,6 @@ ff00:*
 *.cnnerv.com
 *.cnnetsec.com
 *.cnnfootballclub.com
-*.cnnic.pub
 *.cnnmol.com
 *.cnnorip.org
 *.cnnot.com
@@ -21259,7 +21261,6 @@ ff00:*
 *.dowv.com
 *.doxue.com
 *.doyee.com
-*.doyoe.com
 *.doyoo.net
 *.doyoudo.com
 *.doyouhike.net
@@ -25948,6 +25949,7 @@ ff00:*
 *.gdwxyf.com
 *.gdxfl.com
 *.gdxinya.com
+*.gdxmsx.com
 *.gdxscode.com
 *.gdxxb.com
 *.gdxych.com
@@ -32574,6 +32576,7 @@ ff00:*
 *.ict361.com
 *.ict88.com
 *.ictcsr.org
+*.ictdns.store
 *.ictehi.com
 *.ictest8.com
 *.ictlce.com
@@ -32581,6 +32584,7 @@ ff00:*
 *.ictpaas.com
 *.ictun.com
 *.ictuniv.com
+*.icu.moe
 *.iculture.cc
 *.icver.com
 *.icvip.com
@@ -40410,7 +40414,6 @@ ff00:*
 *.linkunbin.com
 *.linkvans.com
 *.linkwebll.com
-*.linkweway.com
 *.linlongyun.com
 *.linlongyx.com
 *.linmi.cc
@@ -43333,7 +43336,6 @@ ff00:*
 *.milu.com
 *.milvzn.com
 *.mima.club
-*.mimgame.com
 *.mimi518.com
 *.mimidi.com
 *.mimiteng.com
@@ -45062,6 +45064,7 @@ ff00:*
 *.ncacg.org
 *.ncboo.com
 *.nccqj.com
+*.ncderuida.com
 *.ncdxbbs.com
 *.ncfcsa.org
 *.ncfgroup.com
@@ -45373,6 +45376,7 @@ ff00:*
 *.nfschina.com
 *.nftoolshop.com
 *.nfyeya.com
+*.nfyun.vip
 *.nfzhouyi.com
 *.ng-alain.com
 *.ng021.com
@@ -57512,6 +57516,7 @@ ff00:*
 *.tencentrio.com
 *.tencentstart.com
 *.tencentsuite.com
+*.tencenttds.com
 *.tencenttid.com
 *.tencentwemeet.club
 *.tencentwepark.com
@@ -57787,6 +57792,7 @@ ff00:*
 *.threatbook.net
 *.threegorgestours.com
 *.threetong.com
+*.thrrip.space
 *.ths123.com
 *.ths8.com
 *.thseoer.com
@@ -58901,6 +58907,7 @@ ff00:*
 *.tronixin.com
 *.tropcdn.com
 *.trpcdn.net
+*.trpcw.com
 *.trqjrp.xyz
 *.trsoft.vip
 *.trsoft.xin
@@ -65183,7 +65190,6 @@ ff00:*
 *.xiaominet.com
 *.xiaominfo.com
 *.xiaoming.me
-*.xiaomingming.org
 *.xiaomingtaiji.com
 *.xiaomiqiu.com
 *.xiaomiquan.com
@@ -67951,6 +67957,7 @@ ff00:*
 *.yibenmanhua.com
 *.yibite.com
 *.yibocat.com
+*.yiboshi.com
 *.yicai.com
 *.yicaiglobal.com
 *.yicamp.com
@@ -68604,6 +68611,7 @@ ff00:*
 *.yjxlawyer.com
 *.yjxsoft.com
 *.yjydl.com
+*.yjyxiyan.com
 *.yjz9.com
 *.yjzb.app
 *.yjzb.tv
@@ -68769,6 +68777,7 @@ ff00:*
 *.yneit.com
 *.ynet.com
 *.ynfabu.com
+*.ynfmly.com
 *.ynfwyy.com
 *.ynfxw.com
 *.yngd016.com
@@ -70212,6 +70221,7 @@ ff00:*
 *.ywies-shpd.com
 *.ywindex.com
 *.ywinf.com
+*.ywit.xyz
 *.ywky.org
 *.ywlm.net
 *.ywnds.com
