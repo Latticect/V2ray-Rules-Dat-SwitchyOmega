@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-03-16 07:55:31
+; 更新时间：2024-03-17 07:55:39
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -16245,6 +16245,7 @@
 *.pinflix.com
 *.ping.fm
 *.ping.pe
+*.ping.sx
 *.pingguotv.xyz
 *.pingxiangpuer.com
 *.pinimg.com
@@ -20003,6 +20004,8 @@
 *.tiktokd.net
 *.tiktokd.org
 *.tiktokv.com
+*.tiktokv.us
+*.tiktokw.us
 *.tiltbrush.com
 *.timdir.com
 *.time.com
@@ -23061,6 +23064,7 @@
 *.yam.org.tw
 *.yamaxun
 *.yamaxun.com
+*.yamibo.com
 *.yammer.com
 *.yamoon.club
 *.yande.re
@@ -23893,6 +23897,7 @@ prd-priconne-redive.akamaized.net
 production-openaicom-storage.azureedge.net
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
+public-us-pingsx.api.clonoth.com
 push-apple.com.akadns.net
 pvr-hamivideo.cdn.hinet.net
 qualcomm.sc.omtrdc.net
