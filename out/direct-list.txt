@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-03-18 07:55:39
+; 更新时间：2024-03-19 07:55:35
 ; cn域名都不走代理
 *.cn
 
@@ -596,7 +596,6 @@ ff00:*
 *.0755zb.com
 *.0756fang.com
 *.0756hhr.com
-*.0756home.com
 *.0756idc.com
 *.0756seo.com
 *.0756tong.com
@@ -3428,6 +3427,7 @@ ff00:*
 *.3h3.com
 *.3h77.com
 *.3hmlg.com
+*.3i8uiq2w.work
 *.3incloud.com
 *.3jdh.com
 *.3jidi.com
@@ -8033,6 +8033,7 @@ ff00:*
 *.aginomoto.com
 *.agiquery.com
 *.agiso.com
+*.agit.site
 *.agoow.com
 *.agora.io
 *.agoralab.co
@@ -9671,7 +9672,6 @@ ff00:*
 *.arkoo.com
 *.arkrdigital.com
 *.arkread.com
-*.arkteam.net
 *.arliki.com
 *.arlmy.me
 *.arm9.net
@@ -14132,7 +14132,6 @@ ff00:*
 *.cdbsfund.com
 *.cdbvzs.com
 *.cdccpit.org
-*.cdcd.plus
 *.cdcet.com
 *.cdcgames.net
 *.cdchuandong.com
@@ -15007,7 +15006,6 @@ ff00:*
 *.chemwith.com
 *.chemyq.com
 *.chen-design.com
-*.chen-nuo.com
 *.chenag.com
 *.chenall.net
 *.chenapp.com
@@ -15077,8 +15075,10 @@ ff00:*
 *.chenlinux.com
 *.chenlinzuwu.com
 *.chenmomo.com
+*.chennianyoupin.com
 *.chenpe.com
 *.chenpeng.info
+*.chenpishoucang.com
 *.chenplus.com
 *.chenpot.com
 *.chenruixuan.com
@@ -17651,7 +17651,6 @@ ff00:*
 *.codekissyoung.com
 *.codekk.com
 *.codelife.cc
-*.codelover.link
 *.codemany.com
 *.codemart.com
 *.codemm.net
@@ -20357,6 +20356,7 @@ ff00:*
 *.diershoubing.com
 *.dietfd.com
 *.diexun.com
+*.dieyanli.com
 *.diezhan.me
 *.diezhan6.com
 *.difanapp.com
@@ -21538,6 +21538,7 @@ ff00:*
 *.dumpapp.com
 *.dun-mfy-cdn.com
 *.dun.tax
+*.dungeon-server.com
 *.dunjiaodu.com
 *.dunkhome.com
 *.dunstanhardcastle.com
@@ -28325,6 +28326,7 @@ ff00:*
 *.hanlefang.net
 *.hanlei.org
 *.hanlin.press
+*.hanlindong.com
 *.hanlinzhijia.net
 *.hanmaidj.com
 *.hanmaker.com
@@ -28472,6 +28474,7 @@ ff00:*
 *.haohanfw.com
 *.haohanguo.com
 *.haohanpower.tech
+*.haohaomy.com
 *.haohaotuan.com
 *.haohaowan.com
 *.haohaoxiu.com
@@ -37748,6 +37751,7 @@ ff00:*
 *.kekepx.com
 *.kekeshici.com
 *.kekexueba.com
+*.kekeyuyin.com
 *.kekoku.com
 *.kel99.com
 *.kele8.com
@@ -37893,7 +37897,6 @@ ff00:*
 *.ki-pa.com
 *.kiaic.com
 *.kibinggroup.com
-*.kibo.tech
 *.kid17.com
 *.kidbra.xyz
 *.kidscoding8.com
@@ -47525,7 +47528,6 @@ ff00:*
 *.petroren.com
 *.petrvet.com
 *.pettime.info
-*.pettwo.com
 *.pewax88.com
 *.pewld.com
 *.pewsc.com
@@ -50086,6 +50088,7 @@ ff00:*
 *.queniulf.com
 *.queniumf.com
 *.queniupl.com
+*.queniupz.com
 *.queniuqy.com
 *.queniurc.com
 *.queniusa.com
@@ -50954,6 +50957,7 @@ ff00:*
 *.riji13.com
 *.rijigu.com
 *.rijiwang.com
+*.rili11.com
 *.rilijingling.com
 *.rilvtong.com
 *.rilzob.com
@@ -62316,7 +62320,6 @@ ff00:*
 *.weizhoudaoly.com
 *.weizhuangfu.com
 *.weizhuanji.com
-*.weizhuannet.com
 *.weizoom.com
 *.wejianzhan.com
 *.wejoydata.com
@@ -63127,7 +63130,6 @@ ff00:*
 *.wiswonder.com
 *.wit-parking.com
 *.wit0.com
-*.wit5.com
 *.witcp.com
 *.with366.com
 *.withcdn.com
@@ -69231,6 +69233,7 @@ ff00:*
 *.youyi-game.com
 *.youyigame.com
 *.youyijifen.com
+*.youyijiu.com
 *.youyilm.com
 *.youyiqi.com
 *.youyiqiaogou.com
@@ -70784,6 +70787,7 @@ ff00:*
 *.zdwfy.com
 *.zdworks.com
 *.zdwx.net
+*.zdxygl.com
 *.zdz.la
 *.zdzdm.com
 *.zdzwtesting.com
@@ -71721,6 +71725,7 @@ ff00:*
 *.zhizuotu.com
 *.zhj9.com
 *.zhjiameng.com
+*.zhjiu.com
 *.zhjj.org
 *.zhjncb.com
 *.zhjp.net
