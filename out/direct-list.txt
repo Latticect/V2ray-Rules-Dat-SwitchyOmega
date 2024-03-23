@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-03-23 07:55:29
+; 更新时间：2024-03-24 07:55:29
 ; cn域名都不走代理
 *.cn
 
@@ -1546,7 +1546,6 @@ ff00:*
 *.171zz.com
 *.17207.com
 *.172222.com
-*.17284.net
 *.172haoka.vip
 *.172llk.com
 *.172tt.com
@@ -2211,7 +2210,6 @@ ff00:*
 *.21shipin.com
 *.21shte.net
 *.21sjmg.com
-*.21skcy.com
 *.21smov.com
 *.21so.com
 *.21softs.com
@@ -4228,7 +4226,6 @@ ff00:*
 *.51nwt.com
 *.51offer.com
 *.51oneone.com
-*.51onlines.com
 *.51open.net
 *.51opone.com
 *.51ops.com
@@ -6030,6 +6027,7 @@ ff00:*
 *.78fz.com
 *.78gk.com
 *.78hr.com
+*.78md.com
 *.78oa.com
 *.78tp.com
 *.79.com
@@ -11383,7 +11381,6 @@ ff00:*
 *.bestcovered.com
 *.bestdo.com
 *.bestdon.net
-*.bestebookdownload.com
 *.bestechnic.com
 *.bestedm.net
 *.bestedm.org
@@ -12781,7 +12778,6 @@ ff00:*
 *.bqg99.cc
 *.bqge.org
 *.bqgwap.com
-*.bqimg.com
 *.bqpoint.com
 *.bqq8.com
 *.bqrdh.com
@@ -12991,7 +12987,6 @@ ff00:*
 *.buildhr.com
 *.buildjob.net
 *.buildwaterexpo.com
-*.buimg.com
 *.bujie.com
 *.bukamanhua.com
 *.bukamh.com
@@ -17753,7 +17748,6 @@ ff00:*
 *.cogobuy.com
 *.cogonline.com
 *.cohim.com
-*.cohulu.com
 *.coilmx.com
 *.coin007.com
 *.coin163.com
@@ -19115,7 +19109,6 @@ ff00:*
 *.dafangya.com
 *.dafanshu.com
 *.dafork.com
-*.dafy.com
 *.dagangcheng.com
 *.dagao.net
 *.dagongcredit.com
@@ -19941,6 +19934,7 @@ ff00:*
 *.desay.com
 *.desaysv.com
 *.deserts.io
+*.deshaus.com
 *.design-engine.org
 *.design006.com
 *.designjiaoshi.com
@@ -20624,7 +20618,6 @@ ff00:*
 *.djeconomic.com
 *.djf.com
 *.djfj.net
-*.djhgyy.com
 *.djhjyw.com
 *.dji.com
 *.dji.net
@@ -21103,7 +21096,6 @@ ff00:*
 *.dongyun01.com
 *.dongzhougroup.com
 *.dongzhuoyao.com
-*.donhammondbattlecreekmi.com
 *.donhonet.net
 *.donnor.com
 *.donvv.com
@@ -22189,6 +22181,7 @@ ff00:*
 *.easytimetv.com
 *.easytite.com
 *.easytocn.com
+*.easytouch-manager.com
 *.easytouch.com
 *.easytrip.com
 *.easyv.cloud
@@ -23376,6 +23369,7 @@ ff00:*
 *.exchen.net
 *.excm.net
 *.exdoll.com
+*.exeedcars.com
 *.exetools.com
 *.exexm.com
 *.exezhanqun.com
@@ -24114,7 +24108,6 @@ ff00:*
 *.feipinzhan.com
 *.feiq18.com
 *.feirar.com
-*.feiren.com
 *.feisan.net
 *.feishu-3rd-party-services.com
 *.feishu.net
@@ -25349,7 +25342,6 @@ ff00:*
 *.fybxw.com
 *.fycpu.com
 *.fydeos.com
-*.fydns360.net
 *.fyeds.com
 *.fyeds0.com
 *.fyeds1.com
@@ -31879,7 +31871,6 @@ ff00:*
 *.hxbdxled.com
 *.hxbsth.com
 *.hxbus.net
-*.hxbxw.com
 *.hxc-power.com
 *.hxcdn.net
 *.hxchem.net
@@ -31916,6 +31907,7 @@ ff00:*
 *.hxmeishi.com
 *.hxnews.com
 *.hxny.com
+*.hxpdd.com
 *.hxposuiji.com
 *.hxppw.com
 *.hxqc.com
@@ -32918,6 +32910,7 @@ ff00:*
 *.ifnews.com
 *.ifonelab.net
 *.ifonts.com
+*.iforce-ad.com
 *.iforce-media.com
 *.ifoxfactory.com
 *.ifreecdn.com
@@ -34210,7 +34203,6 @@ ff00:*
 *.itnb.cc
 *.itnec.org
 *.itnihao.com
-*.itniwota.com
 *.itnpc.com
 *.itnxs.com
 *.itoec.org
@@ -38075,7 +38067,6 @@ ff00:*
 *.kirincloud.net
 *.kirinmach.com
 *.kirinvm.com
-*.kischess.com
 *.kisdee.com
 *.kiss688.com
 *.kiss998.com
@@ -47025,7 +47016,6 @@ ff00:*
 *.outes.com
 *.outlets365.com
 *.outletscn.com
-*.ouugo.com
 *.ouvps.com
 *.ouxiangxiezhen.com
 *.ouyada.com
@@ -47478,6 +47468,7 @@ ff00:*
 *.pdazw.com
 *.pdbeta.com
 *.pdcuo.com
+*.pdd-fapiao.com
 *.pdd.net
 *.pddcdn.com
 *.pddeu.com
@@ -51812,6 +51803,7 @@ ff00:*
 *.samsrchina.com
 *.samsunganycar.com
 *.samsungcloudcn.com
+*.samsungconnectivity.com
 *.samsunghealthcn.com
 *.samsungyx.com
 *.samyuong.com
@@ -54773,6 +54765,7 @@ ff00:*
 *.smdcn.net
 *.smdiban.net
 *.smdmark.com
+*.smdx.net
 *.sme-cn.com
 *.sme8718.com
 *.smebb.com
@@ -58580,7 +58573,6 @@ ff00:*
 *.tonglian.com
 *.tongliangrc.com
 *.tongliaowang.com
-*.tonglu-tour.com
 *.tongmengge.com
 *.tongniguoji.com
 *.tongren.jp
@@ -59022,7 +59014,6 @@ ff00:*
 *.trust-one.com
 *.trust400.com
 *.trustasia.com
-*.trustcommander.net
 *.trustedsign.com
 *.trustexporter.com
 *.trustie.net
@@ -66334,7 +66325,6 @@ ff00:*
 *.xmd5.com
 *.xmeasygo.com
 *.xmecard.com
-*.xmeggs.com
 *.xmeye.net
 *.xmf.com
 *.xmfc.com
