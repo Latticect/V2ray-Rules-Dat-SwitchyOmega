@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-03-24 07:55:29
+; 更新时间：2024-03-25 07:55:50
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -186,6 +186,7 @@
 *.2017.hk
 *.2019baidu.xyz
 *.2021hkcharter.com
+*.2023aga.oen.tw
 *.2047.name
 *.20thcenturystudios.com.au
 *.20thcenturystudios.com.br
@@ -5254,6 +5255,7 @@
 *.corumcollege.com
 *.cos-moe.com
 *.cosca.myqcloud.com
+*.cosfans-tw.com
 *.cosger.myqcloud.com
 *.coshk.myqcloud.com
 *.cosmic.monar.ch
@@ -24140,6 +24142,7 @@ wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
 zeenews-fonts.s3.amazonaws.com
+ztedevices.com
 HostRegex: (^|\.)13mei[5-7]\.buzz$
 HostRegex: (^|\.)18jmttios[0-9]{2}\.com$
 HostRegex: (^|\.)18tv[1-5]\.com$

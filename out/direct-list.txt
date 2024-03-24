@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-03-24 07:55:29
+; 更新时间：2024-03-25 07:55:50
 ; cn域名都不走代理
 *.cn
 
@@ -4096,6 +4096,7 @@ ff00:*
 *.51gouke.com
 *.51gowan.com
 *.51gran.com
+*.51grb.com
 *.51grfy.com
 *.51growup.com
 *.51gsl.com
@@ -7276,7 +7277,6 @@ ff00:*
 *.9973.com
 *.997788.com
 *.998.com
-*.99808.com
 *.9981ypk.com
 *.9982.com
 *.99844666.com
@@ -8490,6 +8490,7 @@ ff00:*
 *.aisy.com
 *.aitansuo.com
 *.aitaxinxi.xyz
+*.aitcfw.com
 *.aite.xyz
 *.aitecar.com
 *.aitecc.com
@@ -8575,6 +8576,7 @@ ff00:*
 *.aiyuke.com
 *.aiyunxiao.com
 *.aizaoqi.com
+*.aizgtc.com
 *.aizhan.com
 *.aizhanzhe.com
 *.aizhengli.com
@@ -8797,7 +8799,6 @@ ff00:*
 *.aliuv.com
 *.alivecdn.com
 *.alivv.com
-*.alivv.net
 *.aliway.com
 *.aliwd.com
 *.aliwears.com
@@ -9855,7 +9856,6 @@ ff00:*
 *.astestech.com
 *.astfc.com
 *.asthis.net
-*.astorpiano.com
 *.astron.ac
 *.astropulsion.com
 *.asuidnfamun.com
@@ -21099,7 +21099,6 @@ ff00:*
 *.donhonet.net
 *.donnor.com
 *.donvv.com
-*.donzair.com
 *.doodoobird.com
 *.doofull.com
 *.dooioo.com
@@ -28356,6 +28355,7 @@ ff00:*
 *.hangzhouluohu.com
 *.hangzhoutianqi114.com
 *.hangzhouyiyao.com
+*.hangzhouyq.com
 *.hangzhouzhiqi.com
 *.hangzyuyuan.com
 *.hanhai.net
@@ -45003,6 +45003,7 @@ ff00:*
 *.naruto.red
 *.narutom.com
 *.narwal.com
+*.narwaltech.com
 *.nasack.net
 *.nase.tech
 *.nasgetinfo.com
@@ -50783,6 +50784,7 @@ ff00:*
 *.redisbook.com
 *.redisfans.com
 *.redisguide.com
+*.redmagic.com
 *.rednetdns.com
 *.redocn.com
 *.redoop.com
@@ -55065,7 +55067,6 @@ ff00:*
 *.someabcd.com
 *.somenchina.com
 *.someonegao.com
-*.somepen.com
 *.something8.com
 *.sometracking.com
 *.somo.so
@@ -63677,7 +63678,6 @@ ff00:*
 *.woskj2.com
 *.woso100.com
 *.wotangka.com
-*.wotobang.com
 *.wotrus.com
 *.wotucdn.com
 *.wotula.com
@@ -63864,6 +63864,7 @@ ff00:*
 *.wsq.cool
 *.wsqejt.com
 *.wss.ink
+*.wss.zone
 *.wsssec.com
 *.wstong.com
 *.wstx.com
@@ -64208,7 +64209,6 @@ ff00:*
 *.wwwimages.adobe.com
 *.wwwimages2.adobe.com
 *.wwwwww.vip
-*.wwz8.com
 *.wx-api.net
 *.wx-data.com
 *.wx-youyan.net
@@ -64439,7 +64439,6 @@ ff00:*
 *.x23118.com
 *.x23119.com
 *.x23qb.com
-*.x23us.me
 *.x23us.us
 *.x23wxw.com
 *.x2image.com
@@ -71213,6 +71212,7 @@ ff00:*
 *.zgxrjy.com
 *.zgxsczdldak.com
 *.zgxue.com
+*.zgxytc.com
 *.zgxyzx.net
 *.zgxzcj.com
 *.zgxzhjx.com
@@ -71239,6 +71239,7 @@ ff00:*
 *.zgzkw.com
 *.zgznh.com
 *.zgzpsjz.com
+*.zgzsa.com
 *.zgzsrc.com
 *.zgzwl.com
 *.zgzy.net
@@ -72037,6 +72038,7 @@ ff00:*
 *.zhongzhixin.com
 *.zhongzhoutm.com
 *.zhongzilu.com
+*.zhonshian.com
 *.zhonzhuan.com
 *.zhopera.com
 *.zhou.icu
@@ -72704,6 +72706,7 @@ ff00:*
 *.zjzjhotel.com
 *.zjznk.com
 *.zjzs.net
+*.zjzsa.com
 *.zjzsxb.com
 *.zjzydns.com
 *.zk100.com
@@ -73172,6 +73175,7 @@ ff00:*
 *.ztedevice.com
 *.ztedevices.com
 *.ztedu8.com
+*.ztemall.com
 *.ztemap.com
 *.ztems.com
 *.ztestin.com
@@ -73766,6 +73770,7 @@ apptrailers.itunes.apple.com
 avail.googleflights.net
 b.c2r.ts.cdn.office.net
 bag.itunes.apple.com
+bbs.ztedevices.com
 beacons-handoff.gcp.gvt2.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
@@ -74152,6 +74157,7 @@ www.libvideo.com
 www.microsoft.com
 www.pxcc.com
 www.recaptcha.net
+www.ztedevices.com
 www4-static.gog-statics.com
 xb.dlservice.microsoft.com
 xn--9kr7l.com
