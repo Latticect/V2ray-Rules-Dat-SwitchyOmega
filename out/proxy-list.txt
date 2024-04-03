@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-04-03 07:55:31
+; 更新时间：2024-04-04 07:55:55
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6946,6 +6946,7 @@
 *.episodic.com
 *.epoch.cloud
 *.epoch.org.il
+*.epochbase.com
 *.epochbuy.com
 *.epochcar.com
 *.epochhk.com
@@ -24290,15 +24291,9 @@ HostRegex: .+\.ap-mumbai\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.ap-seoul\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.ap-singapore\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.ap-tokyo\.tencentcos\.(cn|com(\.cn)?)$
-HostRegex: .+\.awsdns-cn-[0-9][0-9]\.biz$
-HostRegex: .+\.awsdns-cn-[0-9][0-9]\.com$
-HostRegex: .+\.awsdns-cn-[0-9][0-9]\.net$
-HostRegex: .+\.awsdns-cn-[0-9][0-9]\.top$
+HostRegex: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 HostRegex: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-HostRegex: .+\.awsdns-[0-9][0-9]\.com$
-HostRegex: .+\.awsdns-[0-9][0-9]\.co\.uk$
-HostRegex: .+\.awsdns-[0-9][0-9]\.net$
-HostRegex: .+\.awsdns-[0-9][0-9]\.org$
+HostRegex: .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 HostRegex: .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 HostRegex: .+\.eu-frankfurt\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.eu-moscow\.tencentcos\.(cn|com(\.cn)?)$
