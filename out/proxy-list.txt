@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-04-10 07:55:42
+; 更新时间：2024-04-11 07:55:50
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -11918,7 +11918,12 @@
 *.jitouch.com
 *.jitsi.org
 *.jiuse.ai
+*.jiuse.com.co
 *.jiuse.icu
+*.jiuse.io
+*.jiuse821.com
+*.jiuse822.com
+*.jiuse823.com
 *.jiyou520.com
 *.jiyu-kobo.co.jp
 *.jizzboom.com
@@ -12006,6 +12011,9 @@
 *.jsdelivr.net
 *.jstage.jst.go.jp
 *.jstor.org
+*.jstv51.com
+*.jstv52.com
+*.jstv53.com
 *.jsz91.com
 *.jtube.space
 *.jtvnw.net
@@ -17334,8 +17342,8 @@
 *.rawgit.com
 *.rawgithub.com
 *.razer.com
+*.razerofficial.com
 *.razersupport.com
-*.razerzone.com
 *.razerzone.jp
 *.razyboard.com
 *.rb-crisis.com
@@ -17995,6 +18003,7 @@
 *.sego8.co
 *.sego8.xyz
 *.sehuatang.net
+*.sehuatang.org
 *.seiroganmania.com
 *.seiron-sankei.com
 *.sejie.com
@@ -18434,6 +18443,7 @@
 *.sidelinessportseatery.com
 *.siege-amazon.com
 *.sierrafriendsoftibet.org
+*.sifangclub.com
 *.sigmoidoscopeexam.com
 *.sign.new
 *.signal.art
