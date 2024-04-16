@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-04-16 07:55:33
+; 更新时间：2024-04-17 07:55:48
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -203,6 +203,7 @@
 *.228.net.tw
 *.233abc.com
 *.2371tom.com
+*.249dw7.cn
 *.24hjav.com
 *.24hrs.ca
 *.24porn.com
@@ -1329,6 +1330,7 @@
 *.amcnetworks.com
 *.amcplus.com
 *.amd.com
+*.amd.com.cn
 *.amdfanstore.com
 *.amdigital.co.uk
 *.ameba.jp
@@ -1953,6 +1955,7 @@
 *.armovs.com
 *.army.mil
 *.arphic.com
+*.arphic.com.cn
 *.arphic.com.tw
 *.art1lib.com
 *.art4tibet1998.org
@@ -3216,6 +3219,7 @@
 *.blog.sina.com.tw
 *.blog.sogoo.org
 *.blog.soylent.com
+*.blog.syx86.cn
 *.blog.syx86.com
 *.blog.taragana.com
 *.blog.tiney.com
@@ -3313,6 +3317,7 @@
 *.blogterest.net
 *.bloodshed.net
 *.bloomberg
+*.bloomberg.cn
 *.bloomberg.co.jp
 *.bloomberg.co.kr
 *.bloomberg.com
@@ -4954,6 +4959,7 @@
 *.clickedu.co.uk
 *.clickserve.cc-dt.com
 *.clickserver.googleads.com
+*.clincha.cn
 *.cling.omy.sg
 *.clinica-tibet.ru
 *.clinical-videos.com
@@ -5066,6 +5072,7 @@
 *.cncrivals.com
 *.cnd.org
 *.cnet.com
+*.cnex.org.cn
 *.cnineu.com
 *.cnivogue.com.au
 *.cnix-gov-cn.com
@@ -5598,6 +5605,7 @@
 *.dawangidc.com
 *.dawngate.com
 *.dawngatechronicles.com
+*.daxa.cn
 *.daylenerio.com
 *.daylife.com
 *.daytonbmw.com
@@ -6368,7 +6376,9 @@
 *.dumb1.com
 *.dump.xxx
 *.dumpxxx.net
+*.dungeonkeeper.cn
 *.dungeonkeeper.com
+*.dungeonkeeper.com.cn
 *.dunyabulteni.net
 *.duolaapian126.xyz
 *.duolaapian127.xyz
@@ -6458,6 +6468,7 @@
 *.dykycl.com
 *.dynacw.co.jp
 *.dynacw.com
+*.dynacw.com.cn
 *.dynacw.com.hk
 *.dynacw.com.tw
 *.dynafleetonline.com
@@ -6608,6 +6619,7 @@
 *.ebayanunsios.net
 *.ebayauction.com
 *.ebayaustralia.com
+*.ebayauthenticate.com.cn
 *.ebaybags.com
 *.ebaybank.com
 *.ebaybenefits.com
@@ -6763,6 +6775,7 @@
 *.edicypages.com
 *.edisebay.com
 *.editorx.com
+*.edmontonchina.cn
 *.edmontonservice.com
 *.edninfo.com
 *.edns.biz
@@ -7788,6 +7801,7 @@
 *.fgmtv.net
 *.fgmtv.org
 *.fhreports.net
+*.fi11.cn
 *.fi11.com
 *.fi11av1.com
 *.fi11tv1.com
@@ -9120,6 +9134,7 @@
 *.google.ci
 *.google.cl
 *.google.cm
+*.google.cn
 *.google.co
 *.google.co.ao
 *.google.co.bw
@@ -9297,6 +9312,7 @@
 *.googleadservices.com
 *.googleanalytics.com
 *.googleapis-cn.com
+*.googleapis.cn
 *.googleapis.com
 *.googleapps-cn.com
 *.googleapps.com
@@ -10203,6 +10219,7 @@
 *.hotcoin.com
 *.hotcuckoldwife.com
 *.hotcumporn.com
+*.hotels.cn
 *.hotescortdusseldorf.com
 *.hotfiesta.com
 *.hotfrog.com.tw
@@ -10901,6 +10918,7 @@
 *.illusionas.com
 *.illusionchn.com
 *.illusionfactory.com
+*.illusionfb.cn
 *.illusiongw.com
 *.illusionh.com
 *.illusionl.com
@@ -12253,6 +12271,7 @@
 *.kirbysepicyarn.com
 *.kirbysuperstarultra.com
 *.kismia.com
+*.kissbbao.cn
 *.kisscos.net
 *.kissjav.com
 *.kissjav.li
@@ -12391,7 +12410,9 @@
 *.lanniser-ylo.shop
 *.lantern.io
 *.lanternal.com
+*.lanterncn.cn
 *.lantosfoundation.org
+*.laod.cn
 *.laogai.org
 *.laogairesearch.org
 *.laomiu.com
@@ -12458,6 +12479,7 @@
 *.lecoin.cc
 *.lede-project.org
 *.ledger.com
+*.leeao.com.cn
 *.leecountytimes.com
 *.lefora.com
 *.left21.hk
@@ -12560,6 +12582,7 @@
 *.lightbridge.com
 *.lighten.org.tw
 *.lighti.me
+*.lightnovel.cn
 *.lightxxxtube.com
 *.lightyearvpn.com
 *.lih.kg
@@ -12718,10 +12741,13 @@
 *.logiqx.com
 *.logitech.biz
 *.logitech.com
+*.logitech.com.cn
 *.logitech.fr
 *.logitech.io
 *.logitechg.com
+*.logitechg.com.cn
 *.logitechg.fr
+*.logitechio.com.cn
 *.logos.com.hk
 *.loholidayhk.com
 *.lojaiphone.com.br
@@ -14224,8 +14250,10 @@
 *.muchomasporno.com
 *.muchosucko.com
 *.mucinex.ca
+*.mucinex.cn
 *.mucinex.co.nz
 *.mucinex.com
+*.mucinex.com.cn
 *.mucinex.net
 *.mucinex.tv
 *.mucinexprofessional.com
@@ -15636,6 +15664,7 @@
 *.openweave.io
 *.openwebster.com
 *.openwrt.org
+*.openwrt.org.cn
 *.opera.com
 *.opinionjournal.com
 *.opml.radiotime.com
@@ -17155,6 +17184,7 @@
 *.qingse.one
 *.qise100.com
 *.qiwen.lu
+*.qixianglu.cn
 *.qkshare.com
 *.qlink.to
 *.qmap.pub
@@ -17197,6 +17227,7 @@
 *.qualcommlabs.com
 *.qualcommmea.com
 *.qualcommretail.com
+*.qualcommventures.cn
 *.qualcommventures.com
 *.qualphone.com
 *.qualysapi.qatp1.net
@@ -17562,6 +17593,7 @@
 *.reut.rs
 *.reuters.com
 *.reuters.tv
+*.reutersagency.cn
 *.reutersmedia.net
 *.revenue-performance-management.com
 *.revleft.com
@@ -18045,6 +18077,7 @@
 *.serveusers.com
 *.services-apple.net
 *.services-exchange.com
+*.services.googleapis.cn
 *.serviceshp.com
 *.servicetalk.io
 *.serviporno.com
@@ -18534,6 +18567,7 @@
 *.sjcollect.com
 *.sjhsp1.buzz
 *.sjrt.org
+*.sjum.cn
 *.skate2.com
 *.skebetter.com
 *.sketchappsources.com
@@ -18635,6 +18669,7 @@
 *.snap.com
 *.snapchat.com
 *.snapcraft.io
+*.snapdragon.cn
 *.snapdragonbooth.com
 *.snapkit.co
 *.snapseed.com
@@ -18841,6 +18876,7 @@
 *.sourceforge.net
 *.sourcehut.org
 *.sourcewadio.com
+*.sourcingforebay.com.cn
 *.sourcingforebay.net
 *.sourcingforebay.tv
 *.south-plus.net
@@ -19871,6 +19907,7 @@
 *.thlib.org
 *.thomasbernhard.org
 *.thomsonreuters.ca
+*.thomsonreuters.cn
 *.thomsonreuters.co.jp
 *.thomsonreuters.co.kr
 *.thomsonreuters.co.nz
@@ -19919,6 +19956,7 @@
 *.tiantang.today
 *.tianti.io
 *.tiantibooks.org
+*.tianyantong.org.cn
 *.tianzhu.org
 *.tiava.com
 *.tiava1.com
@@ -20861,6 +20899,7 @@
 *.van001.com
 *.van698.com
 *.vancouverbmwretailers.ca
+*.vanemu.cn
 *.vanilla-jp.com
 *.vanish.at
 *.vanish.be
@@ -21013,6 +21052,7 @@
 *.verisign.com
 *.verisign.com.au
 *.verisign.com.br
+*.verisign.com.cn
 *.verisign.com.es
 *.verisign.com.hk
 *.verisign.com.sg
@@ -22068,6 +22108,7 @@
 *.wiki.cnitter.com
 *.wiki.esu.im
 *.wiki.gamerp.jp
+*.wiki.keso.cn
 *.wiki.moegirl.org
 *.wiki.oauth.net
 *.wiki.phonegap.com
@@ -22637,6 +22678,7 @@
 *.xn--xsq959n.com
 *.xn--yf1at58a.com
 *.xn--yt8h.la
+*.xn--ztsq84g.cn
 *.xnalgas.com
 *.xnertv.shop
 *.xnostars.com
@@ -22769,6 +22811,7 @@
 *.xvxx.stream
 *.xvxxtube.com
 *.xx-map.com
+*.xx159.com.cn
 *.xx9.app
 *.xxbay.com
 *.xxbbx.com
@@ -23186,6 +23229,7 @@
 *.yinya.shop
 *.yipub.com
 *.yiqiedoushiganggangkaishi.org
+*.yiqilai99.cn
 *.yiyechat.com
 *.yizhihongxing.com
 *.yjcontentdelivery.com
@@ -23493,6 +23537,7 @@
 *.yyfb.cyou
 *.yyii.org
 *.yyjlymb.xyz
+*.yyyzgdl.cn
 *.yzld188.top
 *.yzzk.com
 *.z-lib.org
@@ -23596,6 +23641,7 @@
 *.zhreader.com
 *.zhtv01.com
 *.zhuangbi.me
+*.zhuanxing.cn
 *.zhuatieba.com
 *.zhuichaguoji.org
 *.zhuzhushipin-app.com
@@ -23614,6 +23660,7 @@
 *.zlib.life
 *.zlibcdn.com
 *.zlibcdn2.com
+*.zmw.cn
 *.zndsk.com
 *.zodgame.us
 *.zoho.com
@@ -23643,6 +23690,7 @@
 *.zoogvpn.com
 *.zoohun.com
 *.zoom.com
+*.zoom.com.cn
 *.zoom.us
 *.zoomingin.tv
 *.zoomobileporn.com
