@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-04-18 07:55:36
+; 更新时间：2024-04-19 07:55:43
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7124,6 +7124,7 @@
 *.etherdelta.com
 *.ethereum.foundation
 *.ethereum.org
+*.ethermine.org
 *.etherscan.io
 *.etizer.org
 *.etnet.com.hk
@@ -7226,6 +7227,7 @@
 *.f-dro1d.org
 *.f-droid.com
 *.f-droid.org
+*.f2pool.com
 *.f5pf.com
 *.f6988.com
 *.f8.com
@@ -10424,6 +10426,7 @@
 *.hrea.org
 *.hrecords.jp
 *.hrichina.org
+*.hrntt.org
 *.hrsaz.com
 *.hrtsea.com
 *.hrw.org
@@ -16888,6 +16891,7 @@
 *.potato.im
 *.potenza.jp
 *.potvpn.com
+*.pourquoi.tw
 *.povpornonly.com
 *.povr.com
 *.power.com
@@ -23552,6 +23556,7 @@
 *.zacebook.com
 *.zakzak.co.jp
 *.zalmos.com
+*.zamimg.com
 *.zannel.com
 *.zaobao.com
 *.zaobao.com.sg
