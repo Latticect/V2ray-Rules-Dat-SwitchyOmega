@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-04-25 07:55:28
+; 更新时间：2024-04-26 07:55:38
 ; cn域名都不走代理
 *.cn
 
@@ -22481,6 +22481,7 @@ ff00:*
 *.ecnu.net
 *.ecnuas.com
 *.ecnudec.com
+*.eco-system.xyz
 *.ecoalchina.com
 *.ecocn.org
 *.ecodreamers.com
@@ -35612,6 +35613,7 @@ ff00:*
 *.jianwenapp.com
 *.jianxinyun.com
 *.jianyanjia.com
+*.jianyixinli.com
 *.jianyu360.com
 *.jianyujiasu.com
 *.jianyuweb.com
@@ -48505,7 +48507,6 @@ ff00:*
 *.pipikou.com
 *.pipikun.com
 *.pipimp3.com
-*.pipipan.com
 *.pipipi.net
 *.pipipifa.com
 *.pipiti.com
@@ -52070,7 +52071,6 @@ ff00:*
 *.ruibai.com
 *.ruiccm.com
 *.ruichengmedia.com
-*.ruichuangfagao.com
 *.ruicitijian.com
 *.ruida.org
 *.ruidaedu.com
@@ -52237,6 +52237,7 @@ ff00:*
 *.ryjoin.com
 *.rylfj.com
 *.rylinkworld.com
+*.rymcu.com
 *.rymooc.com
 *.ryone.net
 *.rypeixun.com
@@ -54595,6 +54596,7 @@ ff00:*
 *.shuomingshuku.com
 *.shuoniu.cc
 *.shuoou.com
+*.shuoqiudi63.com
 *.shuoshuo9.com
 *.shuoshuoba.cc
 *.shuoshuojie.net
@@ -62082,6 +62084,7 @@ ff00:*
 *.vxuepin.com
 *.vxuey.com
 *.vxv.ink
+*.vxwo.com
 *.vxxsfxxs.com
 *.vycool.com
 *.vyh9v.app
@@ -74322,6 +74325,7 @@ ff00:*
 *.zyiz.net
 *.zyjiajuw.com
 *.zyjoygame.com
+*.zyjymall.com
 *.zyjyyun.com
 *.zykj0668.com
 *.zykjgame.com
