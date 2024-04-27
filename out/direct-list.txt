@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-04-27 07:55:39
+; 更新时间：2024-04-28 07:55:32
 ; cn域名都不走代理
 *.cn
 
@@ -981,6 +981,7 @@ ff00:*
 *.114-91.com
 *.1140086.com
 *.11467.com
+*.114837322.xyz
 *.114auto.com
 *.114best.com
 *.114cbd.com
@@ -2449,7 +2450,6 @@ ff00:*
 *.26595.com
 *.265g.com
 *.265o.com
-*.265ps.com
 *.266.la
 *.266680.com
 *.266wan.com
@@ -2566,7 +2566,6 @@ ff00:*
 *.2eka.cloud
 *.2f.com
 *.2fc5.com
-*.2floorings.com
 *.2fz1.com
 *.2fzb.com
 *.2gdt.com
@@ -4754,7 +4753,6 @@ ff00:*
 *.533y.com
 *.53431.com
 *.53471.com
-*.535300.net
 *.5360jx.com
 *.53617686.com
 *.5366.com
@@ -5956,7 +5954,6 @@ ff00:*
 *.777sy.com
 *.777xx888kk.com
 *.7788.com
-*.7788aabb.com
 *.7788js.com
 *.7788sky.com
 *.7788tools.com
@@ -6632,7 +6629,6 @@ ff00:*
 *.8ytech.com
 *.8yw.xyz
 *.8yx.com
-*.8yzw.com
 *.8z.net
 *.8zhuayu.cc
 *.8ziben.com
@@ -10646,7 +10642,6 @@ ff00:*
 *.bandianli.com
 *.bandoristation.com
 *.banfubbs.com
-*.banfuzg.com
 *.bang1.work
 *.bangbang.com
 *.bangbang93.com
@@ -11045,7 +11040,6 @@ ff00:*
 *.bcfmglobal.com
 *.bchrt.com
 *.bcitb.com
-*.bclsw.com
 *.bcluo.com
 *.bcmcdn.com
 *.bcmeng.com
@@ -16352,7 +16346,6 @@ ff00:*
 *.chungeseo.com
 *.chungkwong.cc
 *.chunhingplasticbags.com
-*.chunhui12.com
 *.chunjingtech.com
 *.chunliangpai.com
 *.chunmen.com
@@ -20948,6 +20941,7 @@ ff00:*
 *.dns200.net
 *.dns2008.com
 *.dns2023.com
+*.dns2024.org
 *.dns2028.com
 *.dns567.com
 *.dns6132.com
@@ -25545,6 +25539,7 @@ ff00:*
 *.fygame.com
 *.fygdrs.com
 *.fygift.com
+*.fygmbc.com
 *.fygsoft.com
 *.fyigou.com
 *.fyjsz.net
@@ -27180,7 +27175,6 @@ ff00:*
 *.gpd.hk
 *.gpdi.com
 *.gper.club
-*.gpio.me
 *.gpl-express.com
 *.gplayspace.com
 *.gplqdb.com
@@ -28829,7 +28823,6 @@ ff00:*
 *.haofly.net
 *.haofz.com
 *.haoge500.com
-*.haogewd.com
 *.haogongzhang.com
 *.haogow.com
 *.haogu114.com
@@ -30193,7 +30186,6 @@ ff00:*
 *.hisense-syxs.com
 *.hisense.com
 *.hisensehitachi.com
-*.hisheji.com
 *.hishouhui.com
 *.hisilicon.com
 *.hisiphp.com
@@ -32263,6 +32255,7 @@ ff00:*
 *.hxytw.com
 *.hxyw.net
 *.hxyxt.com
+*.hxz.ink
 *.hxzq.net
 *.hy-la.com
 *.hy-zr.com
@@ -33774,7 +33767,6 @@ ff00:*
 *.imquzan.com
 *.imrfresh.com
 *.imrobotic.com
-*.imshell.com
 *.imshu.cc
 *.imshusheng.com
 *.imsilkroad.com
@@ -35056,7 +35048,6 @@ ff00:*
 *.jcloudvideo.net
 *.jclps.com
 *.jcmob.net
-*.jcmtxs.com
 *.jcnano.com
 *.jcnk120.com
 *.jcno.net
@@ -36265,7 +36256,6 @@ ff00:*
 *.jiuishizanjin.com
 *.jiujiange.com
 *.jiujiuhuyu.com
-*.jiujiui.com
 *.jiujiuwan.com
 *.jiujiuyunhui.com
 *.jiujiuzu.com
@@ -38880,7 +38870,6 @@ ff00:*
 *.ksudi.com
 *.ksupdate.com
 *.ksxianda.com
-*.ksy.com
 *.ksydns.com
 *.ksydx.com
 *.ksyiqiwan.com
@@ -40229,6 +40218,7 @@ ff00:*
 *.lepiaoyun.com
 *.leptv.com
 *.leqian.com
+*.leqiuba.com
 *.lequ.com
 *.lequ7.com
 *.lequgo.com
@@ -48193,7 +48183,6 @@ ff00:*
 *.phb01.com
 *.phb123.com
 *.phedu.net
-*.phemex.cool
 *.phezzan.com
 *.philanthropy.xin
 *.philipswechat.com
@@ -50114,7 +50103,6 @@ ff00:*
 *.qire777.com
 *.qiredy.com
 *.qiremanhua.com
-*.qirexiaoshuo.com
 *.qirui.com
 *.qisaoba.com
 *.qisbook.com
@@ -52542,7 +52530,6 @@ ff00:*
 *.sbkh5.com
 *.sbmscs.com
 *.sbo2.com
-*.sbo8.com
 *.sbooktxt.com
 *.sbooktxt.xyz
 *.sbpiping.com
@@ -55509,6 +55496,7 @@ ff00:*
 *.snowballtech.com
 *.snowdream.tech
 *.snowkey.com
+*.snowolf0620.xyz
 *.snowyimall.com
 *.snps.tech
 *.snrat.com
@@ -64299,7 +64287,6 @@ ff00:*
 *.wooomooo.com
 *.wooqx.com
 *.woordee.com
-*.wooshoes.com
 *.woosmart.com
 *.woowtcprc.com
 *.wooxhome.com
@@ -67118,7 +67105,6 @@ ff00:*
 *.xn--3ds443g
 *.xn--49s19uekm8z0a.com
 *.xn--4n0arfvg.com
-*.xn--4qr912ma.com
 *.xn--54q40czz0g7xp.com
 *.xn--55qx5d
 *.xn--5tzm5g
@@ -68318,7 +68304,6 @@ ff00:*
 *.yb983.com
 *.yba120.com
 *.ybaby.com
-*.ybao.org
 *.ybaobx.com
 *.ybbdzp.com
 *.ybbgd.com
@@ -69519,7 +69504,6 @@ ff00:*
 *.ymadly.com
 *.ymadx.com
 *.ymailcampaign.com
-*.ymanz.com
 *.ymapp.com
 *.ymark.cc
 *.ymars.com
