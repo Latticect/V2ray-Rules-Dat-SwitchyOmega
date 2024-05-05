@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-05-05 07:55:49
+; 更新时间：2024-05-06 07:55:43
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5656,6 +5656,7 @@
 *.cuffiesaldi.com
 *.cuhkacs.org
 *.cuihua.org
+*.cuinc.oen.tw
 *.cuinc.tw
 *.cuiweiping.net
 *.cultoferotica.com
@@ -6586,6 +6587,17 @@
 *.drunk6.com
 *.drunkenstepfather.com
 *.drunkentop.com
+*.drweb-av.de
+*.drweb-av.es
+*.drweb-av.it
+*.drweb-av.pl
+*.drweb.by
+*.drweb.cn
+*.drweb.co.jp
+*.drweb.com
+*.drweb.fr
+*.drweb.kz
+*.drweb.uz
 *.dscn.info
 *.dsex.to
 *.dslr.net
