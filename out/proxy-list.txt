@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-05-08 07:55:30
+; 更新时间：2024-05-09 07:55:26
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -3160,6 +3160,7 @@
 *.betterwithautodesk.com
 *.bettween.com
 *.betvictor.com
+*.between-legs.com
 *.beurettesvideo.com
 *.bewww.net
 *.bextbuy.com
@@ -12225,6 +12226,7 @@
 *.javynow.com
 *.javzoo.com
 *.jayspov.net
+*.jb.gg
 *.jb22.lol
 *.jbe-platform.com
 *.jbtalks.cc
