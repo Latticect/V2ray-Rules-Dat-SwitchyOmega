@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-05-09 07:55:26
+; 更新时间：2024-05-10 07:55:51
 ; cn域名都不走代理
 *.cn
 
@@ -11172,7 +11172,6 @@ ff00:*
 *.beancomm.com
 *.bear20.com
 *.bearead.com
-*.beareyes.com
 *.beargoo.com
 *.bearingclub.com
 *.bearjoy.com
@@ -12898,7 +12897,6 @@ ff00:*
 *.brtbeacon.com
 *.brtbeacon.net
 *.brttc.com
-*.bruceit.com
 *.brunoxu.com
 *.bryonypie.com
 *.bs-dolfin.net
@@ -18829,7 +18827,6 @@ ff00:*
 *.custeel.com
 *.customsapp.com
 *.cut35.com
-*.cutefishos.com
 *.cuteng.com
 *.cutercounter.com
 *.cutieshop153.com
@@ -19280,6 +19277,7 @@ ff00:*
 *.daidaicp.com
 *.daidaipu.com
 *.daidongxi.com
+*.daief.tech
 *.daigou.com
 *.daiguaji.com
 *.daihaobiao.com
@@ -33663,7 +33661,6 @@ ff00:*
 *.imaccn.com
 *.imacso.com
 *.imaegoo.com
-*.image-mangdiaxyz.com
 *.imageaccelerate.com
 *.imageedu.com
 *.imagehub.cc
@@ -65011,7 +65008,6 @@ ff00:*
 *.www.viveport.com
 *.www.volvocars.com
 *.www48-365365.com
-*.wwwatch.in
 *.wwwbuild.net
 *.wwwer.net
 *.wwwic.net
