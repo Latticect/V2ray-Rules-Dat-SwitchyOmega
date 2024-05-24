@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-05-24 07:55:40
+; 更新时间：2024-05-25 07:55:29
 ; cn域名都不走代理
 *.cn
 
@@ -3274,7 +3274,6 @@ ff00:*
 *.389j.com
 *.38blog.com
 *.38ejed.com
-*.38fan.com
 *.38hack.com
 *.38hot.net
 *.38hp.com
@@ -23508,6 +23507,8 @@ ff00:*
 *.evzhidao.com
 *.ew-wirestripping.com
 *.ew52.com
+*.ew80.com
+*.ew80yun.com
 *.ew9z.com
 *.ewaga.com
 *.ewang.com
@@ -39831,7 +39832,6 @@ ff00:*
 *.lanzouy.com
 *.lanzov.com
 *.lanzun.net
-*.lanzv.com
 *.laobaigan-hs.com
 *.laobandq.com
 *.laobanfa.com
@@ -45333,6 +45333,7 @@ ff00:*
 *.myhayo.com
 *.myhexin.com
 *.myhithink.com
+*.myhl-china315.com
 *.myhomeok.com
 *.myhongzuan.com
 *.myhostadmin.net
@@ -51977,6 +51978,7 @@ ff00:*
 *.rn-hswh.com
 *.rneok.com
 *.rnfengwo.com
+*.rngmoe.com
 *.rngtest.com
 *.rnhqxh.com
 *.rnhy.net
@@ -57576,6 +57578,7 @@ ff00:*
 *.szldzb.com
 *.szledia.org
 *.szleezen.com
+*.szlgzxyy.com
 *.szlhtram.com
 *.szlianya.net
 *.szlightlink.com
@@ -60206,7 +60209,6 @@ ff00:*
 *.tugou.com
 *.tugoucx.com
 *.tuguaishou.com
-*.tuhaihe.com
 *.tuhaokuai.com
 *.tuhu.com
 *.tuhu.org
@@ -65925,6 +65927,7 @@ ff00:*
 *.xhscdn.net
 *.xhsd.com
 *.xhslink.com
+*.xhslw.com
 *.xhsyqx.com
 *.xhsyww.com
 *.xht.com.hk
@@ -73747,7 +73750,6 @@ ff00:*
 *.zjptcc.com
 *.zjpubservice.com
 *.zjqbj.com
-*.zjqcwx.com
 *.zjqichuang.com
 *.zjrc.com
 *.zjrc.net
