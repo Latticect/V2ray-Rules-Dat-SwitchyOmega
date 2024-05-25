@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-05-25 07:55:29
+; 更新时间：2024-05-26 07:55:29
 ; cn域名都不走代理
 *.cn
 
@@ -1184,7 +1184,6 @@ ff00:*
 *.125job.com
 *.125mx.com
 *.125school.com
-*.125uu.com
 *.125visa.com
 *.125y.com
 *.125yan.com
@@ -1202,7 +1201,6 @@ ff00:*
 *.127.com
 *.127.net
 *.1278721.com
-*.12799.com
 *.127xx.com
 *.127z.com
 *.128456.com
@@ -4846,7 +4844,6 @@ ff00:*
 *.558idc.com
 *.55935.vip
 *.5599.com
-*.55azt.com
 *.55bbs.com
 *.55dai.com
 *.55dian.com
@@ -7883,6 +7880,7 @@ ff00:*
 *.adongyu.com
 *.adoregeek.com
 *.adoutu.com
+*.adparticle.com
 *.adpchina.com
 *.adplusx.com
 *.adpolestar.net
@@ -8076,7 +8074,6 @@ ff00:*
 *.ahc.ink
 *.ahcaijing.com
 *.ahcaw.com
-*.ahchuangyebang.com
 *.ahcjhjj.com
 *.ahcnb.com
 *.ahcyfc.com
@@ -11827,6 +11824,7 @@ ff00:*
 *.binglai.net
 *.binglanggu.com
 *.binglianhuajianzhan.com
+*.bingliekeji.com
 *.binglingtech.com
 *.binglixue.com
 *.bingo321.com
@@ -14975,7 +14973,6 @@ ff00:*
 *.chaokaixin.net
 *.chaolady.com
 *.chaolean.com
-*.chaolen.com
 *.chaoliangkj.com
 *.chaoliuguan.com
 *.chaolongbus.com
@@ -19135,7 +19132,6 @@ ff00:*
 *.d03jd.com
 *.d163.net
 *.d17.cc
-*.d1999.com
 *.d1cm.com
 *.d1com.com
 *.d1dengju.com
@@ -21099,7 +21095,6 @@ ff00:*
 *.docsou.com
 *.doctor-network.com
 *.doctorcom.com
-*.doctormnq.com
 *.doctorscrap.com
 *.doctorxiong.club
 *.doctoryou.ai
@@ -22752,6 +22747,7 @@ ff00:*
 *.efangwang.com
 *.efapiao.com
 *.efashionchina.com
+*.efashioncloud.com
 *.efe.cc
 *.efeihu.com
 *.efengji.org
@@ -23508,6 +23504,7 @@ ff00:*
 *.ew-wirestripping.com
 *.ew52.com
 *.ew80.com
+*.ew80.net
 *.ew80yun.com
 *.ew9z.com
 *.ewaga.com
@@ -26355,6 +26352,7 @@ ff00:*
 *.gengleyuan.com
 *.gengnie.com
 *.gengsan.com
+*.gengshangpin.com
 *.gengzhongbang.com
 *.geni4s.com
 *.genial.vip
@@ -37544,7 +37542,6 @@ ff00:*
 *.juxia.com
 *.juxieyun.com
 *.juxin.tv
-*.juxinfu.com
 *.juxing-edu.com
 *.juxinhuizhi.com
 *.juxizhineng.com
@@ -39511,7 +39508,6 @@ ff00:*
 *.kzt.cc
 *.kztpms.com
 *.kzwr.com
-*.kzynews.com
 *.kzyzz.com
 *.l-kingmall.com
 *.l-zb.com
@@ -41538,6 +41534,7 @@ ff00:*
 *.lnfssy.com
 *.lnfzb.com
 *.lngche.com
+*.lnglwl.com
 *.lngqt.com
 *.lnhygy.com
 *.lnicc-dl.com
@@ -42076,7 +42073,6 @@ ff00:*
 *.ludu319.com
 *.lueasygi.com
 *.luedian.com
-*.luexiao.com
 *.luexpo.com
 *.lueyue.com
 *.luezhi.com
@@ -50825,7 +50821,6 @@ ff00:*
 *.qtdebug.com
 *.qtdream.com
 *.qter.org
-*.qthmedia.com
 *.qthnews.com
 *.qtkgf.com
 *.qtkj.love
@@ -54835,6 +54830,7 @@ ff00:*
 *.shuoshuokong.com
 *.shuoshuokong.org
 *.shuowan.com
+*.shupackaging.com
 *.shupaiyun.com
 *.shuq.net
 *.shuqi.com
@@ -55721,7 +55717,6 @@ ff00:*
 *.snappcloud.io
 *.snappmaps.ir
 *.snbkf34.com
-*.sncdental.com
 *.sncoda.com
 *.snd-yy.com
 *.sndhr.com
@@ -57194,7 +57189,6 @@ ff00:*
 *.sxldns.com
 *.sxls.com
 *.sxmaps.com
-*.sxmtdz.com
 *.sxmxwh.com
 *.sxmyh.com
 *.sxncb.com
@@ -61306,6 +61300,7 @@ ff00:*
 *.ushaqi.com
 *.ushendu.com
 *.ushengame.com
+*.ushknews.com
 *.usidt.com
 *.using.club
 *.usingde.com
@@ -61342,6 +61337,7 @@ ff00:*
 *.utfinancing.com
 *.utgd.net
 *.uthinks.com
+*.utofairy.com
 *.utogame.com
 *.utom.design
 *.utoper.com
@@ -64496,7 +64492,6 @@ ff00:*
 *.wodescw.com
 *.wodeshebao.com
 *.wodeyt.com
-*.wodiancan.net
 *.wodidashi.com
 *.wodingche.com
 *.wodingwang.com
@@ -65504,7 +65499,6 @@ ff00:*
 *.xajjn.com
 *.xajjwy.com
 *.xajob.com
-*.xajr.com
 *.xajxcw.com
 *.xakrlab.com
 *.xalanq.com
@@ -65826,7 +65820,6 @@ ff00:*
 *.xflimg.com
 *.xfliusheng.com
 *.xflstatic.com
-*.xfmtcn.com
 *.xfnano.com
 *.xfocus.net
 *.xfocus.org
@@ -66109,7 +66102,6 @@ ff00:*
 *.xiao-an.com
 *.xiao-bo.com
 *.xiao-new.com
-*.xiao.lu
 *.xiao100.com
 *.xiao2she.com
 *.xiao84.com
@@ -70487,6 +70479,7 @@ ff00:*
 *.youzikuaibao.com
 *.youziyundns.com
 *.youzu.com
+*.youzuanmy.vip
 *.yovisun.com
 *.yovocloud.com
 *.yovole.com
@@ -70904,7 +70897,6 @@ ff00:*
 *.yuexiang.fun
 *.yuexiangpin.com
 *.yuexing.com
-*.yuexingfurniture.com
 *.yuexinli.com
 *.yuexirc.com
 *.yuexiu.com
@@ -73749,7 +73741,6 @@ ff00:*
 *.zjpost.com
 *.zjptcc.com
 *.zjpubservice.com
-*.zjqbj.com
 *.zjqichuang.com
 *.zjrc.com
 *.zjrc.net
