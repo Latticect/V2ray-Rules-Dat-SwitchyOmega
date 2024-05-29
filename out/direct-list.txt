@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-05-29 07:55:32
+; 更新时间：2024-05-30 07:55:34
 ; cn域名都不走代理
 *.cn
 
@@ -28689,6 +28689,7 @@ ff00:*
 *.haluoha.com
 *.hamedal.com
 *.hamir.net
+*.hamu.site
 *.han-ju.cc
 *.hanamichi.wiki
 *.hanboshi.com
@@ -38252,6 +38253,7 @@ ff00:*
 *.kd9000.com
 *.kdadj.com
 *.kdatacenter.com
+*.kdatu.com
 *.kdclub.net
 *.kdige.com
 *.kdmedic.com
@@ -40974,6 +40976,7 @@ ff00:*
 *.lingwh.com
 *.lingwu66.com
 *.lingxi360.com
+*.lingxianfund.com
 *.lingxicloud.com
 *.lingxigames.com
 *.lingxmall.com
@@ -54655,6 +54658,7 @@ ff00:*
 *.shuajizhijia.net
 *.shuame.com
 *.shuanghui.net
+*.shuangken.com
 *.shuangkuai.co
 *.shuangle888.com
 *.shuangmatbs.com
@@ -62258,6 +62262,8 @@ ff00:*
 *.vstart.net
 *.vstecs.com
 *.vstmv.com
+*.vstonefund.com
+*.vstonewealth.com
 *.vstou.com
 *.vsuch.com
 *.vsun.com
@@ -69499,6 +69505,7 @@ ff00:*
 *.yiqisou.net
 *.yiqistore.com
 *.yiqitp.com
+*.yiqituodan.com
 *.yiqiu.org
 *.yiqiuu.com
 *.yiqiwang.net
