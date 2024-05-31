@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-05-31 07:55:28
+; 更新时间：2024-06-01 07:55:43
 ; cn域名都不走代理
 *.cn
 
@@ -157,7 +157,6 @@ ff00:*
 *.01401.com
 *.016sf.com
 *.01amlink.site
-*.01bzw.cc
 *.01bzw.us
 *.01bzw.xyz
 *.01caijing.com
@@ -7066,7 +7065,6 @@ ff00:*
 *.9560.cc
 *.9564.com
 *.9565.com
-*.9570.me
 *.9588.com
 *.95890.com
 *.95bd.com
@@ -7952,6 +7950,7 @@ ff00:*
 *.ae1234.com
 *.ae256.com
 *.ae60.com
+*.ae8569.xyz
 *.aebiz.net
 *.aec188.com
 *.aecichina.com
@@ -16340,6 +16339,7 @@ ff00:*
 *.chuguo78.com
 *.chuguofeng.com
 *.chuguohao.com
+*.chuhai-club.com
 *.chuimg.com
 *.chuinet.com
 *.chuisax.com
@@ -16687,7 +16687,6 @@ ff00:*
 *.ckzhijiaedu.com
 *.cl-acg.com
 *.cl-clw.com
-*.cl-hs.com
 *.cl-kongtiao.com
 *.cl0438.com
 *.cl2009.com
@@ -16701,6 +16700,7 @@ ff00:*
 *.classinpaas.com
 *.classmateer.com
 *.classpassincn.com
+*.classpodcdn.com
 *.clayidols.com
 *.clb6.net
 *.clboss.com
@@ -20710,6 +20710,7 @@ ff00:*
 *.diyifanwen.net
 *.diyigaokao.com
 *.diyihuifu.com
+*.diyiliuxue.com
 *.diyinews.com
 *.diyipaihang.com
 *.diyishijian.com
@@ -26735,6 +26736,7 @@ ff00:*
 *.global-harbor.com
 *.global-idc.net
 *.global-jf.com
+*.global-leader.com
 *.global-scsl.com
 *.global-trade-center.com
 *.global56.com
@@ -27534,7 +27536,6 @@ ff00:*
 *.guangli88.com
 *.guanglikou.com
 *.guanglilvyuan.com
-*.guangminggame.com
 *.guangshantang.vip
 *.guangsuss.com
 *.guangtuikeji.com
@@ -31345,6 +31346,7 @@ ff00:*
 *.htgjjl.com
 *.htguosheng.com
 *.htgwf.com
+*.hti-instrument.com
 *.htidc.com
 *.htimgs.com
 *.htinfor.com
@@ -40943,6 +40945,7 @@ ff00:*
 *.lingmovie.com
 *.lingnanpass.com
 *.lingosail.com
+*.lingostarcdn.com
 *.lingphone.net
 *.lingquanb.com
 *.lingrengame.com
@@ -44414,6 +44417,7 @@ ff00:*
 *.mmsk.com
 *.mmstat.com
 *.mmsz.net
+*.mmt3000.com
 *.mmtrix.com
 *.mmtx.net
 *.mmuaa.com
@@ -57256,6 +57260,7 @@ ff00:*
 *.sydw8.com
 *.syeg-ev.com
 *.syf.ink
+*.syfabiao.com
 *.syfb2021.com
 *.syfly007.com
 *.syfw.com
@@ -58823,6 +58828,7 @@ ff00:*
 *.tiangou.xyz
 *.tianhaohz.com
 *.tianhejiayi.com
+*.tianhengs.com
 *.tianhongdiaosu.com
 *.tianhongsunshine.com
 *.tianhujy.com
@@ -70000,6 +70006,7 @@ ff00:*
 *.yofond.com
 *.yofond.net
 *.yofus.com
+*.yoga-8.com
 *.yogeev.com
 *.yogorobot.com
 *.yoher.com
@@ -74607,6 +74614,7 @@ ff00:*
 *.zyccc.com
 *.zyccst.com
 *.zycits.com
+*.zycitscn.com
 *.zycjcrz.org
 *.zycmfw.com
 *.zyctd.com
