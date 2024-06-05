@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-06-05 07:55:36
+; 更新时间：2024-06-06 07:55:48
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6052,6 +6052,7 @@
 *.devpn.com
 *.devsitetest.how
 *.devtools-paypal.com
+*.devv.ai
 *.dewitwithdurex.com
 *.dexterhorn.com
 *.dezyred.com
@@ -15123,6 +15124,7 @@
 *.netflix.ca
 *.netflix.com
 *.netflix.net
+*.netflixdnstest0.com
 *.netflixdnstest1.com
 *.netflixdnstest10.com
 *.netflixdnstest2.com
