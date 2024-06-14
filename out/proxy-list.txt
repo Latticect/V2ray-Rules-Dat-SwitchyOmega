@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-06-14 07:55:34
+; 更新时间：2024-06-15 07:55:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -130,6 +130,7 @@
 *.18doujinshi.xyz
 *.18eighteen.com
 *.18exgfs.com
+*.18fby.com
 *.18h.tv
 *.18hmanga.click
 *.18hmanga.com
@@ -146,7 +147,9 @@
 *.18sex.org
 *.18tube.xxx
 *.18virginsex.com
+*.18ww.life
 *.18yiren.tv
+*.191porn.com
 *.1949er.org
 *.1984bbs.com
 *.1984bbs.org
@@ -180,6 +183,7 @@
 *.1monsterbeatsbydreus.com
 *.1pondo.tv
 *.1pornlist.com
+*.1thek.com
 *.1to1computing.com.au
 *.1to1conference.com.au
 *.1ucrs.com
@@ -503,6 +507,7 @@
 *.908taiwan.org
 *.90seconds.asia
 *.91avfuli.com
+*.91beiyong.com
 *.91cy.app
 *.91dy.club
 *.91fans.org
@@ -511,18 +516,8 @@
 *.91md.me
 *.91moxiong.com
 *.91oo.xyz
-*.91porn.best
 *.91porn.com
-*.91porn.group
-*.91porn.party
-*.91porn.plus
-*.91porn.tw
-*.91porn.work
-*.91pornf.com
 *.91pornplus.com
-*.91pornv.com
-*.91pornx.com
-*.91porny.com
 *.91porny.store
 *.91qk41rf.com
 *.91quanji.com
@@ -532,6 +527,7 @@
 *.91sesex.xyz
 *.91sew.xyz
 *.91sew40.buzz
+*.91vhome.com
 *.91vps.club
 *.920share.com
 *.921bb.com
@@ -1522,6 +1518,7 @@
 *.answering-islam.org
 *.antarvasnaclips.com
 *.antarvasnax.com
+*.antenna.co.kr
 *.anthemgame.com
 *.anthemthegame.com
 *.anthonycalzadilla.com
@@ -1611,6 +1608,7 @@
 *.app.evozi.com
 *.app.smartmailcloud.com
 *.app0le.com
+*.app756.com
 *.appbrain.com
 *.appbridge.ca
 *.appbridge.io
@@ -2444,10 +2442,12 @@
 *.avxhm.is
 *.avxhm.se
 *.avxlive.icu
+*.avxxc.com
 *.avyahoo.com
 *.awayoutgame.com
 *.aweencore.com
 *.awempire.com
+*.awesomeent.co.kr
 *.awetv.com
 *.awflapp.top
 *.awjq.cc
@@ -3172,6 +3172,7 @@
 *.bgov.com
 *.bgr.in
 *.bgvpn.com
+*.bhent.co.kr
 *.bhggn.xyz
 *.bhzyk.buzz
 *.bhzyw2.top
@@ -4005,6 +4006,7 @@
 *.bobovip.cc
 *.bobs-tube.com
 *.bobvoyeur.com
+*.bochk.com
 *.bocici.buzz
 *.bod.asia
 *.bodgirls.com
@@ -5140,6 +5142,7 @@
 *.cispaletter.org
 *.citas-para-mayoresde50.ec
 *.citasecuador.com
+*.citics.com.hk
 *.citizencn.com
 *.citizenlab.ca
 *.citizenlab.org
@@ -5270,6 +5273,7 @@
 *.cloudyzgirl.com
 *.cloupia.com
 *.cloupia.net
+*.clova.ai
 *.club1069.com
 *.clubhouse.com
 *.clubhouseapi.com
@@ -5310,6 +5314,7 @@
 *.cnbeta.com
 *.cnbeta.com.tw
 *.cnbetacdn.com
+*.cncbinternational.com
 *.cncrivals.com
 *.cnd.org
 *.cnet.com
@@ -5620,6 +5625,7 @@
 *.cs.co
 *.cs4hs.com
 *.csakporno.hu
+*.csci.hk
 *.csdparty.com
 *.cshive.com
 *.csifund.org
@@ -5851,6 +5857,9 @@
 *.datawav.club
 *.date2night.xyz
 *.daum.net
+*.daumcdn.net
+*.daumkakao.io
+*.daumpcbang.com
 *.david-kilgour.com
 *.david-laserscanner.com
 *.dawangidc.com
@@ -6396,6 +6405,8 @@
 *.documentforce.com
 *.documentingreality.com
 *.dodgersexcartoons.com
+*.dodi-repacks.download
+*.dodi-repacks.site
 *.dodv.com
 *.doeda.com
 *.dogatch.jp
@@ -6421,6 +6432,7 @@
 *.dollarphotoclub.com
 *.dollarphotosclub.com
 *.dollf.com
+*.dolphiners.com
 *.domain.club.tw
 *.domaintoday.com.au
 *.dombosco.com.br
@@ -7961,6 +7973,7 @@
 *.fasebokk.com
 *.fasebook.com
 *.faseboox.com
+*.fashionbykakao.com
 *.fashionnike.com
 *.fast.com
 *.fast.wistia.com
@@ -8919,6 +8932,7 @@
 *.gamboporn.com
 *.gamcore.com
 *.game-platform.net
+*.game-repack.site
 *.game735.com
 *.gamebase.com.tw
 *.gamebeforethegame.com
@@ -9296,6 +9310,7 @@
 *.glasamerike.net
 *.glass8.eu
 *.gle
+*.gleline.com
 *.global-sci.org
 *.globaledu.org
 *.globaljihad.net
@@ -10963,6 +10978,7 @@
 *.i2runner.com
 *.i69.com.tw
 *.i818hk.com
+*.i91dz.com
 *.iaablog.com
 *.iafd.com
 *.iam.soy
@@ -11003,6 +11019,51 @@
 *.ic.ac.uk
 *.icams.com
 *.icashpassport.com.mx
+*.icbc-at.com
+*.icbc-cz.com
+*.icbc-ltd.com
+*.icbc-uk.com
+*.icbc-us.com
+*.icbc.ae
+*.icbc.be
+*.icbc.co.id
+*.icbc.co.jp
+*.icbc.co.kr
+*.icbc.co.nl
+*.icbc.com.au
+*.icbc.com.es
+*.icbc.com.kh
+*.icbc.com.kw
+*.icbc.com.la
+*.icbc.com.mm
+*.icbc.com.mo
+*.icbc.com.mx
+*.icbc.com.pe
+*.icbc.com.pk
+*.icbc.com.qa
+*.icbc.com.sg
+*.icbc.com.vn
+*.icbc.de
+*.icbc.eu
+*.icbc.lu
+*.icbcalmaty.kz
+*.icbcasia.com
+*.icbcbr.com.br
+*.icbci.com.hk
+*.icbcindia.com
+*.icbcit.com
+*.icbclondon.com
+*.icbcme.ae
+*.icbcmoscow.ru
+*.icbcmy.com
+*.icbcnz.com
+*.icbcpanama.com
+*.icbcparis.fr
+*.icbcpl.com
+*.icbcswiss.com
+*.icbcthai.com
+*.icbkfs.com
+*.icbkus.com
 *.ice.audionow.com
 *.icedrive.net
 *.icegay.tv
@@ -11754,6 +11815,7 @@
 *.iotinactionevents.com
 *.iownyour.biz
 *.iownyour.org
+*.ip.gs
 *.ip.sb
 *.ip73.com
 *.ipa-iphone.net
@@ -11950,6 +12012,7 @@
 *.issquareup.com
 *.issuu.com
 *.istars.co.nz
+*.istent.co.kr
 *.istiqlalhewer.com
 *.istockphoto.com
 *.istorytell.com
@@ -12462,6 +12525,7 @@
 *.juzige.xyz
 *.juziyue.com
 *.jvid.com
+*.jwide.co.kr
 *.jwmusic.org
 *.jwpcdn.com
 *.jwplatform.com
@@ -12489,10 +12553,29 @@
 *.kagyuoffice.org.tw
 *.kairakudoujin.net
 *.kaiyuan.de
+*.kakao.co.kr
 *.kakao.com
+*.kakao.vc
+*.kakaobank.com
+*.kakaobank.io
+*.kakaobankcontent.com
+*.kakaobrain.com
 *.kakaocdn.net
+*.kakaocloud.com
 *.kakaocorp.com
+*.kakaoent.com
+*.kakaoenterprise.com
+*.kakaogamescorp.com
+*.kakaohealthcare.com
+*.kakaoilaas.com
+*.kakaoinvestment.com
+*.kakaomobility.com
+*.kakaopay.com
+*.kakaopaysec.com
+*.kakaopiccoma.com
+*.kakaostyle.com
 *.kakaotalk.jp
+*.kakaovx.com
 *.kaktuz.com
 *.kalachakralugano.org
 *.kali.org
@@ -12512,6 +12595,7 @@
 *.kaob3.xyz
 *.kaotic.com
 *.karayou.com
+*.karechat.ai
 *.karger.com
 *.karinahart.com
 *.karkhung.com
@@ -12555,6 +12639,8 @@
 *.kepard.com
 *.kernel.org
 *.kex.com
+*.keybase.io
+*.keybaseapi.com
 *.keycdn.com
 *.keyhole.com
 *.keyporntube.com
@@ -12562,6 +12648,7 @@
 *.keytransparency.foo
 *.keytransparency.org
 *.kfs.io
+*.kgslb.com
 *.khabdha.org
 *.khanacademy.org
 *.khatrimaza.org
@@ -12701,12 +12788,14 @@
 *.kouwobb.com
 *.kphimsex.net
 *.kpht85.com
+*.kpinsurances.com
 *.kpptoto.info
 *.kqes.net
 *.kraken.com
 *.krakenjs.com
 *.krhentai.com
 *.kristenbjorn.com
+*.krosspictures.com
 *.krux.com
 *.krymr.com
 *.kscisco.com
@@ -13023,6 +13112,7 @@
 *.linuxfromscratch.org
 *.linuxmint.com
 *.linuxtoy.org
+*.lionhearts.co.kr
 *.lionsroar.com
 *.lipuman.com
 *.liquiditytp.com
@@ -13128,6 +13218,7 @@
 *.logitechg.fr
 *.logitechio.com.cn
 *.logos.com.hk
+*.logosfilm.co.kr
 *.loholidayhk.com
 *.lojaiphone.com.br
 *.lokinet.org
@@ -13777,6 +13868,7 @@
 *.mega.nz
 *.megacamz.com
 *.megafilmporno.com
+*.megamon.co.kr
 *.megaphone.fm
 *.megapornfreehd.com
 *.megaporno.com.br
@@ -13792,6 +13884,7 @@
 *.meitula.net
 *.meizhong.blog
 *.meizhong.report
+*.melon.com
 *.melonbooks.co.jp
 *.melonstube.com
 *.meltoday.com
@@ -13832,6 +13925,7 @@
 *.met-nude.com
 *.meta.ai
 *.meta.com
+*.metabora.io
 *.metacafe.com
 *.metacloud.com
 *.metacpan.org
@@ -14044,6 +14138,7 @@
 *.mindmeld.com
 *.mindrolling.org
 *.minecraft.net
+*.minecraft.wiki
 *.minecraftshop.com
 *.mingdemedia.org
 *.minghui-a.org
@@ -14395,6 +14490,7 @@
 *.modelsfreecams.com
 *.modeltv.com
 *.modernchinastudies.org
+*.modoo.at
 *.modperl.pl
 *.modrinth.com
 *.modular.im
@@ -14660,6 +14756,7 @@
 *.msnkids.com
 *.msocdn.com
 *.msocsp.com
+*.msoopent.com
 *.mspairlift.com
 *.msropendata.com
 *.msturing.org
@@ -15038,8 +15135,14 @@
 *.naughtywomenpics.com
 *.naver.com
 *.naver.jp
+*.naver.me
 *.naver.net
+*.naverads.com
+*.navercloudcorp.com
 *.navercorp.com
+*.naverfincorp.com
+*.naverlabs.com
+*.naverncp.com
 *.navisworks.com
 *.navisworks.net
 *.navyfamily.navy.mil
@@ -15063,6 +15166,7 @@
 *.nch.com.tw
 *.nchrd.org
 *.ncl.edu.tw
+*.ncloud.com
 *.ncn.org
 *.nde.de
 *.ndi.org
@@ -15071,6 +15175,7 @@
 *.nebay.net
 *.neborder.com
 *.ned.org
+*.nee4you.com
 *.needforspeed.com
 *.needforspeedboost.com
 *.needforspeeddriftkings.com
@@ -15319,6 +15424,7 @@
 *.nhentai.xxx
 *.nhentaihaven.com
 *.nhentaihaven.org
+*.nheos.com
 *.nhk-ondemand.jp
 *.nhncorp.jp
 *.nic.cz.cc
@@ -16026,6 +16132,7 @@
 *.onion.city
 *.onion.ly
 *.onionshare.org
+*.onkakao.net
 *.online-deals.net
 *.online-instagram.com
 *.online.recoveryversion.org
@@ -16077,6 +16184,7 @@
 *.onxxxvideo.com
 *.ooni.org
 *.oopsforum.com
+*.ootbstudio.co.kr
 *.op.gg
 *.op7979.com
 *.open.com.hk
@@ -16369,6 +16477,7 @@
 *.passion.com
 *.passiontimes.hk
 *.passport.net
+*.pastahealth.com
 *.paste.ee
 *.pastebin.com
 *.pastie.org
@@ -16947,6 +17056,7 @@
 *.poisontube.com
 *.pojapp.cfd
 *.pojbayj1030.top
+*.pojie7.com
 *.pojiefuli20033.xyz
 *.pojiefuli9113.xyz
 *.pokedex3d.com
@@ -17359,6 +17469,7 @@
 *.postimg.org
 *.postini.com
 *.posts.careerengine.us
+*.posty.kr
 *.postyourgirls.ws
 *.potato.im
 *.potenza.jp
@@ -17454,6 +17565,7 @@
 *.printspots.com
 *.printspots.net
 *.prism-break.org
+*.prismlive.com
 *.prisoneralert.com
 *.pritunl.com
 *.privacybox.de
@@ -17999,6 +18111,7 @@
 *.redd.it
 *.reddit.app.link
 *.reddit.com
+*.reddithelp.com
 *.redditlist.com
 *.redditmail.com
 *.redditmedia.com
@@ -18555,6 +18668,7 @@
 *.sellclassics.com
 *.sellercommunity.com
 *.semanticscholar.org
+*.sena.co.kr
 *.sendsmtp.com
 *.sendspace.com
 *.seneporno.com
@@ -18966,6 +19080,7 @@
 *.shotwithgeforce.com
 *.showbiz.omy.sg
 *.showhaotu.com
+*.shownote.com
 *.showtime
 *.showtime.com
 *.showtime.jp
@@ -19080,6 +19195,7 @@
 *.situero.com
 *.six-degrees.io
 *.six9dy.pw
+*.sixte.st
 *.sixth.biz
 *.sjcollect.com
 *.sjhsp1.buzz
@@ -19207,6 +19323,8 @@
 *.sneakerskick.com
 *.sneakme.net
 *.snjulebu.com
+*.snow.me
+*.snowcorp.com
 *.snowlionpub.com
 *.snowmiku.com
 *.soasta-dswb.com
@@ -19650,6 +19768,7 @@
 *.starott.com
 *.starp2p.com
 *.starplus.com
+*.starship-ent.com
 *.starsze.icu
 *.start.com
 *.startpage.com
@@ -19807,12 +19926,15 @@
 *.studentsforafreetibet.org
 *.studiobeatsbydrdre.com
 *.studiofow.com
+*.studiolico.com
 *.studioluxus.com
+*.studioncorp.com
 *.studiopaint.com
 *.studiosucks.com
 *.studywatchbyverily.com
 *.studywatchbyverily.org
 *.stufferdb.com
+*.stuidok110.com
 *.stumbleupon.com
 *.stunnel.org
 *.stupidcams.com
@@ -20245,7 +20367,29 @@
 *.teslaenergy.services
 *.teslamotors.com
 *.teslazta.net
+*.test-ipv6.alpinedc.ch
+*.test-ipv6.arauc.br
+*.test-ipv6.belwue.net
+*.test-ipv6.carnet.hr
+*.test-ipv6.cl
 *.test-ipv6.com
+*.test-ipv6.cs.umd.edu
+*.test-ipv6.csclub.uwaterloo.ca
+*.test-ipv6.cz
+*.test-ipv6.epic.network
+*.test-ipv6.fratec.net
+*.test-ipv6.freerangecloud.com
+*.test-ipv6.go6.si
+*.test-ipv6.hu
+*.test-ipv6.is
+*.test-ipv6.iu13.net
+*.test-ipv6.ke.liquidtelecom.net
+*.test-ipv6.noroutetohost.net
+*.test-ipv6.roedu.net
+*.test-ipv6.se
+*.test-ipv6.sin.vr.org
+*.test-ipv6.ttk.ru
+*.testipv6.de
 *.testonfox.com
 *.tettediferro.it
 *.tew.org
@@ -21109,6 +21253,7 @@
 *.twibs.com
 *.twicountry.org
 *.twicsy.com
+*.twidouga.net
 *.twiends.com
 *.twifan.com
 *.twiffo.com
@@ -21525,6 +21670,7 @@
 *.vanithaveedu.com
 *.vanpeople.com
 *.vansky.com
+*.vastenm.com
 *.vaticannews.va
 *.vatn.org
 *.vaultify.com
@@ -21537,6 +21683,7 @@
 *.vcfbuilder.org
 *.vcloudair.net
 *.vct.news
+*.vday.io
 *.vdoav.com
 *.vds.rightster.com
 *.vecchiescopate.casa
@@ -22542,6 +22689,7 @@
 *.website.informer.com
 *.websitepulse.com
 *.webtoons.com
+*.webtoonscorp.com
 *.webtype.com
 *.webwarper.net
 *.webworkerdaily.com
@@ -22857,6 +23005,7 @@
 *.workersthebig.net
 *.workplace.com
 *.workplaceusecases.com
+*.worksmobile.com
 *.workspaceair.com
 *.workspaceone.com
 *.workstations.tv
@@ -23001,6 +23150,8 @@
 *.wwwwebay.com
 *.wwwxoom.com
 *.wxoyt.com
+*.wynd.network
+*.wyndlabs.ai
 *.wyqqdz.com
 *.wzlthw.com
 *.wzmyg.com
@@ -24239,11 +24390,13 @@
 *.zi.media
 *.zibacity.com
 *.ziddu.com
+*.zigzag.kr
 *.zillionk.com
 *.zim.vn
 *.zind.cloud
 *.zingtruyen.net
 *.zinio.com
+*.zipcine.com
 *.ziporn.com
 *.zippyshare.com
 *.zishy.com
@@ -24415,7 +24568,6 @@ cdn-spotify-experiments.conductrics.com
 cdn.js7k.com
 cdn.jsdelivr.net
 cdngarenanow-a.akamaihd.net
-chat.openai.com.cdn.cloudflare.net
 chinapower.csis.org
 cisco.evergage.com
 ciscolivehls-i.akamaihd.net
@@ -24559,6 +24711,7 @@ public-us-pingsx.api.clonoth.com
 push-apple.com.akadns.net
 pvr-hamivideo.cdn.hinet.net
 qualcomm.sc.omtrdc.net
+reddit.map.fastly.net
 rink.hockeyapp.net
 rtm.tnt-ea.com
 sa78gs.wpc.edgecastcdn.net
@@ -24801,6 +24954,7 @@ zeenews-fonts.s3.amazonaws.com
 ztedevices.com
 HostRegex: (^|\.)13mei[5-7]\.buzz$
 HostRegex: (^|\.)18jmttios[0-9]{2}\.com$
+HostRegex: (^|\.)18j[efg]\.life$
 HostRegex: (^|\.)18tv[1-5]\.com$
 HostRegex: (^|\.)1[0-9]{2}\.one$
 HostRegex: (^|\.)2024(3[0-9]|4[0-9]|6[0-9]|7[0-9])\.xyz$
@@ -24810,8 +24964,11 @@ HostRegex: (^|\.)69bag[0-1][1-9]?\.com$
 HostRegex: (^|\.)783([a-z][a-z]?)?\.tv$
 HostRegex: (^|\.)7mm0([0-1][0-9]?)?\.com$
 HostRegex: (^|\.)8dgo[1-57-9]\.com$
+HostRegex: (^|\.)91cg([1-9]|[0-9][1-9])?.com$
 HostRegex: (^|\.)91porn[0-9]?\.store$
 HostRegex: (^|\.)91porn[0-9]{3}\.me$
+HostRegex: (^|\.)91porn[fvxy]\.com$
+HostRegex: (^|\.)91porn\.(best|com|cool|group|party|plus|site|tw|work)$
 HostRegex: (^|\.)91p[0-9][0-9]?\.com$
 HostRegex: (^|\.)91sew1[1-6]\.buzz$
 HostRegex: (^|\.)989[a-z]?\.tv$
@@ -24953,15 +25110,15 @@ HostRegex: .+\.na-ashburn\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.na-siliconvalley\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.na-toronto\.tencentcos\.(cn|com(\.cn)?)$
 HostRegex: .+\.sa-saopaulo\.tencentcos\.(cn|com(\.cn)?)$
-HostRegex: chatgpt-async-webps-prod-eastus-\d+\.webpubsub\.azure\.com$
-HostRegex: github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com
-HostRegex: ^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?)).nist.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?)).colorado.edu)$
+HostRegex: ^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
+HostRegex: ^chatgpt-async-webps-prod-eastus-\d+\.webpubsub\.azure\.com$
 HostRegex: ^epicgames-download\d\.akamaized\.net$
 HostRegex: ^ewcdn[0-9]{2}\.nowe\.com$
-HostRegex: ^hses[1-7]?.akamaized.net$
-HostRegex: ^ntp[0-7].ntp-servers.net$
+HostRegex: ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
+HostRegex: ^hses[1-7]?\.akamaized\.net$
+HostRegex: ^ntp[0-7]\.ntp-servers\.net$
 HostRegex: ^time(.euro)?.apple.com$
 HostRegex: ^time([1-4])?.google.com$
-HostRegex: ^time([1-5])?.facebook.com$
+HostRegex: ^time([1-5])?\.facebook\.com$
 HostRegex: ^[0-9]+vod-adaptive\.akamaized\.net$
 *.

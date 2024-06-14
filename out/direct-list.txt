@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-06-14 07:55:34
+; 更新时间：2024-06-15 07:55:31
 ; cn域名都不走代理
 *.cn
 
@@ -12645,7 +12645,6 @@ ff00:*
 *.bocfullertonbank.com
 *.bocgi.com
 *.bocgins.com
-*.bochk.com
 *.bochyun.com
 *.bocichina.com
 *.bocifunds.com
@@ -16632,7 +16631,6 @@ ff00:*
 *.citicifh.com
 *.citicnetworks.com
 *.citics.com
-*.citics.com.hk
 *.citicsf.com
 *.citicsinfo.com
 *.citicsteel.com
@@ -17273,7 +17271,6 @@ ff00:*
 *.cnc-school.com
 *.cnca.net
 *.cncaifu.com
-*.cncbinternational.com
 *.cncc.bingj.com
 *.cnccac.com
 *.cnccchina.com
@@ -18586,7 +18583,6 @@ ff00:*
 *.cscec.com
 *.cscec1b.net
 *.cscecst.com
-*.csci.hk
 *.cscmgg.com
 *.cscyw.com
 *.csdc.info
@@ -29896,6 +29892,7 @@ ff00:*
 *.heiyange.com
 *.heiyanimg.com
 *.heiying.cc
+*.heiyu.space
 *.heiyuewan.com
 *.heiyunxitong.com
 *.heizhushoes.com
@@ -32355,6 +32352,7 @@ ff00:*
 *.hupo.tv
 *.hupu.com
 *.hupucdn.com
+*.hupun.com
 *.hurbai.com
 *.hurun.net
 *.husenji.com
@@ -33058,57 +33056,15 @@ ff00:*
 *.icastlewar.com
 *.icax.org
 *.icbc
-*.icbc-at.com
-*.icbc-cz.com
 *.icbc-ltd.com
-*.icbc-uk.com
-*.icbc-us.com
-*.icbc.ae
-*.icbc.be
-*.icbc.co.id
-*.icbc.co.jp
-*.icbc.co.kr
-*.icbc.co.nl
-*.icbc.com.au
-*.icbc.com.es
-*.icbc.com.kh
-*.icbc.com.kw
-*.icbc.com.la
-*.icbc.com.mm
-*.icbc.com.mo
-*.icbc.com.mx
-*.icbc.com.pe
-*.icbc.com.pk
-*.icbc.com.qa
-*.icbc.com.sg
-*.icbc.com.vn
-*.icbc.de
-*.icbc.eu
 *.icbc.jp
-*.icbc.lu
-*.icbcalmaty.kz
 *.icbcasia.com
-*.icbcbr.com.br
-*.icbci.com.hk
 *.icbcina.com
-*.icbcindia.com
-*.icbcit.com
-*.icbclondon.com
-*.icbcme.ae
-*.icbcmoscow.ru
-*.icbcmy.com
-*.icbcnz.com
-*.icbcpanama.com
-*.icbcparis.fr
-*.icbcpl.com
 *.icbcstandard.com
 *.icbcstandardbank.com
 *.icbcstandardresources.com
 *.icbcstandardsecurities.com
 *.icbcswiss.com
-*.icbcthai.com
-*.icbkfs.com
-*.icbkus.com
 *.icbuy.com
 *.icc.link
 *.icc365.com
@@ -40162,6 +40118,8 @@ ff00:*
 *.larkrooms.com
 *.larksuite-pre.com
 *.larksuite.com
+*.larksuite.com.ttdns1.com
+*.larksuite.com.ttdns2.com
 *.larksuitecdn.com
 *.larksuiteimg-boe.com
 *.larksuiteimg-pre.com
@@ -40226,6 +40184,7 @@ ff00:*
 *.lazcdn.com
 *.laze.cc
 *.lazybios.com
+*.lazycat.cloud
 *.lazydim.com
 *.lazyren.com
 *.lazystones.com
@@ -46304,6 +46263,7 @@ ff00:*
 *.newmargin.com
 *.newnanbao.com
 *.newnewle.com
+*.newniu.com
 *.newoasis.cc
 *.newoer.com
 *.newoo.com
@@ -63068,6 +63028,7 @@ ff00:*
 *.wanlan.vip
 *.wanli.com
 *.wanlicd.com
+*.wanliniu.com
 *.wanlitong.com
 *.wanmei.com
 *.wanmeidapei.com
@@ -64514,6 +64475,7 @@ ff00:*
 *.winnet.cc
 *.winning11cn.com
 *.winon.tm
+*.winos.me
 *.winotes.net
 *.winotmk.com
 *.winrim.com
@@ -75760,7 +75722,7 @@ HostRegex: ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 HostRegex: ^gog-cdn-.+\.footprint\.net$
 HostRegex: ^images(-\d)?\.gog-statics\.com$
 HostRegex: ^is[1-5](-ssl)?\.mzstatic\.com$
-HostRegex: ^ntp([1-5])?.tencent.com$
-HostRegex: ^ntp([1-7])?.aliyun.com$
+HostRegex: ^ntp([1-5])?\.tencent\.com$
+HostRegex: ^ntp([1-7])?\.aliyun\.com$
 HostRegex: ^s[1-5]?\.mzstatic\.com$
 *.
