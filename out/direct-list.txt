@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-06-24 07:55:36
+; 更新时间：2024-06-25 07:55:28
 ; cn域名都不走代理
 *.cn
 
@@ -75406,6 +75406,7 @@ borgmon.adz.google.com
 build.microsoft.com
 c.admob.com
 c.android.clients.google.com
+c.pki.goog
 cache-management-prod.google.com
 cache.pack.google.com
 cdn-cn1.apple-mapkit.com
@@ -75568,6 +75569,7 @@ gvt2-cn.com
 hellofontpreview.oss-cn-beijing.aliyuncs.com
 hellowebfonts.oss-cn-beijing.aliyuncs.com
 hospital.pku.edu.cn
+i.pki.goog
 iadsdk.apple.com
 icloud-cdn.icloud.com.akadns.net
 icloud.cdn-apple.com
@@ -75632,6 +75634,7 @@ msgr.dlservice.microsoft.com
 msgruser.dlservice.microsoft.com
 music.apple.com
 myvs.download.prss.microsoft.com
+o.pki.goog
 ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.pki.goog
