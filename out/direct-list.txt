@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-07-07 07:55:28
+; 更新时间：2024-07-08 07:55:48
 ; cn域名都不走代理
 *.cn
 
@@ -9191,13 +9191,7 @@ ff00:*
 *.alibabacapital.com
 *.alibabachengdun.com
 *.alibabachengdun.net
-*.alibabacloud.co.in
 *.alibabacloud.com
-*.alibabacloud.com.au
-*.alibabacloud.com.hk
-*.alibabacloud.com.my
-*.alibabacloud.com.sg
-*.alibabacloud.com.tw
 *.alibabacorp.com
 *.alibabadesign.com
 *.alibabadns.com
@@ -9247,7 +9241,6 @@ ff00:*
 *.aligfwaf.com
 *.alighting.com
 *.alihd.net
-*.alihealth.hk
 *.alihuahua.com
 *.aliimg.com
 *.alijijinhui.org
@@ -11045,6 +11038,7 @@ ff00:*
 *.baidu123.com
 *.baidu521.com
 *.baiduads.com
+*.baiduapp.com
 *.baidubaidubaidu.com
 *.baidubaidubaidu.net
 *.baidubce.com
@@ -14891,12 +14885,10 @@ ff00:*
 *.ccbfund.com
 *.ccbfutures.com
 *.ccbike.cc
-*.ccbintl.com.hk
 *.ccbleasing.com
 *.ccbookfair.com
 *.ccbpension.com
 *.ccbride.com
-*.ccbseoul.com
 *.ccbxt.com
 *.cccbs.net
 *.cccc-capital.com
@@ -16987,8 +16979,6 @@ ff00:*
 *.chinaun.net
 *.chinaunicom-a.com
 *.chinaunicom.com
-*.chinaunicom.com.hk
-*.chinaunicomglobal.com
 *.chinaunionpay.com
 *.chinaunionpay.net
 *.chinauniversalasset.com
@@ -18033,7 +18023,6 @@ ff00:*
 *.cmbchina.com
 *.cmbchina.net
 *.cmbchinawm.com
-*.cmbi.com.hk
 *.cmbimg.com
 *.cmbuat.com
 *.cmbwinglungbank.com
@@ -19817,11 +19806,7 @@ ff00:*
 *.cteaw.com
 *.ctecdcs.com
 *.ctex.org
-*.ctexcel.ca
-*.ctexcel.com
 *.ctexcel.com.hk
-*.ctexcel.fr
-*.ctexcel.us
 *.ctfhub.com
 *.ctfile.com
 *.ctfile.net
@@ -19866,9 +19851,7 @@ ff00:*
 *.ctrip-ttd.hk
 *.ctrip.co.id
 *.ctrip.co.kr
-*.ctrip.co.th
 *.ctrip.com
-*.ctrip.com.hk
 *.ctrip.my
 *.ctrip.sg
 *.ctripbiz.com
@@ -21783,10 +21766,8 @@ ff00:*
 *.didatravel.com
 *.didctf.com
 *.diddgame.com
-*.didi-food.com
 *.didialift.com
 *.didiapp.com
-*.didiaustralia.blog
 *.didibear.com
 *.didichuxing.com
 *.didichuxing.net
@@ -21794,8 +21775,6 @@ ff00:*
 *.dididapiao.com
 *.dididawo.com
 *.dididi88.com
-*.didiglobal.com
-*.didimobility.co.jp
 *.didipay.com
 *.didiqiche.com
 *.didishijie.com
@@ -23254,8 +23233,10 @@ ff00:*
 *.duwenxue.com
 *.duwenz.com
 *.duwenzhang.com
+*.duxiaoman-int.com
 *.duxiaoman.com
 *.duxiaomanfintech.com
+*.duxiaomantech.com
 *.duxiaoshuo.com
 *.duxiu.com
 *.duyandb.com
@@ -23336,10 +23317,15 @@ ff00:*
 *.dxjh.net
 *.dxjs.com
 *.dxlfile.com
+*.dxm-cdn.com
+*.dxm-int.com
 *.dxm-yibai.com
 *.dxmjinr.com
+*.dxmlcf.com
+*.dxmlcfintech.com
 *.dxmpay.com
 *.dxmstatic.com
+*.dxmyqh.com
 *.dxnky.com
 *.dxpmedia.com
 *.dxqyy.com
@@ -24475,7 +24461,6 @@ ff00:*
 *.emr-volces.com
 *.ems-audio.com
 *.ems517.com
-*.emsec.hk
 *.emshost.com
 *.emshua.com
 *.emsym.com
@@ -32193,7 +32178,6 @@ ff00:*
 *.hhrcard.com
 *.hhrdc.com
 *.hhtravel.com
-*.hhtravel.com.tw
 *.hhup.com
 *.hhuus.com
 *.hhvv.com
@@ -37637,11 +37621,8 @@ ff00:*
 *.jd-fm.com
 *.jd-zd.com
 *.jd.co
-*.jd.co.th
 *.jd.com
 *.jd.hk
-*.jd.id
-*.jd.ru
 *.jd.shop
 *.jd100.com
 *.jd120.com
@@ -39902,6 +39883,7 @@ ff00:*
 *.juejinqifu.com
 *.juemei.com
 *.juemuren4449.com
+*.juequling.com
 *.juesheng.com
 *.juewei.com
 *.juexiang.com
@@ -55713,7 +55695,6 @@ ff00:*
 *.rfaexpo.com
 *.rfc2cn.com
 *.rfchina.com
-*.rfchost.com
 *.rfcreader.com
 *.rfdl88.com
 *.rfdy.hk
@@ -64442,7 +64423,6 @@ ff00:*
 *.triggerdelivery.com
 *.trinitigame.com
 *.trioisobardev.com
-*.trip.com
 *.trip8080.com
 *.tripbaba.com
 *.tripbe.com
@@ -80809,6 +80789,8 @@ techstop.corp.google.com
 tesla-cdn.thron.cn
 test.bugs-qa.chromium.org
 test.gbugs-qa.chromium.org
+time.izatcloud.net
+time.xtracloud.net
 tj-pod1-smp-device.apple.com
 tools.google.com
 tools.l.google.com
@@ -80827,7 +80809,6 @@ updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
 uplaypc-s-ubisoft.cdn.ubi.com
-upos-hz-mirrorakam.akamaized.net
 upp.itunes.apple.com
 valid.apple.com
 valid.origin-apple.com.akadns.net
