@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-07-08 07:55:48
+; 更新时间：2024-07-09 07:55:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5514,6 +5514,11 @@
 *.cordcloud.org
 *.coreduo.com
 *.coreextreme.com
+*.corel.com
+*.corel.net
+*.coreldraw.app
+*.coreldraw.com
+*.corelstore.com
 *.coreml.net
 *.coreoptics.net
 *.corepublishingsolutions.com
@@ -10555,6 +10560,7 @@
 *.homestylerapp.com
 *.homestylernews.com
 *.hometrack.com.au
+*.hominis.media
 *.homo.xxx
 *.honawalaan.com
 *.honestpornreviews.com
@@ -12499,6 +12505,8 @@
 *.jqueryui.com
 *.jr24h.com
 *.js.org
+*.jsati.com
+*.jsatmobile.com
 *.jsbridgestone.com
 *.jsdelivr.com
 *.jsdelivr.net
@@ -19275,6 +19283,8 @@
 *.skype.net
 *.skypeassets.com
 *.skypeassets.net
+*.skyperfectjsat.space
+*.skyperfectv.co.jp
 *.skyporn.online
 *.skysports.com
 *.skysports.fr
@@ -19601,6 +19611,7 @@
 *.spankred3d.com
 *.spankwire.com
 *.spb.com
+*.spcc-sp.com
 *.speakerdeck.com
 *.spearhead.kr
 *.specialtyheadphones.com
@@ -19662,6 +19673,7 @@
 *.sprite.org
 *.sproutcore.com
 *.sproxy.info
+*.sptvbroadcast.com
 *.spyjinx.com
 *.sqlite.org
 *.sqlserveronlinux.com
