@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-07-10 07:55:32
+; 更新时间：2024-07-11 07:55:41
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -13800,6 +13800,7 @@
 *.maturewifeporn.cc
 *.maturewomenanal.com
 *.maturexxxvideos.cc
+*.max.com
 *.maxgo.com
 *.maxillofacial-cadcam.com
 *.maximumerotica.com
