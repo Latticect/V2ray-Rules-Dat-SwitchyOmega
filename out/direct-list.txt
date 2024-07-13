@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-07-13 07:55:45
+; 更新时间：2024-07-14 07:55:26
 ; cn域名都不走代理
 *.cn
 
@@ -14834,6 +14834,7 @@ ff00:*
 *.cbinews.com
 *.cbismb.com
 *.cbj1998.com
+*.cbjq.com
 *.cbjuice.com
 *.cbjzw.org
 *.cbmay.com
