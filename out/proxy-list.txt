@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-07-20 07:55:40
+; 更新时间：2024-07-21 07:55:47
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1528,6 +1528,7 @@
 *.anthemgame.com
 *.anthemthegame.com
 *.anthonycalzadilla.com
+*.anthropic.com
 *.anti1984.com
 *.antichristendom.com
 *.antiwave.net
@@ -5196,6 +5197,7 @@
 *.classicalguitarblog.net
 *.classicnike.com
 *.classymomsex.com
+*.claude.ai
 *.clb.org.hk
 *.clco.cc
 *.cldr.unicode.org
@@ -16266,7 +16268,6 @@
 *.openleaks.org
 *.openlibrary.org
 *.openmaps.org
-*.openmidas.com
 *.openreality.com
 *.openresty.org
 *.opensea.io
@@ -17865,10 +17866,8 @@
 *.qprize.com
 *.qpx.googleflights.net
 *.qq.co.za
-*.qq.design
 *.qqbs.asia
 *.qqbs.work
-*.qqgamedesign.com
 *.qr.ae
 *.qstatus.com
 *.qt-project.org
@@ -20413,12 +20412,8 @@
 *.temetube.xyz
 *.tenacy.com
 *.tenbyfotolia.com
-*.tencent-cloud.cn
-*.tencent-cloud.com
 *.tencent.co.id
 *.tencent.com.hk
-*.tencent.design
-*.tencentcloud.com
 *.tenor.com
 *.tensorflow.org
 *.tenzinpalmo.com
@@ -20873,7 +20868,6 @@
 *.titsbox.com
 *.titsintops.com
 *.tittykings.com
-*.tjstats.com
 *.tkb008.xyz
 *.tkb2233.life
 *.tkbqf2.life
@@ -22777,7 +22771,6 @@
 *.weekmag.info
 *.wefightcensorship.org
 *.wefong.com
-*.wegamedeveloper.com
 *.wego.here.com
 *.weiboleak.com
 *.weiboscope.jmsc.hku.hk
