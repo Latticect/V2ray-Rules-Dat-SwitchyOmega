@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-07-26 07:55:33
+; 更新时间：2024-07-27 07:55:49
 ; cn域名都不走代理
 *.cn
 
@@ -31666,6 +31666,8 @@ ff00:*
 *.gvi-tech.com
 *.gvlocalization.com
 *.gvoiceplat.com
+*.gvt1-cn.com
+*.gvt2-cn.com
 *.gvzen.com
 *.gw-ec.com
 *.gw.craft.moe
@@ -46945,6 +46947,7 @@ ff00:*
 *.lao.si
 *.laobaicai.net
 *.laobaigan-hs.com
+*.laoban100.com
 *.laobandq.com
 *.laobanfa.com
 *.laobangban.com
@@ -63921,8 +63924,10 @@ ff00:*
 *.shengyan985.com
 *.shengyasd.com
 *.shengyeji.com
+*.shengyi.ai
 *.shengyi.biz
 *.shengyidi.com
+*.shengyizhuanjia.com
 *.shengyuancc.com
 *.shengzehr.com
 *.shengzhaoli.com
@@ -83139,6 +83144,7 @@ ff00:*
 *.yuanbaohui.com
 *.yuanbaokc.com
 *.yuanbaotaoche.com
+*.yuanbei.biz
 *.yuanbin.me
 *.yuancangipr.com
 *.yuancdn.com
@@ -88093,8 +88099,6 @@ gtm.oasisfeng.com
 guzzoni-apple-com.v.aaplimg.com
 guzzoni.apple.com
 guzzoni.smoot.apple.com
-gvt1-cn.com
-gvt2-cn.com
 hellofontpreview.oss-cn-beijing.aliyuncs.com
 hellowebfonts.oss-cn-beijing.aliyuncs.com
 hospital.pku.edu.cn
@@ -88371,6 +88375,7 @@ xn--9kr7l.com
 xn--flw351e.com
 xp.apple.com
 xz.pphimalayanrt.com
+HostRegex: .+\.amzndns-cn\.(biz|cn|com|net)$
 HostRegex: .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 HostRegex: .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 HostRegex: .+\.azchcdn[a-s]\.com$
