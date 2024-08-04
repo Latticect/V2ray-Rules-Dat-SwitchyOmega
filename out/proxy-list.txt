@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-08-04 07:55:29
+; 更新时间：2024-08-05 07:55:42
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -20920,6 +20920,7 @@
 *.tibetswiss.ch
 *.tibettelegraph.com
 *.tibettimes.net
+*.tibettruth.com
 *.tibetwrites.org
 *.tiburon.com
 *.tickdata.com
