@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-08-08 07:55:31
+; 更新时间：2024-08-09 07:55:34
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5223,7 +5223,6 @@
 *.clickserve.cc-dt.com
 *.clickserver.googleads.com
 *.climate-server.com
-*.clincha.cn
 *.cling.omy.sg
 *.clinica-tibet.ru
 *.clinical-videos.com
@@ -11464,7 +11463,6 @@
 *.illusionas.com
 *.illusionchn.com
 *.illusionfactory.com
-*.illusionfb.cn
 *.illusiongw.com
 *.illusionh.com
 *.illusionl.com
@@ -24170,7 +24168,6 @@
 *.yinya.shop
 *.yipub.com
 *.yiqiedoushiganggangkaishi.org
-*.yiqilai99.cn
 *.yizhihongxing.com
 *.yjcontentdelivery.com
 *.ymail.com
