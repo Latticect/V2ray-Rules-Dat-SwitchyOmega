@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-08-29 07:55:29
+; 更新时间：2024-08-30 07:55:29
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -23383,6 +23383,7 @@
 *.x-caprice.com
 *.x-fetish.org
 *.x-wall.org
+*.x.ai
 *.x.co
 *.x.com
 *.x.company
@@ -24734,6 +24735,7 @@ adobe-dns-3.adobe.com
 adobe-dns-4.adobe.com
 adobe-dns.adobe.com
 adobeereg.com
+alkalimakersuite-pa.clients6.google.com
 alt1-mtalk.google.com
 alt2-mtalk.google.com
 alt3-mtalk.google.com
@@ -25015,6 +25017,7 @@ scholar.google.sk
 scholar.googleusercontent.com
 scholar.l.google.com
 sentry.ppy.sh
+servd-anthropic-website.b-cdn.net
 sni1dcb6gl.wpc.edgecastcdn.net
 spectator.ppy.sh
 spotify.com.edgesuite.net
