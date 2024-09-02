@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-09-02 07:55:28
+; 更新时间：2024-09-03 07:55:28
 ; cn域名都不走代理
 *.cn
 
@@ -40030,6 +40030,7 @@ ff00:*
 *.ibmhz.com
 *.ibmwclub.com
 *.ibodao.com
+*.iboohee.com
 *.ibook8.com
 *.ibooker.cc
 *.ibookstar.com
@@ -42160,6 +42161,7 @@ ff00:*
 *.ivywing.me
 *.iwala.net
 *.iwan4399.com
+*.iwan78.com
 *.iwanbei.com
 *.iwanboy.com
 *.iwangding.com
@@ -50854,6 +50856,7 @@ ff00:*
 *.luoqiu.com
 *.luoqiuzw.com
 *.luoshendao.com
+*.luoshu.com
 *.luoshuanchangjia.com
 *.luosi.com
 *.luosifen888.com
@@ -84577,6 +84580,7 @@ ff00:*
 *.yqwyx.xyz
 *.yqxiuyoung.com
 *.yqxs.cc
+*.yqxsg.cc
 *.yqxsge.cc
 *.yqxxjy.com
 *.yqy021.com
