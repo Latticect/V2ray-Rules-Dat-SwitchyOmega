@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-09-03 07:55:28
+; 更新时间：2024-09-04 07:55:41
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -612,6 +612,7 @@
 *.abema-tv.com
 *.abema.io
 *.abema.tv
+*.abematv.co.jp
 *.abgsp1.buzz
 *.abigass.com
 *.abitno.linpie.com
@@ -942,6 +943,7 @@
 *.ai-kan.net
 *.ai-wen.net
 *.ai.binwang.me
+*.ai.com
 *.ai7995.site
 *.ai91porn.cc
 *.aiaa.org
@@ -5228,6 +5230,7 @@
 *.clinicalkey.com
 *.clip16.com
 *.clipcake.com
+*.clipdrop.co
 *.clipfish.de
 *.cliphayho.com
 *.cliphunter.com
@@ -6150,6 +6153,7 @@
 *.didimobility.co.jp
 *.dierectv.com
 *.difangwenge.org
+*.dify.ai
 *.digicert-cn.com
 *.digicert-validation.com
 *.digicert.com
@@ -12268,6 +12272,7 @@
 *.jasa3dmax.com
 *.jasaautocad.com
 *.jasmin.com
+*.jasper.ai
 *.jav-angel.net
 *.jav-subtitles.com
 *.jav-vr.net
@@ -24732,6 +24737,8 @@ adobe-dns-3.adobe.com
 adobe-dns-4.adobe.com
 adobe-dns.adobe.com
 adobeereg.com
+ai.google.dev
+alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
 alt1-mtalk.google.com
 alt2-mtalk.google.com
