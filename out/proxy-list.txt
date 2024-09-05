@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-09-05 07:55:35
+; 更新时间：2024-09-06 07:55:29
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -3259,8 +3259,6 @@
 *.bili2.cc
 *.bili888.com
 *.bili999.com
-*.bilibili.tv
-*.biliintl.com
 *.biliplus.com
 *.biliworld.com
 *.bill-safe.com
@@ -6597,7 +6595,6 @@
 *.drdreprobeatssale.com
 *.dreamamateurs.com
 *.dreambmw.ca
-*.dreamcast.hk
 *.dreamforce.com
 *.dreammovies.com
 *.dreamteamfc.com
@@ -12091,7 +12088,6 @@
 *.iptv.com.tw
 *.iptvbin.com
 *.ipvanish.com
-*.iq.com
 *.iqiyiavlive.buzz
 *.iqq2.cc
 *.iqq3.cc
@@ -14303,6 +14299,7 @@
 *.mindrolling.org
 *.minecraft.net
 *.minecraft.wiki
+*.minecraftservices.com
 *.minecraftshop.com
 *.mingdemedia.org
 *.minghui-a.org
@@ -25052,7 +25049,6 @@ ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 ubistatic3-a.akamaihd.net
 ulrichsweb.serialssolutions.com
-upos-hz-mirrorakam.akamaized.net
 ve-dash-uk-live.akamaized.net
 ve-uhd-push-uk-live.akamaized.net
 venmo.s3.amazonaws.com
