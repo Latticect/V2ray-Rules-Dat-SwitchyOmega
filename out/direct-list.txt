@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-09-14 07:55:30
+; 更新时间：2024-09-15 07:55:30
 ; cn域名都不走代理
 *.cn
 
@@ -31302,6 +31302,7 @@ ff00:*
 *.greenxf.com
 *.greenxiazai.com
 *.greepi.com
+*.greeyun.com
 *.grender.com
 *.grescw.com
 *.gretf.com
@@ -36564,6 +36565,7 @@ ff00:*
 *.hezibuluo.com
 *.hezijia.com
 *.hezxs.com
+*.hf-aw.com
 *.hf-cups.com
 *.hf-iflysse.com
 *.hf0779.com
@@ -38410,6 +38412,7 @@ ff00:*
 *.huaerzi.store
 *.huafang.com
 *.huafeng.com
+*.huafengaw.com
 *.huafens.com
 *.huafer.cc
 *.huagolf.com
@@ -41729,6 +41732,7 @@ ff00:*
 *.irs01.net
 *.irs03.com
 *.irskj.com
+*.irsnp.com
 *.iruanmi.com
 *.iruidian.com
 *.iruixing.com
@@ -46682,6 +46686,7 @@ ff00:*
 *.kingfulai.com
 *.kinggoo.com
 *.kinggrid.com
+*.kinghomechina.com
 *.kingidc.net
 *.kingkaid.com
 *.kingland119.com
@@ -53085,6 +53090,7 @@ ff00:*
 *.midea.com
 *.midea.com.tr
 *.mideadc.com
+*.mideaepayuat.com
 *.mideav.com
 *.mideazy.com
 *.midian.com
@@ -72186,7 +72192,6 @@ ff00:*
 *.trip8080.com
 *.tripbaba.com
 *.tripbe.com
-*.tripcdn.com
 *.tripleuuu.com
 *.triplexservice.com
 *.tripnearby.com
@@ -87593,6 +87598,7 @@ ff00:*
 *.zhliqi.com
 *.zhljq.com
 *.zhltech.net
+*.zhlyen.com
 *.zhlzw.com
 *.zhmeiwen.com
 *.zhmf.com
