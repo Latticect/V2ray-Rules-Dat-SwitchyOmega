@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-09-18 07:55:32
+; 更新时间：2024-09-19 07:55:43
 ; cn域名都不走代理
 *.cn
 
@@ -1312,6 +1312,7 @@ ff00:*
 *.12gang.com
 *.12h5.com
 *.12jn.com
+*.12ka.cc
 *.12ketang.com
 *.12ky.com
 *.12miao.com
@@ -4637,6 +4638,7 @@ ff00:*
 *.51signing.com
 *.51sjht.com
 *.51sjk.com
+*.51sjm.com
 *.51sjsj.com
 *.51sole.com
 *.51soulou.com
@@ -8645,6 +8647,7 @@ ff00:*
 *.adscover.com
 *.adsctl.com
 *.adsjdy.com
+*.adsjl3.icu
 *.adslr.com
 *.adsmogo.com
 *.adsmogo.mobi
@@ -9823,6 +9826,7 @@ ff00:*
 *.allsenseww.com
 *.allshopwatch.com
 *.allstack.net
+*.allstatics.com
 *.allstor.org
 *.alltiedowns.com
 *.alltion-cn.com
@@ -13221,6 +13225,7 @@ ff00:*
 *.binvul.com
 *.binzc.com
 *.binzhi.com
+*.binzhikeji.com
 *.binzhouw.com
 *.binzhuang.com
 *.bio-dxzf.com
@@ -13565,6 +13570,7 @@ ff00:*
 *.bjhuiqi.net
 *.bjhuizhu.com
 *.bjhwbr.com
+*.bjhwtx.com
 *.bjhytjxjg.com
 *.bjhzkq.com
 *.bjiab.com
@@ -18839,6 +18845,7 @@ ff00:*
 *.clewm.net
 *.clewxc.com
 *.clfcgc.com
+*.clfdked.icu
 *.clfile.com
 *.clfzsn.com
 *.clgcxs.com
@@ -22456,6 +22463,7 @@ ff00:*
 *.de-hilfe.blog
 *.de-moe.org
 *.de0.cc
+*.de1000.com
 *.de123.net
 *.de1919.com
 *.de56.com
@@ -25888,6 +25896,7 @@ ff00:*
 *.ele.to
 *.ele001.com
 *.ele12.com
+*.elec100.com
 *.elecfans.com
 *.elecfans.net
 *.elecinfo.com
@@ -26662,7 +26671,6 @@ ff00:*
 *.extbrand.com
 *.extech-sh.com
 *.extfans.com
-*.extmail.org
 *.extron-tech.com
 *.extscreen.com
 *.extstars.com
@@ -28033,6 +28041,7 @@ ff00:*
 *.fjyklc.com
 *.fjyunba.com
 *.fjyxdm.com
+*.fjyxgl.com
 *.fjyy.org
 *.fjzixun.com
 *.fjzol.com
@@ -30622,6 +30631,7 @@ ff00:*
 *.glxtny.com
 *.glxwdb.com
 *.glxxjx.com
+*.glxyjqx.com
 *.glxyjx.com
 *.glxyrn.com
 *.glyhjc.com
@@ -32036,6 +32046,7 @@ ff00:*
 *.gwpdi.com
 *.gwpstools.com
 *.gwsdns.com
+*.gwtt.com
 *.gwwg.com
 *.gwy.com
 *.gwyclass.com
@@ -36284,6 +36295,7 @@ ff00:*
 *.helpmepick.net
 *.helpson.com
 *.helpton.com
+*.helptousa.com
 *.helpweixin.com
 *.helqc.com
 *.helunyun.com
@@ -36894,6 +36906,7 @@ ff00:*
 *.hisense-syxs.com
 *.hisense.com
 *.hisensehitachi.com
+*.hisensekf.com
 *.hishouhui.com
 *.hisilicon.com
 *.hisiphp.com
@@ -42116,6 +42129,7 @@ ff00:*
 *.ivvajob.com
 *.ivweb.io
 *.ivwen.com
+*.ivxiaoyuan.com
 *.ivy-school.org
 *.ivybaby.me
 *.ivycoffee.com
@@ -43142,6 +43156,7 @@ ff00:*
 *.jianlc.com
 *.jianlc.net
 *.jianli-sky.com
+*.jianli.com
 *.jianli88.com
 *.jianli9.com
 *.jianliao.com
@@ -44026,6 +44041,7 @@ ff00:*
 *.jiumei.com
 *.jiumei8.com
 *.jiumeisheng.com
+*.jiumentongbu.com
 *.jiunile.com
 *.jiuniok.com
 *.jiupaicom.com
@@ -46672,6 +46688,8 @@ ff00:*
 *.kituin.fun
 *.kiwa-tech.com
 *.kiwenlau.com
+*.kiwifarms.net
+*.kiwifarms.st
 *.kiwisec.com
 *.kiyuu.club
 *.kj-pcb.com
@@ -47412,6 +47430,7 @@ ff00:*
 *.kuihe.com
 *.kuihuakeji.com
 *.kuihuo.com
+*.kuike.ltd
 *.kuiniuca.com
 *.kuishiba.com
 *.kuishuling.com
@@ -48416,7 +48435,6 @@ ff00:*
 *.ldgslu.lol
 *.ldgtlz.lol
 *.ldgyscu.lol
-*.ldgzlmn.lol
 *.ldgzn6.lol
 *.ldhrd.com
 *.ldj-edujy.com
@@ -49448,6 +49466,7 @@ ff00:*
 *.lingxicloud.com
 *.lingxigames.com
 *.lingxingcai.com
+*.lingxingkj.com
 *.lingxmall.com
 *.lingyi.org
 *.lingyiitech.com
@@ -52240,6 +52259,7 @@ ff00:*
 *.mchifi.com
 *.mchweb.net
 *.mcidc.net
+*.mcit.tech
 *.mcjd.net
 *.mcjiansuan.cyou
 *.mckuai.com
@@ -52892,7 +52912,6 @@ ff00:*
 *.mianmoi.com
 *.mianshui365.com
 *.mianwai.com
-*.mianxiangxue.com
 *.mianyangauto.com
 *.mianyazulin.com
 *.miao-lang.com
@@ -53990,6 +54009,7 @@ ff00:*
 *.motherchildren.com
 *.motie.com
 *.motieimg.com
+*.motiezw.com
 *.motilive.com
 *.motimaster.com
 *.motisky.com
@@ -54311,7 +54331,6 @@ ff00:*
 *.muftc.com
 *.muge.info
 *.mugeda.com
-*.mugenongmu.com
 *.muguacdn.com
 *.muguang.me
 *.muguayuan.com
@@ -54321,6 +54340,7 @@ ff00:*
 *.muhoujiemi.com
 *.muidar.com
 *.muimg.com
+*.muin.cc
 *.muinsoft.com
 *.mujihotel-beijing.com
 *.mujj.us
@@ -56852,6 +56872,7 @@ ff00:*
 *.nyshipyard.com
 *.nyshszh.com
 *.nyxg.vip
+*.nyxiecheng.com
 *.nyxlzy.com
 *.nyxr-home.com
 *.nyxx365.com
@@ -59009,7 +59030,6 @@ ff00:*
 *.plexpt.com
 *.plfrog.com
 *.plll-fluid.com
-*.plngan.net
 *.plob.org
 *.plotcup.com
 *.plotsuz.com
@@ -60895,6 +60915,7 @@ ff00:*
 *.qjjmw.com
 *.qjkc.net
 *.qjmotor.com
+*.qjnice.com
 *.qjrc.com
 *.qjren.com
 *.qjsb88.com
@@ -64168,6 +64189,7 @@ ff00:*
 *.sdgertqq586.asia
 *.sdgh.net
 *.sdgho.com
+*.sdglobaltrade.com
 *.sdgou.cc
 *.sdgslb.com
 *.sdgslbc.com
@@ -66632,6 +66654,7 @@ ff00:*
 *.sinomaps.com
 *.sinomatin.com
 *.sinonet.org
+*.sinonsh.com
 *.sinontech.com
 *.sinoo.cc
 *.sinopec-usa.com
@@ -68887,6 +68910,7 @@ ff00:*
 *.sxjh88.com
 *.sxjhzsgc.com
 *.sxjinfengjiuye.com
+*.sxjtyhjt.com
 *.sxjwlkj.com
 *.sxjybk.com
 *.sxjzxww.com
@@ -69241,6 +69265,7 @@ ff00:*
 *.szcp.com
 *.szcsot.com
 *.szcssx.com
+*.szctkj.net
 *.szcttlab.com
 *.szctyx.com
 *.szcua.org
@@ -72097,7 +72122,6 @@ ff00:*
 *.tronlife.com
 *.tropcdn.com
 *.trpcdn.net
-*.trpcw.com
 *.trqjrp.xyz
 *.trs-logistics.com
 *.trsjgdj.com
@@ -73657,6 +73681,7 @@ ff00:*
 *.usj.cc
 *.usjuw.com
 *.uskkvanl.sbs
+*.uslawchina.com
 *.uslk.net
 *.usniuku.com
 *.usnook.com
@@ -76621,6 +76646,7 @@ ff00:*
 *.whwd.com
 *.whwebsite.com
 *.whweo.com
+*.whwindplus.com
 *.whwkzc.com
 *.whwlkths.com
 *.whwm.net
@@ -76862,6 +76888,7 @@ ff00:*
 *.winxuan.com
 *.winxuancdn.com
 *.winxw.com
+*.winzonelaw.com
 *.wio2o.com
 *.wiot.host
 *.wipanda.com
@@ -80124,6 +80151,7 @@ ff00:*
 *.xinyifengcnsteel.com
 *.xinyiglass.com
 *.xinyihl.com
+*.xinyingyang.com
 *.xinyisemi.com
 *.xinyishiji.com
 *.xinyiso.com
@@ -80524,7 +80552,6 @@ ff00:*
 *.xlkshop.com
 *.xlkty.com
 *.xlm258.com
-*.xlncptsg.com
 *.xlndt.com
 *.xlobo.com
 *.xlongm.com
@@ -81337,6 +81364,7 @@ ff00:*
 *.xuexiniu.com
 *.xuexitong.com
 *.xuexiwa.com
+*.xuexizhiwang.com
 *.xuexizuowen.com
 *.xueya8.com
 *.xueyanshe.com
@@ -85928,6 +85956,7 @@ ff00:*
 *.yzsjsbyy.com
 *.yzspdq.com
 *.yzstudio.net
+*.yzsz3.icu
 *.yzt-tools.com
 *.yzt888.com
 *.yztcdn.com
@@ -87910,7 +87939,6 @@ ff00:*
 *.zhuoykeji.com
 *.zhuoyou.com
 *.zhuoyoutech.com
-*.zhuoyuanxinfang.com
 *.zhuoyuechenxing.com
 *.zhuoyuegame.com
 *.zhuoyunkang.com
@@ -89430,6 +89458,7 @@ ff00:*
 *.zydlks.com
 *.zydown.com
 *.zydtrip.net
+*.zydzkjcloud.com
 *.zye.cc
 *.zyea.com
 *.zyecp.com
