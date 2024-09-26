@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-09-26 07:55:40
+; 更新时间：2024-09-27 07:55:33
 ; cn域名都不走代理
 *.cn
 
@@ -9242,6 +9242,7 @@ ff00:*
 *.aipgy.com
 *.aipiaxi.com
 *.aipingxiang.com
+*.aippt.com
 *.aippt.site
 *.aiprose.com
 *.aipu-waton.com
@@ -26346,6 +26347,7 @@ ff00:*
 *.esinidc.com
 *.esipark.com
 *.esisroldh.org
+*.esjlf.com
 *.esjson.com
 *.esk365.com
 *.eskimall.com
@@ -29136,7 +29138,6 @@ ff00:*
 *.g1f5.com
 *.g1yx.com
 *.g2.link
-*.g2g1.com
 *.g2h3.com
 *.g2us.com
 *.g2work.com
@@ -37072,6 +37073,7 @@ ff00:*
 *.hkgol.com
 *.hkinsu.com
 *.hkjapp.com
+*.hkjsrent.com
 *.hkklock.com
 *.hkkuaiyixiu.com
 *.hklego.com
@@ -37363,7 +37365,6 @@ ff00:*
 *.hnlyy.com
 *.hnlzhd.com
 *.hnlzw.net
-*.hnlzzq.com
 *.hnmdtv.com
 *.hnmfbw.com
 *.hnmgjr.com
@@ -43997,6 +43998,7 @@ ff00:*
 *.jita.fun
 *.jita.im
 *.jita5.com
+*.jitaba.net
 *.jitadaren.com
 *.jitadog.com
 *.jitailian.com
@@ -44192,6 +44194,7 @@ ff00:*
 *.jjbhn.com
 *.jjbisai.com
 *.jjbnews.xyz
+*.jjcbw.com
 *.jjccb.com
 *.jjcclt.com
 *.jjcdn.com
@@ -44265,6 +44268,7 @@ ff00:*
 *.jjwxc.net
 *.jjwxc.org
 *.jjxwzk.org
+*.jjxxk.com
 *.jjxyls.com
 *.jjy118.com
 *.jjygym.com
@@ -54964,7 +54968,6 @@ ff00:*
 *.n802.com
 *.n8hte.com
 *.n8olw300b.sbs
-*.n99hao.com
 *.n9z.net
 *.na.ci
 *.naadou.com
@@ -68008,6 +68011,7 @@ ff00:*
 *.srworld.net
 *.srx3.net
 *.srxww.com
+*.srxzc.com
 *.srxzz.com
 *.srzc.com
 *.srzdq.com
