@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-09-30 07:55:40
+; 更新时间：2024-10-01 07:55:30
 ; cn域名都不走代理
 *.cn
 
@@ -526,7 +526,6 @@ ff00:*
 *.0599yx.com
 *.05bk.com
 *.05bq.com
-*.05eg.com
 *.05idc.com
 *.05info.com
 *.05sun.com
@@ -8023,7 +8022,6 @@ ff00:*
 *.99jrk.com
 *.99jypx.com
 *.99kf.com
-*.99kgames.com
 *.99ku.vip
 *.99kypay.com
 *.99lb.net
@@ -11699,7 +11697,6 @@ ff00:*
 *.baixiu.org
 *.baiyang.com
 *.baiyangseo.com
-*.baiyangwang.com
 *.baiyaohy.com
 *.baiycap.net
 *.baiye5.com
@@ -11725,7 +11722,6 @@ ff00:*
 *.baizhan.net
 *.baizhanke.com
 *.baizhanlive.com
-*.baizhenzhu.com
 *.baizhiedu.com
 *.baizhu.cc
 *.baizlink.com
@@ -13768,7 +13764,6 @@ ff00:*
 *.bjyingge.com
 *.bjyingyun.com
 *.bjyirui.com
-*.bjyixiaojian.com
 *.bjyme.com
 *.bjyouth.net
 *.bjyqsj.com
@@ -15772,8 +15767,6 @@ ff00:*
 *.cccc-capital.com
 *.ccccc12kkkkk.com
 *.ccccc33kkkkk.com
-*.ccccccccc.cc
-*.cccccccccc.cc
 *.cccccccccccccccccccccccccccccccccccccccccccccc.cc
 *.cccdun.com
 *.cccf-cloud.com
@@ -16716,7 +16709,6 @@ ff00:*
 *.chacheliang.com
 *.chachexian.com
 *.chacuo.net
-*.chadianhua.net
 *.chadianshang.com
 *.chadoc.com
 *.chadown.com
@@ -18244,9 +18236,7 @@ ff00:*
 *.chongwenwen.com
 *.chongwu.cc
 *.chongwujiaoyi.com
-*.chongya.com
 *.chongya.vip
-*.chongyacdn.com
 *.chongyejia.com
 *.chongyitang.org
 *.chongyunpowu.com
@@ -25733,7 +25723,6 @@ ff00:*
 *.egcmedia.com
 *.egeel.com
 *.egfb2221.com
-*.egg-born.org
 *.egg.htcsense.com
 *.egjqgs.com
 *.egoint.com
@@ -26244,7 +26233,6 @@ ff00:*
 *.ereter.com
 *.ereuiib.com
 *.erfang-ic.com
-*.erfdhiu.com
 *.erg2008.com
 *.ergecdn.com
 *.ergedd.com
@@ -26583,7 +26571,6 @@ ff00:*
 *.eweis.com
 *.ewen.co
 *.ewenyan.com
-*.ewerew.com
 *.ewide.net
 *.ewidecloud.com
 *.ewidewater.com
@@ -27482,7 +27469,6 @@ ff00:*
 *.feijizu.com
 *.feikongbao.com
 *.feiku.com
-*.feilasi.com
 *.feiliao.com
 *.feiliks.com
 *.feilixi888.com
@@ -28644,7 +28630,6 @@ ff00:*
 *.fstrhb.com
 *.fsukj.com
 *.fswchina.com
-*.fswl66.com
 *.fsxchina.com
 *.fsxinfengyi.com
 *.fsxshjz.com
@@ -29651,7 +29636,6 @@ ff00:*
 *.gdjingte.com
 *.gdjiutu.com
 *.gdjktk.com
-*.gdjqwl.com
 *.gdjshd.com
 *.gdjsxh.com
 *.gdjuhan.com
@@ -31942,7 +31926,6 @@ ff00:*
 *.guozhenyi.com
 *.guozhihua.net
 *.guozhivip.com
-*.guozhongxin.com
 *.guozi.org
 *.guoziyx.com
 *.gupang.com
@@ -35460,7 +35443,6 @@ ff00:*
 *.haplat.net
 *.happi123.com
 *.happigo.com
-*.happilyevilafter.com
 *.happy-ti.com
 *.happychang.net
 *.happycodeboy.com
@@ -35959,7 +35941,6 @@ ff00:*
 *.hdhgzx.com
 *.hdhjtz.com
 *.hdhospital.com
-*.hdht-sc.com
 *.hdhui.com
 *.hdj.me
 *.hdjingwei.com
@@ -43664,7 +43645,6 @@ ff00:*
 *.jinglawyer.com
 *.jingliangad.com
 *.jinglingbiaozhu.com
-*.jinglongyu.link
 *.jinglou8.com
 *.jingluemall.com
 *.jingluole.com
@@ -43746,6 +43726,7 @@ ff00:*
 *.jiniance8.com
 *.jiningjj.com
 *.jiniu.work
+*.jiniutech.com
 *.jinjianbio.com
 *.jinjiang-group.com
 *.jinjiang.com
@@ -46576,7 +46557,6 @@ ff00:*
 *.kidulte.com
 *.kidulty.com
 *.kiees.com
-*.kihgwe.com
 *.kiiik.com
 *.kiijoy.com
 *.kiinii.com
@@ -47020,7 +47000,6 @@ ff00:*
 *.kotoo.com
 *.koubei.com
 *.koubeikc.com
-*.koucai365.com
 *.kouchouwang.net
 *.kouclo.com
 *.koudai.com
@@ -55915,7 +55894,6 @@ ff00:*
 *.njtjyq.com
 *.njtrabon.com
 *.njtst.com
-*.njuaplusplus.com
 *.njuftp.org
 *.njustar.com
 *.njw88.com
@@ -56555,7 +56533,6 @@ ff00:*
 *.novastargame.net
 *.novaxinli.com
 *.novel-supertv.com
-*.noveless.com
 *.novelfm.com
 *.novelfmpic.com
 *.novelfmstatic.com
@@ -57248,7 +57225,6 @@ ff00:*
 *.omacloud.com
 *.omarea.com
 *.omaten.com
-*.omayse.com
 *.ombuy.com
 *.omccsh.com
 *.omchain.com
@@ -67068,7 +67044,6 @@ ff00:*
 *.slogra.com
 *.slooti.com
 *.slot4.net
-*.slotwildwest.com
 *.slovakia-visacenter.com
 *.slovenia-visacenter.com
 *.slowdark.com
@@ -84701,7 +84676,6 @@ ff00:*
 *.ysext.com
 *.ysfog.com
 *.ysgang.com
-*.ysgcdns.xyz
 *.ysgfood.com
 *.ysghh.com
 *.ysgtg.com
@@ -84950,7 +84924,6 @@ ff00:*
 *.yubb12.site
 *.yuboinfo.com
 *.yuboqj.com
-*.yubosun.com
 *.yucccc.com
 *.yucekj.com
 *.yucezhijia.com
@@ -85376,7 +85349,6 @@ ff00:*
 *.yunpan1.net
 *.yunpansou.cc
 *.yunpanx.com
-*.yunpanziyuan.com
 *.yunpanziyuan.xyz
 *.yunpei.com
 *.yunpian.com
@@ -85463,7 +85435,6 @@ ff00:*
 *.yunxinfa.com
 *.yunxinfw.com
 *.yunxing168.com
-*.yunxingjituan.com
 *.yunxinshi.com
 *.yunxiren.com
 *.yunxiu.com
@@ -87343,6 +87314,7 @@ ff00:*
 *.zhilianiot.com
 *.zhiliaoke.com
 *.zhilingshidai.com
+*.zhilingshop.com
 *.zhilong.me
 *.zhilongtech.com
 *.zhiluo.net
