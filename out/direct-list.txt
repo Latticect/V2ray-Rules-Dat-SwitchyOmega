@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-10-07 07:55:27
+; 更新时间：2024-10-08 07:55:38
 ; cn域名都不走代理
 *.cn
 
@@ -8302,6 +8302,7 @@ ff00:*
 *.aabooo.com
 *.aabux.com
 *.aad5.com
+*.aadcloud.com
 *.aadongman.com
 *.aads-cng.net
 *.aafxw.com
@@ -23524,10 +23525,8 @@ ff00:*
 *.dkybpc.com
 *.dkzt.com
 *.dl-huahong.com
-*.dl-origin.ubnt.com
 *.dl-rc.com
 *.dl.delivery.mp.microsoft.com
-*.dl.ubnt.com
 *.dl0728.com
 *.dl158.net
 *.dl2link.com
@@ -38663,6 +38662,7 @@ ff00:*
 *.huaweicloud-dns.com
 *.huaweicloud-dns.net
 *.huaweicloud-dns.org
+*.huaweicloud-idme.com
 *.huaweicloud-smn.com
 *.huaweicloud-smn.net
 *.huaweicloud.com
@@ -39348,6 +39348,7 @@ ff00:*
 *.hwcrazy.com
 *.hwehs.com
 *.hweimall.com
+*.hweventgrid.com
 *.hwfcw.com
 *.hwhidc.com
 *.hwht.com
@@ -40420,6 +40421,7 @@ ff00:*
 *.idongdong.com
 *.idongmai.com
 *.idongniu.com
+*.idonguapi.com
 *.idooshu.com
 *.idosend.com
 *.idotools.com
@@ -41202,6 +41204,7 @@ ff00:*
 *.in9ni.com
 *.inabr.com
 *.inad.com
+*.inanguapi.com
 *.inanrenbang.com
 *.inbeing.net
 *.inbilin.com
@@ -42255,6 +42258,7 @@ ff00:*
 *.ixiatxt.com
 *.ixigua.com
 *.ixiguan.com
+*.ixiguapi.com
 *.ixiguavideo.com
 *.iximo.com
 *.ixingfei.com
@@ -53793,6 +53797,7 @@ ff00:*
 *.modashi.net
 *.modb.cc
 *.modb.pro
+*.modelarts-infer.com
 *.modelevel.com
 *.modelwhale.com
 *.modeng178.com
@@ -54733,6 +54738,9 @@ ff00:*
 *.myhongzuan.com
 *.myhostadmin.net
 *.myhscodes.com
+*.myhuaweicloud-custom.com
+*.myhuaweicloud-koodrive.com
+*.myhuaweicloud-obs.com
 *.myhuaweicloud.com
 *.myhuilv.com
 *.myhwcdn.com
@@ -58850,7 +58858,6 @@ ff00:*
 *.pinfangw.com
 *.ping-jia.net
 *.ping-qu.com
-*.ping.ubnt.com
 *.ping99.com
 *.pingan.com
 *.pingan.com.hk
@@ -73169,6 +73176,7 @@ ff00:*
 *.ubja.vip
 *.ublese.com
 *.ubmconlinereg.com
+*.ubnt.com
 *.uboat100.com
 *.uboxol.com
 *.ubs001.com
@@ -73939,6 +73947,7 @@ ff00:*
 *.uwan.com
 *.uweitui.com
 *.uwenku.com
+*.uwn.com
 *.uworter.com
 *.ux18.com
 *.ux6.com

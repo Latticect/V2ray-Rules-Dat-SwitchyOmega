@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-10-07 07:55:27
+; 更新时间：2024-10-08 07:55:38
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -995,6 +995,7 @@
 *.aes.ac.uk
 *.aesworkshops.com
 *.aex.com
+*.af-north-1.myhuaweicloud.com
 *.af-south-1.myhuaweicloud.com
 *.af.mil
 *.afantibbs.com
@@ -1593,6 +1594,7 @@
 *.amoiist.com
 *.amourangels.com
 *.amp.dev
+*.amplifi.com
 *.amplifyapp.com
 *.amplifyframework.com
 *.ampproject.com
@@ -6241,6 +6243,7 @@
 *.classics.ac.uk
 *.classymomsex.com
 *.claude.ai
+*.claudeusercontent.com
 *.clb.org.hk
 *.clc-london.ac.uk
 *.clco.cc
@@ -9460,6 +9463,7 @@
 *.facebook.ca
 *.facebook.cc
 *.facebook.com
+*.facebook.de
 *.facebook.design
 *.facebook.hu
 *.facebook.in
@@ -9835,8 +9839,10 @@
 *.fastindianporn.com
 *.fastlane.ci
 *.fastlane.tools
+*.fastly-edge.com
 *.fastly-terrarium.com
 *.fastly.com
+*.fastly.io
 *.fastly.net
 *.fastlylabs.com
 *.fastlylb.net
@@ -10693,6 +10699,7 @@
 *.frontiersin.org
 *.frontiersofoncology.ac.uk
 *.frontlinedefenders.org
+*.frontrow.com
 *.froogle.com
 *.frootvpn.com
 *.frostbite.com
@@ -11291,6 +11298,7 @@
 *.github.io
 *.githubapp.com
 *.githubassets.com
+*.githubcopilot.com
 *.githubhackathon.com
 *.githubnext.com
 *.githubpreview.dev
@@ -13236,6 +13244,7 @@
 *.httpsfacebook.com
 *.httpwwwfacebook.com
 *.htvncdn.net
+*.htx.com
 *.htyj-bj.com
 *.hu1u.com
 *.hua-yue.net
@@ -18216,6 +18225,7 @@
 *.mxshm.site
 *.my-enema.com
 *.my-formosa.com
+*.my-kualalumpur-1.myhuaweicloud.com
 *.my-magazine.me
 *.my-private-network.co.uk
 *.my-proxy.com
@@ -22731,6 +22741,7 @@
 *.rti.tw
 *.rtings.com
 *.rtycminnesota.org
+*.ru-moscow-1.myhuaweicloud.com
 *.ru-northwest-2.myhuaweicloud.com
 *.rua-project.ac.uk
 *.ruanyifeng.com
@@ -23782,6 +23793,7 @@
 *.signal.org
 *.signalbar.com
 *.signalprocessingsociety.org
+*.signalr.net
 *.signalusers.org
 *.sihe.ac.uk
 *.sijihuisuo.club
@@ -26117,6 +26129,7 @@
 *.torrenty.org
 *.torrentz.eu
 *.torrindex.net
+*.tortoisesvn.net
 *.torvpn.com
 *.tosh.comedycentral.com
 *.tospo-keiba.jp
@@ -26664,6 +26677,7 @@
 *.ubisoft.com
 *.ubisoftconnect.com
 *.ubn.ac.uk
+*.ubncloud.com
 *.ubnw.net
 *.ubuntu-touch.io
 *.ubuntu.com
@@ -26758,10 +26772,12 @@
 *.uhrp.org
 *.uhsl.ac.uk
 *.uhub.com
+*.ui.com
 *.uighur.narod.ru
 *.uighur.nl
 *.uighurbiz.net
 *.uiporn.com
+*.uisp.com
 *.ujapanesesex.com
 *.ujizzcn.com
 *.uk-cdi.ac.uk
@@ -27722,6 +27738,7 @@
 *.vk.design
 *.vk.link
 *.vk.me
+*.vk.ru
 *.vkcache.com
 *.vkgo.app
 *.vklive.app
@@ -28513,6 +28530,7 @@
 *.wifevideos.net
 *.wifewantstoplay.com
 *.wifi-mx.com
+*.wifiman.com
 *.wigan-leigh.ac.uk
 *.wigs.ac.uk
 *.wigstoncollege.ac.uk
@@ -30157,6 +30175,7 @@
 *.zencoder.com
 *.zendesk.com
 *.zengjinyan.org
+*.zenlesszonezero.com
 *.zenmate.com
 *.zenmate.com.ru
 *.zenodo.org
@@ -30486,6 +30505,7 @@ gamer2-cds.cdn.hinet.net
 gigabyte2.azureedge.net
 github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
+google-ohttp-relay-safebrowsing.fastly-edge.com
 hamivideo.hinet.net
 hammerandchisel.ssl.zendesk.com
 heads-ak-spotify-com.akamaized.net
