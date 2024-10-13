@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-10-13 07:55:38
+; 更新时间：2024-10-14 07:55:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -10164,6 +10164,7 @@
 *.firewire.cl
 *.firewire.eu
 *.firmaprofesional.com
+*.first-ns.de
 *.firstanalvideos.com
 *.firstchancesfife.ac.uk
 *.firstfivefollowers.com
@@ -13246,6 +13247,7 @@
 *.htvncdn.net
 *.htx.com
 *.htyj-bj.com
+*.htznr.li
 *.hu1u.com
 *.hua-yue.net
 *.huabansp.com
@@ -18183,6 +18185,7 @@
 *.muncloud.dog
 *.mundomais.com.br
 *.mundus.ac.uk
+*.muramura.tv
 *.murg.ac.uk
 *.murmur.tw
 *.muryouav.net
@@ -23209,6 +23212,8 @@
 *.seattlefdc.com
 *.secom.co.jp
 *.secomtrust.net
+*.second-ns.com
+*.second-ns.de
 *.secret-flirt-hub.com
 *.secretbabes.co.uk
 *.secretchina.com
@@ -29379,6 +29384,7 @@
 *.xxvideos.xxx
 *.xxvideoss.org
 *.xxvids.net
+*.xxx-av.com
 *.xxx-com.cfd
 *.xxx-fap.com
 *.xxx-files.org
@@ -29863,6 +29869,7 @@
 *.youpornru.com
 *.youpornxvideos.net
 *.your-freedom.net
+*.your-objectstorage.com
 *.your-server.de
 *.youramateurporn.com
 *.yourassbig.com
