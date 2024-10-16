@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-10-16 07:55:28
+; 更新时间：2024-10-17 07:55:37
 ; cn域名都不走代理
 *.cn
 
@@ -2440,7 +2440,6 @@ ff00:*
 *.224700.com
 *.224837439.xyz
 *.224m.com
-*.225721.com
 *.2258.com
 *.22588888.com
 *.225962tyy.com
@@ -11092,6 +11091,7 @@ ff00:*
 *.autodl.com
 *.autodmp.com
 *.autodwg.com
+*.autoengine.com
 *.autoesd.com
 *.autofull.net
 *.autogslb.com
@@ -22091,7 +22091,6 @@ ff00:*
 *.daocloudapp.com
 *.daodao.com
 *.daodaojizhang.com
-*.daodaoliang.com
 *.daodaozz.com
 *.daodian100.com
 *.daodianfu.com
@@ -27704,6 +27703,7 @@ ff00:*
 *.feixiaoqiu.com
 *.feixiaoquan.com
 *.feixiong.tv
+*.feixue666.com
 *.feixuege.com
 *.feixueteam.net
 *.feixunvip.xyz
@@ -31313,7 +31313,6 @@ ff00:*
 *.gowithmi.com
 *.gowlc.net
 *.gowonganinn.com
-*.goyasha.com
 *.goyihu.com
 *.goyoo.com
 *.gozap.com
@@ -39773,7 +39772,6 @@ ff00:*
 *.hyyun.com
 *.hyzcservice.com
 *.hyzhcdn.com
-*.hyzkjh.com
 *.hyznjs.com
 *.hyzqu.com
 *.hyzqxsb.com
@@ -39833,6 +39831,7 @@ ff00:*
 *.hzcourse.com
 *.hzcphotonics.com
 *.hzctxh.com
+*.hzcybb.xyz
 *.hzdajiangdong.com
 *.hzddwk.com
 *.hzdgjc.com
@@ -40879,7 +40878,6 @@ ff00:*
 *.ihenji.com
 *.ihepa.com
 *.ihggccampaign.com
-*.ihhubei.com
 *.ihint.me
 *.ihisce.com
 *.ihitui.com
@@ -51629,6 +51627,7 @@ ff00:*
 *.lzhdtk.com
 *.lzhean.com
 *.lzhf.com
+*.lzhg.xyz
 *.lzhhuinong.com
 *.lzhjuszs.com
 *.lzhl.online
@@ -55341,6 +55340,7 @@ ff00:*
 *.nanhuangic.com
 *.nanhufund.com
 *.nanhuhr.com
+*.nanhuyt.com
 *.nanjing.com
 *.nanjingchenxi.com
 *.nanjinghuojia.net
@@ -56054,7 +56054,6 @@ ff00:*
 *.nilend.com
 *.nilmap.com
 *.nimzx.com
-*.ninaparr.com
 *.nindeli.com
 *.ninebot.com
 *.ninecoign.com
@@ -56142,7 +56141,6 @@ ff00:*
 *.niutk.com
 *.niutoushe.com
 *.niutrans.com
-*.niutrip.com
 *.niuwatch.com
 *.niuwk.com
 *.niux.plus
@@ -57115,6 +57113,7 @@ ff00:*
 *.nupktsz.com
 *.nuqixi.com
 *.nuqk.com
+*.nuszar.xyz
 *.nutriease.com
 *.nutsbp.com
 *.nutspace.com
@@ -61594,7 +61593,6 @@ ff00:*
 *.qqxzb-img.com
 *.qqxzb.com
 *.qqy189.com
-*.qqycj.com
 *.qqyewu.com
 *.qqymail.com
 *.qqyou.com
@@ -63236,7 +63234,6 @@ ff00:*
 *.roadlady.com
 *.roadoor.com
 *.roadsignads.com
-*.roadsigngroup.com
 *.roaing.com
 *.roamingroandro.com
 *.robam.com
@@ -67160,7 +67157,6 @@ ff00:*
 *.sisigad.com
 *.sisijiyi.com
 *.sisiqiqrcficf.asia
-*.sisisi.net
 *.sisp-china.com
 *.siswin.com
 *.site-digger.com
@@ -74273,7 +74269,6 @@ ff00:*
 *.uuxn.com
 *.uuxs.info
 *.uuxs.tw
-*.uuyj100.com
 *.uuyoyo.com
 *.uuzham.com
 *.uuzhufu.com
@@ -79461,6 +79456,7 @@ ff00:*
 *.xi5jie.com
 *.xia1ge.com
 *.xiaa.net
+*.xiabb.chat
 *.xiabingbao.com
 *.xiabor.com
 *.xiabu.com
@@ -82156,7 +82152,6 @@ ff00:*
 *.xxjrqc.com
 *.xxka.com
 *.xxkapp.com
-*.xxko.net
 *.xxkucun.com
 *.xxlcn.com
 *.xxliudsp.com
@@ -86564,6 +86559,7 @@ ff00:*
 *.yzzx-zk.com
 *.yzzy-online.com
 *.yzzy20-play.com
+*.yzzyimages.com
 *.yzzzn.com
 *.z-bank.com
 *.z-inn.com
@@ -88637,7 +88633,6 @@ ff00:*
 *.zibll.com
 *.ziboborui.com
 *.ziboga.com
-*.zichen.zone
 *.zichenit.com
 *.zicini.com
 *.zicp.fun
