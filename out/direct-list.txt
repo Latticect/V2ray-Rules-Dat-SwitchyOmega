@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-10-24 07:55:36
+; 更新时间：2024-10-25 07:55:30
 ; cn域名都不走代理
 *.cn
 
@@ -2503,6 +2503,7 @@ ff00:*
 *.2345download.com
 *.2345ff.com
 *.2345ii.com
+*.2345li.com
 *.2345mbrowser.com
 *.2345soso.com
 *.234du.com
@@ -5403,6 +5404,7 @@ ff00:*
 *.588art.com
 *.588ku.com
 *.589398.com
+*.589465113.com
 *.5898yun.com
 *.58abb.com
 *.58antenna.com
@@ -8666,7 +8668,6 @@ ff00:*
 *.adssap.com
 *.adsspr.com
 *.adstarcharm.com
-*.adsunflower.com
 *.adt100.com
 *.adtaipo.com
 *.adtchrome.com
@@ -9097,7 +9098,6 @@ ff00:*
 *.aifangke.com
 *.aifanyi.net
 *.aifcdn.com
-*.aifei8.net
 *.aifengjie.com
 *.aifenlei.com
 *.aifont.com
@@ -11978,6 +11978,7 @@ ff00:*
 *.baocdn.com
 *.baochaojianghu.com
 *.baochenykk.com
+*.baochunyiran.com
 *.baodan100.com
 *.baodan360.com
 *.baodaohealth.com
@@ -12395,6 +12396,7 @@ ff00:*
 *.bdqn666.com
 *.bdqnwh.com
 *.bds-cn.com
+*.bds666.com
 *.bdsagslb.com
 *.bdsagslbtest.com
 *.bdsana.com
@@ -13129,6 +13131,7 @@ ff00:*
 *.bigma.cc
 *.bigniu.com
 *.bignox.com
+*.bigolive.tv
 *.bigops.com
 *.bigplayers.com
 *.bigpt8.com
@@ -14761,7 +14764,6 @@ ff00:*
 *.bugucn.com
 *.bugukj.com
 *.bugutime.com
-*.bugxia.com
 *.buhuangziben.com
 *.buhuixiao.com
 *.buhuyo.com
@@ -19050,6 +19052,7 @@ ff00:*
 *.clouddream.net
 *.cloudencent.com
 *.cloudflare-cn.com
+*.cloudflare.fun
 *.cloudflareanycast.net
 *.cloudflarecn.net
 *.cloudflareglobal.net
@@ -26162,6 +26165,7 @@ ff00:*
 *.emoji6.com
 *.emojimobile.com
 *.emots.cc
+*.emqx.cloud
 *.emqx.com
 *.emqx.net
 *.emr-volces.com
@@ -38346,7 +38350,6 @@ ff00:*
 *.hshw.com
 *.hshy.net
 *.hsigus.com
-*.hsiuyang.net
 *.hsjk.com
 *.hsjkaoyan.com
 *.hsjlrhy.com
@@ -43889,6 +43892,7 @@ ff00:*
 *.jingcaipaint.com
 *.jingchang.tv
 *.jingchengwl.com
+*.jingchi.net
 *.jingchuhao.com
 *.jingchurc.com
 *.jingdajiance.com
@@ -49476,7 +49480,6 @@ ff00:*
 *.liaoyuanchats.com
 *.liaoyuanedu.org
 *.liaozhai.tv
-*.lib4d.com
 *.lib520.com
 *.liba.com
 *.liba88.com
@@ -53116,6 +53119,7 @@ ff00:*
 *.metstr.com
 *.metword.co
 *.meuicat.com
+*.meutu.com
 *.mew.fun
 *.mewednesday.shop
 *.mewx.art
@@ -56081,6 +56085,7 @@ ff00:*
 *.nikanpian.com
 *.nike-inc.com.tw
 *.nikebiji.com
+*.nikke-global.com
 *.nikkisoft.com
 *.nikkiup2u2.com
 *.nilai.com
@@ -57366,6 +57371,7 @@ ff00:*
 *.oceanplayable.com
 *.ocent.net
 *.ocetest.com
+*.ocic-static.com
 *.ocici.com
 *.ocideal.com
 *.ocimg.com
@@ -57687,6 +57693,7 @@ ff00:*
 *.onein.com
 *.oneinf.com
 *.oneinstack.com
+*.oneitfarm.com
 *.oneiwff.com
 *.onekey.cc
 *.onekeyghost.com
@@ -71885,6 +71892,7 @@ ff00:*
 *.tkgame.com
 *.tkhealthcare.com
 *.tkoubei.com
+*.tkpension.com
 *.tkplusemi.com
 *.tkrlab.com
 *.tkw.cc
@@ -72086,6 +72094,7 @@ ff00:*
 *.tomonline-inc.com
 *.tomotoes.com
 *.tompda.com
+*.tomson-riviera.com
 *.tomujiang.com
 *.tomwx.net
 *.tonbao.com
@@ -72782,6 +72791,7 @@ ff00:*
 *.tt787.com
 *.tt96596.com
 *.ttaidu.com
+*.ttalkai.com
 *.ttbba.com
 *.ttbbss.com
 *.ttbyte.com
@@ -75303,7 +75313,6 @@ ff00:*
 *.vurl.link
 *.vurl3.vip
 *.vutimes.com
-*.vux.li
 *.vuz.me
 *.vv-tool.com
 *.vv.cc
@@ -79325,6 +79334,7 @@ ff00:*
 *.xf5z.com
 *.xfabs.com
 *.xfannix.com
+*.xfap.cc
 *.xfaqwlw.com
 *.xfb315.com
 *.xfc888.com
@@ -79673,6 +79683,7 @@ ff00:*
 *.xianruan.com
 *.xianshangzixun.net
 *.xianshiqiba.com
+*.xianshishangmao.com
 *.xianshu.com
 *.xianshua.net
 *.xianshuabao.com
@@ -87853,6 +87864,7 @@ ff00:*
 *.zhicall.com
 *.zhichanli.com
 *.zhichaoxt.com
+*.zhichepai.com
 *.zhichepin.com
 *.zhichi.com
 *.zhichidata.com
@@ -89702,6 +89714,7 @@ ff00:*
 *.ztbeijixing.com
 *.ztbest.com
 *.ztcadx.com
+*.ztcdata.com
 *.ztch.ltd
 *.ztcia.com
 *.ztcnwy.com
