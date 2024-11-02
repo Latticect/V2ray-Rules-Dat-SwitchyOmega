@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-11-02 07:55:45
+; 更新时间：2024-11-03 07:55:29
 ; cn域名都不走代理
 *.cn
 
@@ -3656,7 +3656,6 @@ ff00:*
 *.3fantizi.com
 *.3fda.com
 *.3g-edu.org
-*.3g210.com
 *.3g3h.org
 *.3g48.com
 *.3g567.com
@@ -11142,6 +11141,7 @@ ff00:*
 *.avicsec.com
 *.avicui.com
 *.avivaqueen.com
+*.avjb.com
 *.avl-hitec.com
 *.avlsec.com
 *.avlyun.com
@@ -13583,7 +13583,6 @@ ff00:*
 *.bjfmart.com
 *.bjfqy.com
 *.bjfsali.com
-*.bjfwbz.org
 *.bjfyw.org
 *.bjgas.com
 *.bjggk.com
@@ -16624,7 +16623,6 @@ ff00:*
 *.cfca-c.org
 *.cfccd.com
 *.cfcf1958.com
-*.cfcglx.com
 *.cfchi.com
 *.cfchint.com
 *.cfcpn.com
@@ -19130,6 +19128,7 @@ ff00:*
 *.cloudstencent.com
 *.cloudstudio.net
 *.cloudsuqian.com
+*.cloudswift.cloud
 *.cloudtalkers.com
 *.cloudtangshan.com
 *.cloudtencents.com
@@ -28084,6 +28083,7 @@ ff00:*
 *.fireval.com
 *.firevale.com
 *.firhq.com
+*.firstarpc.com
 *.firstdrs.com
 *.firstfood-cn.com
 *.firstheartbeat.net
@@ -34065,7 +34065,6 @@ ff00:*
 *.gxxjc168.com
 *.gxxjchem.com
 *.gxxjcz.com
-*.gxxjnc.com
 *.gxxjpco.com
 *.gxxjry.com
 *.gxxjsy.com
@@ -35259,7 +35258,6 @@ ff00:*
 *.hanmaker.com
 *.hanmeilin.com
 *.hanming.cc
-*.hannahlay.com
 *.hannor.com
 *.hannto.com
 *.hanpian.tv
@@ -55031,6 +55029,7 @@ ff00:*
 *.mylikechat.com
 *.mylikesz.com
 *.mylikeyk.com
+*.mylinkapp.hk
 *.mylitboy.com
 *.myliwu.net
 *.mylmad.com
@@ -60361,7 +60360,6 @@ ff00:*
 *.qdjxhz.com
 *.qdkelinde.com
 *.qdkingst.com
-*.qdkljd.com
 *.qdkmjc.com
 *.qdlanrun.com
 *.qdliding.com
@@ -65232,7 +65230,6 @@ ff00:*
 *.sh17.com
 *.sh414.com
 *.sh5y.com
-*.sh7.com
 *.sh8y.com
 *.sh9130.com
 *.sh9156.com
@@ -65513,6 +65510,7 @@ ff00:*
 *.shanyuanms.com
 *.shanyue.tech
 *.shanyuechina.com
+*.shanyzx.com
 *.shanzhen.com
 *.shanzhen.me
 *.shanzhildq.com
@@ -69977,6 +69975,7 @@ ff00:*
 *.szthxf.com
 *.sztino.com
 *.sztkc.com
+*.sztljyjt.com
 *.sztmjz.com
 *.sztopbrand.com
 *.sztspi.com
@@ -70234,7 +70233,6 @@ ff00:*
 *.takumi-cnc.com
 *.takungpao.com
 *.takwang.net
-*.taladapp.com
 *.talbrain.com
 *.talebase.com
 *.talentable.com
@@ -70776,6 +70774,7 @@ ff00:*
 *.tecbbs.com
 *.tecenet.com
 *.tech-mx.com
+*.tech-sem.com
 *.tech-sonic.net
 *.tech1024.com
 *.tech110.net
@@ -71151,6 +71150,7 @@ ff00:*
 *.thebeijinger.com
 *.thebeijingnews.com
 *.thebird-air.com
+*.theblockbeats.info
 *.thebuddycreative.com
 *.thechois.cc
 *.thecode.me
@@ -71840,6 +71840,7 @@ ff00:*
 *.tkpension.com
 *.tkplusemi.com
 *.tkrlab.com
+*.tktjwhyy.com
 *.tkw.cc
 *.tkwhzf.com
 *.tkww.hk
@@ -78552,7 +78553,6 @@ ff00:*
 *.wxagame.com
 *.wxamedia.com
 *.wxang.com
-*.wxaokai.com
 *.wxappclub.com
 *.wxappvideo.com
 *.wxatech.com
@@ -78864,6 +78864,7 @@ ff00:*
 *.x431.com
 *.x4dp.com
 *.x5dj.com
+*.x6485f.cc
 *.x64go.com
 *.x64pro.com
 *.x66597.com
@@ -80506,7 +80507,6 @@ ff00:*
 *.xinjunshi.net
 *.xinjunshicn.net
 *.xinkaiyuanceps.com
-*.xinkamai.com
 *.xinkedao.com
 *.xinkejiaotong.com
 *.xinkuai.com
@@ -83542,6 +83542,7 @@ ff00:*
 *.yihchina.com
 *.yiheda.com
 *.yihedoors.com
+*.yihke.com
 *.yihong001.com
 *.yihong1718.com
 *.yihshou.com
@@ -85925,7 +85926,6 @@ ff00:*
 *.yunpan1.net
 *.yunpansou.cc
 *.yunpanx.com
-*.yunpanziyuan.xyz
 *.yunpay.cc
 *.yunpei.com
 *.yunpian.com
