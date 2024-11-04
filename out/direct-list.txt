@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-11-04 07:55:32
+; 更新时间：2024-11-05 07:55:31
 ; cn域名都不走代理
 *.cn
 
@@ -9780,6 +9780,7 @@ ff00:*
 *.aliyunduncc.com
 *.aliyundunwaf.com
 *.aliyunedu.net
+*.aliyunfile.com
 *.aliyunfuwuqi.com
 *.aliyunga0017.com
 *.aliyunga0018.com
@@ -11820,6 +11821,7 @@ ff00:*
 *.bamatea.com
 *.bamaying.com
 *.bamboo18.com
+*.bambulab.com
 *.bamengame.com
 *.bamensq.com
 *.bamenzhushou.com
@@ -12237,6 +12239,7 @@ ff00:*
 *.bbk000.com
 *.bbkantu.com
 *.bbkys.com
+*.bblmw.com
 *.bblskj.com
 *.bbmuwwxyk.com
 *.bbmy.net
@@ -12791,6 +12794,7 @@ ff00:*
 *.bestpeng.com
 *.bestqliang.com
 *.bestreplicheitalia.com
+*.bestrhy.com
 *.bestsdwan.com
 *.bestshinhwa.com
 *.bestsign.info
@@ -27778,6 +27782,8 @@ ff00:*
 *.fenbeijinfu.com
 *.fenbeitong.com
 *.fenbi.com
+*.fenbike.com
+*.fenbilantian.com
 *.fenbu.net
 *.fenby.com
 *.fencescn.com
@@ -28045,6 +28051,7 @@ ff00:*
 *.filcochina.com
 *.file001.com
 *.filediag.com
+*.filez.com
 *.filfox.info
 *.fillersmart.com
 *.fillseo.com
@@ -29174,6 +29181,7 @@ ff00:*
 *.fxpan.com
 *.fxqrf.com
 *.fxsw.net
+*.fxt365.com
 *.fxtrip.com
 *.fxtrips.com
 *.fxw.la
@@ -30939,6 +30947,7 @@ ff00:*
 *.gmtv.cc
 *.gmtzy.com
 *.gmugmu.com
+*.gmw.com
 *.gmwiki.com
 *.gmxmym.ren
 *.gmyihua.com
@@ -37486,6 +37495,7 @@ ff00:*
 *.hnbits.com
 *.hnblc.com
 *.hnbljy.com
+*.hnbntv.com
 *.hnbrush.com
 *.hnbwsd.com
 *.hnccpit.org
@@ -39295,6 +39305,7 @@ ff00:*
 *.huming.com
 *.hummcars.com
 *.hunancatv.com
+*.hunaniptv.com
 *.hunanliantong.com
 *.hunanpea.com
 *.hunantv.com
@@ -45174,6 +45185,7 @@ ff00:*
 *.jsdzb.com
 *.jseduinfo.com
 *.jseepub.com
+*.jsehealth.com
 *.jseoptics.com
 *.jser.io
 *.jsf1990.site
@@ -49086,6 +49098,7 @@ ff00:*
 *.lenovo.net
 *.lenovocloudos.com
 *.lenovoeservice.com
+*.lenovofile.com
 *.lenovogame.com
 *.lenovohci.com
 *.lenovohuishang.com
@@ -49094,6 +49107,7 @@ ff00:*
 *.lenovomobile.com
 *.lenovonetapp.com
 *.lenovonowgo.com
+*.lenovopoc.com
 *.lenovoprinter.com
 *.lenovoprinter.net
 *.lenovosj.com
@@ -53102,6 +53116,7 @@ ff00:*
 *.mepcec.com
 *.mepoem.com
 *.meppon.com
+*.merach.com
 *.mercedes-benzarena.com
 *.mercitime.com
 *.mereith.com
@@ -53345,6 +53360,7 @@ ff00:*
 *.miaoweijianfei.com
 *.miaowutech.com
 *.miaoxiazai.com
+*.miaoyanai.com
 *.miaoyun.link
 *.miaozao.com
 *.miaozhen.com
@@ -70259,6 +70275,8 @@ ff00:*
 *.taicent.com
 *.taichi-graphics.com
 *.taichi-maker.com
+*.taichuan.com
+*.taichuan.net
 *.taichyfood.com
 *.taici.com
 *.taicihome.com
@@ -86182,6 +86200,7 @@ ff00:*
 *.yunzhizao.net
 *.yunzhonghe.com
 *.yunzhu100.com
+*.yunzhuxue.com
 *.yunzmall.com
 *.yunzongnet.com
 *.yunzujia.com
@@ -90559,6 +90578,7 @@ clientflow.apple.com.akadns.net
 clientservices.googleapis.com
 cma.itunes.apple.com
 cn-smp-paymentservices.apple.com
+cn.download.nvidia.com
 cn.widevine.com
 cn.windowssearch.com
 cnappinstall.googleadapis.com
