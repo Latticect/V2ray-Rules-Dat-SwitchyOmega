@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-11-11 07:55:33
+; 更新时间：2024-11-12 07:55:41
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -30602,6 +30602,8 @@ na1r.services.adobe.com
 nab.demdex.net
 nationalaustraliaban.tt.omtrdc.net
 netflix.com.edgesuite.net
+notary-submissions-prod.s3-accelerate.amazonaws.com
+notary-submissions-prod.s3.us-west-2.amazonaws.com
 notify.ppy.sh
 nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 nvidia.tt.omtrdc.net
