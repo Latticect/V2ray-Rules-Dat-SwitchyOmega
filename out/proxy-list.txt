@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-11-12 07:55:41
+; 更新时间：2024-11-13 07:55:43
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5826,6 +5826,7 @@
 *.charticulator.com
 *.chase.ac.uk
 *.chasestudy.ac.uk
+*.chat.com
 *.chat.lmsys.org
 *.chatango.com
 *.chatgpt.com
@@ -13581,6 +13582,7 @@
 *.icl-fi.org
 *.icloud-content.com
 *.icloud-isupport.com
+*.icloud-sandbox.com
 *.icloud.ch
 *.icloud.com
 *.icloud.de
