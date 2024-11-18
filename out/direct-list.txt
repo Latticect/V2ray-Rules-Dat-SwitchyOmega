@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-11-18 07:55:30
+; 更新时间：2024-11-19 07:55:37
 ; cn域名都不走代理
 *.cn
 
@@ -1670,7 +1670,6 @@ ff00:*
 *.173eg.com
 *.173fc.com
 *.173funny.com
-*.173iot.com
 *.173kan.com
 *.173kw.com
 *.173kz.com
@@ -5519,7 +5518,6 @@ ff00:*
 *.5adanci.com
 *.5adanhao.com
 *.5ag.net
-*.5ailiwu.com
 *.5aivideo.com
 *.5aixia.com
 *.5aiyoo.com
@@ -31295,7 +31293,6 @@ ff00:*
 *.gpticket.org
 *.gptjike.com
 *.gptkong.com
-*.gptshops.ai
 *.gpubgm.com
 *.gpuez.com
 *.gpxxz.com
@@ -31598,6 +31595,7 @@ ff00:*
 *.gtpso.com
 *.gtqtiad.work
 *.gtqzg.com
+*.gtradedata.com
 *.gtsnzp.com
 *.gttxidc.com
 *.gtuanb.com
@@ -32019,7 +32017,6 @@ ff00:*
 *.guotailiangyou.com
 *.guotv.com
 *.guowaidiaocha.com
-*.guowaitianqi.com
 *.guoweitong.com
 *.guowenfh.com
 *.guowuwushu.com
@@ -36576,7 +36573,6 @@ ff00:*
 *.heyuanstone.com
 *.heyun100.com
 *.heyunnet.com
-*.heyuyhw.com
 *.heywhale.com
 *.heywoodsminiprogram.com
 *.heyyouyu.com
@@ -36698,6 +36694,7 @@ ff00:*
 *.hgobox.com
 *.hgptech.com
 *.hgqrx.com
+*.hgsj.com
 *.hgskyray.com
 *.hgszyyy.com
 *.hguduo.com
@@ -36822,7 +36819,6 @@ ff00:*
 *.hicat.net
 *.hiccupx.xyz
 *.hiceon.com
-*.hichao.com
 *.hicheng.net
 *.hichina.com
 *.hichips.com
@@ -37107,7 +37103,6 @@ ff00:*
 *.hk515.net
 *.hk8668.com
 *.hkaco.com
-*.hkaik.com
 *.hkaima.com
 *.hkance.com
 *.hkance.xyz
@@ -47357,7 +47352,6 @@ ff00:*
 *.kst100.com
 *.kstao.com
 *.kstnjscl.com
-*.kstore.space
 *.ksudi.com
 *.ksupdate.com
 *.kswcd.com
@@ -47769,7 +47763,6 @@ ff00:*
 *.kuzhazha.com
 *.kuzhengame.com
 *.kv-kva.com
-*.kvegg.com
 *.kvenjoy.com
 *.kvfumdr.com
 *.kviso.com
@@ -51242,7 +51235,6 @@ ff00:*
 *.lwcj.com
 *.lwd3699.com
 *.lwdjc.com
-*.lweasy.com
 *.lwebapp.com
 *.lwfengji.net
 *.lwfjmj.com
@@ -51342,7 +51334,6 @@ ff00:*
 *.lybus.com
 *.lycdw.com
 *.lycheer.net
-*.lyclhy.com
 *.lyd-china.com
 *.lyd6688.com
 *.lydaas.com
@@ -53141,7 +53132,6 @@ ff00:*
 *.miaoshou.com
 *.miaoshou.net
 *.miaoshoucdn.com
-*.miaoshu5.cc
 *.miaoshuwu.com
 *.miaoshuzhai.net
 *.miaoso.com
@@ -54230,7 +54220,6 @@ ff00:*
 *.movesky.net
 *.moviemore.com
 *.moviereviewtoday.com
-*.movietickest.com
 *.movit-tech.com
 *.mowan123.com
 *.mowowo.com
@@ -56025,7 +56014,6 @@ ff00:*
 *.niwota.com
 *.niwoxuexi.com
 *.nixi.win
-*.nixiba.com
 *.nixingtao.com
 *.nixwang.com
 *.nizhan888.com
@@ -61228,7 +61216,6 @@ ff00:*
 *.qmjzdscj.com
 *.qmjzs.com
 *.qmniu.com
-*.qmoyouxi.com
 *.qmqm.net
 *.qmrobot.com
 *.qmsea.com
@@ -69380,7 +69367,6 @@ ff00:*
 *.systoon.com
 *.sysush.com
 *.sysutest.xyz
-*.sysuyz.com
 *.sysx.tech
 *.sysxhz.com
 *.sysyhfj.com
@@ -73042,7 +73028,6 @@ ff00:*
 *.twcczhu.com
 *.twd2.me
 *.twd2.net
-*.twdfr9o1.xyz
 *.twdxdl.com
 *.tweakcube.com
 *.twh5.com
@@ -74990,7 +74975,6 @@ ff00:*
 *.vpsor.com
 *.vpsplayer.com
 *.vpspurchase.com
-*.vpsrb.com
 *.vpssir.com
 *.vpsss.net
 *.vpssw.com
@@ -78050,7 +78034,6 @@ ff00:*
 *.wufafuwu.com
 *.wufangzhai.com
 *.wufazhuce.com
-*.wufuba.com
 *.wufun.net
 *.wufunb.com
 *.wugongdong.com
@@ -78549,7 +78532,6 @@ ff00:*
 *.wyxzxyjhyy.com
 *.wyydsb.xin
 *.wyzc.com
-*.wyzdg.com
 *.wyzhifu.com
 *.wyzxsd.com
 *.wyzyz.org
@@ -81004,7 +80986,6 @@ ff00:*
 *.xmjslh.com
 *.xmjyw.com
 *.xmkanshu.com
-*.xml-data.org
 *.xml-journal.net
 *.xmldz4.com
 *.xmlhifi.com
@@ -83846,7 +83827,6 @@ ff00:*
 *.yixiaobang.net
 *.yixiaoyuan.com
 *.yixiaozu.com
-*.yixie8.com
 *.yixiekeji.com
 *.yixieshi.com
 *.yixiin.com
@@ -87357,7 +87337,6 @@ ff00:*
 *.zhaoqiufa.com
 *.zhaoqt.net
 *.zhaoquanwang.vip
-*.zhaosecha.com
 *.zhaoshang.net
 *.zhaoshang100.com
 *.zhaoshang800.com
