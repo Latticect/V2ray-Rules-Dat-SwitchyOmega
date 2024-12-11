@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-12-11 07:55:39
+; 更新时间：2024-12-12 07:55:31
 ; cn域名都不走代理
 *.cn
 
@@ -68,7 +68,6 @@ ff00:*
 *.0.zone
 *.00.net
 *.000.link
-*.0000g.com
 *.00042.com
 *.00058.com
 *.0006266.com
@@ -2179,6 +2178,7 @@ ff00:*
 *.1aq.com
 *.1auto.net
 *.1b17.com
+*.1b1tech.com
 *.1b23.com
 *.1biaozhun.com
 *.1bus.net
@@ -4158,7 +4158,6 @@ ff00:*
 *.4484.win
 *.44971.com
 *.44983.com
-*.44dt.com
 *.44h.co
 *.44jj.com
 *.44vs.com
@@ -7379,7 +7378,6 @@ ff00:*
 *.8721.com
 *.872872.com
 *.8767.com
-*.876u.com
 *.876web.com
 *.8770000.com
 *.877311.com
@@ -8370,7 +8368,6 @@ ff00:*
 *.998jk.com
 *.998jx.com
 *.998law.com
-*.998movie.com
 *.9991.com
 *.999120.net
 *.999136.xyz
@@ -12432,6 +12429,7 @@ ff00:*
 *.bamatea.com
 *.bamaying.com
 *.bamboo18.com
+*.bambooolab.com
 *.bambulab.com
 *.bamengame.com
 *.bamensq.com
@@ -15175,7 +15173,6 @@ ff00:*
 *.boyikang.com
 *.boyingsj.com
 *.boyishu.me
-*.boyoline.com
 *.boyoucy.com
 *.boyouquan.com
 *.boyuan.com
@@ -15979,7 +15976,6 @@ ff00:*
 *.c1s.com
 *.c2h4.org
 *.c2wtvr0jq.sbs
-*.c31.fun
 *.c355595c3.buzz
 *.c360dn.com
 *.c3acg.com
@@ -24045,7 +24041,6 @@ ff00:*
 *.dfzmzyc.com
 *.dfzxvip.com
 *.dg-360lhx.com
-*.dg-cbd.com
 *.dg-hanxin.com
 *.dg-mall.com
 *.dg-niuniu.com
@@ -28361,6 +28356,7 @@ ff00:*
 *.fadior.cc
 *.fadoudou.com
 *.fadsc.com
+*.fadsfasd.asia
 *.fadui.com
 *.fafa9.com
 *.fafachen.com
@@ -37132,6 +37128,7 @@ ff00:*
 *.haolidayiliao.com
 *.haolietou.com
 *.haoliners.net
+*.haoling.cc
 *.haolints.com
 *.haoliv.com
 *.haolizi.net
@@ -37706,7 +37703,6 @@ ff00:*
 *.hbzuojia.com
 *.hbzw56.com
 *.hbzywh.com
-*.hbzzedu.com
 *.hc-byq.com
 *.hc-cdn.com
 *.hc-ph.com
@@ -37749,7 +37745,6 @@ ff00:*
 *.hch518.com
 *.hchbblg.com
 *.hchbsb.com
-*.hchetao.com
 *.hchezhu.com
 *.hchlidc.com
 *.hchliot.com
@@ -42608,7 +42603,6 @@ ff00:*
 *.iduodou.com
 *.iduokan.net
 *.idwzx.com
-*.idy360.com
 *.idzmb.com
 *.ie515.com
 *.ie525.com
@@ -45500,7 +45494,6 @@ ff00:*
 *.jianli-sky.com
 *.jianli.com
 *.jianli88.com
-*.jianli9.com
 *.jianliao.com
 *.jianliben.com
 *.jianliduo.com
@@ -46115,6 +46108,7 @@ ff00:*
 *.jingyu.com
 *.jingyuan.com
 *.jingyuelaw.com
+*.jingyuweike.com
 *.jingyuxiaoban.com
 *.jingyuyun.com
 *.jingzhengu.com
@@ -50153,7 +50147,6 @@ ff00:*
 *.kunkundev.com
 *.kunkunyu.com
 *.kunlexf.com
-*.kunlun-cdn.com
 *.kunlunaq.com
 *.kunlunar.com
 *.kunlunca.com
@@ -50500,7 +50493,6 @@ ff00:*
 *.lailinzhihui.com
 *.lailook.net
 *.laima-tech.com
-*.laimaidi.com
 *.lainzy.net
 *.laipei.net
 *.laiqi.net
@@ -55755,6 +55747,7 @@ ff00:*
 *.metalyoung.com
 *.metaplanet3023.com
 *.metasecurities.com
+*.metastonecorp.com
 *.metastudioxr.com
 *.metastudy.vip
 *.metasyun.com
@@ -60689,6 +60682,7 @@ ff00:*
 *.ontheroadstore.com
 *.onthink.com
 *.ontvb.com
+*.onwear.net
 *.onwsw.com
 *.onyealink.com
 *.onyi.net
@@ -63955,7 +63949,6 @@ ff00:*
 *.qifuip.com
 *.qifun.com
 *.qifuyuan.com
-*.qiggg1101.com
 *.qigongworld.net
 *.qigousoft.com
 *.qiguagua.com
@@ -66568,7 +66561,6 @@ ff00:*
 *.rongji.com
 *.rongkao.com
 *.rongledz.com
-*.ronglianmeng.net
 *.rongmei.net
 *.rongnav.com
 *.rongroad.com
@@ -67930,7 +67922,6 @@ ff00:*
 *.sdguguo.com
 *.sdgw.com
 *.sdgwy.org
-*.sdhangfengji.com
 *.sdhbcl.com
 *.sdhdssd.com
 *.sdhfsh.com
@@ -68064,7 +68055,6 @@ ff00:*
 *.sdteleiptv.com
 *.sdtlly.com
 *.sdtrxx.com
-*.sdtsmm.com
 *.sdtsrf.com
 *.sdtugongbucj.com
 *.sdtvjiankang.com
@@ -69264,7 +69254,6 @@ ff00:*
 *.shenyecg.com
 *.shenyehd.com
 *.shenyeyunying.com
-*.shenyj.com
 *.shenyou.tv
 *.shenyu.me
 *.shenyuanquan.com
@@ -70078,6 +70067,7 @@ ff00:*
 *.shuizhifenxi.com
 *.shuizhiyuncaishui.com
 *.shuizilong.com
+*.shujiangweike.com
 *.shujike.com
 *.shuju.net
 *.shujuba.net
@@ -70341,6 +70331,7 @@ ff00:*
 *.sibfi.com
 *.sibida.net
 *.siboda-nb.com
+*.sibsiu.com
 *.sibuzyn.com
 *.sicarrier.com
 *.sicent.com
@@ -76790,7 +76781,6 @@ ff00:*
 *.tuhu.org
 *.tuhu.work
 *.tui18.com
-*.tui56.com
 *.tuiaaaa.com
 *.tuiaaae.com
 *.tuiaaaf.com
@@ -77292,7 +77282,6 @@ ff00:*
 *.tzjufeng.com
 *.tzjwrml.com
 *.tzjxl.com
-*.tzkameng.com
 *.tzkciz.com
 *.tzlib.net
 *.tzlmt.com
@@ -78538,7 +78527,6 @@ ff00:*
 *.verify5.com
 *.verisilicon.com
 *.verisyno.com
-*.vernonpratt.com
 *.verodillan.com
 *.versoventure.com
 *.vertciot.com
@@ -82646,7 +82634,6 @@ ff00:*
 *.www53119cc.com
 *.www5929.com
 *.www662555.com
-*.www7546.com
 *.www8huoks.com
 *.www939666.com
 *.www985555.com
@@ -84485,7 +84472,6 @@ ff00:*
 *.xinchaoss.com
 *.xinchego.com
 *.xincheng.com
-*.xinchengcm.com
 *.xinchengyue.com
 *.xincheping.com
 *.xinchess.com
@@ -86664,7 +86650,6 @@ ff00:*
 *.xyhjd168.com
 *.xyhlcd.com
 *.xyhospital.com
-*.xyhpjy.com
 *.xyhqsh.com
 *.xyhtml5.com
 *.xyict.com
@@ -90768,7 +90753,6 @@ ff00:*
 *.yuzhuan.com
 *.yuzhulin.com
 *.yuzhuw.com
-*.yuzi.net
 *.yuzijiaoyu.com
 *.yuzmshanghai.org
 *.yuzone.net
@@ -91040,7 +91024,6 @@ ff00:*
 *.yymoban.com
 *.yynetwk.com
 *.yyouren.com
-*.yypm.com
 *.yypt.com
 *.yyq.com
 *.yyquan.vip
@@ -94267,7 +94250,6 @@ ff00:*
 *.zpenr.com
 *.zpfdc.com
 *.zpgd.net
-*.zpgpt.com
 *.zphlkj.com
 *.zphuagong.com
 *.zpidc.com
