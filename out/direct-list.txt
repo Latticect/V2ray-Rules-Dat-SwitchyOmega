@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-12-13 07:55:28
+; 更新时间：2024-12-14 07:55:30
 ; cn域名都不走代理
 *.cn
 
@@ -6654,6 +6654,7 @@ ff00:*
 *.72.com
 *.720582.com
 *.720ku.net
+*.720lu.com
 *.720pmovie.com
 *.720static.com
 *.720think.com
@@ -7270,6 +7271,7 @@ ff00:*
 *.8518.com
 *.8521.org
 *.85229666.com
+*.853.com
 *.85335.xyz
 *.85384.com
 *.853lab.com
@@ -9226,6 +9228,7 @@ ff00:*
 *.afy.asia
 *.afzhan.com
 *.ag03.com
+*.ag8.com
 *.agcen.com
 *.agcloudcs.com
 *.agconnect.link
@@ -10465,6 +10468,7 @@ ff00:*
 *.ams-ic.com
 *.amsoveasea.com
 *.amssro.net
+*.amtk.com
 *.amtron-ic.com
 *.amuletj.com
 *.amuletor.com
@@ -12430,6 +12434,7 @@ ff00:*
 *.bamaying.com
 *.bamboo18.com
 *.bambooolab.com
+*.bambu-lab.com
 *.bambulab.com
 *.bamengame.com
 *.bamensq.com
@@ -13787,6 +13792,7 @@ ff00:*
 *.bigbenmeng.com
 *.bigbigai.com
 *.bigbigsun.com
+*.bigbigwon.com
 *.bigbigwork.com
 *.bigbrosci.com
 *.bigcat.com
@@ -14290,6 +14296,7 @@ ff00:*
 *.bjfsmc.com
 *.bjfyw.org
 *.bjgas.com
+*.bjgcl.com
 *.bjggk.com
 *.bjglxf.com
 *.bjglxt.com
@@ -25689,6 +25696,7 @@ ff00:*
 *.drmhoud.com
 *.drockart.com
 *.droi.com
+*.droiapps.com
 *.droibaas.com
 *.droitstock.com
 *.dropbox2go.com
@@ -30958,7 +30966,6 @@ ff00:*
 *.gangqinxiansheng.com
 *.gangshenglian.com
 *.gangyuan.com
-*.gangzi.org
 *.ganhuoche.com
 *.ganhuodaquan.com
 *.ganji.com
@@ -31632,6 +31639,7 @@ ff00:*
 *.get233.com
 *.getbs.com
 *.getcai.com
+*.getconnectplus.com
 *.getehu.com
 *.getelighting.com
 *.getfeishu.com
@@ -35341,7 +35349,6 @@ ff00:*
 *.gxsfcm.com
 *.gxsfht.com
 *.gxsfjd.com
-*.gxsfzs.com
 *.gxsgcgpt.com
 *.gxsggc.com
 *.gxsgip.com
@@ -36436,7 +36443,6 @@ ff00:*
 *.h12.net
 *.h128.com
 *.h13.mobi
-*.h1bz.com
 *.h231.com
 *.h2gl.com
 *.h2ml2l.shop
@@ -40694,6 +40700,7 @@ ff00:*
 *.huatuowenda.com
 *.huatuoyf.com
 *.huaue.com
+*.huavisa.com
 *.huawan.com
 *.huawangzhixun.com
 *.huawanyun.com
@@ -44525,7 +44532,6 @@ ff00:*
 *.iydsj.com
 *.iydu.net
 *.iyeeda.com
-*.iyeele.com
 *.iyemao.cc
 *.iyenei.com
 *.iyeren.com
@@ -47237,7 +47243,6 @@ ff00:*
 *.jrntv.com
 *.jrqiwen.com
 *.jrqzw.net
-*.jrstv.fun
 *.jrstv.online
 *.jrszw.com
 *.jrtaiji.net
@@ -50972,6 +50977,7 @@ ff00:*
 *.laxmok.com
 *.layaair.com
 *.layabox.com
+*.layleen.com
 *.layoutad.com
 *.laysky.com
 *.layui.com
@@ -53012,6 +53018,7 @@ ff00:*
 *.lnzy-edu.com
 *.lo97.com
 *.loac.cc
+*.loadingbay.com
 *.loansliml.com
 *.local-ip.online
 *.locatran.com
@@ -53690,7 +53697,6 @@ ff00:*
 *.lunkuokeji.com
 *.lunlunapp.com
 *.lunwen000.com
-*.lunwen001.net
 *.lunwengo.net
 *.lunwenlib.com
 *.lunwenschool.com
@@ -56149,6 +56155,7 @@ ff00:*
 *.mikucdn.com
 *.mikuclub.fun
 *.milaizu2023.com
+*.milan.com
 *.milanshishang.com
 *.milanvip.com
 *.milchips.com
@@ -56822,6 +56829,7 @@ ff00:*
 *.moeid.com
 *.moejam.com
 *.moejp.com
+*.moeking.me
 *.moeli123.com
 *.moemiao.net
 *.moeqy.com
@@ -56959,6 +56967,7 @@ ff00:*
 *.monhun.fun
 *.monidai.com
 *.monknow.com
+*.monolink.net
 *.monph.com
 *.monsterlin.com
 *.montage-tech.com
@@ -59114,7 +59123,6 @@ ff00:*
 *.njnewgreen.com
 *.njnwa.com
 *.njodu.com
-*.njqhgh.org
 *.njqxrc.com
 *.njrx.cc
 *.njsc-trade.com
@@ -60430,7 +60438,6 @@ ff00:*
 *.ok206.com
 *.ok379.com
 *.ok3w.net
-*.ok86.com
 *.ok888883.com
 *.ok9624.com
 *.oka-vip.com
@@ -62395,6 +62402,7 @@ ff00:*
 *.playcase.com
 *.playcomet.jp
 *.playcrab.com
+*.playerinfinite.com
 *.playezu.com
 *.playfifa.com
 *.playgm.cc
@@ -65718,7 +65726,6 @@ ff00:*
 *.rainhj.com
 *.rainhz.com
 *.rainlain.com
-*.rainmanfloor.com
 *.rainwe.com
 *.rainyun.com
 *.raise-win.com
@@ -71880,7 +71887,6 @@ ff00:*
 *.sqjtcy.com
 *.sqkb.com
 *.sql110.com
-*.sqlixin.com
 *.sqlpub.com
 *.sqlsec.com
 *.sqncsx.com
@@ -74262,7 +74268,6 @@ ff00:*
 *.tarotchina.net
 *.tarsier-infra.com
 *.tarsocial.com
-*.tartdl.com
 *.tartscenter.com
 *.tarvengeful.com
 *.tasaiwang.com
@@ -78530,7 +78535,6 @@ ff00:*
 *.verodillan.com
 *.versoventure.com
 *.vertciot.com
-*.vertex.team
 *.vertical-china.com
 *.vertu.com
 *.vertuonline.com
@@ -78733,6 +78737,7 @@ ff00:*
 *.vipglobal.hk
 *.vipgs.net
 *.vipgslb.com
+*.vipguanjia.net
 *.viphudong.com
 *.viphxw.com
 *.vipjingdong.com
@@ -83372,6 +83377,7 @@ ff00:*
 *.xdystar.com
 *.xdytuliao.com
 *.xdyy100.com
+*.xdyy8.com
 *.xdzhsw.com
 *.xdzu.net
 *.xed.plus
@@ -89567,7 +89573,6 @@ ff00:*
 *.youyouwin.com
 *.youyuan.com
 *.youyuanchina.com
-*.youyuanw.com
 *.youyuapp.com
 *.youyudf.com
 *.youyuegame.com
