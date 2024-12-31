@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2024-12-31 07:55:40
+; 更新时间：2025-01-01 07:55:26
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -12009,6 +12009,7 @@
 *.grindr.com
 *.grooby.com
 *.grotty-monday.com
+*.ground.news
 *.groupfun.com
 *.groups.com
 *.grows.ac.uk
@@ -13132,6 +13133,7 @@
 *.hpinkjet.com
 *.hpinstantink.ca
 *.hpinstantink.com
+*.hpjav.com
 *.hpjav.tv
 *.hpkeyboard.com
 *.hplaptop.com
@@ -13516,6 +13518,7 @@
 *.iask.ca
 *.iat.ac.uk
 *.iav19.com
+*.iavian.net
 *.iavnight.com
 *.ibb.co
 *.ibd-boost.ac.uk
@@ -20748,6 +20751,7 @@
 *.pcdvd.com.tw
 *.pcfe.ac.uk
 *.pcfeonline.ac.uk
+*.pcgamestorrents.com
 *.pchome.com.tw
 *.pchomeec.tw
 *.pchomeonline.com.tw
