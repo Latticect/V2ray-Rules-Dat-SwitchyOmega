@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-02-09 07:55:36
+; 更新时间：2025-02-10 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1086,7 +1086,6 @@
 *.ai-kan.net
 *.ai-wen.net
 *.ai.binwang.me
-*.ai.com
 *.ai3sd.ac.uk
 *.ai7995.site
 *.ai91porn.cc
