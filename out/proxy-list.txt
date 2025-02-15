@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-02-15 07:55:32
+; 更新时间：2025-02-16 07:55:35
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -804,6 +804,7 @@
 *.adas.ac.uk
 *.adbecrsl.com
 *.adbkm.com
+*.adblockcdn.com
 *.adblockplus.org
 *.adcex.com
 *.adcommerce.tv
@@ -30109,6 +30110,8 @@
 *.your-freedom.net
 *.your-objectstorage.com
 *.your-server.de
+*.your-storagebox.de
+*.your-storageshare.de
 *.youramateurporn.com
 *.yourassbig.com
 *.yourbrain.com
