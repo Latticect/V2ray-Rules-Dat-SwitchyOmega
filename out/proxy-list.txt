@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-02-16 07:55:35
+; 更新时间：2025-02-17 07:55:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -18380,7 +18380,12 @@
 *.mwrc.ac.uk
 *.mx.hao123.com
 *.mx981.com
+*.mxlogin.com
 *.mxmcdn.net
+*.mxroute.com
+*.mxroutedocs.com
+*.mxroutehelp.com
+*.mxrouting.net
 *.mxshm.site
 *.my-enema.com
 *.my-formosa.com
