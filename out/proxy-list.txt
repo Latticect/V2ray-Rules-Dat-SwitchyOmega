@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-02-18 07:55:45
+; 更新时间：2025-02-19 07:55:29
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -425,6 +425,7 @@
 *.5xsq.com
 *.6-ar.com
 *.60plusmilfs.com
+*.611study.icu
 *.61jxbs42.xyz
 *.62fh1bnj.me
 *.634.tv
@@ -19088,6 +19089,7 @@
 *.news.sina.com.hk
 *.news.sina.com.tw
 *.news.singtao.ca
+*.news1.kr
 *.news100.com.tw
 *.newsadds.com.au
 *.newsamerica.com
@@ -21060,6 +21062,7 @@
 *.pictocum.com
 *.picturedip.com
 *.picturesocial.com
+*.picuki.com
 *.pieceofplastic.com
 *.pier18.ac.uk
 *.pifpafarabia.com
@@ -25102,7 +25105,6 @@
 *.stroudcol.ac.uk
 *.stroudcollege.ac.uk
 *.sttc.ac.uk
-*.student.tw
 *.studentengagement.ac.uk
 *.studentsforafreetibet.org
 *.studentshows.ac.uk
