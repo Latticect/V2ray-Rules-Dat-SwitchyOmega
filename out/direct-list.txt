@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-02-23 07:55:38
+; 更新时间：2025-02-24 07:55:29
 ; cn域名都不走代理
 *.cn
 
@@ -13306,6 +13306,8 @@ ff00:*
 *.bestugali.com
 *.bestv6.com
 *.bestvapp.com
+*.bestvcdn.com
+*.bestvcdn.net
 *.bestvideocloud.com
 *.bestviewstock.com
 *.bestvist.com
@@ -41339,6 +41341,7 @@ ff00:*
 *.hzdledu.com
 *.hzdlrj.com
 *.hzdq.com
+*.hzdtv.tv
 *.hzdx.com
 *.hzecsemir.com
 *.hzefjs.com
@@ -63488,6 +63491,7 @@ ff00:*
 *.qingnianwang.com
 *.qingpanduola.com
 *.qingpin.vip
+*.qingping.co
 *.qingqikeji.com
 *.qingqin.com
 *.qingqingmedia.com
@@ -68218,6 +68222,7 @@ ff00:*
 *.sharegog.com
 *.shareinstall.com
 *.shareinstall.net
+*.shareintelli.com
 *.sharejs.com
 *.sharelogis.com
 *.sharemoon.club
@@ -71387,6 +71392,7 @@ ff00:*
 *.startup-partner.com
 *.starwarschina.com
 *.starway.net
+*.starworldgames.com
 *.starx-w.com
 *.starxiiient.com
 *.starxn.com
@@ -82058,6 +82064,7 @@ ff00:*
 *.wzsxj.net
 *.wztf121.com
 *.wztlink1013.com
+*.wztsy.com
 *.wzty.ltd
 *.wzu.com
 *.wzweisen.com
@@ -83172,15 +83179,25 @@ ff00:*
 *.xiaomi.net
 *.xiaomi.tw
 *.xiaomiaozai.com
+*.xiaomicp.com
+*.xiaomidns.com
+*.xiaomidns.net
 *.xiaomiev.com
 *.xiaomiflash.com
+*.xiaomiinc.com
+*.xiaomiinc.net
 *.xiaomimobile.com
 *.xiaominet.com
 *.xiaominfo.com
 *.xiaomingtaiji.com
+*.xiaominr.com
+*.xiaomiprint.com
 *.xiaomiqiu.com
 *.xiaomiquan.com
 *.xiaomirom.com
+*.xiaomisa.com
+*.xiaomisa.net
+*.xiaomisa.org
 *.xiaomishu.com
 *.xiaomiwear.com
 *.xiaomixiaoai.com
@@ -94294,6 +94311,7 @@ csi.gstatic.com
 cstat.apple.com
 cstat.cdn-apple.com
 ctldl.windowsupdate.com
+cueme-api.quark.cn
 dartsearch-cn.net
 dd-cdn.origin-apple.com.akadns.net
 dejavu.apple.com
@@ -94711,6 +94729,7 @@ HostRegex: ^images(-\d)?\.gog-statics\.com$
 HostRegex: ^is[1-5](-ssl)?\.mzstatic\.com$
 HostRegex: ^ntp([1-5])?\.tencent\.com$
 HostRegex: ^ntp([1-7])?\.aliyun\.com$
+HostRegex: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 HostRegex: ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 HostRegex: ^s[1-5]?\.mzstatic\.com$
 *.
