@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-03-07 07:55:43
+; 更新时间：2025-03-08 07:55:29
 ; cn域名都不走代理
 *.cn
 
@@ -64466,6 +64466,8 @@ ff00:*
 *.qwbk.cc
 *.qweather.com
 *.qweather.net
+*.qwen.ai
+*.qwenlm.ai
 *.qwerhost.com
 *.qwfync.com
 *.qwgg.com
