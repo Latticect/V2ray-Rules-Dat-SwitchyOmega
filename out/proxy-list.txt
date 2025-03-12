@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-03-12 07:55:26
+; 更新时间：2025-03-13 07:55:33
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -21990,6 +21990,7 @@
 *.ppe.lawyer
 *.pplah.com
 *.pplusstatic.com
+*.pplx.ai
 *.ppp91.cc
 *.pppds.com
 *.ppre.ac.uk
@@ -31148,6 +31149,7 @@ paper-attachments.s3.amazonaws.com
 pchomeonline.com.tw
 pki.google.com
 poshtestgallery.cloudapp.net
+pplx-res.cloudinary.com
 practivate.adobe
 practivate.adobe.com
 practivate.adobe.ipp
