@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-03-13 07:55:33
+; 更新时间：2025-03-14 07:55:24
 ; cn域名都不走代理
 *.cn
 
@@ -1708,7 +1708,6 @@ ff00:*
 *.1718world.com
 *.171tax.com
 *.171win.net
-*.171zz.com
 *.17207.com
 *.172haoka.vip
 *.172l.com
@@ -3453,7 +3452,6 @@ ff00:*
 *.365500.com
 *.365639355.com
 *.36578.com
-*.365828.cc
 *.365960.com
 *.365autogo.com
 *.365azw.com
@@ -3802,7 +3800,6 @@ ff00:*
 *.3gu.com
 *.3gus.com
 *.3gwoool.com
-*.3h.ink
 *.3h1i.com
 *.3h3.com
 *.3h77.com
@@ -4091,7 +4088,6 @@ ff00:*
 *.45575.com
 *.45592.com
 *.456.net
-*.4567w.com
 *.456ss.com
 *.456tt.com
 *.457.com
@@ -9641,6 +9637,7 @@ ff00:*
 *.aiuxdesign.com
 *.aiuxian.com
 *.aiuxstudio.com
+*.aiv5.cc
 *.aiviy.com
 *.aiviysoft.com
 *.aivote.com
@@ -12900,6 +12897,7 @@ ff00:*
 *.bdstatlc.com
 *.bdsye.com
 *.bdsytime.com
+*.bdszh.vip
 *.bdtianchang.com
 *.bdtic.com
 *.bdtjrcv.com
@@ -13581,7 +13579,6 @@ ff00:*
 *.bicv.com
 *.bid-view.com
 *.bidchance.com
-*.biddingos.com
 *.biddingx.com
 *.bidemi.com
 *.bidepharm.com
@@ -14510,7 +14507,6 @@ ff00:*
 *.blinghour.com
 *.blissmall.net
 *.blizzardcn.com
-*.blkj58.com
 *.blksails.net
 *.bllsbz.com
 *.blmpb.com
@@ -16595,7 +16591,6 @@ ff00:*
 *.ccproxy.com
 *.ccps56.com
 *.ccqgyx.com
-*.ccqli.com
 *.ccqtgb.com
 *.ccqyj.com
 *.ccrgt.com
@@ -17131,7 +17126,6 @@ ff00:*
 *.cenbohao.com
 *.cencimeter.com
 *.cencs.com
-*.cencuan.com
 *.cengceng.chat
 *.cengcloud.net
 *.cenjiasu.com
@@ -18399,6 +18393,7 @@ ff00:*
 *.chinaharp.com
 *.chinahazelnut.com
 *.chinahbj.com
+*.chinahbjob.com
 *.chinahengying.com
 *.chinahho.com
 *.chinahightech.com
@@ -21556,6 +21551,7 @@ ff00:*
 *.crl.kaspersky.com
 *.crlf0710.com
 *.crlg.com
+*.crlintex.com
 *.crm.cc
 *.crm1001.com
 *.crmch.com
@@ -21578,6 +21574,7 @@ ff00:*
 *.crowya.com
 *.crpaas.com
 *.crpcg.com
+*.crpharm.com
 *.crrcgc.cc
 *.crrjz.com
 *.crs811.com
@@ -27518,7 +27515,6 @@ ff00:*
 *.etiv.me
 *.etjournals.com
 *.etlong.com
-*.etmchina.com
 *.etmoc.com
 *.etmwanju.com
 *.etocrm.com
@@ -28951,7 +28947,6 @@ ff00:*
 *.fhtre.com
 *.fhwlgs.com
 *.fhwzx.com
-*.fhxsy.com
 *.fhy2008.com
 *.fhycedu.com
 *.fhycs.com
@@ -33466,7 +33461,6 @@ ff00:*
 *.gxankao.com
 *.gxanlu.com
 *.gxantu.com
-*.gxanxun.com
 *.gxany.com
 *.gxaohua.com
 *.gxaoma.com
@@ -36864,7 +36858,6 @@ ff00:*
 *.hawkeye.fun
 *.hawkhai.com
 *.haxdjx.com
-*.haxiu.com
 *.hayeen.com
 *.hayge.com
 *.hayseen.com
@@ -38063,7 +38056,6 @@ ff00:*
 *.hhh233.net
 *.hhh800.com
 *.hhh885.com
-*.hhh888.com
 *.hhhg258.com
 *.hhhoo.com
 *.hhhppp.com
@@ -40837,7 +40829,6 @@ ff00:*
 *.hvcnitl.com
 *.hvcxo.com
 *.hvdiy.com
-*.hvphoning.com
 *.hvread.com
 *.hvtong.com
 *.hw-ai.com
@@ -47206,7 +47197,6 @@ ff00:*
 *.junpinhui.com
 *.junpinmall.com
 *.junpinzhi.com
-*.junqing.ren
 *.junqing360.com
 *.junrunrenli.com
 *.junsaozg.com
@@ -48843,7 +48833,6 @@ ff00:*
 *.kmhwtz.com
 *.kmhybz.com
 *.kmlcl.com
-*.kmldlw.com
 *.kmlhh.com
 *.kmljk.com
 *.kmmama.com
@@ -50493,7 +50482,6 @@ ff00:*
 *.lddengine.com
 *.lddgo.net
 *.ldfdcw.com
-*.ldgbetq.lol
 *.ldgslb.com
 *.ldhrd.com
 *.ldhxbj.com
@@ -53345,7 +53333,6 @@ ff00:*
 *.lyangchuanbo.com
 *.lyauto.com
 *.lybdfqh.com
-*.lyblog.net
 *.lybol.com
 *.lybtmy.com
 *.lybus.com
@@ -53844,6 +53831,7 @@ ff00:*
 *.magicneko.com
 *.magicnetmall.com
 *.magics-ad.com
+*.magics.plus
 *.magicspinning.com
 *.magicw3.com
 *.magicwatchface.com
@@ -55931,6 +55919,7 @@ ff00:*
 *.mmscoo.com
 *.mmsfw.com
 *.mmsk.com
+*.mmssai.com
 *.mmstat.com
 *.mmt3000.com
 *.mmtch.com
@@ -56819,6 +56808,7 @@ ff00:*
 *.mxddp.com
 *.mxde.com
 *.mxdjzj.com
+*.mxdmf.com
 *.mxdraw.com
 *.mxdraw3d.com
 *.mxew.com
@@ -61942,7 +61932,6 @@ ff00:*
 *.ppxs.net
 *.ppxvod.com
 *.ppxwo.com
-*.ppyxzw.com
 *.ppzhan.com
 *.ppzhilian.com
 *.ppzuche.com
@@ -63164,7 +63153,6 @@ ff00:*
 *.qingcache.com
 *.qingcaige.com
 *.qingcdn.com
-*.qingchengxiaoshuo.com
 *.qingchenyu.com
 *.qingchu.com
 *.qingchunbank.com
@@ -63640,7 +63628,6 @@ ff00:*
 *.qmtj.net
 *.qmtmedia.com
 *.qmtv.com
-*.qmuiteam.com
 *.qmvchina.com
 *.qmwtp.com
 *.qmwyy.com
@@ -64746,7 +64733,6 @@ ff00:*
 *.r51.net
 *.r5k.com
 *.r5tao.com
-*.r6fyblg7.shop
 *.r77777777.com
 *.ra022.com
 *.ra216.com
@@ -66959,7 +66945,6 @@ ff00:*
 *.sdbeta.com
 *.sdbgk.com
 *.sdbhrc.com
-*.sdbing.net
 *.sdbjm.com
 *.sdbqfw.com
 *.sdbrmm.com
@@ -68723,6 +68708,7 @@ ff00:*
 *.shlongtai.com
 *.shlpk.com
 *.shlungu.com
+*.shmaas.net
 *.shmama.net
 *.shmarathon.com
 *.shmaur.com
@@ -69155,6 +69141,7 @@ ff00:*
 *.shukwai.com
 *.shulanapp.com
 *.shulb.com
+*.shulex-voc.com
 *.shuliao.com
 *.shulidata.com
 *.shuliyun.com
@@ -70000,7 +69987,6 @@ ff00:*
 *.skysriver.com
 *.skysrt.com
 *.skyts.cc
-*.skyts.net
 *.skytv.cc
 *.skyue.com
 *.skyw.cc
@@ -74025,7 +74011,6 @@ ff00:*
 *.thmovie.com
 *.thmuseum.com
 *.thmz.com
-*.thn21.com
 *.thorn.red
 *.thosefree.com
 *.thoughtworkers.org
@@ -74528,7 +74513,6 @@ ff00:*
 *.tiye.me
 *.tiyeji.com
 *.tiyep.com
-*.tiyu68.com
 *.tiyucdn.com
 *.tiyufeng.com
 *.tiyuguoji.com
@@ -77364,8 +77348,6 @@ ff00:*
 *.vcdnga.com
 *.vcg.com
 *.vchangyi.com
-*.vchat5.com
-*.vchatshow.com
 *.vchello.com
 *.vcimg.com
 *.vcinchina.com
@@ -77891,6 +77873,7 @@ ff00:*
 *.vnymvnu.com
 *.vnzmi.com
 *.vobao.com
+*.voc.ai
 *.vocalmiku.com
 *.voccdn.com
 *.vocinno.com
@@ -82044,7 +82027,6 @@ ff00:*
 *.xbjob.com
 *.xbjtkj.com
 *.xbkjvip.com
-*.xbldrk.com
 *.xblds.com
 *.xblqb.com
 *.xblyw.com
@@ -85354,7 +85336,6 @@ ff00:*
 *.xxhyzs.com
 *.xxinficity.com
 *.xxingclub.com
-*.xxj01.com
 *.xxjdns.com
 *.xxjqgs.com
 *.xxjrjxc.com
@@ -88065,7 +88046,6 @@ ff00:*
 *.youfangou.com
 *.youfangzx.com
 *.youfanx.com
-*.youfashangmao.com
 *.youfen666.com
 *.youfubao.vip
 *.youfujc.com
