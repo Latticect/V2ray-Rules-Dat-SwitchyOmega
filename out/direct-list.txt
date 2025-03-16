@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-03-16 07:55:33
+; 更新时间：2025-03-17 07:55:36
 ; cn域名都不走代理
 *.cn
 
@@ -22224,7 +22224,6 @@ ff00:*
 *.cqrcb.com
 *.cqrcdsc.com
 *.cqrfym.com
-*.cqrjx.com
 *.cqrm.com
 *.cqrmb.com
 *.cqsckj02.com
@@ -47504,7 +47503,6 @@ ff00:*
 *.jjjaaa.com
 *.jjjllk.com
 *.jjjpv.com
-*.jjjx9.com
 *.jjkeq.com
 *.jjkjnet.com
 *.jjkk.org
@@ -48409,6 +48407,7 @@ ff00:*
 *.jswebcall.com
 *.jsweixiu.com
 *.jswel.com
+*.jswenjin.com
 *.jswjkj.net
 *.jswmw.com
 *.jswonderful.com
@@ -51408,7 +51407,6 @@ ff00:*
 *.lacaoshi.com
 *.lacesar.com
 *.lacocrea.com
-*.lacyw.com
 *.ladiyoga.com
 *.ladjzs.com
 *.lady177.com
@@ -78712,7 +78710,6 @@ ff00:*
 *.tzsti.com
 *.tzsucai.com
 *.tzswatch.com
-*.tzswll.com
 *.tztrzjt.com
 *.tztusi.com
 *.tzujian.com
@@ -80121,6 +80118,7 @@ ff00:*
 *.viewstock.com
 *.viewtool.com
 *.viewtrans.com
+*.vifaka.com
 *.vigtm-meeting-tencent.com
 *.viigee.com
 *.viisan.com
