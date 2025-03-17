@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-03-17 07:55:36
+; 更新时间：2025-03-18 07:55:28
 ; cn域名都不走代理
 *.cn
 
@@ -916,7 +916,6 @@ ff00:*
 *.1008120.com
 *.10086.com
 *.10086.games
-*.1008691.com
 *.10086kuaixiu.com
 *.100883.cc
 *.100883.com
@@ -12380,7 +12379,6 @@ ff00:*
 *.b8kk.com
 *.b8th-hzvac3.com
 *.b8yx.com
-*.b9ft.com
 *.ba-li.com
 *.ba7jcm.live
 *.baacloud32.com
@@ -12710,7 +12708,6 @@ ff00:*
 *.baitaihuge.com
 *.baitaiz.com
 *.baitanheichang.com
-*.baitaxiaodu.com
 *.baitdu.com
 *.baithu.com
 *.baitianinfo.com
@@ -14862,7 +14859,6 @@ ff00:*
 *.bjrdhx.com
 *.bjretech.com
 *.bjreview.com
-*.bjrhxp.com
 *.bjrjgj.com
 *.bjrjtdkj.com
 *.bjrjyy.com
@@ -15894,7 +15890,6 @@ ff00:*
 *.btltl.com
 *.btmayi.cc
 *.btmeiju.com
-*.btmyrs.com
 *.btnotes.com
 *.btoo3.com
 *.btophr.com
@@ -23806,7 +23801,6 @@ ff00:*
 *.daruan.com
 *.darwinlearns.com
 *.dasctf.com
-*.dasdg.technology
 *.dashanghaizhuce.com
 *.dashangu.com
 *.dashen520.com
@@ -30037,7 +30031,6 @@ ff00:*
 *.fiio.com
 *.fiio.net
 *.filcochina.com
-*.file001.com
 *.filediag.com
 *.filez.com
 *.filfox.info
@@ -36425,7 +36418,6 @@ ff00:*
 *.gxydtaxi.com
 *.gxydxf.com
 *.gxyefang.com
-*.gxyejun.com
 *.gxyesf.com
 *.gxyete.com
 *.gxyfck.com
@@ -36748,7 +36740,6 @@ ff00:*
 *.gyqqd.com
 *.gyqzby.com
 *.gyr.cc
-*.gyrljx.com
 *.gyrsy.com
 *.gyscw.com
 *.gysdzy.com
@@ -37007,7 +36998,6 @@ ff00:*
 *.gztcm3.com
 *.gztea.vip
 *.gztfgame.com
-*.gzthbf.com
 *.gzthrc.com
 *.gztime.cc
 *.gztopkt.com
@@ -53204,7 +53194,6 @@ ff00:*
 *.lingsiqiwu.com
 *.lingsky.com
 *.lingsoul.com
-*.lingtan.vip
 *.lingti.com
 *.lingtiao.com
 *.lingtingmusic.com
@@ -53945,6 +53934,7 @@ ff00:*
 *.lnk0.com
 *.lnk8z.com
 *.lnkdjt.com
+*.lnlc2.net
 *.lnlib.net
 *.lnlotto.com
 *.lnmtc.com
@@ -57183,7 +57173,6 @@ ff00:*
 *.milan.com
 *.milanshishang.com
 *.milanvip.com
-*.milchips.com
 *.mile-link.com
 *.mileage.vip
 *.milejia.com
@@ -57484,7 +57473,6 @@ ff00:*
 *.mitiplus.com
 *.mitotoo.com
 *.mitstore.net
-*.mitsuha.ren
 *.mitsuha.space
 *.mittrchina.com
 *.mituancm.com
@@ -57659,7 +57647,6 @@ ff00:*
 *.mm111.net
 *.mm131.kim
 *.mm138.com
-*.mm193.com
 *.mm1qj.icu
 *.mm2hservices.com
 *.mm3yy.com
@@ -58318,7 +58305,6 @@ ff00:*
 *.ms6666111.com
 *.msanjia.com
 *.msbcluray.com
-*.msbd123.com
 *.mscbsc.com
 *.mscdntrip.com
 *.mschcdn.com
@@ -58636,6 +58622,7 @@ ff00:*
 *.mxdmf.com
 *.mxdraw.com
 *.mxdraw3d.com
+*.mxdzlk.com
 *.mxew.com
 *.mxguan.com
 *.mxhaitao.com
@@ -60235,7 +60222,6 @@ ff00:*
 *.njxlmz.com
 *.njxsmz.com
 *.njxueyun.com
-*.njxzbedu.com
 *.njxzwh.com
 *.njycwy.com
 *.njyfpca.org
@@ -65169,7 +65155,6 @@ ff00:*
 *.qilongtan.com
 *.qiludb.com
 *.qiluhospital.com
-*.qiluivf.com
 *.qiluyidian.mobi
 *.qiluyidian.net
 *.qima-inc.com
@@ -65821,7 +65806,6 @@ ff00:*
 *.qqdcw.com
 *.qqddc.com
 *.qqder.com
-*.qqdeveloper.com
 *.qqdiannao.com
 *.qqdiannaoguanjiadl.com
 *.qqdna.com
@@ -67153,7 +67137,6 @@ ff00:*
 *.rebang.today
 *.rebatesme.com
 *.rebdy.com
-*.rebo5566.com
 *.rebozj.pro
 *.rechaos.com
 *.rechulishebei.com
@@ -74472,7 +74455,6 @@ ff00:*
 *.syjiancai.com
 *.syjkqzw.com
 *.syjlp.com
-*.syjt.me
 *.syjtzm.com
 *.syjyzl.com
 *.syjzedu.com
@@ -77191,7 +77173,6 @@ ff00:*
 *.tobosu.net
 *.tobsnssdk.com
 *.tocdovn.com
-*.tocdovnm.com
 *.tochgo.com
 *.tochinajob.com
 *.tocomtech.com
@@ -79589,7 +79570,6 @@ ff00:*
 *.uugai.com
 *.uugame.com
 *.uugtv.com
-*.uuh5.com
 *.uuhdedu.com
 *.uuhimalayanqm.com
 *.uuid.online
@@ -82993,6 +82973,7 @@ ff00:*
 *.withwheat.com
 *.withwinds.com
 *.withzz.com
+*.witintech.com
 *.witmart.net
 *.witnew.net
 *.witontek.com
@@ -83310,7 +83291,6 @@ ff00:*
 *.wodasi.com
 *.wodavip.com
 *.wode.bid
-*.wode.im
 *.wodeabc.com
 *.wodecrowd.com
 *.wodecun.com
@@ -87894,7 +87874,6 @@ ff00:*
 *.xuhaijun.pw
 *.xuhe56.com
 *.xuheen.com
-*.xuhehuan.com
 *.xuhenghandicraft.com
 *.xuhongjx.com
 *.xuhuihs.com
