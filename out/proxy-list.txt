@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-03-23 07:55:47
+; 更新时间：2025-03-24 07:55:35
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -931,6 +931,7 @@
 *.adult-list.com
 *.adult-sex-games.com
 *.adult-web-site.net
+*.adult.contents.fc2.com
 *.adult.friendfinder.com
 *.adult.toonsearch.net
 *.adult3dcomics.com
@@ -6617,6 +6618,7 @@
 *.coinalyze.net
 *.coinbase.com
 *.coinbene.com
+*.coincarp.com
 *.coindesk.com
 *.coinegg.com
 *.coinex.com
@@ -9055,7 +9057,6 @@
 *.emuparadise.me
 *.emwprep.ac.uk
 *.en-compass.ac.uk
-*.en.favotter.net
 *.en.hao123.com
 *.enablementadobe.com
 *.enanyang.my
@@ -9907,6 +9908,7 @@
 *.fanfox.net
 *.fangbinxing.com
 *.fangeming.com
+*.fangeming.comffvpn.com
 *.fangeqiang.com
 *.fanglizhi.info
 *.fangmincn.org
@@ -10033,7 +10035,6 @@
 *.favepornmovs.com
 *.favepornvids.com
 *.favjapaneseporn.com
-*.favstar.fm
 *.fawanghuihui.org
 *.faycbok.com
 *.faydao.com
@@ -10077,9 +10078,6 @@
 *.fburl.com
 *.fbwat.ch
 *.fbworkmail.com
-*.fc2.com
-*.fc2blog.net
-*.fc2china.com
 *.fc2cn.com
 *.fc2ppv.tv
 *.fca.ac.uk
@@ -10095,7 +10093,6 @@
 *.fdacebook.info
 *.fdc64.de
 *.fdc64.org
-*.fdc89.jp
 *.fdf.ac.uk
 *.fdiintelligence.com
 *.fdroid.org
@@ -10170,7 +10167,6 @@
 *.ffacebook.com
 *.ffc.ac.uk
 *.fffdm.com
-*.fffff.at
 *.fffucked.com
 *.fflick.com
 *.fflm.ac.uk
@@ -27986,7 +27982,7 @@
 *.video.aol.ca
 *.video.aol.co.uk
 *.video.aol.com
-*.video.fdbox.com
+*.video.fc2.com
 *.video01.org
 *.videoactive.ac.uk
 *.videobam.com
