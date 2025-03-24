@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-03-24 07:55:35
+; 更新时间：2025-03-25 07:55:32
 ; cn域名都不走代理
 *.cn
 
@@ -808,6 +808,7 @@ ff00:*
 *.0917.com
 *.0917e.com
 *.0919123.com
+*.092394.com
 *.093.com
 *.0935e.com
 *.0937.net
@@ -3491,6 +3492,7 @@ ff00:*
 *.35xt.com
 *.35zww.com
 *.36-7.com
+*.36.cc
 *.36.la
 *.360-g.net
 *.360-game.net
@@ -4056,6 +4058,7 @@ ff00:*
 *.3gu.com
 *.3gus.com
 *.3gwoool.com
+*.3h.com
 *.3h1i.com
 *.3h3.com
 *.3h77.com
@@ -7845,6 +7848,7 @@ ff00:*
 *.89538777.com
 *.89609335.com
 *.8961zx.com
+*.896qipai.com
 *.897263tqs.com
 *.8979.com
 *.898.travel
@@ -12607,6 +12611,7 @@ ff00:*
 *.ba7jcm.live
 *.baacloud32.com
 *.baalchina.net
+*.baaniarts.com
 *.baba-blog.com
 *.bababian.com
 *.bababus.com
@@ -13501,6 +13506,7 @@ ff00:*
 *.bbqk.com
 *.bbqk.net
 *.bbqming.com
+*.bbqpitnorthpark.com
 *.bbqseo.com
 *.bbqwhg.com
 *.bbrmedia.com
@@ -13562,6 +13568,7 @@ ff00:*
 *.bccastle.com
 *.bccn.net
 *.bccnsoft.com
+*.bccoder.com
 *.bccv.com
 *.bcdaren.com
 *.bcdy.net
@@ -13649,6 +13656,7 @@ ff00:*
 *.bdfczx.com
 *.bdfmj.com
 *.bdfmkj.com
+*.bdfyst.com
 *.bdfzcd.net
 *.bdg-brain.com
 *.bdgamelive.com
@@ -14252,6 +14260,7 @@ ff00:*
 *.bgxu.com
 *.bgyfhh.com
 *.bgyfhyx.com
+*.bgypc.com
 *.bgypsc.com
 *.bgzx365.com
 *.bh-lay.com
@@ -14872,6 +14881,7 @@ ff00:*
 *.bizsofts.com
 *.bizvane.com
 *.bj-big.com
+*.bj-bpsc.com
 *.bj-brsf.com
 *.bj-bts.com
 *.bj-byjz.com
@@ -20286,6 +20296,7 @@ ff00:*
 *.chuanxincao.net
 *.chuanye.com
 *.chuanyifu.com
+*.chuanyinet.com
 *.chuanying365.com
 *.chuanying520.com
 *.chuanyinpx.com
@@ -23592,6 +23603,7 @@ ff00:*
 *.cyzl.com
 *.cyzm.net
 *.cyzs97.com
+*.cyzwb.com
 *.cyzywl.com
 *.cyzzzz.com
 *.cz-huachang.com
@@ -24797,6 +24809,7 @@ ff00:*
 *.deerjet.com
 *.deerma.com
 *.deernice.com
+*.deexchina.com
 *.defcoding.com
 *.defineabc.com
 *.deflw.com
@@ -25031,6 +25044,7 @@ ff00:*
 *.df9377.com
 *.df962388.com
 *.dfan4.icu
+*.dfcentury.com
 *.dfcfs.com
 *.dfcfw.com
 *.dfcms.net
@@ -25588,6 +25602,7 @@ ff00:*
 *.dinaite2003.com
 *.dinarspeculator.com
 *.dindin.com
+*.dinersgoto.com
 *.dingbang99.com
 *.dingcaicai.com
 *.dingcooltech.com
@@ -34708,6 +34723,7 @@ ff00:*
 *.gu166.com
 *.guabu.com
 *.guaguasheng.com
+*.guaguay.com
 *.guahao-inc.com
 *.guahao.com
 *.guahaoe.com
@@ -36037,6 +36053,7 @@ ff00:*
 *.gxhyzx.net
 *.gxhzgjyy.com
 *.gxhzjsgc.com
+*.gxhzkj.com
 *.gxhzsbwg.com
 *.gxhzsqyg.com
 *.gxhztqt.com
@@ -38332,6 +38349,7 @@ ff00:*
 *.hanpokou.com
 *.hanqidq.com
 *.hanqinghb.com
+*.hanrunbt.com
 *.hansaoxinxi.xyz
 *.hanschen.site
 *.hansetile.com
@@ -40200,6 +40218,7 @@ ff00:*
 *.high21-playback.com
 *.high22-playback.com
 *.high24-playback.com
+*.high25-playback.com
 *.highdigitizing.com
 *.highenergyaerospace.com
 *.highfel.com
@@ -42175,6 +42194,7 @@ ff00:*
 *.huash.com
 *.huashangcbbtv.com
 *.huashangtop.com
+*.huashanxin.com
 *.huashen-edu.com
 *.huasheng100.com
 *.huashengchn.com
@@ -42550,6 +42570,7 @@ ff00:*
 *.huishou1680.com
 *.huishoubao.com
 *.huishoubaojiadan.com
+*.huishouicxinpian.com
 *.huishoujiuwu.com
 *.huishoushang.com
 *.huishuaka.com
@@ -42579,6 +42600,7 @@ ff00:*
 *.huivo.com
 *.huiwang.net
 *.huiwenda.com
+*.huiwenjidian.com
 *.huiwo.com
 *.huiword.com
 *.huiwww.com
@@ -53535,6 +53557,7 @@ ff00:*
 *.letaofang.net
 *.letaoren.com
 *.letbonchina.com
+*.leter.io
 *.leteuav.com
 *.letfind.com
 *.letianbiji.com
@@ -53779,6 +53802,7 @@ ff00:*
 *.liande.cc
 *.lianezs.com
 *.lianfawy.com
+*.lianfengqy.com
 *.lianfengwh.com
 *.liang520.com
 *.liangankeji.com
@@ -57086,6 +57110,7 @@ ff00:*
 *.masgw.com
 *.mashang98.com
 *.mashangfangxin.com
+*.mashangfl.com
 *.mashangmai.com
 *.mashangshijie.com
 *.mashangxue123.com
@@ -62386,6 +62411,7 @@ ff00:*
 *.ntrc.com
 *.ntrcb.com
 *.ntrun.com
+*.ntsanta.com
 *.ntsgx.com
 *.ntsuye.com
 *.nttui.com
@@ -63820,6 +63846,8 @@ ff00:*
 *.palmexpo.com
 *.palmfungames.com
 *.palmjoys.com
+*.palmpay-inc.com
+*.palmpay.com
 *.palmpk.com
 *.palmtrends.com
 *.palmyou.com
@@ -71160,6 +71188,7 @@ ff00:*
 *.seo123.net
 *.seo371.com
 *.seo628.com
+*.seo880.com
 *.seobti.com
 *.seocxw.com
 *.seodaniel.com
@@ -74759,6 +74788,7 @@ ff00:*
 *.spwj.com
 *.spyouxi.com
 *.spzs.com
+*.spzyjy.com
 *.sq-ks.com
 *.sq-newstar.com
 *.sq.cc
@@ -77187,6 +77217,7 @@ ff00:*
 *.taoqizu.com
 *.taoquanquan.com
 *.taor.work
+*.taoruinyuan.com
 *.taosaas.com
 *.taosdata.com
 *.taosha.club
@@ -77650,6 +77681,7 @@ ff00:*
 *.tencent-cloud.net
 *.tencent-gcloud.com
 *.tencent-gf.com
+*.tencent-stock.com
 *.tencent.com
 *.tencent.com.hk
 *.tencent.design
@@ -78005,6 +78037,7 @@ ff00:*
 *.thetongji.com
 *.thetype.cloud
 *.thevaldezfamily.com
+*.thewhitedragons.com
 *.thewowa.com
 *.thexinji.com
 *.thexnode.com
@@ -80922,6 +80955,7 @@ ff00:*
 *.uni-ubi.com
 *.unibeauty.net
 *.unibizp.com
+*.unicash-icm.com
 *.unicde.com
 *.unicloud.com
 *.unicloudgov.com
@@ -86445,6 +86479,7 @@ ff00:*
 *.xajjn.com
 *.xajjwy.com
 *.xajob.com
+*.xajwapp.com
 *.xajx.com
 *.xajxcw.com
 *.xakqby.com
@@ -92405,6 +92440,7 @@ ff00:*
 *.yl.ag
 *.yl.vip
 *.yl0008168.com
+*.yl0551.com
 *.yl1001.com
 *.yl9820.com
 *.yladm.com
@@ -98781,6 +98817,7 @@ ff00:*
 *.zyks-lv.com
 *.zyku.net
 *.zyl.me
+*.zylseo.com
 *.zymc1.com
 *.zymkcdn.com
 *.zymreal.com
