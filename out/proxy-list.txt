@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-01 07:55:39
+; 更新时间：2025-04-02 07:55:47
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4839,6 +4839,7 @@
 *.brawlstars.com
 *.brawlstarsgame.com
 *.brazilpartneruniversity.com
+*.brazz.org
 *.brazzer.com
 *.brazzers-porno.online
 *.brazzers-xxx.net
@@ -9503,6 +9504,7 @@
 *.exe-coll.ac.uk
 *.exec-appointments.com
 *.exemplashe.ac.uk
+*.exeporn.net
 *.exeter.ac.uk
 *.exetercollege.ac.uk
 *.exeterdeafacademy.ac.uk
@@ -13045,6 +13047,7 @@
 *.hnntube.com
 *.hobonichielog.com
 *.hochi.news
+*.hochu.tv
 *.hoes.com
 *.hogarth.ac.uk
 *.hoge.7jp.info
@@ -16143,6 +16146,7 @@
 *.lemonde.fr
 *.lencr.org
 *.lenkino.xxx
+*.lenporno.net
 *.lenporno.red
 *.lenwhite.com
 *.leorockwell.com
@@ -28672,6 +28676,7 @@
 *.vsphere.com
 *.vsphere.net
 *.vssn.ac.uk
+*.vtrahe.page
 *.vtri.ac.uk
 *.vts.ac.uk
 *.vtsociety.org
@@ -30099,6 +30104,7 @@
 *.yadi.sk
 *.yadori.club
 *.yaeby.info
+*.yaeby.pro
 *.yahoo
 *.yahoo-news.com.hk
 *.yahoo.ae
