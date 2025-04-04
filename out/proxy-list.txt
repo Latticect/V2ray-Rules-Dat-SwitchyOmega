@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-04 07:55:28
+; 更新时间：2025-04-05 07:55:43
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -20492,6 +20492,7 @@
 *.opencollective.com
 *.opencreate.org
 *.opendemocracy.net
+*.opendesktop.org
 *.opendn.xyz
 *.opendns.com
 *.opendroneid.org
