@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-05 07:55:43
+; 更新时间：2025-04-06 07:55:44
 ; cn域名都不走代理
 *.cn
 
@@ -33198,6 +33198,7 @@ ff00:*
 *.forestfood.com
 *.forestmusicnanjing.com
 *.forestpolice.org
+*.forevernine.com
 *.foreveross.com
 *.foreweld.com
 *.forface3d.com
@@ -36417,6 +36418,8 @@ ff00:*
 *.golenpower.com
 *.golfvv.com
 *.golink.com
+*.golinkapi.com
+*.golinkcn.com
 *.golinksworld.com
 *.golive-tv.com
 *.golivetv.tv
@@ -48529,6 +48532,7 @@ ff00:*
 *.imlianai.com
 *.imliuyi.com
 *.immeee.com
+*.immersivetranslate.com
 *.immfast.com
 *.immi520.com
 *.immiexpo.com
@@ -74720,6 +74724,7 @@ ff00:*
 *.rm.run
 *.rmb.sh
 *.rmbbk.com
+*.rmbgame.net
 *.rmbrate.net
 *.rmburl.com
 *.rmcaribbean.com
@@ -81430,6 +81435,7 @@ ff00:*
 *.stdout.pub
 *.stdwp.com
 *.ste56.com
+*.steam302.xyz
 *.steambang.com
 *.steambig.com
 *.steamboxs.com
@@ -107510,6 +107516,7 @@ admob-cn.com
 adservice.google.com
 ai.ytimg.com
 ai.zhaomi.cn
+alibaba.cdn.steampipe.steamcontent.com
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
@@ -107766,6 +107773,7 @@ learn.microsoft.com
 logger-dev.corp.google.com
 logger.corp.google.com
 login.corp.google.com
+lv.queniujq.cn
 manga.bilibili.com
 maps.apple.com
 menu-static.gog-statics.com
