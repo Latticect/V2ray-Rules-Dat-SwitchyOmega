@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-07 07:55:27
+; 更新时间：2025-04-08 07:55:32
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -24248,7 +24248,11 @@
 *.sign.ac.uk
 *.sign.new
 *.signal.art
+*.signal.group
+*.signal.link
+*.signal.me
 *.signal.org
+*.signal.tube
 *.signalbar.com
 *.signalprocessingsociety.org
 *.signalr.net
