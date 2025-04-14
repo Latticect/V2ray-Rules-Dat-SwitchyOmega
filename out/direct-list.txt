@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-14 07:55:30
+; 更新时间：2025-04-15 07:55:26
 ; cn域名都不走代理
 *.cn
 
@@ -34471,6 +34471,7 @@ ff00:*
 *.eszzxxz.com
 *.et-api.com
 *.et-fine.com
+*.et001.com
 *.et363.com
 *.et59.com
 *.et998.com
@@ -41417,6 +41418,7 @@ ff00:*
 *.guahaowang.com
 *.guaiguai.com
 *.guaihou.com
+*.guaiku.com
 *.guaileicp.com
 *.guaili.org
 *.guailuo.com
@@ -70187,6 +70189,7 @@ ff00:*
 *.mingxingbobbin.com
 *.mingxingku.com
 *.mingxinglai.com
+*.mingxuan.store
 *.mingxuanxz.com
 *.mingya.mobi
 *.mingyafeng.com
@@ -119887,6 +119890,7 @@ tesla-cdn.thron.cn
 test.bugs-qa.chromium.org
 test.gbugs-qa.chromium.org
 tf-feedback.itunes.apple.com
+time.amazonaws.cn
 time.izatcloud.net
 time.xtracloud.net
 tj-pod1-smp-device.apple.com
