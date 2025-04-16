@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-16 07:55:45
+; 更新时间：2025-04-17 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -18489,6 +18489,7 @@
 *.msgamesresearch.com
 *.msguancha.com
 *.msha.gov
+*.mshome.net
 *.msinnovationchallenge.com
 *.msk.ilnk.info
 *.msk.kitazawa.me
