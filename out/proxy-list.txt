@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-17 07:55:36
+; 更新时间：2025-04-18 07:55:33
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -178,6 +178,7 @@
 *.1lib.eu
 *.1lib.limited
 *.1lib.pl
+*.1lib.sk
 *.1lib.to
 *.1lib.tw
 *.1mobile.com
@@ -11653,6 +11654,7 @@
 *.go-lang.net
 *.go-lang.org
 *.go-pki.com
+*.go-to-library.sk
 *.go-to-zlibrary.se
 *.go.com
 *.go.dev
@@ -14909,6 +14911,7 @@
 *.itaboo.info
 *.itaeromanga.com
 *.italiabeatsbydrdre.com
+*.italian-books.sk
 *.italiatibet.org
 *.itasoftware.com
 *.itcanwait.com
@@ -30748,9 +30751,13 @@
 *.yysub.net
 *.yzld188.top
 *.yzzk.com
+*.z-lib.gd
+*.z-lib.gs
 *.z-lib.io
 *.z-lib.org
+*.z-lib.ps
 *.z-library.se
+*.z-library.sk
 *.z00.world
 *.z18r.co
 *.z18r.com
