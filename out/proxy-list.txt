@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-30 07:55:26
+; 更新时间：2025-05-01 07:55:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4994,6 +4994,7 @@
 *.brni.com
 *.broadbandreports.com
 *.broadbook.com
+*.broadcom.com
 *.broadpressinc.com
 *.broadstairscollege.ac.uk
 *.brocaproject.com
@@ -17545,6 +17546,7 @@
 *.metacafe.com
 *.metacloud.com
 *.metacpan.org
+*.metacubex.one
 *.metadac.ac.uk
 *.metafilter.com
 *.metalpha.finance
@@ -18508,6 +18510,8 @@
 *.msguancha.com
 *.msha.gov
 *.mshome.net
+*.msi.cn
+*.msi.com
 *.msidentity.com
 *.msinnovationchallenge.com
 *.msk.ilnk.info
@@ -24335,6 +24339,7 @@
 *.sinchew.com.my
 *.sinchew.my
 *.sinet.ac.uk
+*.sing-box.app
 *.sing4.lat
 *.sing68.com
 *.singaporepools.com.sg
@@ -29192,7 +29197,6 @@
 *.wiki.cnitter.com
 *.wiki.gamerp.jp
 *.wiki.keso.cn
-*.wiki.metacubex.one
 *.wiki.oauth.net
 *.wiki.phonegap.com
 *.wikia.com

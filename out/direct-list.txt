@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-04-30 07:55:26
+; 更新时间：2025-05-01 07:55:31
 ; cn域名都不走代理
 *.cn
 
@@ -30561,6 +30561,7 @@ ff00:*
 *.djiang.net
 *.djiavip.com
 *.djicdn.com
+*.djiits.com
 *.djiops.com
 *.djiservice.org
 *.djjgj.com
@@ -70862,6 +70863,7 @@ ff00:*
 *.mored.com
 *.moredian.com
 *.morefood.com
+*.morefreegame.com
 *.morefun-philippines.com
 *.moregy.com
 *.moreless.io
@@ -104985,6 +104987,7 @@ ff00:*
 *.xiaomeiti.com
 *.xiaomeng1235.com
 *.xiaomi.com
+*.xiaomi.eu
 *.xiaomi.hk
 *.xiaomi.net
 *.xiaomi.org
