@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-05-18 07:55:27
+; 更新时间：2025-05-19 07:55:26
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6632,6 +6632,7 @@
 *.codei.sh
 *.codeish.co
 *.codeish.io
+*.coderabbit.ai
 *.codeshare.io
 *.codeskulptor.org
 *.codespot.com
@@ -7870,6 +7871,7 @@
 *.dish.com
 *.dishworld.com
 *.disinhe.ac.uk
+*.diskstation.me
 *.disney-asia.com
 *.disney-discount.com
 *.disney-plus.net
@@ -8054,6 +8056,7 @@
 *.docker.com
 *.docker.io
 *.dockerizer.com
+*.dockerstatic.com
 *.docleradn.com
 *.doclercdn.com
 *.docs.com
@@ -8304,6 +8307,9 @@
 *.drweb.ru
 *.drweb.uz
 *.dscis.ac.uk
+*.dscloud.biz
+*.dscloud.me
+*.dscloud.mobi
 *.dscn.info
 *.dses.ac.uk
 *.dsex.to
@@ -8312,6 +8318,9 @@
 *.dslr.net
 *.dslreports.com
 *.dsmtp.com
+*.dsmynas.com
+*.dsmynas.net
+*.dsmynas.org
 *.dssott.com
 *.dst-dtc.ac.uk
 *.dstk.dk
@@ -9914,6 +9923,9 @@
 *.family-simulator.io
 *.family.co.jp
 *.family.com.tw
+*.familyds.com
+*.familyds.net
+*.familyds.org
 *.familyfed.org
 *.familylifestudy.ac.uk
 *.familymart.com.my
@@ -13715,6 +13727,7 @@
 *.i.lithium.com
 *.i.org
 *.i1.hk
+*.i234.me
 *.i2p2.de
 *.i2runner.com
 *.i69.com.tw
@@ -13751,6 +13764,7 @@
 *.ibit.am
 *.ibkr.com
 *.iblist.com
+*.ibllc.com
 *.iblogserv-f.net
 *.ibm
 *.ibm.com
@@ -18707,6 +18721,7 @@
 *.mydirectgroove.com
 *.mydirectvchannels.com
 *.mydirtyhobby.com
+*.myds.me
 *.myeasytv.com
 *.myebay.com
 *.myeclipseide.com
@@ -25771,6 +25786,7 @@
 *.syncback.com
 *.synergyse.com
 *.synology.com
+*.synology.me
 *.synologydownload.com
 *.synologyupdate.com
 *.synsym.ac.uk
@@ -26863,7 +26879,6 @@
 *.trinitysaintdavid.ac.uk
 *.triokini.com
 *.trip.com
-*.tripcdn.com
 *.tristatebmw.com
 *.trithucvn.net
 *.trithucvn.org
@@ -26906,6 +26921,7 @@
 *.trustedpeach.com
 *.trustisfps.com
 *.trustsign.ch
+*.trustwallet.com
 *.trustwave.com
 *.truth101.co.tv
 *.truthontour.org
@@ -31148,6 +31164,8 @@ discord-attachments-uploads-prd.storage.googleapis.com
 dl.begellhouse.com
 dlgarenanow-a.akamaihd.net
 dlmobilegarena-a.akamaihd.net
+docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+docker-pinata-support.s3.amazonaws.com
 download.visualstudio.microsoft.com
 dqrpb9wgowsf5.cloudfront.net
 ds-linear-abematv.akamaized.net
@@ -31468,6 +31486,7 @@ vscode-sync.trafficmanager.net
 vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
+webchannel-alkalimakersuite-pa.clients6.google.com
 weblive-hamivideo.cdn.hinet.net
 wetv.qq.com
 widgets.stripst.com
