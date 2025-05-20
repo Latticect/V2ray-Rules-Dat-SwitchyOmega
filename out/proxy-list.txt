@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-05-20 07:55:25
+; 更新时间：2025-05-21 07:55:30
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -16089,6 +16089,7 @@
 *.ldoc-cdt.ac.uk
 *.ldplayer.net
 *.ldplayer.tw
+*.ldstatic.com
 *.le-direct.tv
 *.le-vpn.com
 *.le.ac.uk
@@ -16394,6 +16395,7 @@
 *.linotype.com
 *.linseysworld.com
 *.linst.ac.uk
+*.linux.do
 *.linux.org
 *.linux.org.hk
 *.linuxfoundation.org
@@ -31091,6 +31093,7 @@ avatargarenanow-a.akamaihd.net
 az764295.vo.msecnd.net
 azure.microsoft.com
 azuremarketplace.microsoft.com
+bbs.boingboing.net
 bcovlive-a.akamaihd.net
 bcsecure01-a.akamaihd.net
 beatselectronicsllc.tt.omtrdc.net
