@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-05-22 07:55:29
+; 更新时间：2025-05-23 07:55:37
 ; cn域名都不走代理
 *.cn
 
@@ -4144,6 +4144,7 @@ ff00:*
 *.365355157.com
 *.36543.com
 *.365500.com
+*.3656.com
 *.365639355.com
 *.36578.com
 *.365960.com
@@ -54425,6 +54426,7 @@ ff00:*
 *.ijunhai.com
 *.ijunxun.com
 *.ijuzhong.com
+*.ijxuitr.com
 *.ijycnd.com
 *.ijzhang.com
 *.ik123.com
@@ -62575,6 +62577,7 @@ ff00:*
 *.kingdraw.com
 *.kingdun.net
 *.kingexplorer.com
+*.kingfu-china.com
 *.kingfulai.com
 *.kinggoo.com
 *.kinggrid.com
@@ -78011,6 +78014,7 @@ ff00:*
 *.pbiso.com
 *.pbkrs.com
 *.pblie.com
+*.pbqdhty.com
 *.pbrcw.net
 *.pbsvpn.com
 *.pbtcw.com
@@ -92839,6 +92843,7 @@ ff00:*
 *.sxbdf.com
 *.sxbest.com
 *.sxbjedu.com
+*.sxbpa.com
 *.sxbuszp.com
 *.sxbychem.com
 *.sxcahosp.com
@@ -107287,6 +107292,7 @@ ff00:*
 *.xiaxs.la
 *.xiayige.org
 *.xiayijian.com
+*.xiayixing.com
 *.xiayx.com
 *.xiazai.live
 *.xiazai126.com
@@ -113889,6 +113895,7 @@ ff00:*
 *.youxiake.com
 *.youxiake.net
 *.youxiamotors.com
+*.youxiangclub.com
 *.youxiangyx.com
 *.youxiaoad.com
 *.youxiaoge.com

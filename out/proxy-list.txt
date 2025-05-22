@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-05-22 07:55:29
+; 更新时间：2025-05-23 07:55:37
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1218,6 +1218,9 @@
 *.ajplus.net
 *.ajsjx.com
 *.ajtalk.com
+*.ak-p.tripcdn.com
+*.ak-s-cw.tripcdn.com
+*.ak-s.tripcdn.com
 *.ak1.net
 *.aka-ai.com
 *.aka-ai.net
@@ -1283,6 +1286,7 @@
 *.akasha.world
 *.akastream.com
 *.akastream.net
+*.akatest.tripcdn.com
 *.akatns.net
 *.akiba-online.com
 *.akiba-web.com
@@ -2853,6 +2857,9 @@
 *.avxlive.icu
 *.avxxc.com
 *.avyahoo.com
+*.aw-d.tripcdn.com
+*.aw-p.tripcdn.com
+*.aw-s.tripcdn.com
 *.awayoutgame.com
 *.aweencore.com
 *.awempire.com
