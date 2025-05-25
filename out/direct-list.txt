@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-05-25 07:55:24
+; 更新时间：2025-05-26 07:55:32
 ; cn域名都不走代理
 *.cn
 
@@ -9741,6 +9741,7 @@ ff00:*
 *.9aoduo.com
 *.9aola.com
 *.9appstore.com
+*.9b11b109-ab3d-4193-ac60-79cc19b3e76d.link
 *.9beike.com
 *.9bianli.com
 *.9bt0.com
@@ -54503,6 +54504,7 @@ ff00:*
 *.imeete2.com
 *.imeete3.com
 *.imeete4.com
+*.imeeton.com
 *.imefuture.com
 *.imeidb.com
 *.imeihei.com
@@ -83534,6 +83536,7 @@ ff00:*
 *.rhine-inc.com
 *.rhinosgamestwhk.com
 *.rhkj.com
+*.rhky.com
 *.rhnewmaterials.com
 *.rhonghai.com
 *.rhphos.com
@@ -90235,6 +90238,7 @@ ff00:*
 *.smbxw.com
 *.smc18.com
 *.smc3s.com
+*.smcalib.com
 *.smcec.com
 *.smcic.net
 *.smcsrj.com
