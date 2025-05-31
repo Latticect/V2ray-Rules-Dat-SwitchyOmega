@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-05-31 07:55:42
+; 更新时间：2025-06-01 07:55:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4031,6 +4031,7 @@
 *.blackfridaydrebeatsshop.com
 *.blackhomeporn.com
 *.blacklogic.com
+*.blackmagicdesign.com
 *.blackmonsterterror.com
 *.blackpool-acl.ac.uk
 *.blackpool.ac.uk
@@ -10274,6 +10275,7 @@
 *.fi11.com
 *.fi11av1.com
 *.fi11tv1.com
+*.fibank.bg
 *.fibre-diffraction.ac.uk
 *.ficeboock.com
 *.ficm.ac.uk
@@ -17509,6 +17511,7 @@
 *.meadjohnson.net
 *.meansys.com
 *.mearki.com
+*.meawallet.app
 *.meb.gov.mm
 *.mebank.ir
 *.meddyliwchamgymru.ac.uk
@@ -18816,6 +18819,7 @@
 *.myfavoritearcade.com
 *.myfbfans.com
 *.myferrariheadphones.com
+*.myfin.bg
 *.myfirstflame.com
 *.myfistingporn.com
 *.myfonts.com
