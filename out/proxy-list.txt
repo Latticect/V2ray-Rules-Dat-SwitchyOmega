@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-06-01 07:55:27
+; 更新时间：2025-06-02 07:55:28
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7138,6 +7138,7 @@
 *.ctfassets.net
 *.ctfriend.net
 *.ctg.ac.uk
+*.ctinews.com
 *.ctitv.com.tw
 *.ctk.ac.uk
 *.ctkaquinas.ac.uk
