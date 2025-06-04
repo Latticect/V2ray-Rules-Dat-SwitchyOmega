@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-06-04 07:55:50
+; 更新时间：2025-06-05 07:55:49
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5816,6 +5816,7 @@
 *.cdn-telegram.org
 *.cdn-terapeak.com
 *.cdn.ac.uk
+*.cdn.arstechnica.net
 *.cdn.assets.lfpcontent.com
 *.cdn.printfriendly.com
 *.cdn.seatguru.com
@@ -6289,6 +6290,7 @@
 *.cias.ac.uk
 *.ciattackers.com
 *.cib.ac.uk
+*.cici.com
 *.ciciai.com
 *.cicl.ac.uk
 *.cied.ac.uk
