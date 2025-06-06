@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-06-06 07:55:35
+; 更新时间：2025-06-07 07:55:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -550,6 +550,7 @@
 *.91avfuli.com
 *.91beiyong.com
 *.91cy.app
+*.91dasai.com
 *.91dy.club
 *.91fans.org
 *.91gay.me
