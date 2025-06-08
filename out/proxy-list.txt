@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-06-08 07:55:38
+; 更新时间：2025-06-09 07:55:37
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -28963,6 +28963,7 @@
 *.walker.ac.uk
 *.wallet.com
 *.walletconnect.com
+*.wallhaven.cc
 *.wallmama.com
 *.wallornot.org
 *.wallpapercasa.com
@@ -29319,6 +29320,7 @@
 *.whorevintagesex.com
 *.whosthehost.com
 *.whotalking.com
+*.whvn.cc
 *.whvuxtub.com
 *.whychoosehorizon.com
 *.whychooseview.com
