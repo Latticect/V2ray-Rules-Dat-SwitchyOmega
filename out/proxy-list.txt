@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-06-11 07:55:26
+; 更新时间：2025-06-12 07:55:29
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -16455,6 +16455,7 @@
 *.linetv.tw
 *.lingeriepornonly.com
 *.linglingfa.com
+*.lingualeo.com
 *.linguee.com
 *.linguistics.ac.uk
 *.lingvodics.com
