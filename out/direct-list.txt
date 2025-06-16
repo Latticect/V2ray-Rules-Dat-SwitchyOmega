@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-06-16 07:55:27
+; 更新时间：2025-06-17 07:55:34
 ; cn域名都不走代理
 *.cn
 
@@ -886,6 +886,7 @@ ff00:*
 *.07sh.com
 *.07swz.com
 *.080210.com
+*.081.com
 *.0813fs.com
 *.0817.net
 *.0817ch.com
@@ -3444,6 +3445,7 @@ ff00:*
 *.2liang.net
 *.2ll.co
 *.2loveyou.com
+*.2lvj.com
 *.2m2j.com
 *.2m3m.com
 *.2ma2.com
@@ -4256,6 +4258,7 @@ ff00:*
 *.36ve.net
 *.36wan.com
 *.36yc.com
+*.36zpp.com
 *.37.com
 *.37021.com
 *.370fd.com
@@ -7784,6 +7787,7 @@ ff00:*
 *.76dongdong.com
 *.76ju.com
 *.76lgg.com
+*.76mz.com
 *.76pay.com
 *.76pf.com
 *.76s.co
@@ -7827,6 +7831,7 @@ ff00:*
 *.777bb111ww.com
 *.777bb555ww.com
 *.777biubiu.com
+*.777eee888eee.com
 *.777lala.com
 *.777moban.com
 *.777sy.com
@@ -8555,6 +8560,7 @@ ff00:*
 *.888bb666cc.com
 *.888bb888ww.com
 *.888chem.com
+*.888eee777eee.com
 *.888jiagong.com
 *.888pic.com
 *.888ppt.com
@@ -10156,6 +10162,7 @@ ff00:*
 *.acfunchina.net
 *.acg.gd
 *.acg.tv
+*.acg.xin
 *.acg169.com
 *.acg17.com
 *.acg183.com
@@ -19075,6 +19082,7 @@ ff00:*
 *.c1km1.com
 *.c1km4.com
 *.c1s.com
+*.c2ax1yu599.com
 *.c2h4.org
 *.c360dn.com
 *.c3acg.com
@@ -30759,6 +30767,7 @@ ff00:*
 *.diyinews.com
 *.diyishijian.com
 *.diyixiazai.com
+*.diyixin.com
 *.diyiyou.com
 *.diyiyt.com
 *.diyiyunshi.com
@@ -33952,6 +33961,7 @@ ff00:*
 *.ejunshi.com
 *.ejustcn.com
 *.ejy365.com
+*.ek-edu.com
 *.ek1ng.com
 *.ek6.com
 *.eka1680.com
@@ -33966,6 +33976,7 @@ ff00:*
 *.ekclubinternational.com
 *.ekecdn.com
 *.ekewy.com
+*.ekimmigration.com
 *.eking-tech.com
 *.ekingair.com
 *.ekingtopwood.com
@@ -45761,6 +45772,7 @@ ff00:*
 *.haiyong.site
 *.haiyuangabion.com
 *.haiyuangabiou.com
+*.haiyuetechltd.com
 *.haiyun.me
 *.haizhangs.com
 *.haizhanweb.com
@@ -50123,6 +50135,7 @@ ff00:*
 *.hpgzf.com
 *.hph123.com
 *.hphuishou.com
+*.hphwa.com
 *.hpicorp.net
 *.hpigc.com
 *.hpjd.com
@@ -53698,6 +53711,7 @@ ff00:*
 *.ieevchina.com
 *.iefang.com
 *.iefans.net
+*.ieffect.cc
 *.ieforever.com
 *.iefrd.com
 *.iefxz.com
@@ -55955,6 +55969,7 @@ ff00:*
 *.iyruan.com
 *.iysj.com
 *.iytc.net
+*.iytcdn.com
 *.iyuan.ltd
 *.iyuanpei.cc
 *.iyue.pub
@@ -57954,6 +57969,7 @@ ff00:*
 *.jinjianghotels.com
 *.jinjianginns.com
 *.jinjiangwater.com
+*.jinjiaomh.com
 *.jinjie.tech
 *.jinjiedu.com
 *.jinjieshengwu.com
@@ -61416,6 +61432,7 @@ ff00:*
 *.kangdamed.net
 *.kangdexin.com
 *.kangdns.com
+*.kangehao.com
 *.kangepian.com
 *.kangerfugroup.com
 *.kangfenhui.com
@@ -67344,6 +67361,7 @@ ff00:*
 *.lslkkyj.com
 *.lsmaps.com
 *.lsmtjy.com
+*.lsmzt.cc
 *.lsnm.com
 *.lsoli.com
 *.lsoos.com
@@ -68809,6 +68827,7 @@ ff00:*
 *.maiyadi.com
 *.maiyanju.com
 *.maiyaole.com
+*.maiyayk.com
 *.maiyuesoft.com
 *.maiyuren.com
 *.maizer.pw
@@ -70479,6 +70498,7 @@ ff00:*
 *.microchampion.com
 *.microdiag.com
 *.microdreams.com
+*.microesim.com
 *.microfog.me
 *.microfotos.com
 *.microfountain.com
@@ -76529,6 +76549,7 @@ ff00:*
 *.ooniu.com
 *.oonne.com
 *.oooccc.com
+*.ooofoo.com
 *.ooogo.com
 *.oooiove.com
 *.ooomm.com
@@ -76847,6 +76868,7 @@ ff00:*
 *.oss.so
 *.ossdshxh.com
 *.osslan.com
+*.osuxrq.com
 *.osvlabs.com
 *.osw3c.com
 *.oswdj.com
@@ -76887,6 +76909,7 @@ ff00:*
 *.oucuibo.com
 *.oudapay.com
 *.oudas.tech
+*.oudianyun.com
 *.oufa-travel.com
 *.oufengblog.com
 *.oufusoft.com
@@ -83706,6 +83729,7 @@ ff00:*
 *.rongyihzp.com
 *.rongyilian.net
 *.rongyimao.com
+*.rongyitechnology.com
 *.rongyizhaofang.com
 *.rongyuechem.com
 *.rongzhitong.com
@@ -87011,6 +87035,7 @@ ff00:*
 *.shanzhen.me
 *.shanzhildq.com
 *.shanzhonglei.com
+*.shanzhuyou.com
 *.shaoanlv007.com
 *.shaoerbc.org
 *.shaoerwushu.org
@@ -87844,6 +87869,7 @@ ff00:*
 *.shiseidochina.com
 *.shishacharcoal.net
 *.shishagame.com
+*.shishangd.com
 *.shishangfengyun.com
 *.shishangweilai413.com
 *.shishenmegeng.com
@@ -88944,6 +88970,7 @@ ff00:*
 *.sibinwave.com
 *.sibpt.com
 *.sibuzyn.com
+*.sic8d.net
 *.sicarrier.com
 *.sicc.cc
 *.sicent.com
@@ -89061,6 +89088,7 @@ ff00:*
 *.siliaokelijixie.com
 *.silicon-magic.com
 *.siliconchina.org
+*.silicongo.com
 *.siliconvisionlabs.com
 *.silikron.com
 *.silinchen.com
@@ -96872,6 +96900,7 @@ ff00:*
 *.tpsxs.com
 *.tpszw.com
 *.tpturang.com
+*.tpua.vip
 *.tpuda.com
 *.tpumlir.org
 *.tpy100.com
@@ -97127,6 +97156,7 @@ ff00:*
 *.trusta-lawyer.com
 *.trustasia.com
 *.trustcn.com
+*.trustcommander.net
 *.trustdecision.com
 *.trustedsign.com
 *.trustexporter.com
@@ -97875,6 +97905,7 @@ ff00:*
 *.txcx.com
 *.txcx.tech
 *.txcxpt.com
+*.txczawlfpj5.com
 *.txdai.com
 *.txdl1.com
 *.txdyt.com
@@ -99483,6 +99514,7 @@ ff00:*
 *.vcomic.com
 *.vcomputes.com
 *.vconew.com
+*.vconew3.com
 *.vcooline.com
 *.vcore.hk
 *.vcpdemo.com
@@ -103246,6 +103278,7 @@ ff00:*
 *.witrn.com
 *.witschools.com
 *.witspring.com
+*.wittf.ink
 *.wityx.com
 *.wiwide.com
 *.wiwide.net
@@ -105419,6 +105452,7 @@ ff00:*
 *.xcdesign.net
 *.xcdn.global
 *.xcdngyc.vip
+*.xcdntp.vip
 *.xcdssy.com
 *.xcdzsw.com
 *.xcedu.net
@@ -108573,6 +108607,7 @@ ff00:*
 *.xp666.com
 *.xp811.com
 *.xp9365.com
+*.xp94.com
 *.xpaper.com
 *.xpaper.net
 *.xpccdn.com
@@ -112625,6 +112660,7 @@ ff00:*
 *.ynjgy.com
 *.ynjiaoyu.net
 *.ynjk120.com
+*.ynjkeji.com
 *.ynjkjy.com
 *.ynjkkj.com
 *.ynjlgroup.com
@@ -114181,6 +114217,8 @@ ff00:*
 *.yuhx.com
 *.yui06111shga.com
 *.yui06130shga.com
+*.yui06131shga.com
+*.yui06161shga.com
 *.yuiapi.com
 *.yuike.com
 *.yujia.com
