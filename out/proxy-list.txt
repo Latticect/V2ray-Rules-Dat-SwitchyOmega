@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-06-22 07:55:34
+; 更新时间：2025-06-23 07:55:29
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2350,6 +2350,7 @@
 *.artsy.net
 *.aru.ac.uk
 *.arupoc.ac.uk
+*.arvanstorage.ir
 *.arxiv.org
 *.arzon.jp
 *.as-hp.ca
@@ -11922,6 +11923,7 @@
 *.gotrusted.com
 *.gotw.ca
 *.gouri.xyz
+*.gov.ir
 *.gov.taipei
 *.gov.tw
 *.governmentengineer.com
@@ -14637,6 +14639,7 @@
 *.iqq2.cc
 *.iqq3.cc
 *.iqqtv.net
+*.irangov.ir
 *.iranianboobs.com
 *.iranlms.ir
 *.iransextv.com
@@ -14649,6 +14652,7 @@
 *.iridiumbrowser.de
 *.iris.ac.uk
 *.iriss.ac.uk
+*.irna.ir
 *.ironna.jp
 *.ironpython.net
 *.ironsocket.com
@@ -21812,6 +21816,7 @@
 *.presentation.new
 *.presentationzen.com
 *.presidencylondoncollege.ac.uk
+*.president.ir
 *.presidentlee.tw
 *.press.vin
 *.prestige-av.com
