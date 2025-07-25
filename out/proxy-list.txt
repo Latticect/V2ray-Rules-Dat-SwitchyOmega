@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-07-25 07:55:46
+; 更新时间：2025-07-26 07:55:34
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -29947,6 +29947,7 @@
 *.yandexcom.net
 *.yandexwebcache.org
 *.yanghengjun.com
+*.yangzhi.org
 *.yantaqu.com
 *.yaohubaba.com
 *.yaoimangaonline.com
