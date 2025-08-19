@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-08-19 07:55:30
+; 更新时间：2025-08-20 07:55:28
 ; cn域名都不走代理
 *.cn
 
@@ -71527,8 +71527,6 @@ ff00:*
 *.mypian.com
 *.mypiao.com
 *.mypiaojia.com
-*.mypikpak.com
-*.mypikpak.net
 *.mypitaya.com
 *.mypity.com
 *.mypiwik.com
@@ -71795,7 +71793,6 @@ ff00:*
 *.naiveadmin.com
 *.naiveblue.com
 *.naiwch.com
-*.naixi.net
 *.naixuecha.com
 *.naiyouxuexi.com
 *.najingtech.com
@@ -97627,7 +97624,6 @@ ff00:*
 *.ustbtc.com
 *.ustc.edu
 *.ustcers.com
-*.ustclug.org
 *.ustui.com
 *.usuredata.com
 *.usuuu.com
@@ -104882,7 +104878,6 @@ ff00:*
 *.xiaomeiti.com
 *.xiaomeng1235.com
 *.xiaomi.com
-*.xiaomi.eu
 *.xiaomi.hk
 *.xiaomi.net
 *.xiaomi.org
@@ -106668,6 +106663,7 @@ ff00:*
 *.xn--54q23ckxiyx0e.com
 *.xn--54q249denfzw9a.net
 *.xn--54q40czz0g7xp.com
+*.xn--55qw42g
 *.xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
 *.xn--55qwa79fh6ku8czve.com
 *.xn--55qx2ag79c1iq.com
