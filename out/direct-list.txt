@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-08-21 07:55:32
+; 更新时间：2025-08-22 07:55:24
 ; cn域名都不走代理
 *.cn
 
@@ -54683,7 +54683,6 @@ ff00:*
 *.itiankong.net
 *.itianliao.com
 *.itiexue.net
-*.itiger.com
 *.itigergrowth.com
 *.itigergrowtha.com
 *.itigerup.com
@@ -61859,7 +61858,6 @@ ff00:*
 *.kowa-dental.com
 *.kowa103.com
 *.kowloonhospital.com
-*.kox.moe
 *.koyuki.cc
 *.kpblw.com
 *.kpbyd.com
@@ -70696,7 +70694,6 @@ ff00:*
 *.moweather.com
 *.mowgz.com
 *.mowowo.com
-*.mox.moe
 *.moxfive.xyz
 *.moxiai.com
 *.moxian.com
@@ -98669,7 +98666,6 @@ ff00:*
 *.voip366.com
 *.vojs.tv
 *.vokop.com
-*.vol.moe
 *.volc-dns.com
 *.volc-dns.net
 *.volc-dns.pub
