@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-08-23 07:55:27
+; 更新时间：2025-08-24 07:55:29
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -10834,6 +10834,8 @@
 *.fuck6teen.com
 *.fuckableteens.net
 *.fuckbookecuador.com
+*.fuckccp.com
+*.fuckccp.xyz
 *.fuckcuck.com
 *.fuckgames.xxx
 *.fuckgfw.org
