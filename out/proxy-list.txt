@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-08-25 07:55:41
+; 更新时间：2025-08-26 07:55:34
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -18777,6 +18777,7 @@
 *.navyfamily.navy.mil
 *.navyreserve.navy.mil
 *.naweeklytimes.com
+*.naydex.net
 *.nazarene.ac.uk
 *.nbabot.net
 *.nbc.co
@@ -24307,6 +24308,7 @@
 *.sneakme.net
 *.snjulebu.com
 *.snk-corp.co.jp
+*.snk-corp.info
 *.snkplaymore.info
 *.snow.me
 *.snowcorp.com
@@ -26685,6 +26687,8 @@
 *.tubewolf.com
 *.tubexclips.com
 *.tubi.io
+*.tubi.tv
+*.tubi.video
 *.tubinge.com
 *.tubitv.com
 *.tubsexer.com
@@ -29936,6 +29940,7 @@
 *.yandex.aero
 *.yandex.az
 *.yandex.by
+*.yandex.cloud
 *.yandex.co.il
 *.yandex.com
 *.yandex.com.am
