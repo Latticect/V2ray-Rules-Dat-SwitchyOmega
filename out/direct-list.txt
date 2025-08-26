@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-08-26 07:55:34
+; 更新时间：2025-08-27 07:55:28
 ; cn域名都不走代理
 *.cn
 
@@ -25714,7 +25714,6 @@ ff00:*
 *.copl.com.hk
 *.copperalliance.asia
 *.copperhome.net
-*.copy-manga.com
 *.copyedu.com
 *.copyfuture.com
 *.copyswisswatches.com
@@ -29211,6 +29210,7 @@ ff00:*
 *.delixidrive.com
 *.deliyun.com
 *.dell-alw.com
+*.dell-brand.com
 *.dell027.com
 *.dellecs.com
 *.dellemc-solution.com
@@ -37276,6 +37276,7 @@ ff00:*
 *.functionads.com
 *.functionaltextilesshanghai.com
 *.functioncool.com
+*.functiongraph.run
 *.fund001.com
 *.fundebug.com
 *.fundebug.net
@@ -67889,9 +67890,7 @@ ff00:*
 *.manfen5.com
 *.manfred-auto.com
 *.manfrottoclub.com
-*.mangacopy.com
 *.mangafuna.xyz
-*.mangafunb.fun
 *.manganesenanhai.com
 *.mangg.com
 *.mangguo.com
@@ -77396,6 +77395,7 @@ ff00:*
 *.plateno.com
 *.platenogroup.com
 *.platform-cn.com
+*.platform.dell.com
 *.platinum-traveller.com
 *.platinumchina.com
 *.play-analytics.com
@@ -82313,6 +82313,7 @@ ff00:*
 *.robam.com
 *.robei.com
 *.roboeyeai.com
+*.robomaster.com
 *.roboo.com
 *.robook.com
 *.robopeak.net
@@ -103078,7 +103079,6 @@ ff00:*
 *.www.amd.com
 *.www.cg
 *.www.com.my
-*.www.dell-brand.com
 *.www.dell.com
 *.www.djivideos.com
 *.www.gov.mo
@@ -119007,6 +119007,7 @@ adcdownload.apple.com
 adcdownload.apple.com.akadns.net
 admob-cn.com
 adservice.google.com
+afcs.dell.com
 ai.zhaomi.cn
 alibaba.cdn.steampipe.steamcontent.com
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
@@ -119087,6 +119088,7 @@ clickserver.googleads.com
 client-api.itunes.apple.com
 clientflow.apple.com
 clientflow.apple.com.akadns.net
+clientperipherals.dell.com
 clientservices.googleapis.com
 cma.itunes.apple.com
 cn-smp-paymentservices.apple.com
@@ -119110,8 +119112,10 @@ cstat.apple.com
 cstat.cdn-apple.com
 ctldl.windowsupdate.com
 cueme-api.quark.cn
+customization-cdn.dell.com
 dartsearch-cn.net
 dd-cdn.origin-apple.com.akadns.net
+dds.dell.com
 dejavu.apple.com
 devblogs.microsoft.com
 developer.microsoft.com
@@ -119119,6 +119123,7 @@ devimages-cdn.apple.com
 devstreaming-cdn.apple.com
 dg-meta.video.google.com
 discussionschinese.apple.com
+dl.dell.com
 dl.google.com
 dl.l.google.com
 docs.microsoft.com
@@ -119131,20 +119136,30 @@ download.qatp1.net
 download.tensorflow.google.com
 download.visualstudio.microsoft.com
 downloaddispatch.itunes.apple.com
+ea2cn-dev-outlet.dell.com
+ea2cn-prod-outlet.dell.com
+ea2cn-staging-outlet.dell.com
 emmapplecodevice.googleapis.com
 emoi-cncdn.bing.com
 experiments.apple.com
 f.c2r.ts.cdn.office.net
+fcs.dell.com
 fides-pol.apple.com
 firebase-settings.crashlytics.com
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fs.microsoft.com
+fta.dell.com
+ftaapj.dell.com
+ftaemea.dell.com
+ftasitapj.dell.com
 g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
+gbxgateway-dev.dell.com
+gbxgateway.dell.com
 geetest.datasink.sensorsdata.cn
 go.corp.google.com
 gog-cdn-fastly.gog.com
@@ -119201,6 +119216,7 @@ guzzoni.smoot.apple.com
 hellofontpreview.oss-cn-beijing.aliyuncs.com
 hellowebfonts.oss-cn-beijing.aliyuncs.com
 hospital.pku.edu.cn
+i.dell.com
 i.pki.goog
 icloud-cdn.icloud.com.akadns.net
 icloud.cdn-apple.com
@@ -119265,6 +119281,7 @@ msgruser.dlservice.microsoft.com
 music.apple.com
 myapp.itunes.apple.com
 myvs.download.prss.microsoft.com
+nexus.dell.com
 np-edge.itunes.apple.com
 ntp.aliyun.com
 ntp.tencent.com
@@ -119293,6 +119310,7 @@ oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 osxapps.itunes.apple.com
 osxapps.itunes.g.aaplimg.com
+p.cdn.persaas.dell.com
 p1-juejin.byteimg.com
 p2-juejin.byteimg.com
 p3-juejin.byteimg.com
@@ -119356,6 +119374,7 @@ s5.mzstatic.com
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
 scanservice1.qcpp1.net
+scene7-cdn.dell.com
 sdx.microsoft.com
 se-edge.itunes.apple.com
 se2.itunes.apple.com
@@ -119369,9 +119388,13 @@ sf-api-token-service.itunes.apple.com
 sh-pod2-smp-device.apple.com
 shazam-insights.cdn-apple.com
 shell.cdn.office.net
+si.cdn.dell.com
 silverlight.dlservice.microsoft.com
 slupdate.dlservice.microsoft.com
+sm.dell.com
 smp-device-content.apple.com
+snp.cdn.dell.com
+snpi.dell.com
 software.download.prss.microsoft.com
 sp.itunes.apple.com
 ss.bjmu.edu.cn
@@ -119403,6 +119426,7 @@ sup.corp.google.com
 sup.l.google.com
 support-china.apple-support.akadns.net
 support.apple.com
+supportassist.dell.com
 surface.downloads.prss.microsoft.com
 swallow-apple-com.v.aaplimg.com
 swallow.apple.com
@@ -119449,11 +119473,13 @@ weatherkit.apple.com
 wl.dlservice.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
+www-csb.dell.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.amd.com
 www.apple.com
 www.apple.com.edgekey.net.globalredir.akadns.net
+www.dell.com
 www.destinationurl.com
 www.entrust.cn
 www.gstatic.com
