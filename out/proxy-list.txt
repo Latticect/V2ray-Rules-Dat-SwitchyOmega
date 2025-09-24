@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-09-24 07:55:32
+; 更新时间：2025-09-25 07:55:28
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7084,6 +7084,7 @@
 *.ctexcel.us
 *.ctfassets.net
 *.ctg.ac.uk
+*.ctinets.com
 *.ctinews.com
 *.ctitv.com.tw
 *.ctk.ac.uk
@@ -14677,6 +14678,7 @@
 *.internetofeverything.com
 *.internetpopculture.com
 *.interracial-sites.com
+*.interseclab.org
 *.intescort.com
 *.intgram.com
 *.intheknow.com.au
