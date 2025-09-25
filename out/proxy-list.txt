@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-09-25 07:55:28
+; 更新时间：2025-09-26 07:55:33
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -29100,6 +29100,7 @@
 *.wikimediacloud.org
 *.wikimediafoundation.org
 *.wikinews.org
+*.wikipedia.com
 *.wikipedia.org
 *.wikiporn.tv
 *.wikiquote.org
