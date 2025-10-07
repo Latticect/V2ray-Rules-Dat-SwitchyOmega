@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-07 07:55:38
+; 更新时间：2025-10-08 07:55:38
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -24646,6 +24646,7 @@
 *.solihull.ac.uk
 *.solihullsfc.ac.uk
 *.solostudioksale.com
+*.solscan.io
 *.solsfc.ac.uk
 *.solutions-worcestershire.ac.uk
 *.solutionstation.com
