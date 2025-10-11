@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-11 07:55:25
+; 更新时间：2025-10-12 07:55:36
 ; cn域名都不走代理
 *.cn
 
@@ -6112,6 +6112,7 @@ ff00:*
 *.5551557.com
 *.5552200.com
 *.55552121.com
+*.55555.ink
 *.55555.io
 *.55555432.com
 *.55555558.com
@@ -7232,6 +7233,7 @@ ff00:*
 *.6tu.com
 *.6uudy.com
 *.6v.com
+*.6v520.net
 *.6v6.work
 *.6vdyg.com
 *.6vdyy.com
@@ -10107,6 +10109,7 @@ ff00:*
 *.afdiancdn.com
 *.afdsc.com
 *.afdvr.com
+*.afeica.com
 *.afengblog.com
 *.afengsoft.com
 *.afenxi.com
@@ -11097,6 +11100,7 @@ ff00:*
 *.akcomemetals.com
 *.akdashang.vip
 *.akdns.net
+*.akeeps.com
 *.akesobio.com
 *.akey.im
 *.akey.me
@@ -13541,6 +13545,7 @@ ff00:*
 *.b1n.net
 *.b1qg.com
 *.b23.tv
+*.b29gj.com
 *.b2b-builder.com
 *.b2b.biz
 *.b2b123.com
@@ -17445,6 +17450,7 @@ ff00:*
 *.boyuanjiaxin.com
 *.boyue.com
 *.boyuecasting.com
+*.boyuemobile.com
 *.boyuesh.com
 *.boyuguandao.com
 *.boyunso.com
@@ -23887,6 +23893,7 @@ ff00:*
 *.cnautonews.com
 *.cnautotool.com
 *.cnb.cool
+*.cnb.space
 *.cnbabylon.com
 *.cnball.net
 *.cnbanbao.com
@@ -28006,6 +28013,7 @@ ff00:*
 *.dashi518.com
 *.dashigame.com
 *.dashikou.com
+*.dashisx.com
 *.dashitech.com
 *.dashiyou.com
 *.dashu.com
@@ -29681,6 +29689,7 @@ ff00:*
 *.diyidan.com
 *.diyidan.net
 *.diyidanhao.com
+*.diyiedu.com
 *.diyifanwen.com
 *.diyifanwen.net
 *.diyigaokao.com
@@ -32683,6 +32692,7 @@ ff00:*
 *.eijiucq.com
 *.eilieili.cc
 *.eimoney.com
+*.einfo-tech.com
 *.eingdong.com
 *.einkcn.com
 *.einsteintiles.com
@@ -34977,6 +34987,7 @@ ff00:*
 *.fengshi8888.com
 *.fengshigroup.com
 *.fengsung.com
+*.fengsutb.com
 *.fengtai.tv
 *.fengtalk.com
 *.fengtao365.com
@@ -36145,6 +36156,7 @@ ff00:*
 *.friends-exchange.com
 *.friends8.com
 *.friendship-match.com
+*.frigate-cn.video
 *.fright-tattoo.com
 *.fringe-zero.com
 *.frisobaby.com
@@ -39206,6 +39218,7 @@ ff00:*
 *.gmmsj.com
 *.gmmtcc.com
 *.gmoe.cc
+*.gmoj.net
 *.gmonline-all.com
 *.gmpanel.com
 *.gmpbj.com
@@ -40186,6 +40199,7 @@ ff00:*
 *.gtg56.com
 *.gtgqw.com
 *.gtgres.com
+*.gtht.com
 *.gthzc.com
 *.gti56.com
 *.gtibee.com
@@ -44592,6 +44606,7 @@ ff00:*
 *.haomzl.com
 *.haonames.com
 *.haonic.com
+*.haoniu1.com
 *.haonongzi.com
 *.haopeixun.com
 *.haopianyi.com
@@ -58160,6 +58175,7 @@ ff00:*
 *.julanggroup.com
 *.julanhp.com
 *.julanling.com
+*.julebu.co
 *.julecn.com
 *.julefun.com
 *.juli-china.com
@@ -60254,6 +60270,7 @@ ff00:*
 *.kkmicro.com
 *.kkmop.com
 *.kkong.vip
+*.kkrb.net
 *.kksmg.com
 *.kksofts.com
 *.kkt.com
@@ -68904,6 +68921,7 @@ ff00:*
 *.modelevel.com
 *.modelltd.com
 *.modelones.com
+*.modelscope.net
 *.modelwhale.com
 *.modeng178.com
 *.modengtianshi.com
@@ -74236,6 +74254,7 @@ ff00:*
 *.ounh.org
 *.ounoe.com
 *.ounuoyq.com
+*.ouo7.com
 *.ouou.com
 *.ouou.icu
 *.ououbet.com
@@ -74304,6 +74323,7 @@ ff00:*
 *.ourqm.com
 *.ourren.com
 *.oursakura.com
+*.ourschool.cc
 *.oursec1.com
 *.oursec2.com
 *.ourselec.com
@@ -77554,7 +77574,9 @@ ff00:*
 *.qianxingniwo.com
 *.qianxingwl.com
 *.qianxs.com
+*.qianxuecloud.com
 *.qianxuew.com
+*.qianxueyunke.com
 *.qianxun.com
 *.qianxunclub.com
 *.qianxungroup.com
@@ -79709,6 +79731,7 @@ ff00:*
 *.r5k.com
 *.r5tao.com
 *.r77777777.com
+*.r8hr7.net
 *.r9t1.com
 *.ra022.com
 *.ra2ol.com
@@ -88048,6 +88071,7 @@ ff00:*
 *.ssipex.com
 *.ssis.asia
 *.ssish.com
+*.ssjj2.com
 *.ssjjss.com
 *.ssjjtt.com
 *.ssjlicai.com
@@ -88334,6 +88358,7 @@ ff00:*
 *.stjinfa.com
 *.stjinguan.com
 *.stjjxh.com
+*.stkfanli.com
 *.stklt.com
 *.stlb520.com
 *.stmaoyi.com
@@ -91672,6 +91697,7 @@ ff00:*
 *.tencentcloudbase.com
 *.tencentcloudclub.com
 *.tencentcloudcr.com
+*.tencentcloudga.com
 *.tencentcloudmarket.com
 *.tencentcloudns.com
 *.tencentcloudsec.com
@@ -96589,6 +96615,7 @@ ff00:*
 *.virscan.org
 *.virtaicloud.com
 *.virtualevent.net
+*.virtualworld.pub
 *.virtupharmako.com
 *.virusdefender.net
 *.vis.zone
@@ -102806,6 +102833,7 @@ ff00:*
 *.xiaohuabuluo.com
 *.xiaohuai.com
 *.xiaohuangji.com
+*.xiaohuazhuo.com
 *.xiaohucloud.com
 *.xiaohufev.com
 *.xiaohulu.com
@@ -106189,6 +106217,7 @@ ff00:*
 *.xzrdwq.com
 *.xzriit.com
 *.xzrsks.com
+*.xzsckj.com
 *.xzsdszx.com
 *.xzsdyyy.com
 *.xzsec.com
@@ -106973,6 +107002,7 @@ ff00:*
 *.yd166.com
 *.ydalison.com
 *.ydamc.com
+*.ydayc.com
 *.ydbimg.com
 *.ydbmed.com
 *.ydbox.com
@@ -113402,6 +113432,7 @@ ff00:*
 *.zhixingapp.com
 *.zhixingit.com
 *.zhixingjj88.com
+*.zhixingyunke.com
 *.zhixiu.net
 *.zhixuan.com
 *.zhixue.com

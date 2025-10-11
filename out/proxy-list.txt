@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-11 07:55:25
+; 更新时间：2025-10-12 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -10912,6 +10912,8 @@
 *.freegao.com
 *.freegaypornhdtube.com
 *.freegaysexgames.com
+*.freegpt.es
+*.freegpt.tech
 *.freehdinterracialporn.in
 *.freehdvideos.xxx
 *.freehentaipic.com
