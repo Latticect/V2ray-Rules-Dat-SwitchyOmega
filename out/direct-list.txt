@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-14 07:55:30
+; 更新时间：2025-10-15 07:55:34
 ; cn域名都不走代理
 *.cn
 
@@ -6976,6 +6976,7 @@ ff00:*
 *.66good.com
 *.66han.com
 *.66huigo.com
+*.66ika.com
 *.66in.net
 *.66jiedai.com
 *.66l.cc
@@ -11701,6 +11702,7 @@ ff00:*
 *.amzcaptain.com
 *.amzcfo.com
 *.amzdh.com
+*.amzkeys.com
 *.amzmm.com
 *.amzndns-cn.biz
 *.amzndns-cn.com
@@ -12430,6 +12432,7 @@ ff00:*
 *.applethome.com
 *.appletuan.com
 *.applex.net
+*.applezhang.com
 *.applinzi.com
 *.applm.com
 *.applogcdn.com
@@ -17440,6 +17443,7 @@ ff00:*
 *.bphxmc.xyz
 *.bplslb.com
 *.bpltm.com
+*.bpmlt.com
 *.bpmuseum.com
 *.bppan.com
 *.bpqwxsh.com
@@ -19538,6 +19542,7 @@ ff00:*
 *.cdfuwuqi.com
 *.cdgas.com
 *.cdgdad.com
+*.cdgdp.com
 *.cdggq.com
 *.cdggzy.com
 *.cdgjbus.com
@@ -26565,6 +26570,7 @@ ff00:*
 *.cszkzn.com
 *.cszlgs.com
 *.cszn120.com
+*.cszpra.com
 *.cszsjy.com
 *.cszsths.com
 *.csztv.com
@@ -28314,6 +28320,7 @@ ff00:*
 *.dcwucu.com
 *.dcxnews.com
 *.dcxx.vip
+*.dcxzmxa.com
 *.dcybkj.com
 *.dcyiyao.com
 *.dcyjc.com
@@ -38736,6 +38743,7 @@ ff00:*
 *.gjjnhb.com
 *.gjjsbz.com
 *.gjkdwl.com
+*.gjl15.com
 *.gjlease.com
 *.gjmbwxpt.com
 *.gjmbwxzx.com
@@ -47450,6 +47458,7 @@ ff00:*
 *.hnrich.net
 *.hnrmb.com
 *.hnrmtjg.com
+*.hnrmzy.com
 *.hnrpc.com
 *.hnrsks.com
 *.hnrszhjc.com
@@ -53849,6 +53858,7 @@ ff00:*
 *.ixzzcgl.com
 *.iy-cd.com
 *.iy51.com
+*.iyamusic.com
 *.iyangxi.com
 *.iyaou.com
 *.iyatt.com
@@ -55463,6 +55473,7 @@ ff00:*
 *.jijidi.com
 *.jijie168.com
 *.jijigugu.club
+*.jijijijin.com
 *.jijing.site
 *.jijinhao.com
 *.jijitec.com
@@ -56309,6 +56320,7 @@ ff00:*
 *.jixiang-tech.com
 *.jixiang800.com
 *.jixiangjili.com
+*.jixiangnh.com
 *.jixiangyou.com
 *.jixianku.com
 *.jixiao100.com
@@ -57024,6 +57036,7 @@ ff00:*
 *.joshua317.com
 *.jotop.com
 *.jotop.net
+*.jotrin.com
 *.jouav.com
 *.jouder.com
 *.joudou.com
@@ -57104,6 +57117,7 @@ ff00:*
 *.joywok.com
 *.joyxv.com
 *.joyy.com
+*.joyyan.com
 *.joyyang.com
 *.joyyinc.com
 *.joyyued.com
@@ -62305,6 +62319,7 @@ ff00:*
 *.leadzees.com
 *.leaferjs.com
 *.leaforbook.com
+*.leaftools.net
 *.leafword.com
 *.leagcard.com
 *.leagpoint.com
@@ -64921,6 +64936,7 @@ ff00:*
 *.lsqmx.com
 *.lsqpay.com
 *.lsqqy.com
+*.lsqv.com
 *.lsqx.com
 *.lsqy398.com
 *.lsrbs.net
@@ -66765,6 +66781,7 @@ ff00:*
 *.matrix-net.tech
 *.matrixchuang.com
 *.matrixerse.com
+*.matrixscrm.com
 *.matrixsens.com
 *.matsubayashi-op.com
 *.matsuri.icu
@@ -67264,6 +67281,7 @@ ff00:*
 *.meijiedaka.com
 *.meijiehang.com
 *.meijiehezi.com
+*.meijieku.com
 *.meijiequan.com
 *.meijieu.com
 *.meijiexia.com
@@ -67416,6 +67434,7 @@ ff00:*
 *.meitumail.com
 *.meitumob.com
 *.meitumobile.com
+*.meitumv.com
 *.meitun.com
 *.meituncdn.com
 *.meitupaipai.com
@@ -74826,6 +74845,7 @@ ff00:*
 *.pbtt.net
 *.pbtxt.com
 *.pbyz.net
+*.pbzhl.com
 *.pc-120.com
 *.pc-daily.com
 *.pc.wiki
@@ -77309,6 +77329,7 @@ ff00:*
 *.qhtui.com
 *.qhtycp.com
 *.qhtyzx.com
+*.qhuah.com
 *.qhupdate.com
 *.qhwmw.com
 *.qhwptyn.com
@@ -81078,6 +81099,7 @@ ff00:*
 *.ruijiehuanbao.com
 *.ruijienetworks.com
 *.ruijiery.com
+*.ruijieyun.com
 *.ruijinginfo.com
 *.ruijinintl.com
 *.ruijinyy.com
@@ -81210,6 +81232,7 @@ ff00:*
 *.runzi.cc
 *.ruochu.com
 *.ruodian360.com
+*.ruofeisinian.com
 *.ruohang.com
 *.ruohuo.net
 *.ruokuai.com
@@ -84605,6 +84628,7 @@ ff00:*
 *.shijian.org
 *.shijiancn.com
 *.shijianla.com
+*.shijianping.com
 *.shijiaok.com
 *.shijicloud.com
 *.shijie2.com
@@ -89947,6 +89971,7 @@ ff00:*
 *.szhome.com
 *.szhomeimg.com
 *.szhongshe.com
+*.szhospital.com
 *.szhot.com
 *.szhq.com
 *.szhqgf.com
@@ -91039,6 +91064,7 @@ ff00:*
 *.taotu8.net
 *.taou.com
 *.taourl.com
+*.taowangzhan.com
 *.taoweng.site
 *.taoxiangyoushu.com
 *.taoxiaolu.com
@@ -95433,6 +95459,7 @@ ff00:*
 *.unlimax.com
 *.unlimithealth.com
 *.unlitui.com
+*.unlsycn.com
 *.unmou.com
 *.unn114.com
 *.unncahs.net
@@ -99583,6 +99610,7 @@ ff00:*
 *.wingconn.com
 *.winglinetrans.com
 *.winglungbank.com
+*.wingmob.com
 *.wingon-travel.com
 *.wingsbook.com
 *.wingtecher.com
@@ -99882,6 +99910,7 @@ ff00:*
 *.wllxcl.com
 *.wllxx.com
 *.wllxy.net
+*.wlmf.vip
 *.wlmq.com
 *.wlmqedu.com
 *.wlmqhytd.com
@@ -100178,6 +100207,7 @@ ff00:*
 *.women-heart.com
 *.womendedw.com
 *.womenjie.com
+*.womenofchina.com
 *.wonadea.com
 *.wonder-link.net
 *.wonder.wiki
@@ -100853,6 +100883,7 @@ ff00:*
 *.wumii.tv
 *.wuming.com
 *.wupdec.com
+*.wupk.com
 *.wuqi-micro.com
 *.wuqing.cc
 *.wuqiong.info
@@ -101918,6 +101949,7 @@ ff00:*
 *.xcwhjj.com
 *.xcx-x.com
 *.xcxd-inc.com
+*.xcxd1997.com
 *.xcxjpd.com
 *.xcxvs.com
 *.xcxwo.com
@@ -104768,6 +104800,7 @@ ff00:*
 *.xn--xhqs8jmxkive1yest6g.com
 *.xn--xhqs8jp0kpz2d.net
 *.xn--xhqx10kr8o.com
+*.xn--xkr190gv5p.com
 *.xn--xkr26fp82clgt.com
 *.xn--xkr999cp4fv97a.com
 *.xn--xkrs9ba41r.com
@@ -107936,6 +107969,7 @@ ff00:*
 *.yinka.co
 *.yinlimedia.com
 *.yinlingshuyuan.com
+*.yinlvaa.com
 *.yinmakeji.com
 *.yinmaojx.com
 *.yinmishu.com
@@ -109063,6 +109097,7 @@ ff00:*
 *.youbeichefu.com
 *.youbian.com
 *.youbibi.com
+*.youbike.me
 *.youbikecn.com
 *.youbohe.com
 *.youboy.com
@@ -109191,6 +109226,8 @@ ff00:*
 *.youlechuhai.com
 *.youlecn.com
 *.youleliwu.com
+*.youlesp.com
+*.youletd.com
 *.youleyou.com
 *.youlian.fun
 *.youlianfuwu.com
@@ -111080,6 +111117,7 @@ ff00:*
 *.yxzhi.com
 *.yxzoo.com
 *.yxzp.net
+*.yxzq.com
 *.yxzu.com
 *.yxzxgy.com
 *.yxzzd.com
