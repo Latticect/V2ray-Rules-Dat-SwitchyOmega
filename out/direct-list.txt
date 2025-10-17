@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-17 07:55:47
+; 更新时间：2025-10-18 07:55:31
 ; cn域名都不走代理
 *.cn
 
@@ -12254,6 +12254,7 @@ ff00:*
 *.apcups.org
 *.apcupse.com
 *.apdcdn.com
+*.apdcdn.net
 *.ape8.com
 *.apearth.com
 *.apecome.com
@@ -14716,6 +14717,7 @@ ff00:*
 *.bdkyr.com
 *.bdlcqjw.com
 *.bdmozon.com
+*.bdmyandex.com
 *.bdns-api-test.net
 *.bdns-boe.com
 *.bdns-boe.net
@@ -18156,6 +18158,7 @@ ff00:*
 *.bytetstatic.net
 *.byteug.com
 *.bytevalk.com
+*.bytevcloudapi.com
 *.bytevcloudvod.com
 *.bytevdn-boe.com
 *.bytevdn.com
@@ -22424,6 +22427,7 @@ ff00:*
 *.chomixbiotech.com
 *.chong-wu.net
 *.chong4.net
+*.chongbuluo.com
 *.chongchi.com
 *.chongchuang.biz
 *.chongdawang.com
@@ -25226,6 +25230,7 @@ ff00:*
 *.coyotebio-lab.com
 *.coyuk.com
 *.coyuns.net
+*.coze.site
 *.cozonenet.com
 *.cp-keji.com
 *.cp0556.com
@@ -29668,6 +29673,7 @@ ff00:*
 *.djgy.com
 *.djhxn.com
 *.dji.com
+*.dji.ink
 *.dji.net
 *.djiang.net
 *.djiavip.com
@@ -48440,6 +48446,7 @@ ff00:*
 *.hspharm.com
 *.hspm.net
 *.hspress.net
+*.hsqh.net
 *.hsqhfunds.com
 *.hsqhospital.com
 *.hsqjfw.com
@@ -51063,7 +51070,9 @@ ff00:*
 *.ibbwhat.com
 *.ibcet.org
 *.ibczy.com
+*.ibdxiguaimg.com
 *.ibdxigualive.com
+*.ibdxiguastatic.com
 *.ibdxiguavod.com
 *.ibeidiao.com
 *.ibeifeng.com
@@ -66511,6 +66520,7 @@ ff00:*
 *.maotuying.com
 *.maowotao.com
 *.maoxia007.com
+*.maoxiangai.com
 *.maoxinhang.com
 *.maoxinquan.net
 *.maoxiongtv.com
@@ -66850,6 +66860,7 @@ ff00:*
 *.mc91.com
 *.mc9y.net
 *.mcake.com
+*.mcbaas.work
 *.mcbang.com
 *.mcbao.com
 *.mcbbs.co
@@ -66865,6 +66876,7 @@ ff00:*
 *.mccshhospital.com
 *.mcd.cc
 *.mcdchina.net
+*.mcdemo.show
 *.mcdsusan.com
 *.mcdvisa.com
 *.mce.msi.com
@@ -69938,6 +69950,7 @@ ff00:*
 *.myp17.com
 *.myp2pch.net
 *.mypaas.com
+*.myparallelstory.com
 *.mypcrun.com
 *.mypethome.com
 *.mypharma.com
@@ -75572,6 +75585,7 @@ ff00:*
 *.pixcakes.com
 *.pixe44lrifted.com
 *.pixelauth.com
+*.pixeldance.com
 *.pixelgame.net
 *.pixepf.sbs
 *.pixiaojiang.com
@@ -91209,6 +91223,7 @@ ff00:*
 *.tctran.com
 *.tctz.com
 *.tcvywoh.com
+*.tcwqqdy.guru
 *.tcwt.net
 *.tcxmt.com
 *.tcxw.cc
@@ -93535,6 +93550,7 @@ ff00:*
 *.tradow.com
 *.tradplus.com
 *.tradplusad.com
+*.trae.guru
 *.trafstore.com
 *.traineexp.com
 *.trainingipv6.com

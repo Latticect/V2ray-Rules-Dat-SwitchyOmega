@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-17 07:55:47
+; 更新时间：2025-10-18 07:55:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4662,6 +4662,7 @@
 *.bnext.com.tw
 *.bnn.co
 *.bnrmetal.com
+*.bntrace.com
 *.bnu.ac.uk
 *.boa.ac.uk
 *.boardreader.com
@@ -5891,6 +5892,7 @@
 *.ceramics-cadcam.com
 *.cercia.ac.uk
 *.cerdas.com
+*.cerebras.ai
 *.ceredigion.ac.uk
 *.ceri.ac.uk
 *.cerlim.ac.uk
@@ -6391,6 +6393,8 @@
 *.classics.ac.uk
 *.classymomsex.com
 *.claude.ai
+*.claude.com
+*.claudemcpclient.com
 *.claudeusercontent.com
 *.clb.org.hk
 *.clc-london.ac.uk
@@ -15104,6 +15108,7 @@
 *.jav-angel.net
 *.jav-subtitles.com
 *.jav-vr.net
+*.jav.app
 *.jav.com
 *.jav.dog
 *.jav.gallery
@@ -17116,6 +17121,7 @@
 *.marlin.ac.uk
 *.marplecollege.ac.uk
 *.marranazas.com
+*.marscode.com
 *.martau.com
 *.martsangkagyuofficial.org
 *.maruta.be
@@ -19456,6 +19462,7 @@
 *.nfscdict.com
 *.nfscofficial.com
 *.nfsworld.com
+*.nftstatic.com
 *.nftstorage.link
 *.nga.mil
 *.ngc.ac.uk
@@ -26707,6 +26714,7 @@
 *.tracking-location.com
 *.tradevip1.com
 *.tradingview.com
+*.trae.ai
 *.traffcoll.ac.uk
 *.trafficmanager.net
 *.trafford.ac.uk
@@ -31041,6 +31049,7 @@ gamedownloads-rockstargames-com.akamaized.net
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
 gigabyte2.azureedge.net
+github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
@@ -31258,6 +31267,7 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
+steamcloudsweden.blob.core.windows.net
 steamcommunity-a.akamaihd.net
 steamcommunity-a.akamaihd.net.edgesuite.net
 steammobile.akamaized.net
@@ -31448,6 +31458,7 @@ wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
 yangzhi.app
+yt3.googleusercontent.com
 zeenews-fonts.s3.amazonaws.com
 ztedevices.com
 HostRegex: (^|\.)13mei[5-7]\.buzz$
@@ -31592,6 +31603,7 @@ HostRegex: (^|\.)[a-z]?fulibl\.(cc|com|org|net|xyz)$
 HostRegex: (^|\.)[a-z][1-9][0-9][a-z]\.com$
 HostRegex: .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 HostRegex: .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
+HostRegex: javdb\d+\.com$
 HostRegex: ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 HostRegex: ^epicgames-download\d\.akamaized\.net$
 HostRegex: ^ewcdn[0-9]+\.nowe\.com$
