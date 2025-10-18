@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-18 07:55:31
+; 更新时间：2025-10-19 07:55:33
 ; cn域名都不走代理
 *.cn
 
@@ -1432,6 +1432,7 @@ ff00:*
 *.123242.com
 *.123245.com
 *.123254.com
+*.123294.com
 *.123295.com
 *.123326.com
 *.12333.com
@@ -9680,6 +9681,7 @@ ff00:*
 *.accuramed.com
 *.accurate-china.com
 *.accurate520.com
+*.accxiaoheihe.com
 *.acdianyuan.com
 *.ace-info.com
 *.ace-pow.com
@@ -13081,6 +13083,7 @@ ff00:*
 *.autohenan.com
 *.autoho.com
 *.autohome.com
+*.autohome.tel
 *.autohr.org
 *.autohunan.com
 *.autoij.com
@@ -20610,6 +20613,7 @@ ff00:*
 *.chayu.com
 *.chayueshebao.com
 *.chayuqing.com
+*.chaz.fun
 *.chazhengla.com
 *.chazidian.com
 *.chaziyu.com
@@ -22651,6 +22655,7 @@ ff00:*
 *.chuizi.net
 *.chujian.xyz
 *.chujing-electric.com
+*.chujingapp.com
 *.chujuan.net
 *.chujunkeji.com
 *.chukong-inc.com
@@ -40414,6 +40419,7 @@ ff00:*
 *.guazhuan.com
 *.guazi-apps.com
 *.guazi.com
+*.guazi.net
 *.guazipai.com
 *.guazistatic.com
 *.guazixs.com
@@ -52269,6 +52275,8 @@ ff00:*
 *.imcec.org
 *.imchinese.net
 *.imcn.me
+*.imcome.net
+*.imcoming.com
 *.imconlinereg.com
 *.imd-marketing.com
 *.imdadui.com
@@ -65546,6 +65554,8 @@ ff00:*
 *.lyd-china.com
 *.lyd6688.com
 *.lydaas.com
+*.lydaas.net
+*.lydass.net
 *.lydezx.net
 *.lydfyy.com
 *.lydhb888.com
@@ -93428,6 +93438,7 @@ ff00:*
 *.towavephone.com
 *.towelltech.com
 *.tower.im
+*.tower0788.com
 *.towinor.com
 *.towmfs.com
 *.towmy.com
@@ -101900,6 +101911,7 @@ ff00:*
 *.xdpjump.com
 *.xdplt.com
 *.xdpvp.com
+*.xdqtech.com
 *.xdrcftv.com
 *.xdressy.com
 *.xdrig.com
@@ -115699,6 +115711,7 @@ ff00:*
 *.ztmao.com
 *.ztmvip.com
 *.ztn.com
+*.ztna-dingtalk.com
 *.ztnews.net
 *.ztno.com
 *.ztny188.com
