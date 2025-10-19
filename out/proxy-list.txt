@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-19 07:55:33
+; 更新时间：2025-10-20 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -21325,6 +21325,7 @@
 *.pickering.ac.uk
 *.pickinguppussy.com
 *.picknicekicks.net
+*.pickpackapp.com
 *.pickshoesclothes.com
 *.picnik.com
 *.picpost.com
@@ -21343,6 +21344,7 @@
 *.pigav.com
 *.piirus.ac.uk
 *.pikabu.monster
+*.pikpak.io
 *.pikpak.me
 *.pikpakdrive.com
 *.pilgrimageandcathedrals.ac.uk
@@ -26679,6 +26681,7 @@
 *.torvpn.com
 *.tosh.comedycentral.com
 *.tospo-keiba.jp
+*.tospotify.com
 *.totalmateria.com
 *.totalvpn.com
 *.totoleak.com
