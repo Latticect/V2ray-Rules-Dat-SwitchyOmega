@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-23 07:55:31
+; 更新时间：2025-10-24 07:55:41
 ; cn域名都不走代理
 *.cn
 
@@ -20095,6 +20095,7 @@ ff00:*
 *.ceyice.net
 *.ceyige.com
 *.cezhu.net
+*.cf-china.info
 *.cf-ns.com
 *.cf-ns.net
 *.cf-ns.site
@@ -28511,7 +28512,6 @@ ff00:*
 *.deepfast.com
 *.deepin-ai.com
 *.deepin.com
-*.deepin.io
 *.deepin.org
 *.deepinghost.com
 *.deepinmind.com
@@ -63409,6 +63409,7 @@ ff00:*
 *.linglingkaimen.com
 *.linglingmo.site
 *.linglong.dev
+*.linglong.space
 *.linglongart.com
 *.linglonglife.com
 *.linglongtech.com
