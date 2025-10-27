@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-27 07:55:33
+; 更新时间：2025-10-28 07:55:26
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7489,6 +7489,7 @@
 *.deeper.com
 *.deepfake-porn.com
 *.deepfakeporn.net
+*.deepflood.com
 *.deepfreeze.co.uk
 *.deepfreeze.com
 *.deepfreeze.com.br
@@ -29925,6 +29926,7 @@
 *.xshaker.net
 *.xshr.online
 *.xsijishe.com
+*.xsijishe.net
 *.xskywalker.com
 *.xslist.org
 *.xstas.biz
