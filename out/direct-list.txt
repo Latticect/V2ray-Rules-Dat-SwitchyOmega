@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-28 07:55:26
+; 更新时间：2025-10-29 07:55:34
 ; cn域名都不走代理
 *.cn
 
@@ -28191,8 +28191,14 @@ ff00:*
 *.dcloud.io
 *.dcloud.xin
 *.dcloudlive.com
+*.dcloudlive.net
 *.dclouds.cloud
+*.dcloudsp.com
+*.dcloudsp.net
 *.dcloudstc.com
+*.dcloudstc.net
+*.dcloudvod.com
+*.dcloudvod.net
 *.dclygroup.com
 *.dcmagcn.com
 *.dcmk17.com
@@ -45887,7 +45893,10 @@ ff00:*
 *.herllamo.com
 *.hermod1.com
 *.hero-geek.com
+*.hero.com
 *.herocoming.com
+*.heroesports.com
+*.herogame.com
 *.herohr.net
 *.heroic-ltd.com
 *.heroje.com
@@ -85516,6 +85525,7 @@ ff00:*
 *.shyuzhai.com
 *.shywly.com
 *.shyx-bio.com
+*.shyxhy.com
 *.shyxi5.com
 *.shyxwz.com
 *.shyy6688.com
