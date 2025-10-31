@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-10-31 07:55:28
+; 更新时间：2025-11-01 07:55:38
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -8138,6 +8138,7 @@
 *.dlhe.ac.uk
 *.dlib.eastview.com
 *.dlive.tv
+*.dln1.ncdn.ec
 *.dls.ac.uk
 *.dlsite.com
 *.dlsite.com.tw
@@ -23843,6 +23844,7 @@
 *.sensualgirls.org
 *.sensualmothers.com
 *.sensueel.net
+*.sentry.io
 *.senzuritv.net
 *.sepnet.ac.uk
 *.seqing.one
