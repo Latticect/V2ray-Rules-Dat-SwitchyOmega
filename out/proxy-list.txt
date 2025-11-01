@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-01 07:55:38
+; 更新时间：2025-11-02 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -14309,6 +14309,7 @@
 *.imlab.ac.uk
 *.imlive.co
 *.imlive.com
+*.immersivetranslate.com
 *.immidio.com
 *.immoral.jp
 *.immxd.com
@@ -26101,6 +26102,7 @@
 *.temenos.ac.uk
 *.temetube.xyz
 *.tempusuk.ac.uk
+*.temu.com
 *.tenacy.com
 *.tenbyfotolia.com
 *.tencent.co.id

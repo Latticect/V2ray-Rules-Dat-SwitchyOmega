@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-01 07:55:38
+; 更新时间：2025-11-02 07:55:36
 ; cn域名都不走代理
 *.cn
 
@@ -52274,7 +52274,6 @@ ff00:*
 *.imliuyi.com
 *.imlizhi.com
 *.immeee.com
-*.immersivetranslate.com
 *.immfast.com
 *.immi520.com
 *.immiexpo.com
