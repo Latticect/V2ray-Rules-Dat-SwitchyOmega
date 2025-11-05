@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-05 07:55:26
+; 更新时间：2025-11-06 07:55:28
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -10365,6 +10365,7 @@
 *.fi11tv1.com
 *.fibank.bg
 *.fibre-diffraction.ac.uk
+*.ficbook.net
 *.ficeboock.com
 *.ficm.ac.uk
 *.fictionmania.tv
@@ -11573,6 +11574,8 @@
 *.ggoogle.com
 *.ggpds.com
 *.ggpht.com
+*.ggsel.com
+*.ggsel.net
 *.ggsrv.com
 *.ggssl.com
 *.gh.io
