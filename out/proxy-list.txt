@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-09 07:55:31
+; 更新时间：2025-11-10 07:55:29
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6638,6 +6638,8 @@
 *.cofacts.tw
 *.coffeemanga.to
 *.cogc.ac.uk
+*.cohere.ai
+*.cohere.com
 *.coinalyze.net
 *.coinbase.com
 *.coinbene.com
@@ -26141,6 +26143,7 @@
 *.tentowns.ac.uk
 *.tenzinpalmo.com
 *.terabox.com
+*.teraboxcdn.com
 *.terapeack.com
 *.terapeak.ca
 *.terapeak.com
