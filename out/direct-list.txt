@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-12 07:55:26
+; 更新时间：2025-11-13 07:55:27
 ; cn域名都不走代理
 *.cn
 
@@ -27177,6 +27177,7 @@ ff00:*
 *.cztv.cc
 *.cztv.com
 *.cztv.tv
+*.cztvcdn.com
 *.cztvcloud.com
 *.cztzkg.com
 *.czur.com
@@ -37983,6 +37984,7 @@ ff00:*
 *.geekmaker.com
 *.geekman.vip
 *.geeknev.com
+*.geekpark
 *.geekpark.net
 *.geekpwn.org
 *.geeksblog.cc
@@ -92369,7 +92371,6 @@ ff00:*
 *.tinyyuan.com
 *.tipaipai.com
 *.tipask.com
-*.tipdim.org
 *.tipdm.com
 *.tipdm.org
 *.tipray.com
