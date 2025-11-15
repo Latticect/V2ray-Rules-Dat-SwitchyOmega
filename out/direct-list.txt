@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-15 07:55:26
+; 更新时间：2025-11-16 07:55:25
 ; cn域名都不走代理
 *.cn
 
@@ -12042,6 +12042,7 @@ ff00:*
 *.anyview.net
 *.anyway.fm
 *.anyway.red
+*.anywlan.com
 *.anywood.com
 *.anyxz.com
 *.anzerclub.com
