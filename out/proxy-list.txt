@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-17 07:55:30
+; 更新时间：2025-11-18 07:55:39
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -15205,6 +15205,7 @@
 *.miyazakibank.co.jp
 *.mizuhobank.co.jp
 *.mizzmona.com
+*.mjj.rip
 *.mjlsh.usc.cuhk.edu.hk
 *.mjv-art.org
 *.mk.shrimpia.network
