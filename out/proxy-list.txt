@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-19 07:55:27
+; 更新时间：2025-11-20 07:55:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -13712,6 +13712,7 @@
 *.libgen.rs
 *.libgen.st
 *.liboggirls.net
+*.library-access.sk
 *.library.lol
 *.library.usc.cuhk.edu.hk
 *.librarylovefest.com
@@ -14829,6 +14830,7 @@
 *.mihua.org
 *.miitomo.com
 *.miiverse.com
+*.mij.rip
 *.mikanani.me
 *.mike.cz.cc
 *.mikesoltys.com
@@ -15206,6 +15208,7 @@
 *.miyazakibank.co.jp
 *.mizuhobank.co.jp
 *.mizzmona.com
+*.mji.rip
 *.mjj.rip
 *.mjlsh.usc.cuhk.edu.hk
 *.mjv-art.org
@@ -24430,6 +24433,7 @@
 *.xn--7hv594h.com
 *.xn--8uq428d76d.tokyo
 *.xn--90wwvt03e.com
+*.xn--9iqy04a7fi01l.com
 *.xn--9kr7l.com
 *.xn--9pr62r24a.com
 *.xn--9trs65b.com
