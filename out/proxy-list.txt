@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-21 07:55:41
+; 更新时间：2025-11-22 07:55:30
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -14061,7 +14061,6 @@
 *.lzjscript.com
 *.lzmtnews.org
 *.m-power.com
-*.m-team.cc
 *.m.me
 *.m.moegirl.org
 *.m12.vc
