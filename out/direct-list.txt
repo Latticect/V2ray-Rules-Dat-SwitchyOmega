@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-24 07:55:34
+; 更新时间：2025-11-25 07:55:25
 ; cn域名都不走代理
 *.cn
 
@@ -38034,7 +38034,6 @@ ff00:*
 *.geekmaker.com
 *.geekman.vip
 *.geeknev.com
-*.geekpark
 *.geekpark.net
 *.geekpwn.org
 *.geeksblog.cc
@@ -77367,6 +77366,7 @@ ff00:*
 *.qianvisa.com
 *.qianwa.com
 *.qianwanku.com
+*.qianwen.com
 *.qianxiangbank.com
 *.qianxibj.net
 *.qianximiye.com
