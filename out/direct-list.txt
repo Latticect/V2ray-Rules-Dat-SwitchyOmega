@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-11-26 07:55:28
+; 更新时间：2025-11-27 07:55:29
 ; cn域名都不走代理
 *.cn
 
@@ -25760,6 +25760,7 @@ ff00:*
 *.cqshyzx.com
 *.cqsifang.com
 *.cqsj365.com
+*.cqsjb.com
 *.cqsjbc.com
 *.cqsjky.com
 *.cqsjnzx.com
@@ -102115,6 +102116,7 @@ ff00:*
 *.xhkt.tv
 *.xhlaowu.com
 *.xhlcsl.com
+*.xhlsgs.com
 *.xhma.com
 *.xhmedia.com
 *.xhmwxy.com
@@ -103635,6 +103637,7 @@ ff00:*
 *.xinwenku.com
 *.xinwenlianbo.tv
 *.xinwo.com
+*.xinwuji.com
 *.xinwulan.com
 *.xinxe.com
 *.xinxi28.com
@@ -108746,6 +108749,7 @@ ff00:*
 *.yokacdn.com
 *.yokagames.com
 *.yokaimg.com
+*.yokaverse.com
 *.yokechina.com
 *.yokmob.com
 *.yokong.com
