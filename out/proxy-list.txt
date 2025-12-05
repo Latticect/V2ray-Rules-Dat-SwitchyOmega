@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-05 07:55:26
+; 更新时间：2025-12-06 07:55:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -21854,6 +21854,7 @@
 *.tig-ol-bitties.live
 *.tigervpn.com
 *.tik-tokapi.com
+*.tiktok-row.net
 *.tiktok.com
 *.tiktokcdn-eu.com
 *.tiktokcdn-us.com
@@ -21861,6 +21862,8 @@
 *.tiktokd.net
 *.tiktokd.org
 *.tiktokeu-cdn.com
+*.tiktokglobalshopv.com
+*.tiktokminis.us
 *.tiktokrow-cdn.com
 *.tiktokv.com
 *.tiktokv.eu
@@ -25631,6 +25634,7 @@
 *.zopim.com
 *.zorglist.com
 *.zorrovpn.com
+*.zotero.org
 *.zozotown.com
 *.zpn.im
 *.zqqpwz.com
