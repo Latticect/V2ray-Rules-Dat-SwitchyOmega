@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-06 07:55:27
+; 更新时间：2025-12-07 07:55:34
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2143,6 +2143,7 @@
 *.archivx.to
 *.archlinux.org
 *.archlinuxarm.org
+*.arcraiders.com
 *.arctosia.com
 *.area120.com
 *.area51.to
@@ -7607,6 +7608,8 @@
 *.emaga.com
 *.emagic.de
 *.emanna.com
+*.embark-studios.com
+*.embark.games
 *.embase.com
 *.embed-cdn.com
 *.embed.ly
@@ -8250,6 +8253,8 @@
 *.faceid99.com
 *.faceid99.net
 *.faceidglobal.com
+*.faceit-cdn.net
+*.faceit.com
 *.faceless.me
 *.faceobk.com
 *.faceobok.com
@@ -18952,6 +18957,7 @@
 *.rea.tech
 *.reabble.com
 *.reachporn.com
+*.reachthefinals.com
 *.reachtheworldonfacebook.com
 *.react.com
 *.reactjs.com
