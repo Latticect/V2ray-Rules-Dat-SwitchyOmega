@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-09 07:55:38
+; 更新时间：2025-12-10 07:55:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -18724,6 +18724,7 @@
 *.qmp4.com
 *.qmttqg3k.me
 *.qnap.com
+*.qobuz.com
 *.qombol.com
 *.qoo10.jp
 *.qooqlevideo.com
