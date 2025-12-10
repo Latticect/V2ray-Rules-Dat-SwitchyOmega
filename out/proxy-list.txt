@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-10 07:55:31
+; 更新时间：2025-12-11 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -17970,7 +17970,10 @@
 *.poecdn.net
 *.pogo.com
 *.pogobeta.com
+*.poi.icu
 *.poi.moe
+*.poi6.net
+*.poihub.com
 *.points-media.com
 *.poisontube.com
 *.pojapp.cfd
@@ -18524,6 +18527,7 @@
 *.product.co.jp
 *.profilemaster.com
 *.profreeporno.com
+*.project-poi.com
 *.project-syndicate.org
 *.projectapex.com
 *.projectara.com
