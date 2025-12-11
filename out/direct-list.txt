@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-11 07:55:36
+; 更新时间：2025-12-12 07:55:30
 ; cn域名都不走代理
 *.cn
 
@@ -18061,7 +18061,6 @@ ff00:*
 *.bytedanceapi.com
 *.bytedancehermestest.com
 *.bytedancevod.com
-*.bytedapm.com
 *.bytedcdn.com
 *.bytedeliver.com
 *.bytedgames.com
