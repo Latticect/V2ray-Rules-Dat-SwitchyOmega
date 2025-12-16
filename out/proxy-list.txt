@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-16 07:55:33
+; 更新时间：2025-12-17 07:55:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2216,6 +2216,7 @@
 *.asianboygay.com
 *.asiancamgirllive.com
 *.asiancamly.com
+*.asiancoochies.com
 *.asianews.it
 *.asianfanfics.com
 *.asianfreeporn.net
@@ -3382,12 +3383,15 @@
 *.bigbigchannel.com.hk
 *.bigbigshop.com
 *.bigblackdicklover.com
+*.bigboobalexya.com
 *.bigboobbundle.com
+*.bigboobdaria.com
 *.bigboobsalert.com
 *.bigboobsandhotsex.com
 *.bigboobsonline.org
 *.bigboobspov.com
 *.bigboobswives.com
+*.bigboobvanessay.com
 *.bigboss.video
 *.bigbuckbunny.org
 *.bigcharts.com
@@ -3408,6 +3412,7 @@
 *.bigtitangelawhite.com
 *.bigtithitomi.com
 *.bigtithooker.com
+*.bigtitkatiethornton.com
 *.bigtitsextapes.com
 *.bigtitsgallery.net
 *.bigtitsmodelsdirectory.com
@@ -4536,6 +4541,7 @@
 *.bustyinescudna.com
 *.bustykellykay.com
 *.bustykerrymarie.com
+*.bustylezzies.com
 *.bustylornamorgan.com
 *.bustymerilyn.com
 *.bustymomsvideo.com
@@ -5182,6 +5188,7 @@
 *.chibabank.co.jp
 *.chibakogyo-bank.co.jp
 *.chicagolandbmw.com
+*.chicksonblackdicks.com
 *.chickstagram.com
 *.chickteases.com
 *.chid.com.mm
@@ -6770,6 +6777,7 @@
 *.disqusservice.com
 *.dit-inc.us
 *.divas.com.uy
+*.diwodiwo.xyz
 *.diyarbakirescort.com
 *.diyin.org
 *.diyuser.buzz
@@ -7499,6 +7507,7 @@
 *.ebenporno.com
 *.ebony-beauty.com
 *.ebonyinlove.com
+*.ebonythots.com
 *.ebonywebcamhub.com
 *.eboobstore.com
 *.ebook.hyread.com.tw
@@ -10479,6 +10488,7 @@
 *.hairy-beauty.com
 *.hairy-women-pussy.net
 *.hairyclassic.com
+*.hairycoochies.com
 *.hairydivas.com
 *.hairynature.com
 *.hairyolder.com
@@ -11097,6 +11107,7 @@
 *.horizontal-systems.com
 *.horizontalglue.com
 *.horizontalsystems.com
+*.hornyasianmilfs.com
 *.hornybitches.org
 *.hornybutt.com
 *.hornychat.net
@@ -13005,6 +13016,7 @@
 *.jerkmate.tv
 *.jerkmatelive.org
 *.jerkofftocelebs.com
+*.jessicaturner.co.uk
 *.jessicaturner.com
 *.jetbrains.ai
 *.jetbrains.com
@@ -13669,6 +13681,8 @@
 *.latencytop.com
 *.latex-project.org
 *.latinaabuse.com
+*.latinacoochies.com
+*.latinmommas.com
 *.latintubeporn.com
 *.latticedata.com
 *.launchpad.net
@@ -19373,6 +19387,7 @@
 *.routledgehandbooks.com
 *.rowblocks.com
 *.rowblox.com
+*.roxired.com
 *.royalcams.com
 *.royalsocietypublishing.org
 *.rpglogs.com
@@ -26532,7 +26547,6 @@ HostRegex: (^|\.)[a-z][1-9][0-9][a-z]\.com$
 HostRegex: .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 HostRegex: .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 HostRegex: javdb\d+\.com$
-HostRegex: ^([a-z0-9-]+\.)*(?!ad-display\.|ad-channel\.)[a-z0-9-]+\.diwodiwo\.xyz$
 HostRegex: ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 HostRegex: ^epicgames-download\d\.akamaized\.net$
 HostRegex: ^ewcdn[0-9]+\.nowe\.com$
