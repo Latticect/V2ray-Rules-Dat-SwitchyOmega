@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-18 07:55:41
+; 更新时间：2025-12-19 07:55:44
 ; cn域名都不走代理
 *.cn
 
@@ -69111,6 +69111,7 @@ ff00:*
 *.moontonapp.com
 *.moontontech.net
 *.moonvy.com
+*.moonvy.cool
 *.moooc.cc
 *.mooooc.com
 *.mooool.com
