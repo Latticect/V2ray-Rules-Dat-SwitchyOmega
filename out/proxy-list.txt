@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-19 07:55:44
+; 更新时间：2025-12-20 07:55:35
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -17457,6 +17457,7 @@
 *.parstream.net
 *.parstream.org
 *.partmaker.com
+*.partnerstack.xyz
 *.partycasino.com
 *.partylikeits1986.org
 *.partypoker.com
@@ -26040,7 +26041,13 @@ notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notify.ppy.sh
 np-edge.itunes.apple.com
+ntdfreemobile-tgc.cdn.hinet.net
+ntdfreepc-tgc.cdn.hinet.net
+ntdfreetv-tgc.cdn.hinet.net
+ntdfreevcpc-tgc.cdn.hinet.net
+ntdofifreemobile-tgc.cdn.hinet.net
 ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreetv-tgc.cdn.hinet.net
 ntdofifreevcpc-tgc.cdn.hinet.net
 ntp-b.nist.gov
 ntp-c.colorado.edu
