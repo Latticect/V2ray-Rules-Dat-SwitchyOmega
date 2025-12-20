@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-20 07:55:35
+; 更新时间：2025-12-21 07:55:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6821,6 +6821,8 @@
 *.dmed.technology
 *.dmgmediaprivacy.co.uk
 *.dmhy.org
+*.dmit.io
+*.dmit.sh
 *.dml-lang.org
 *.dmm-extension.com
 *.dmm.co.jp
@@ -7261,6 +7263,7 @@
 *.dynu.net
 *.dynupdate.no-ip.com
 *.dysfz.cc
+*.dzcdn.net
 *.dzen.ru
 *.dzeninfra.ru
 *.dzze.com
@@ -7742,6 +7745,7 @@
 *.entrust.com
 *.entrust.net
 *.entrustdatacard.com
+*.eotarchive.org
 *.epac.to
 *.epicbrowser.com
 *.epicgames.com
@@ -9760,6 +9764,7 @@
 *.ghcr.io
 *.ghettotube.com
 *.ghidra-sre.org
+*.ghostarchive.org
 *.ghostgames.com
 *.ghostpath.com
 *.ghut.org
@@ -14738,6 +14743,7 @@
 *.meme111.com
 *.memealerts.com
 *.memehk.com
+*.mementoweb.org
 *.memes.tw
 *.memri.org
 *.memrijttm.org
@@ -17769,6 +17775,7 @@
 *.perfecttitspics.com
 *.periscope.tv
 *.perl.org
+*.perma.cc
 *.perplexity.ai
 *.perplexity.com
 *.persagg.com
@@ -23931,6 +23938,7 @@
 *.webcammedellin.co
 *.webcams.tv
 *.webcamtubexxx.com
+*.webcitation.org
 *.webevader.org
 *.webex.ca
 *.webex.co.in
