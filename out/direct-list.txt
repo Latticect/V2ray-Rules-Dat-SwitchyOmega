@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-21 07:55:31
+; 更新时间：2025-12-22 07:55:30
 ; cn域名都不走代理
 *.cn
 
@@ -1703,7 +1703,6 @@ ff00:*
 *.148com.com
 *.148la.com
 *.14944.net
-*.1495c8.com
 *.14hj.com
 *.14play.net
 *.14xd.com
@@ -6741,7 +6740,6 @@ ff00:*
 *.62669.com
 *.626x.com
 *.628.com
-*.628536nyv.com
 *.62923.vip
 *.629973.com
 *.62dns.com
@@ -11920,7 +11918,6 @@ ff00:*
 *.antvr.com
 *.antwork.link
 *.antzk.com
-*.anviettek.com
 *.anw.red
 *.anweilan.com
 *.anweishi.com
@@ -53808,6 +53805,7 @@ ff00:*
 *.jamalube.net
 *.jamcz.com
 *.jamidol.com
+*.jamms.org
 *.jammyfm.com
 *.jampotgames.com
 *.janbao.net
@@ -57034,7 +57032,6 @@ ff00:*
 *.js96008.com
 *.js96777.com
 *.jsadkg.com
-*.jsadt.com
 *.jsaeit.com
 *.jsaes.com
 *.jsafc.net
