@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2025-12-26 07:55:37
+; 更新时间：2025-12-27 07:55:38
 ; cn域名都不走代理
 *.cn
 
@@ -21598,6 +21598,7 @@ ff00:*
 *.chinaorff.org
 *.chinaorganicchem.com
 *.chinaorientgroup.com
+*.chinaott.com
 *.chinaott.net
 *.chinapag.com
 *.chinapandi.com
@@ -46074,6 +46075,7 @@ ff00:*
 *.hijin.vip
 *.hijoys.com
 *.hik-cloud.com
+*.hik-express.com
 *.hik-park.com
 *.hikailink.com
 *.hikari-ch.com
@@ -46083,6 +46085,7 @@ ff00:*
 *.hikerfans.com
 *.hikihj.com
 *.hikinginternational.com
+*.hikiot.com
 *.hiklife.com
 *.hikmall.com
 *.hikoon.com
