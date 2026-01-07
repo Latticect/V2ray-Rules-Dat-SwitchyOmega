@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-07 07:55:28
+; 更新时间：2026-01-08 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -21572,6 +21572,7 @@
 *.talkonly.net
 *.talksport.com
 *.tamilsexvideos.cc
+*.tamtam.chat
 *.tanc.org
 *.tandberg-china.com
 *.tandberg.com
