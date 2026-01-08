@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-08 07:55:36
+; 更新时间：2026-01-09 07:55:27
 ; cn域名都不走代理
 *.cn
 
@@ -34946,6 +34946,7 @@ ff00:*
 *.fnkvision.com
 *.fnmobi.com
 *.fnnas.com
+*.fnnas.net
 *.fnnsh.com
 *.fnnspa.com
 *.fnos.net
@@ -89233,6 +89234,7 @@ ff00:*
 *.tapai.com
 *.tapaijiu.com
 *.tapapis.com
+*.tapapks.com
 *.tapas.net
 *.tapbooster.net
 *.tapdata.net
