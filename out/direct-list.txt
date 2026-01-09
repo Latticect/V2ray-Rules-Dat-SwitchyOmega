@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-09 07:55:27
+; 更新时间：2026-01-10 07:55:38
 ; cn域名都不走代理
 *.cn
 
@@ -31287,6 +31287,7 @@ ff00:*
 *.easytite.com
 *.easytocn.com
 *.easytogophuket.com
+*.easytomessage.com
 *.easytouch-manager.com
 *.easytouch.com
 *.easytrip.com
@@ -80502,6 +80503,7 @@ ff00:*
 *.school888.com
 *.schoolinweb.com
 *.schoolpi.net
+*.schoopia.com
 *.schstv.com
 *.scht.cc
 *.schwarzeni.com
@@ -91311,6 +91313,7 @@ ff00:*
 *.tongxue.com
 *.tongxue365.com
 *.tongxue8.com
+*.tongxuepie.com
 *.tongyangship.com
 *.tongyaoplay.com
 *.tongyavisa.com
