@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-10 07:55:38
+; 更新时间：2026-01-11 07:55:26
 ; cn域名都不走代理
 *.cn
 
@@ -67426,6 +67426,7 @@ ff00:*
 *.mobotap.com
 *.mobring.co
 *.mobrtb.com
+*.mobsdks.com
 *.mobsurl.com
 *.mobtou.com
 *.mobvoi.com
