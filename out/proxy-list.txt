@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-12 07:55:42
+; 更新时间：2026-01-13 07:55:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4511,6 +4511,7 @@
 *.brotli.org
 *.brourou.com
 *.browser.kagi.com
+*.browser.run
 *.browserleaks.com
 *.brucewang.net
 *.brutalbdsmtube.com
@@ -5148,6 +5149,7 @@
 *.cfargotunnel.com
 *.cfblob.com
 *.cfd-tv.com
+*.cfdata.org
 *.cfdesign.com
 *.cfhks.org.hk
 *.cfl.re
@@ -5570,26 +5572,34 @@
 *.cloudflare-gateway.com
 *.cloudflare-ipfs.com
 *.cloudflare-quic.com
+*.cloudflare-terms-of-service-abuse.com
 *.cloudflare.com
+*.cloudflare.dev
 *.cloudflare.net
 *.cloudflare.tv
 *.cloudflareaccess.com
 *.cloudflareapps.com
 *.cloudflarebolt.com
+*.cloudflarebrowser.com
+*.cloudflarechallenge.com
 *.cloudflareclient.com
+*.cloudflarecp.com
 *.cloudflareinsights.com
 *.cloudflareok.com
 *.cloudflarepartners.com
 *.cloudflareportal.com
 *.cloudflarepreview.com
 *.cloudflareregistrar.com
+*.cloudflareresearch.com
 *.cloudflareresolve.com
 *.cloudflaressl.com
 *.cloudflarestatus.com
 *.cloudflarestorage.com
 *.cloudflarestream.com
+*.cloudflaresupport.com
 *.cloudflaretest.com
 *.cloudflarewarp.com
+*.cloudflareworkers.com
 *.cloudfront.com
 *.cloudfront.net
 *.cloudfunctions.net
@@ -6095,6 +6105,7 @@
 *.cutt.ly
 *.cw.com.tw
 *.cwcams.com
+*.cxacg.com
 *.cy22.tv
 *.cyber-bay.info
 *.cyber-bay.org
@@ -7776,6 +7787,7 @@
 *.enbank.ir
 *.encoretvb.com
 *.encrypt.me
+*.encryptedsni.com
 *.encuentroscasualesoecuador.com
 *.encyclopedia.com
 *.enema-porn.com
@@ -8015,6 +8027,7 @@
 *.espn.net
 *.espncdn.com
 *.espnqa.com
+*.esports.gg
 *.esposasymaridos.com
 *.espressif.com
 *.esri.com
@@ -9560,10 +9573,12 @@
 *.game-platform.net
 *.game-repack.site
 *.game735.com
+*.gameapps.hk
 *.gamebase.com.tw
 *.gamebeforethegame.com
 *.gamebiz.jp
 *.gamebusiness.jp
+*.gamefocus.co.kr
 *.gamejolt.com
 *.gamemeca.com
 *.gameon-masters.com
@@ -11976,6 +11991,7 @@
 *.ig.me
 *.igaychat.com
 *.igayporn.tv
+*.igcc.jp
 *.igcd.net
 *.igcdn.com
 *.igetnaughty.com
@@ -12293,6 +12309,7 @@
 *.inoreader.com
 *.inote.tw
 *.inporn.com
+*.inquirer.net
 *.insecam.org
 *.inshot.cc
 *.inshot.com
@@ -14423,6 +14440,7 @@
 *.mahabodhi.org
 *.mahajantech.com
 *.mahjongsoul.com
+*.maidonanews.jp
 *.maiio.net
 *.mail-archive.com
 *.mail.com
@@ -15529,6 +15547,7 @@
 *.modperl.pl
 *.modrinth.com
 *.modular.im
+*.moedigi.com
 *.moeero-library.com
 *.moeerolibrary.com
 *.moefuns.co
@@ -16032,6 +16051,7 @@
 *.mymoe.moe
 *.mymom.info
 *.mymusclevideo.com
+*.mynavi.jp
 *.mynetav.net
 *.mynetav.org
 *.mynetname.net
@@ -17339,6 +17359,7 @@
 *.openapiplatform.com
 *.openapiservice.com
 *.openart.ai
+*.openbook.org.tw
 *.opencas.io
 *.opencollective.com
 *.opencreate.org
@@ -19399,6 +19420,7 @@
 *.renzhe.cloud
 *.repe21.com
 *.repo.new
+*.repotama.com
 *.repsils.no
 *.repsneakermall.com
 *.repswing.com
@@ -20981,6 +21003,7 @@
 *.spyjinx.com
 *.sqlite.org
 *.sqlserveronlinux.com
+*.sqool.net
 *.squ1.com
 *.squadbusters.com
 *.squarecapital.com
@@ -21582,6 +21605,7 @@
 *.talkonly.net
 *.talksport.com
 *.tamilsexvideos.cc
+*.tampermonkey.net
 *.tamtam.chat
 *.tanc.org
 *.tandberg-china.com
@@ -22361,6 +22385,7 @@
 *.toxin-up.sbs
 *.toxinzoo.sbs
 *.toy-cadcam.com
+*.toy-people.com
 *.toycadcam.com
 *.toyobank.co.jp
 *.toypark.in
