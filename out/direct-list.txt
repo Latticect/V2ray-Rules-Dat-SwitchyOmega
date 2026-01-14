@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-14 07:55:36
+; 更新时间：2026-01-15 07:55:44
 ; cn域名都不走代理
 *.cn
 
@@ -60849,6 +60849,7 @@ ff00:*
 *.lbswjt.com
 *.lbszx.com
 *.lbtek.com
+*.lbtp.com
 *.lbu.cc
 *.lbv1.com
 *.lbwbw.com
@@ -69974,13 +69975,6 @@ ff00:*
 *.nike.host
 *.nikefans.com
 *.niketracking.com
-*.nikke-de.com
-*.nikke-en.com
-*.nikke-fr.com
-*.nikke-global.com
-*.nikke-jp.com
-*.nikke-kr.com
-*.nikke-sea.com
 *.nikkisoft.com
 *.nikkiup2u2.com
 *.nikkon-china.com
