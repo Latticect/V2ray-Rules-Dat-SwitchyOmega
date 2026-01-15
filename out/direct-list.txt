@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-15 07:55:44
+; 更新时间：2026-01-16 07:55:38
 ; cn域名都不走代理
 *.cn
 
@@ -94818,6 +94818,7 @@ ff00:*
 *.volcfcdnsc.com
 *.volcfxgjrtm.com
 *.volcgroup.com
+*.volcgslb-mlt.com
 *.volcgslb.com
 *.volcgtm.com
 *.volchina.com
