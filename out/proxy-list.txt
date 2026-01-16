@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-16 07:55:38
+; 更新时间：2026-01-17 07:55:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -16903,15 +16903,19 @@
 *.ntdimg.com
 *.ntdtv-dc.com
 *.ntdtv.ca
+*.ntdtv.co.il
 *.ntdtv.co.kr
 *.ntdtv.com
 *.ntdtv.com.tw
 *.ntdtv.cz
+*.ntdtv.fr
 *.ntdtv.jp
 *.ntdtv.kr
 *.ntdtv.org
 *.ntdtv.ru
+*.ntdtv.se
 *.ntdtvla.com
+*.ntdvideo.tw
 *.ntdvn.com
 *.ntnews.com.au
 *.ntp-os01.ocn.ad.jp
