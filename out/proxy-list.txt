@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-19 07:55:32
+; 更新时间：2026-01-20 07:55:28
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4990,6 +4990,7 @@
 *.castbox.fm
 *.castingcouch-x.com
 *.castro.fm
+*.cataboom.com
 *.catalina.hk
 *.catalinacruz.com
 *.catbox.moe
@@ -5825,6 +5826,7 @@
 *.conquerwithcharacter.com
 *.conscrypt.com
 *.conscrypt.org
+*.consentpro.com
 *.constructware.com
 *.consul.io
 *.contactmagazine.net
@@ -17465,6 +17467,7 @@
 *.orthopaedic-cadcam.com
 *.orthotics-cadcam.com
 *.osakamotion.net
+*.osano.com
 *.osapublishing.org
 *.osdn.net
 *.osfoora.com
@@ -23017,6 +23020,7 @@
 *.usenix.org
 *.useplannr.com
 *.userapi.com
+*.usercentrics.eu
 *.usercontent.dev
 *.userpxt.io
 *.users.skynet.be
