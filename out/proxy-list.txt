@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-21 07:56:12
+; 更新时间：2026-01-22 07:58:35
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -9649,6 +9649,7 @@
 *.geocities.com
 *.geocities.jp
 *.geodesummit.com
+*.geogebra.org
 *.geolytics.com
 *.geoport.com
 *.geospatialimaging.com
@@ -24128,6 +24129,7 @@
 *.wikaba.com
 *.wikawika.xyz
 *.wiki.gamerp.jp
+*.wiki.gg
 *.wiki.keso.cn
 *.wiki.oauth.net
 *.wiki.phonegap.com
@@ -24261,6 +24263,7 @@
 *.wolfatbestbuy.com
 *.wolfatbestbuy.net
 *.wolfax.com
+*.wolframalpha.com
 *.wolfsex-me.sbs
 *.wolterskluwer.com
 *.wombo.ai
