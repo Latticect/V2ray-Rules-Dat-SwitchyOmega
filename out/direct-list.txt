@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-22 07:58:35
+; 更新时间：2026-01-23 07:55:42
 ; cn域名都不走代理
 *.cn
 
@@ -77966,6 +77966,7 @@ ff00:*
 *.redmart.com
 *.redmou.com
 *.rednetdns.com
+*.rednotecdn.com
 *.redocn.com
 *.redodopower.com
 *.redoop.com
