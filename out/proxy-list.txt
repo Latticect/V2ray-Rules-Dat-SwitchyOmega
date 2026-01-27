@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-27 07:56:42
+; 更新时间：2026-01-28 07:56:22
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -20,6 +20,7 @@
 *.101boyvideos.com
 *.101tubeporn.com
 *.101xxx.xyz
+*.1024terabox.com
 *.10beasts.net
 *.10bet.com
 *.10c10qoo.one
@@ -3297,6 +3298,7 @@
 *.bestbuytradein.com
 *.bestbuyus.com
 *.bestcamsites.net
+*.bestclouddrive.com
 *.besterpornos.com
 *.bestescortgirls.nl
 *.bestfreecams.club
@@ -9236,6 +9238,7 @@
 *.freessh.us
 *.freessl.com
 *.freetcp.com
+*.freeterabox.com
 *.freetibet.net
 *.freetibet.org
 *.freetibetanheroes.org
@@ -17280,6 +17283,7 @@
 *.osmfoundation.org
 *.ospray.net
 *.ospray.org
+*.ospserver.net
 *.otaku-168.com
 *.otaku18a.info
 *.otaku55.xyz
@@ -21560,6 +21564,7 @@
 *.tensorflow.org
 *.tenzinpalmo.com
 *.terabox.com
+*.terabox1024.com
 *.teraboxcdn.com
 *.terapeack.com
 *.terapeak.ca
