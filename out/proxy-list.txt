@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-28 07:56:22
+; 更新时间：2026-01-29 07:59:09
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2181,6 +2181,8 @@
 *.aria.ms
 *.ark.to
 *.arlingtoncemetery.mil
+*.arma3.com
+*.armaplatform.com
 *.armovs.com
 *.arnoldrenderer.com
 *.arphic.com
@@ -2856,6 +2858,7 @@
 *.battlefront2.com
 *.battlefrontii.com
 *.battlelog.com
+*.battleye.com
 *.baxsound.com
 *.bayareabmw.com
 *.bayvoice.net
@@ -3534,6 +3537,7 @@
 *.bird.so
 *.bisq.io
 *.bisq.network
+*.bistudio.com
 *.bisyoujyogyaruge.topaz.ne.jp
 *.bit-z.com
 *.bit.do
@@ -4216,6 +4220,7 @@
 *.bodog88.com
 *.bodyandsoul.com.au
 *.bodyfluids-jav.com
+*.bohemia.net
 *.boj.or.jp
 *.bokep.net
 *.bokepseks.org
@@ -5893,6 +5898,7 @@
 *.cristyli.com
 *.crit-staging.com
 *.critiquebrainz.org
+*.crixet.com
 *.crmdynint-gcc.com
 *.crmdynint.com
 *.crocotube.com
@@ -6176,6 +6182,7 @@
 *.daylife.com
 *.daytonbmw.com
 *.daytontrucktires.com
+*.dayz.com
 *.dazn-api.com
 *.dazn.com
 *.dazndn.com
@@ -14294,6 +14301,7 @@
 *.maizhong.org
 *.makaan.com
 *.makeanything.com
+*.makearmanotwar.com
 *.makebettercode.com
 *.makecode.org
 *.makeeu.com
@@ -20254,6 +20262,7 @@
 *.sijihuisuo.club
 *.sijihuisuo.com
 *.sikiswap.com
+*.silicagame.com
 *.silicon-mobility.com
 *.siliconmobility.com
 *.silkbook.com
@@ -23193,6 +23202,7 @@
 *.viewerswives.net
 *.viewgals.com
 *.viewpointsfromfacebook.com
+*.vigorgame.com
 *.vijayatemple.org
 *.vikiporn.com
 *.vilanet.me
@@ -25282,6 +25292,7 @@
 *.yiqiedoushiganggangkaishi.org
 *.yizhihongxing.com
 *.yjcontentdelivery.com
+*.ylands.com
 *.ymail.com
 *.ymhsf.top
 *.ymhsf1.top
@@ -26104,6 +26115,7 @@ oneocsp.microsoft.com
 ood.opsource.net
 openaiapi-site.azureedge.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 opgg-static.akamaized.net
 origin-a.akamaihd.net
