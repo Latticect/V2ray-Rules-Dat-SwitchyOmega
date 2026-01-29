@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-29 07:59:09
+; 更新时间：2026-01-30 07:59:04
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2307,10 +2307,12 @@
 *.atgfw.org
 *.athenaeizou.com
 *.atkgallery.com
+*.atl-paas.net
 *.atlanta168.com
 *.atlantaminidealers.com
 *.atlasdmt.com
 *.atlasonepoint.com
+*.atlassian-dev.net
 *.atlassian.com
 *.atlassian.net
 *.atnext.com
@@ -8944,6 +8946,9 @@
 *.fotolja.com
 *.fotoscaserasx.com
 *.foundationdb.org
+*.foundationdns.com
+*.foundationdns.net
+*.foundationdns.org
 *.fountmedia.io
 *.fourthinternational.org
 *.fourthns.systems
@@ -13062,6 +13067,7 @@
 *.jinrizhiyi.news
 *.jintian.net
 *.jinx.com
+*.jira.com
 *.jitouch.com
 *.jitsi.org
 *.jiuse.ai
@@ -20827,6 +20833,7 @@
 *.srebrenica360.com
 *.srtcdn.net
 *.srttu.edu
+*.ss-inf.net
 *.ss-link.com
 *.ss.pythonic.life
 *.ss2.us
