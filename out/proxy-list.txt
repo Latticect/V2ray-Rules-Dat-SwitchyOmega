@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-30 07:59:04
+; 更新时间：2026-01-31 07:59:16
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -20281,6 +20281,7 @@
 *.simcity.com
 *.simg.jp
 *.simgbb.com
+*.simianx.ai
 *.similar-porn.fun
 *.simility.com
 *.simonsgirls.com
