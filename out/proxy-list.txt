@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-01-31 07:59:16
+; 更新时间：2026-02-01 07:57:20
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2876,6 +2876,7 @@
 *.bbc.in
 *.bbc.mp-pxcdn.com
 *.bbc.net.uk
+*.bbc.pdn.tritondigital.com
 *.bbcchinese.com
 *.bbchat.tv
 *.bbci.co.uk
@@ -14069,6 +14070,7 @@
 *.lotcrap.com
 *.lotsawahouse.org
 *.lotuslight.org.tw
+*.louisvuitton.com
 *.lovart.ai
 *.love-sextoys.co.uk
 *.love4porn.com
