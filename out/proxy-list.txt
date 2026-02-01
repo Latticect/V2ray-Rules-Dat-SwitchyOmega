@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-01 07:57:20
+; 更新时间：2026-02-02 07:59:35
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4471,6 +4471,7 @@
 *.brutaltgp.com
 *.bs-adreview.com
 *.bs-awh.ne.jp
+*.bsappapi.com
 *.bsi.ir
 *.bsky.app
 *.bsky.network
@@ -17979,6 +17980,7 @@
 *.pjbyj.top
 *.pjful-app.lol
 *.pjgirls.com
+*.pjsekai.sega.jp
 *.pk.com
 *.pki-post.ch
 *.pki-posta.ch
@@ -21383,6 +21385,7 @@
 *.taiav.com
 *.tail-f.com
 *.tailf.com
+*.tails.net
 *.tailscale.com
 *.tailscale.io
 *.tailwindtraders.com
@@ -26132,6 +26135,7 @@ origin-a.akamaihd.net
 osu.ppy.sh
 p-events-delivery.akamaized.net
 p16-tiktokcdn-com.akamaized.net
+packages.microsoft.com
 paper-attachments.s3.amazonaws.com
 pchomeonline.com.tw
 pki.google.com
