@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-03 08:01:39
+; 更新时间：2026-02-04 07:59:52
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -19542,6 +19542,7 @@
 *.salebeatslasteststyle4you.com
 *.saleblackfridaydrebeats.com
 *.salecheaphandbags.com
+*.salesforce-setup.com
 *.salesforce.com
 *.salesforce.org
 *.salesforceiq.com

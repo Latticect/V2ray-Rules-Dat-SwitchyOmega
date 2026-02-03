@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-03 08:01:39
+; 更新时间：2026-02-04 07:59:52
 ; cn域名都不走代理
 *.cn
 
@@ -8867,6 +8867,7 @@ ff00:*
 *.9377os.com
 *.9377s.com
 *.9377z.com
+*.9378.com
 *.93913.com
 *.939394.xyz
 *.93966.com
@@ -22290,6 +22291,7 @@ ff00:*
 *.chmti.com
 *.chn-cstc.com
 *.chn-das.com
+*.chn-new-9sport.com
 *.chn0769.com
 *.chn112.com
 *.chn168.com
@@ -25140,6 +25142,7 @@ ff00:*
 *.cpeol.net
 *.cpepgc.com
 *.cpfia.org
+*.cpfwzs.com
 *.cpg-motor.com
 *.cphfgg.com
 *.cphiic.com
@@ -26083,6 +26086,7 @@ ff00:*
 *.cs27.com
 *.cs2c.com
 *.cs2ccloud.com
+*.cs2pw.com
 *.cs30.net
 *.cs451.com
 *.cs48.com
@@ -28263,6 +28267,7 @@ ff00:*
 *.dealsmake.com
 *.deansys.com
 *.dear520dear.com
+*.dearclick.com
 *.dearda.com
 *.dearedu.com
 *.dearisland.com
@@ -33398,6 +33403,7 @@ ff00:*
 *.excoino.com
 *.exd.design
 *.exdoll.com
+*.exedus.com.co
 *.exeedcars.com
 *.exexm.com
 *.exezhanqun.com
@@ -47455,6 +47461,7 @@ ff00:*
 *.horosama.com
 *.horou.com
 *.horphoto.com
+*.horsebrowser.com
 *.horsechinaone.com
 *.horti-expo2019.com
 *.hortor-comic.com
@@ -50582,6 +50589,7 @@ ff00:*
 *.ic-ldo.com
 *.ic-leasing.com
 *.ic-mag.com
+*.ic-spic.com
 *.ic-valley.com
 *.ic001.org
 *.ic2china.com
@@ -60417,6 +60425,7 @@ ff00:*
 *.kwaizt.com
 *.kwangfeng.com
 *.kwggroupholdings.com
+*.kwicdn.com
 *.kwimgs.com
 *.kwinbon.com
 *.kwise-log.com
@@ -73396,6 +73405,7 @@ ff00:*
 *.paihang8.com
 *.paihb.com
 *.paihotels.cc
+*.paihuisy.com
 *.paikew.com
 *.paiky.com
 *.paiky.net
@@ -73961,7 +73971,9 @@ ff00:*
 *.peipusci.com
 *.peise.net
 *.peisebiao.com
+*.peiwan.tv
 *.peiwanlu.com
+*.peiwantv.com
 *.peixianedu.com
 *.peixiang.com
 *.peixinbao.com
@@ -89913,6 +89925,7 @@ ff00:*
 *.tdchats.us
 *.tdchatvip.us
 *.tddmp.com
+*.tdfsm.com
 *.tdgdy.org
 *.tdgod.com
 *.tdiac.com
@@ -92931,6 +92944,7 @@ ff00:*
 *.tv002.com
 *.tv121.com
 *.tv189.com
+*.tv2-zuqiu.com
 *.tv20806.com
 *.tv373.com
 *.tvandnet.com
@@ -100611,6 +100625,7 @@ ff00:*
 *.xhytd.com
 *.xhyun.vip
 *.xhzysg.com
+*.xi-9.com
 *.xi-soft.com
 *.xi.su
 *.xi5jie.com
@@ -107445,6 +107460,7 @@ ff00:*
 *.yousheyoujia.com
 *.youshibeike.com
 *.youshifu.com
+*.youshihui.cc
 *.youshikoudai.com
 *.youshixiu.com
 *.youshop01.com
