@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-04 07:59:52
+; 更新时间：2026-02-05 08:01:06
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -17297,6 +17297,7 @@
 *.osiri-suki-club.com
 *.osl.com
 *.osm.org
+*.osmand.net
 *.osmfoundation.org
 *.ospray.net
 *.ospray.org
@@ -19787,6 +19788,7 @@
 *.seeurlpcl.com
 *.seevpn.com
 *.seezone.net
+*.sef.org.tw
 *.sego8.cc
 *.sego8.co
 *.sego8.xyz
