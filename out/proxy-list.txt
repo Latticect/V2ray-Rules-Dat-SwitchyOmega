@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-06 07:58:24
+; 更新时间：2026-02-07 08:00:35
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -3577,6 +3577,7 @@
 *.bitstamp.net
 *.bitstream.com
 *.bitterwinter.org
+*.bittorrent.com
 *.bittrex.com
 *.bitvise.com
 *.bitwarden.com
@@ -10733,6 +10734,7 @@
 *.helpeachpeople.com
 *.helpster.de
 *.helpzhuling.org
+*.hembed.com
 *.hentai-ani.me
 *.hentai-archive.com
 *.hentai-books.com
@@ -14381,6 +14383,8 @@
 *.mantan-web.jp
 *.mantochichi.com
 *.manurefetish.com
+*.manus.im
+*.manuscdn.com
 *.manytoon.com
 *.manyvids.com
 *.manyvoices.news
@@ -20377,6 +20381,7 @@
 *.sketchbooknews.com
 *.sketchbookpro.com
 *.sketchfab.com
+*.skills.sh
 *.skillshare.com
 *.skimtube.com
 *.skinstrip.net
@@ -22882,6 +22887,7 @@
 *.v-has.com
 *.v.gd
 *.v2.help
+*.v2.hysteria.network
 *.v2ex.com
 *.v2fly.org
 *.v2ph.com
