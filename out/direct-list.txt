@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-09 08:01:04
+; 更新时间：2026-02-10 09:03:45
 ; cn域名都不走代理
 *.cn
 
@@ -28317,6 +28317,7 @@ ff00:*
 *.ddcdn.com
 *.ddcheshi.com
 *.ddcits.com
+*.ddcorp.net
 *.ddcsjw.com
 *.ddcwl.com
 *.ddd-china.com
@@ -28333,6 +28334,7 @@ ff00:*
 *.ddedush.com
 *.ddfans.com
 *.ddfchina.com
+*.ddfresh.net
 *.ddfzb.com
 *.ddgjjj.com
 *.ddguanhuai.com
@@ -28356,7 +28358,9 @@ ff00:*
 *.ddky.com
 *.ddle.cc
 *.ddlequ.com
+*.ddmaicai.net
 *.ddmap.com
+*.ddmc.mobi
 *.ddmer.com
 *.ddmogo.com
 *.ddnddn.com
@@ -52041,6 +52045,7 @@ ff00:*
 *.imags-google.com
 *.imahui.com
 *.imaibo.net
+*.imaicai.mobi
 *.imaijia.com
 *.imaitu.com
 *.imalljoy.com
