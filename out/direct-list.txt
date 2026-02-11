@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-10 09:03:45
+; 更新时间：2026-02-11 09:02:32
 ; cn域名都不走代理
 *.cn
 
@@ -101878,6 +101878,7 @@ ff00:*
 *.xhslink.com
 *.xhslw.com
 *.xhsmlt.com
+*.xhsrcdn.com
 *.xhsrmyy.com
 *.xhsxmt.com
 *.xhsyqx.com
@@ -112620,6 +112621,7 @@ ff00:*
 *.zhipianbang.vip
 *.zhipin.com
 *.zhipingke.com
+*.zhipucn.com
 *.zhipuzi.com
 *.zhiqi.info
 *.zhiqiang.org
