@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-14 08:02:10
+; 更新时间：2026-02-15 07:59:07
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -20820,6 +20820,7 @@
 *.tomonews.net
 *.tomp3.cc
 *.tomsguide.com
+*.ton.org
 *.tonec.com
 *.tonicmovies.com
 *.toolforge.org
@@ -22435,6 +22436,7 @@
 *.wallmama.com
 *.wallpapercasa.com
 *.wallsttv.com
+*.wallzhihu.com
 *.walmart
 *.walmart-content.com
 *.walmart.com
