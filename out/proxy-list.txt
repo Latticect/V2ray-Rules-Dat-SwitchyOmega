@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-21 08:00:30
+; 更新时间：2026-02-22 07:58:08
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1258,6 +1258,7 @@
 *.akiba-online.com
 *.akiba-souken.com
 *.akiba-web.com
+*.akile.io
 *.akinator.com
 *.akita-bank.co.jp
 *.akow.org
@@ -2287,6 +2288,7 @@
 *.assembla.com
 *.assemblesystems.com
 *.assesphoto.com
+*.assets.nxtrace.org
 *.assetsadobe.com
 *.assimp.org
 *.assistirhentai.com
@@ -14005,6 +14007,7 @@
 *.medium.systems
 *.medow.ru
 *.medrxiv.org
+*.meee.com.tw
 *.meendo.com
 *.meet.new
 *.meetandfuck.games
@@ -16353,6 +16356,7 @@
 *.opencas.io
 *.opencollective.com
 *.opencreate.org
+*.opencritic.com
 *.opendemocracy.net
 *.opendns.com
 *.opendroneid.org
@@ -23075,6 +23079,7 @@
 *.www.ajsands.com
 *.www.antd.org
 *.www.aolnews.com
+*.www.clashverge.dev
 *.www.cmoinc.org
 *.www.destinationurl.com
 *.www.eastturkistan.net
