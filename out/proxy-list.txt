@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-02-25 08:58:32
+; 更新时间：2026-02-26 08:02:08
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -642,6 +642,7 @@
 *.aboutamazon.it
 *.aboutamazon.jp
 *.aboutamazon.pl
+*.aboutamazon.sg
 *.aboutfacebook.com
 *.aboutmcdonalds.com
 *.aboutporno.net
@@ -1512,23 +1513,34 @@
 *.amazon-launchpad.com
 *.amazon.ae
 *.amazon.ca
+*.amazon.cl
 *.amazon.co.jp
 *.amazon.co.uk
+*.amazon.co.za
 *.amazon.com
 *.amazon.com.au
+*.amazon.com.be
 *.amazon.com.br
+*.amazon.com.co
 *.amazon.com.mx
+*.amazon.com.ng
 *.amazon.com.tr
 *.amazon.de
 *.amazon.dev
+*.amazon.eg
 *.amazon.es
 *.amazon.fr
+*.amazon.ie
 *.amazon.in
 *.amazon.it
 *.amazon.jobs
 *.amazon.jp
+*.amazon.lu
 *.amazon.nl
+*.amazon.pl
 *.amazon.red
+*.amazon.sa
+*.amazon.se
 *.amazon.sg
 *.amazonalexavoxcon.com
 *.amazonauthorinsights.com
@@ -2658,6 +2670,7 @@
 *.awsthinkbox.com
 *.awstrack.me
 *.awstrust.com
+*.awswaf.com
 *.awwcn.buzz
 *.awwcn.xyz
 *.awxcdn.com
@@ -18784,6 +18797,7 @@
 *.searx.me
 *.seasidestory.tokyo
 *.seattlefdc.com
+*.seattlespheres.com
 *.secom.co.jp
 *.secomtrust.net
 *.second-ns.com
