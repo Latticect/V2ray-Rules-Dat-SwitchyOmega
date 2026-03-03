@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-02 07:58:30
+; 更新时间：2026-03-03 08:01:49
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -12289,6 +12289,7 @@
 *.jav.la
 *.jav.land
 *.jav.place
+*.jav.sb
 *.jav.si
 *.jav.wine
 *.jav01.cc
@@ -12362,6 +12363,7 @@
 *.javher.com
 *.javheroine.com
 *.javhihi.com
+*.javhub.com
 *.javhub.me
 *.javhub.net
 *.javhuge.com
@@ -12397,6 +12399,7 @@
 *.javpub.me
 *.javpush.com
 *.javqd.com
+*.javquick.com
 *.javrank.com
 *.javrate.com
 *.javrave.club
