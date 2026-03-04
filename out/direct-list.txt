@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-03 08:01:49
+; 更新时间：2026-03-04 08:00:06
 ; cn域名都不走代理
 *.cn
 
@@ -2316,6 +2316,7 @@ ff00:*
 *.17293879b10261.beer
 *.172haoka.vip
 *.172l.com
+*.172mix.com
 *.172tt.com
 *.172xiaoyuan.com
 *.173.com
@@ -58720,6 +58721,7 @@ ff00:*
 *.juziss.com
 *.juzistore.com
 *.juzisy.com
+*.juziwulian.com
 *.juzix.io
 *.juzizhoutou.net
 *.juzone.cc
