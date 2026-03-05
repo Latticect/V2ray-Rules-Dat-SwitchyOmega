@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-04 08:00:06
+; 更新时间：2026-03-05 08:00:54
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -12469,6 +12469,7 @@
 *.jessicaturner.co.uk
 *.jessicaturner.com
 *.jetbrains.ai
+*.jetbrains.cloud
 *.jetbrains.com
 *.jetbrains.net
 *.jetbrains.space
