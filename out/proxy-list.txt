@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-06 09:00:13
+; 更新时间：2026-03-07 07:59:55
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -11957,6 +11957,7 @@
 *.inventorfusion.com
 *.inventorseries.com
 *.inventorship.com.au
+*.investing.com
 *.investorschronicle.co.uk
 *.invidio.us
 *.invity.io
@@ -15032,6 +15033,7 @@
 *.musixmatch.com
 *.mut.ch
 *.muthead.com
+*.muvluv-girls-garden.com
 *.muycerdas.xxx
 *.muyzorras.com
 *.muzi.com
@@ -16342,6 +16344,7 @@
 *.onlyams.com
 *.onlycartoonsex.com
 *.onlydudes.com
+*.onlyfans.com
 *.onlyfanspw.com
 *.onlyfreelatinaporn.com
 *.onlygayvideo.com
@@ -18862,6 +18865,7 @@
 *.sellercommunity.com
 *.semanticscholar.org
 *.sena.co.kr
+*.sendvid.com
 *.seneporno.com
 *.seniortgp.com
 *.senpaiheat.com
@@ -21607,6 +21611,7 @@
 *.ustream.tv
 *.usvimosquito.com
 *.usvimosquitoproject.com
+*.utdstc.com
 *.utopianpal.com
 *.uug22.com
 *.uug23.com
@@ -24009,6 +24014,8 @@
 *.youjism.com
 *.youjizz.com
 *.youjizz.sex
+*.youla.io
+*.youla.ru
 *.youlucky.com
 *.youmaker.com
 *.youmind.ai
@@ -24541,6 +24548,7 @@ antigravity.googleapis.com
 aod-pod-uk-live.akamaized.net
 api-p.videomarket.jp
 api.viu.now.com
+apkmirror.disqus.com
 apl-hamivideo.cdn.hinet.net
 apple-tv-plus-press.apple.com
 apple.com.akadns.net
@@ -24929,6 +24937,8 @@ spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
 ssl-lvlt.cdn.ea.com
+st-ok-pts.cdn-vk.ru
+st-ok.cdn-vk.ru
 standchartbank.sc.omtrdc.net
 standchartbank.tt.omtrdc.net
 static-hamivideo.cdn.hinet.net
@@ -25154,6 +25164,7 @@ wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
 yandex-pogoda.static-storage.net
 yangzhi.app
+youla-web-static.mrgcdn.ru
 yt3.googleusercontent.com
 zeenews-fonts.s3.amazonaws.com
 HostRegex: (^|\.)13mei[5-7]\.buzz$
