@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-07 07:59:55
+; 更新时间：2026-03-08 07:57:28
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1796,6 +1796,7 @@
 *.app-dynamics.com
 *.app-measurement-cn.com
 *.app-measurement.com
+*.app-pay.jp
 *.app-store.wang
 *.app.box.com
 *.app.smartmailcloud.com
@@ -18628,6 +18629,7 @@
 *.samsunggalaxyfriends.com
 *.samsunghealth.com
 *.samsungiotcloud.com
+*.samsungiots.com
 *.samsungknox.com
 *.samsungosp.com
 *.samsungqbe.com
@@ -19473,6 +19475,7 @@
 *.smartonesolutions.com.hk
 *.smartonesolutions.hk
 *.smartstream.ne.jp
+*.smartthings.com
 *.smashed.xxx
 *.smbc.co.jp
 *.smbctb.co.jp
