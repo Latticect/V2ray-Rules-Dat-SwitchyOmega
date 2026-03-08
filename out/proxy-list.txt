@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-08 07:57:28
+; 更新时间：2026-03-09 07:59:01
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7045,6 +7045,7 @@
 *.dynamobuilds.com
 *.dynamopackages.com
 *.dynamoreach.com
+*.dynatrace.com
 *.dynawebinc.com
 *.dyncdn.me
 *.dynu.com
@@ -8093,6 +8094,7 @@
 *.familypies.net
 *.familyporn.tv
 *.familypornhd.com
+*.familysearch.org
 *.familysexsimulator.com
 *.familysimulator.com
 *.familysimulator.io
@@ -19186,6 +19188,7 @@
 *.shit-porn.net
 *.shithd.com
 *.shitjav.com
+*.shitjournal.org
 *.shittytube.com
 *.shixiao.org
 *.shizhao.org
@@ -24591,7 +24594,6 @@ cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
 cdn-spotify-experiments.conductrics.com
 cdn.js7k.com
-cdn.jsdelivr.net
 cdngarenanow-a.akamaihd.net
 chinapower.csis.org
 cisco.evergage.com

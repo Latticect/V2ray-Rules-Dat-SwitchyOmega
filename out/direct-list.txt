@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-08 07:57:28
+; 更新时间：2026-03-09 07:59:01
 ; cn域名都不走代理
 *.cn
 
@@ -6484,6 +6484,7 @@ ff00:*
 *.52playgame.com
 *.52pojie.com
 *.52post.com
+*.52ppt.com
 *.52qixiang.com
 *.52qmct.com
 *.52qqba.com
@@ -14765,6 +14766,7 @@ ff00:*
 *.badmintoncn.com
 *.badmintone.com
 *.badong.net
+*.badou.com
 *.badouxueyuan.com
 *.badu.com
 *.badudns.cc
@@ -45800,6 +45802,7 @@ ff00:*
 *.haohanpower.tech
 *.haohanstar.com
 *.haohao8888.com
+*.haohaodoc.com
 *.haohaotuan.com
 *.haohaowan.com
 *.haohaowan.net
@@ -63238,6 +63241,7 @@ ff00:*
 *.lazycatmicroserver.com
 *.lazycomposer.com
 *.lazydim.com
+*.lazyer.net
 *.lazymap.com
 *.lazyren.com
 *.lazystones.com
@@ -100209,6 +100213,7 @@ ff00:*
 *.wenjuanshow.com
 *.wenjuntech.com
 *.wenkaoba.com
+*.wenkeju.com
 *.wenku.in
 *.wenku.net
 *.wenku365.com
