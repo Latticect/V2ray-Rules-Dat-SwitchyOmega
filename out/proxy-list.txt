@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-23 08:02:28
+; 更新时间：2026-03-24 08:02:14
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -16412,6 +16412,7 @@
 *.openlibrary.org
 *.openmaps.org
 *.openreality.com
+*.openrec.tv
 *.openresty.org
 *.openreview.net
 *.openrouter.ai
@@ -18588,6 +18589,7 @@
 *.s-nbcnews.com
 *.s-rewards.hk
 *.s-xoom.com
+*.s.rmimg.com
 *.s.team
 *.s1s1s1.com
 *.s2csntp.miz.nao.ac.jp
@@ -24679,6 +24681,7 @@ dmqdd6hw24ucf.cloudfront.net
 docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 docker-pinata-support.s3.amazonaws.com
 download.visualstudio.microsoft.com
+dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 ds-linear-abematv.akamaized.net
 ds-vod-abematv.akamaized.net
