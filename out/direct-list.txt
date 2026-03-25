@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-24 08:02:14
+; 更新时间：2026-03-25 08:56:40
 ; cn域名都不走代理
 *.cn
 
@@ -104356,7 +104356,6 @@ ff00:*
 *.xiaomidns.com
 *.xiaomidns.net
 *.xiaomiev.com
-*.xiaomiflash.com
 *.xiaomiinc.net
 *.xiaomimimo.com
 *.xiaomimobile.com

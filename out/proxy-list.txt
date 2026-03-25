@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-24 08:02:14
+; 更新时间：2026-03-25 08:56:40
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -16555,8 +16555,15 @@
 *.ozeex.com
 *.ozodi.org
 *.ozodlik.org
+*.ozon.by
+*.ozon.com
+*.ozon.com.by
+*.ozon.com.kz
+*.ozon.kz
 *.ozon.ru
+*.ozon.tm
 *.ozone.ru
+*.ozonru.me
 *.ozonusercontent.com
 *.ozvoice.org
 *.pa9pal.com
@@ -23324,6 +23331,7 @@
 *.xiaolan.me
 *.xiaoma.org
 *.xiaomi.eu
+*.xiaomiflash.com
 *.xiaoou.io
 *.xiaoou.tv
 *.xiaoshuobb.life
@@ -23371,6 +23379,7 @@
 *.xmoviesforyou.com
 *.xn--096-4g6em5t.com
 *.xn--11xs86f.icu
+*.xn--1jqvh729avzfcy2d8ummib.com
 *.xn--201-4g6em5t.com
 *.xn--202-4g6em5t.com
 *.xn--203-4g6em5t.com
