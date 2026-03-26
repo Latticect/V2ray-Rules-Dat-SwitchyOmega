@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-25 08:56:40
+; 更新时间：2026-03-26 09:01:15
 ; cn域名都不走代理
 *.cn
 
@@ -12898,6 +12898,7 @@ ff00:*
 *.anhuisjx.com
 *.anhuisuya.com
 *.anhuiwine.com
+*.anhuiyun.com
 *.anhuizk.com
 *.ani-sh.com
 *.aniccw.net
@@ -118096,6 +118097,7 @@ crls.pki.goog
 csi.gstatic.com
 cstat.apple.com
 cstat.cdn-apple.com
+ctdsb.clouddiffuse.xyz
 ctldl.windowsupdate.com
 cueme-api.quark.cn
 customization-cdn.dell.com
