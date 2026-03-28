@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-03-27 09:01:26
+; 更新时间：2026-03-28 08:02:28
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -18604,7 +18604,6 @@
 *.s-nbcnews.com
 *.s-rewards.hk
 *.s-xoom.com
-*.s.rmimg.com
 *.s.team
 *.s1s1s1.com
 *.s2csntp.miz.nao.ac.jp
