@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-05 09:04:32
+; 更新时间：2026-04-06 09:04:41
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6725,6 +6725,7 @@
 *.dogmovie.net
 *.dogofcum.com
 *.dogspics.net
+*.doh.sb
 *.doi.info
 *.doi.org
 *.dojin-dl.com
@@ -6763,6 +6764,7 @@
 *.doseofporn.com
 *.dot-mac.de
 *.dot.net
+*.dot.sb
 *.dotcernpilot.info
 *.dotdeb.org
 *.dotfacebook.com
