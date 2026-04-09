@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-08 09:04:39
+; 更新时间：2026-04-09 08:53:46
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -14172,7 +14172,6 @@
 *.meetandfuckgames.com
 *.meetfasttrack.com
 *.meetsmartbook.com
-*.meetup.com
 *.meetyourdevices.com
 *.mega.co.nz
 *.mega.io
@@ -18085,7 +18084,6 @@
 *.python.com.tw
 *.python.org
 *.pythonhosted.org
-*.pytorch.org
 *.pzforever.skin
 *.pzforever01.homes
 *.pzhanfor.today
