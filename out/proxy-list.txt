@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-09 08:53:46
+; 更新时间：2026-04-10 09:04:42
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1714,11 +1714,9 @@
 *.ankarazirvesi2018.com
 *.anm.co.uk
 *.annamilk.com
-*.annas-archive.in
-*.annas-archive.li
-*.annas-archive.org
-*.annas-archive.pm
-*.annas-archive.se
+*.annas-archive.gd
+*.annas-archive.gl
+*.annas-archive.pk
 *.annstores.net
 *.annualpelvicexam.com
 *.annualreviews.org
@@ -4624,6 +4622,7 @@
 *.c3pool.com
 *.c4rex.co
 *.c4slive.com
+*.cabconnect.org
 *.cableav.tv
 *.cableav.xyz
 *.cablegatesearch.net
@@ -4723,6 +4722,7 @@
 *.candidforum-videos.com
 *.candycumcity.com
 *.candypleasure.com
+*.canny.io
 *.canon
 *.canon-cee.com
 *.canon-cmos-sensors.com
@@ -6895,6 +6895,7 @@
 *.dreprofy.com
 *.drgan.net
 *.dribbble.com
+*.driveawaytaxi.org
 *.driverxxx.com
 *.drivevideo.xyz
 *.driving.co.uk
@@ -7553,6 +7554,9 @@
 *.entrust.com
 *.entrust.net
 *.entrustdatacard.com
+*.envato-static.com
+*.envato.com
+*.envatousercontent.com
 *.eotarchive.org
 *.epicbrowser.com
 *.epicgames.com
@@ -9651,6 +9655,7 @@
 *.gofundme.com
 *.gog-statics.com
 *.gog.com
+*.gogettaxi.org
 *.gogle.com
 *.gogo-load.com
 *.gogoanime.vc
@@ -10018,6 +10023,7 @@
 *.gotraffic.net
 *.gotrusted.com
 *.gotw.ca
+*.goup.ai
 *.gouri.xyz
 *.gov.ir
 *.gov.taipei
@@ -10273,6 +10279,7 @@
 *.hayabusa.media
 *.hayday.com
 *.haydaygame.com
+*.hayya.ae
 *.hbabit.com
 *.hbfile.net
 *.hbg.com
@@ -12639,6 +12646,21 @@
 *.jiuse821.com
 *.jiuse822.com
 *.jiuse823.com
+*.jivo.chat
+*.jivo.ru
+*.jivochat.co.in
+*.jivochat.co.za
+*.jivochat.com
+*.jivochat.com.br
+*.jivochat.com.co
+*.jivochat.com.pe
+*.jivochat.com.tr
+*.jivochat.de
+*.jivochat.es
+*.jivochat.ng
+*.jivochat.ru
+*.jivosite.com
+*.jivosite.ru
 *.jiyou520.com
 *.jiyu-kobo.co.jp
 *.jizzboom.com
@@ -15197,6 +15219,7 @@
 *.my-enema.com
 *.my-formosa.com
 *.my-magazine.me
+*.my-manager-account.com
 *.my-private-network.co.uk
 *.my.pcloud.com
 *.my13la.com
@@ -20430,6 +20453,7 @@
 *.superzooi.com
 *.supjav.com
 *.supplybestjerseys.com
+*.support-uber.com
 *.supportfacebook.com
 *.supremacy.com
 *.supremacy.net
@@ -20644,7 +20668,10 @@
 *.tawny-peaks.com
 *.taxel.media
 *.taxi69.com
+*.taxiaid.org
 *.taxidrivermovie.com
+*.taxiguru.org
+*.taxitax.org
 *.taylorandfrancis.com
 *.taylorfrancis.com
 *.tbank-online.com
@@ -20680,7 +20707,6 @@
 *.technogym.su
 *.technologyandsociety.org
 *.techradar.com
-*.techspot.com
 *.techstreet.com
 *.techtimes.com
 *.techtudo.com
@@ -20734,7 +20760,6 @@
 *.telegram.org
 *.telegram.space
 *.telegramdownload.com
-*.telegraph.co.uk
 *.telekom.com
 *.telekom.de
 *.telesco.pe
@@ -20918,6 +20943,7 @@
 *.theman.in
 *.themarvelexperiencetour.com
 *.themathsfactor.com
+*.themeforest.net
 *.themercury.com.au
 *.themessengeradelaide.com.au
 *.themilfmovies.com
@@ -21902,6 +21928,7 @@
 *.uvwxyz.xyz
 *.uwants.com
 *.uwpcommunitytoolkit.com
+*.uxthemes.com
 *.uyghur-j.org
 *.uyghuraa.org
 *.uyghuramerican.org
@@ -24189,9 +24216,23 @@
 *.yandexadexchange.net
 *.yandexcloud.net
 *.yandexcom.net
+*.yandexgo.com
 *.yandexlyceum.ru
 *.yandexwebcache.net
 *.yandexwebcache.org
+*.yango-b2b.com
+*.yango-team.com
+*.yango-tech.com
+*.yango.africa
+*.yango.ao
+*.yango.bh
+*.yango.co.il
+*.yango.com
+*.yango.fi
+*.yango.qa
+*.yango.taxi
+*.yango.tech
+*.yangofellowship.com
 *.yangzhi.org
 *.yantaqu.com
 *.yaohubaba.com
@@ -25065,15 +25106,20 @@ ntp-b.nist.gov
 ntp-c.colorado.edu
 ntp-d.nist.gov
 ntp-wwv.nist.gov
+ntp.time.nl
 ntp.ubuntu.com
 ntp0.ntp-servers.net
 ntp1.ntp-servers.net
+ntp1.time.nl
 ntp2.ntp-servers.net
+ntp2.time.nl
 ntp3.ntp-servers.net
 ntp4.ntp-servers.net
 ntp5.ntp-servers.net
 ntp6.ntp-servers.net
 ntp7.ntp-servers.net
+ntppool1.time.nl
+ntppool2.time.nl
 nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 nvidia.custhelp.com
 nvidia.tt.omtrdc.net

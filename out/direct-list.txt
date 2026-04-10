@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-09 08:53:46
+; 更新时间：2026-04-10 09:04:42
 ; cn域名都不走代理
 *.cn
 
@@ -13185,6 +13185,7 @@ ff00:*
 *.anysql.net
 *.anystandards.com
 *.anytesting.com
+*.anytocopy.com
 *.anyun100.com
 *.anyunjianzhan.com
 *.anyv.net
@@ -29095,6 +29096,7 @@ ff00:*
 *.daoboime.com
 *.daochen.com
 *.daocloud.io
+*.daocloud.vip
 *.daocloudapp.com
 *.daodao.com
 *.daodaojizhang.com
@@ -38610,6 +38612,7 @@ ff00:*
 *.gamenow.club
 *.gameol.com
 *.gamepingce.com
+*.gamepp.com
 *.gamer520.net
 *.gamerboom.com
 *.gameres.com
@@ -47540,6 +47543,7 @@ ff00:*
 *.hezijia.com
 *.hezimi.com
 *.hezongyy.com
+*.hezuvip.com
 *.hf-alu.com
 *.hf-aw.com
 *.hf-iflysse.com
@@ -75237,6 +75241,7 @@ ff00:*
 *.osaaa.com
 *.osakacopyshop.com
 *.osase.net
+*.osbdf.com
 *.osbean.com
 *.osbkj.com
 *.osbzr.com
@@ -83535,6 +83540,7 @@ ff00:*
 *.scqy100.com
 *.scraij.com
 *.scrape.center
+*.scratch5.com
 *.scratchmirror.com
 *.scratchmirror.net
 *.scrc168.com
@@ -88791,6 +88797,7 @@ ff00:*
 *.soulapp.me
 *.soulgame.mobi
 *.soulsky.net
+*.soulteary.com
 *.soulu365.com
 *.souluo.net
 *.souluojie.com
@@ -93985,6 +93992,7 @@ ff00:*
 *.tillcn.com
 *.tillglance.com
 *.timanetworks.com
+*.timbrd.com
 *.time-weekly.com
 *.time-year.com
 *.timecoo.com
@@ -101094,6 +101102,7 @@ ff00:*
 *.wilddog.com
 *.wilddream.net
 *.wildfire.work
+*.wildfirechat.net
 *.wildgun.net
 *.wildhorde.com
 *.wildto.com
