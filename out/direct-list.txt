@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-11 09:00:49
+; 更新时间：2026-04-12 09:07:46
 ; cn域名都不走代理
 *.cn
 
@@ -32306,6 +32306,7 @@ ff00:*
 *.dubairen.com
 *.dubao123.com
 *.dubbing.tech
+*.dubbingx.com
 *.dubbo.io
 *.duble.live
 *.dubola.com
@@ -69028,6 +69029,7 @@ ff00:*
 *.miaocode.com
 *.miaodiyun.com
 *.miaodongbar.com
+*.miaodongshenghuo.com
 *.miaogongzi.cc
 *.miaogongzi.net
 *.miaohuiyanyi.com
@@ -80022,6 +80024,7 @@ ff00:*
 *.quaspa.com
 *.quazero.com
 *.quba360.com
+*.qubang.cc
 *.qubaobei.com
 *.qubiankeji.com
 *.qucai.com
@@ -95398,6 +95401,7 @@ ff00:*
 *.tsg-online.net
 *.tsggx.com
 *.tsgks.com
+*.tsgyun.com
 *.tshaisen.com
 *.tshe.com
 *.tshe.me
@@ -110481,6 +110485,7 @@ ff00:*
 *.yooek.com
 *.yoofh.com
 *.yoogene.com
+*.yoohe.net
 *.yoohouse.com
 *.yoojia.com
 *.yoojing.com
