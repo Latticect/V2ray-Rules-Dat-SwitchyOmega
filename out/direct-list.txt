@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-14 09:10:10
+; 更新时间：2026-04-15 09:08:52
 ; cn域名都不走代理
 *.cn
 
@@ -11770,6 +11770,7 @@ ff00:*
 *.ailvxing.com
 *.aim-ec.com
 *.aimaker.space
+*.aimap.com
 *.aimatech.com
 *.aimatrix.ai
 *.aimcx.com
@@ -17423,6 +17424,7 @@ ff00:*
 *.bjfqy.com
 *.bjfriendshiphotel.com
 *.bjfsali.com
+*.bjftfy.com
 *.bjfzst.com
 *.bjgas.com
 *.bjgasgh.com
@@ -21311,6 +21313,7 @@ ff00:*
 *.cetgps.com
 *.cethik.com
 *.cetkmh.com
+*.cetsteam.com
 *.cetzig.com
 *.ceultimate.com
 *.ceve-market.org
@@ -35000,6 +35003,7 @@ ff00:*
 *.evpartner.com
 *.evpowergroup.com
 *.evtcn.com
+*.evtrust.com
 *.evyy.net
 *.evzhidao.com
 *.evznl.org
@@ -36955,6 +36959,7 @@ ff00:*
 *.fk100.com
 *.fkask.net
 *.fkblog.org
+*.fkbuff.com
 *.fkcaijing.com
 *.fkdex.com
 *.fkdmg.com
@@ -38652,6 +38657,7 @@ ff00:*
 *.gangqinxiansheng.com
 *.gangshenglian.com
 *.gangtise.com
+*.gangwan.com
 *.gangyu.org
 *.gangyuan.com
 *.ganhao.vip
@@ -48121,6 +48127,7 @@ ff00:*
 *.hivictor.net
 *.hiwafer.com
 *.hiwaysemi.com
+*.hiwayslaw.com
 *.hiwbb.com
 *.hiwechats.com
 *.hiweixiu.com
@@ -59870,6 +59877,7 @@ ff00:*
 *.jxxdxy.com
 *.jxxhdn.com
 *.jxxhsd.com
+*.jxxinzhe.com
 *.jxxnyqc.com
 *.jxxs.net
 *.jxycqy.com
@@ -63664,6 +63672,7 @@ ff00:*
 *.leidacj.com
 *.leidianip.com
 *.leigod.com
+*.leigodjsq.com
 *.leihetg.com
 *.leihuo.net
 *.leijue.net
@@ -73374,6 +73383,7 @@ ff00:*
 *.nnbdfyy.com
 *.nnbnutritionchina.com
 *.nnboao.com
+*.nnbooster.com
 *.nnboyi.com
 *.nnbsjyk.com
 *.nnbtl.com
@@ -92905,6 +92915,7 @@ ff00:*
 *.tencentcloudclub.com
 *.tencentcloudcore.com
 *.tencentcloudcr.com
+*.tencentcloudcs.com
 *.tencentcloudga.com
 *.tencentcloudga001.com
 *.tencentcloudga001.net
@@ -98788,6 +98799,7 @@ ff00:*
 *.waibao12333.com
 *.waibaodashi.com
 *.waibou.com
+*.waifushangcheng.com
 *.waig8.com
 *.waigamer.com
 *.waigf.com
