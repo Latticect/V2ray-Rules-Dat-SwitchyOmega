@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-20 09:11:21
+; 更新时间：2026-04-21 09:09:56
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -14839,6 +14839,7 @@
 *.minilondon.co
 *.minimarkham.ca
 *.minimarkham.com
+*.minimax.io
 *.minimoncton.ca
 *.minimoncton.com
 *.minimontrealcentre.ca
@@ -19273,6 +19274,7 @@
 *.scolle.net
 *.scoop.sh
 *.scopus.com
+*.scorecardresearch.com
 *.scoreclassics.com
 *.scorediscounts.club
 *.scoregroup.com
