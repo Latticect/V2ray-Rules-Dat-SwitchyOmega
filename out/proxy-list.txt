@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-21 09:09:56
+; 更新时间：2026-04-22 09:06:21
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -11820,6 +11820,7 @@
 *.improd.works
 *.imstagram.com
 *.imtagram.com
+*.imtintl.com
 *.imzog.com
 *.inaporn.com
 *.inasian.club
