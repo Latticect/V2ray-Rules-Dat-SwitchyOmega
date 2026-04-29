@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-04-28 09:22:40
+; 更新时间：2026-04-29 09:25:33
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -22243,6 +22243,7 @@
 *.upornia.com
 *.uporno.xxx
 *.uproxy.org
+*.upsangel.com
 *.uptodown.com
 *.ura-akiba.jp
 *.uraban.me
