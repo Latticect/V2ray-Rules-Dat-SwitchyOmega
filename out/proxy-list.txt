@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-07 09:24:04
+; 更新时间：2026-05-08 09:26:55
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -22288,6 +22288,7 @@
 *.ultravpn.fr
 *.uma.media
 *.umagazine.com.hk
+*.umap.openstreetmap.fr
 *.umass.edu
 *.umbrella.com
 *.umschool.net
