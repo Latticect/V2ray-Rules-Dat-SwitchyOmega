@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-09 09:24:23
+; 更新时间：2026-05-10 09:26:00
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5540,7 +5540,6 @@
 *.cn.sandscotaicentral.com
 *.cn.shafaqna.com
 *.cna.com.tw
-*.cnappinstall.googleadapis.com
 *.cnbc.com
 *.cnbcfm.com
 *.cnbeta.com
@@ -5717,7 +5716,6 @@
 *.contactossexoecuador.com
 *.containersonaws.com
 *.contechacademy.com
-*.content.googleadapis.com
 *.contentful.com
 *.contest.com
 *.convrgencegame.com
@@ -6907,7 +6905,6 @@
 *.dowjoneson.com
 *.download.com
 *.download.dappcdn.com
-*.download.qatp1.net
 *.downloadpass.com
 *.downloadsforipod.com
 *.dpool.top
@@ -13045,6 +13042,7 @@
 *.justporno.tv
 *.justswallows.com
 *.justusboys.com
+*.justveryok.com
 *.juyangbee.xyz
 *.juyangto.info
 *.juzi-js.shop
@@ -13202,6 +13200,7 @@
 *.kex.com
 *.keybase.io
 *.keybaseapi.com
+*.keyboardmen.com
 *.keycdn.com
 *.keyhole.com
 *.keyporntube.com
@@ -15198,7 +15197,6 @@
 *.mongodb.org
 *.monica.im
 *.monitorchina.org
-*.monitoring.qpdp1.net
 *.monitrix.net
 *.mono-project.com
 *.monocloud.me
@@ -16649,7 +16647,15 @@
 *.oculusrift.com
 *.oculusvr.com
 *.odkl.ru
+*.odnoklasniki.by
+*.odnoklasniki.ua
+*.odnoklassniki.am
+*.odnoklassniki.by
+*.odnoklassniki.co.ee
+*.odnoklassniki.eu
+*.odnoklassniki.lv
 *.odnoklassniki.ru
+*.odnoklassniki.tj
 *.odysee.com
 *.oecd-ilibrary.org
 *.oed.com
@@ -18450,7 +18456,6 @@
 *.q10.jp
 *.q13.com
 *.q13fox.com
-*.qagpublic.qatp1.net
 *.qatarescortsvip.com
 *.qattdh.cc
 *.qattdh.top
@@ -18463,7 +18468,6 @@
 *.qcomgeo2.com
 *.qctconnect.com
 *.qdiehzz7.me
-*.qgadmin.qcpp1.net
 *.qgirl.com.tw
 *.qi-gong.me
 *.qianbai.tw
@@ -18523,8 +18527,6 @@
 *.qualcommventures.cn
 *.qualcommventures.com
 *.qualphone.com
-*.qualysapi.qatp1.net
-*.qualysguard.qpdp1.net
 *.quanben-xiaoshuo.com
 *.quanben.io
 *.quantil.com
@@ -18594,6 +18596,7 @@
 *.r18lu.com
 *.r2.dev
 *.r34porn.net
+*.rabbitcounter.com
 *.rabbitscams.com
 *.rabbitscams.sex
 *.rabbitsreviews.com
@@ -19287,6 +19290,7 @@
 *.savitahd.net
 *.savoycomputing.com
 *.savvyshopper.net.au
+*.sayeasy.eu
 *.saynow.com
 *.sb-cd.com
 *.sb-mobile.jp
@@ -19336,7 +19340,6 @@
 *.scaleform.com
 *.scandalplanet.com
 *.scanlover.com
-*.scanservice1.qcpp1.net
 *.scartel.ru
 *.scat-enema.com
 *.scat-japan.com
