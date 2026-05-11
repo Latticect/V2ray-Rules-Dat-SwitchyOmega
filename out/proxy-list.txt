@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-10 09:26:00
+; 更新时间：2026-05-11 09:30:16
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6101,6 +6101,7 @@
 *.data-tscbank.ru
 *.data-vocabulary.org
 *.data.com
+*.data18.com
 *.datacloudmy.com
 *.dataframeworks.com
 *.dataliberation.org
@@ -7035,6 +7036,7 @@
 *.dstk.dk
 *.dswz88.xyz
 *.dsyiren.com
+*.dt18.com
 *.dtci.co
 *.dtci.technology
 *.dtiblog.com
@@ -9551,6 +9553,7 @@
 *.gettyimages.us
 *.getuploader.com
 *.getws1.com
+*.getwsj.com
 *.getwsone.com
 *.getzola.org
 *.gfacecbook.com
@@ -12683,6 +12686,7 @@
 *.javdove.com
 *.javdove8.xyz
 *.javextreme.net
+*.javfc2.xyz
 *.javfilms.com
 *.javfinder.ai
 *.javfor.me
