@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-14 09:47:11
+; 更新时间：2026-05-15 09:32:06
 ; cn域名都不走代理
 *.cn
 
@@ -1690,7 +1690,6 @@ ff00:*
 *.11wow.com
 *.11xotn7p.com
 *.11yinyuan.com
-*.11zhang.com
 *.120.net
 *.1204cm.com
 *.120918.com
@@ -2233,7 +2232,6 @@ ff00:*
 *.16hyt.com
 *.16ker.com
 *.16lao.com
-*.16map.com
 *.16p.com
 *.16pic.com
 *.16rd.com
@@ -4243,7 +4241,6 @@ ff00:*
 *.363u.com
 *.364000.com
 *.365.com
-*.365.hk
 *.36500.com
 *.36500.net
 *.365128.com
@@ -6415,7 +6412,6 @@ ff00:*
 *.546709.cc
 *.5467b.vip
 *.54780.org
-*.54948888.vip
 *.5499.com
 *.5499ok.com
 *.54ak.com
@@ -8037,7 +8033,6 @@ ff00:*
 *.777biubiu.com
 *.777dd.life
 *.777e.store
-*.777eee888eee.com
 *.777haoka.com
 *.777lala.com
 *.777moban.com
@@ -9944,7 +9939,6 @@ ff00:*
 *.9dwork.com
 *.9e707bdb763386bf.com
 *.9eacc080d10291.beer
-*.9ead.com
 *.9eae58cbc333acf8.com
 *.9earth.com
 *.9efca2b9a1009.beer
@@ -12610,6 +12604,7 @@ ff00:*
 *.anrlm.com
 *.anruan.com
 *.anruichina.com
+*.anruidm.com
 *.ansendun.com
 *.anshahouse.com
 *.anshibuff.com
@@ -14653,6 +14648,7 @@ ff00:*
 *.bajintech.com
 *.baka.im
 *.baka.plus
+*.bakapiano.com
 *.bakaxl.com
 *.bakbitionb.com
 *.bakclass.com
@@ -25212,7 +25208,6 @@ ff00:*
 *.coinglo.store
 *.coinhaven.store
 *.coinnice.com
-*.coinrobotics.com
 *.coins-carnival.com
 *.coinsky.com
 *.coinvs.com
@@ -27691,7 +27686,6 @@ ff00:*
 *.dabaise.com
 *.dabangong.com
 *.dabangsoft.com
-*.dabanke.com
 *.dabao123.com
 *.dabao22.com
 *.dabaoge.host
@@ -30396,7 +30390,6 @@ ff00:*
 *.dodjoy.com
 *.dodo8.com
 *.dodobook.net
-*.dodoca.com
 *.dodoeasy.com
 *.dodoedu.com
 *.dodoh5.com
@@ -30450,7 +30443,6 @@ ff00:*
 *.dolfindnsx.net
 *.dolgma.com
 *.dolike.com
-*.doll-leaves.com
 *.doll-zone.com
 *.dollphoin.site
 *.dollun.com
@@ -36386,7 +36378,6 @@ ff00:*
 *.fs-czx.com
 *.fs-eliza.com
 *.fs-qiyun.com
-*.fs.microsoft.com
 *.fs0757.com
 *.fs121.com
 *.fs1982.com
@@ -38910,7 +38901,6 @@ ff00:*
 *.gjxx.com
 *.gjxzq.com
 *.gjydz.com
-*.gjyfish.com
 *.gjyuxiang.com
 *.gjyys.com
 *.gjzy.com
@@ -40083,6 +40073,7 @@ ff00:*
 *.gsgs10086.com
 *.gsgundam.com
 *.gshangju.com
+*.gshdw.cyou
 *.gshis.net
 *.gshmhotels.com
 *.gshopper.com
@@ -43971,7 +43962,6 @@ ff00:*
 *.hangtu-china.com
 *.hangtunggroup.com
 *.hanguangbaihuo.com
-*.hangugc.monster
 *.hanguu.com
 *.hangw.com
 *.hangwei-media.com
@@ -51894,7 +51884,6 @@ ff00:*
 *.imyushu.com
 *.imzego.com
 *.imzhanghao.com
-*.imzhongxin.com
 *.imzhuomo.com
 *.imzudian.com
 *.imzy.ink
@@ -64467,6 +64456,7 @@ ff00:*
 *.lz-veoliawater.com
 *.lz12328.com
 *.lz310.com
+*.lz5.com
 *.lz520.net
 *.lzabcd.com
 *.lzahzn.com
@@ -64990,6 +64980,7 @@ ff00:*
 *.maizuo.com
 *.majia99.com
 *.majiamen.com
+*.majianbo.com
 *.majiang520.com
 *.majilive.com
 *.majorbio.com
@@ -67848,7 +67839,6 @@ ff00:*
 *.mpnbenefitsrtluat.download.prss.microsoft.com
 *.mpoa.vip
 *.mpopkart.com
-*.mpqddg.club
 *.mps.live
 *.mpserverless.com
 *.mpsoft.net
@@ -68307,7 +68297,6 @@ ff00:*
 *.mxpharm.com
 *.mxqe.com
 *.mxria.com
-*.mxsa2178.club
 *.mxsyzen.com
 *.mxtcn.com
 *.mxtronics.com
@@ -84154,7 +84143,6 @@ ff00:*
 *.sinvta.com
 *.sinyoung.site
 *.sinyuan.com
-*.sinyuee.com
 *.sinzk.com
 *.siobp.com
 *.siomxity.com
@@ -91180,7 +91168,6 @@ ff00:*
 *.topjoycloud.com
 *.topkhealth.com
 *.topku.com
-*.toplanit.com
 *.toplee.com
 *.toploong.com
 *.topmediai.com
@@ -93234,7 +93221,6 @@ ff00:*
 *.uniwaf.com
 *.unixhot.com
 *.unixidc.com
-*.unixtitan.net
 *.unjmz.com
 *.unjs.com
 *.unkzyy3201.vip
@@ -94436,7 +94422,6 @@ ff00:*
 *.vmax-lighting.com
 *.vmaxhome.com
 *.vmaya.com
-*.vmdns.xyz
 *.vmdo.net
 *.vmecum.com
 *.vmengblog.com
@@ -103049,7 +103034,6 @@ ff00:*
 *.xxtmail.com
 *.xxw001.com
 *.xxwolo.com
-*.xxx1577.com
 *.xxxbiquge.com
 *.xxxcsf.com
 *.xxxedu.net
@@ -108844,6 +108828,7 @@ ff00:*
 *.zdhaitao.net
 *.zdhuoyunbao.com
 *.zdhyibiao.com
+*.zdhyyy.com
 *.zdiao.com
 *.zdic.net
 *.zdjt.com
