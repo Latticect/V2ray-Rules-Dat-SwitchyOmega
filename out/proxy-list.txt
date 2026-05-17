@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-16 09:25:25
+; 更新时间：2026-05-17 09:30:41
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2212,6 +2212,7 @@
 *.archivx.to
 *.archlinux.de
 *.archlinux.org
+*.archlinux.page
 *.archlinuxarm.org
 *.archlinuxcn.org
 *.arcraiders.com
