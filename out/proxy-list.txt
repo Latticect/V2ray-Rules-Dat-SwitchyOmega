@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-17 09:30:41
+; 更新时间：2026-05-18 09:50:45
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -19984,6 +19984,7 @@
 *.siam.org
 *.sibreal.org
 *.sidelinesnews.com
+*.sider.ai
 *.siege-amazon.com
 *.sifangclub.com
 *.sigcomm.org
@@ -25438,6 +25439,7 @@
 *.zhainanjidid.top
 *.zhangboz1.xyz
 *.zhangtianliang.com
+*.zhangzhehan.net
 *.zhanlve.org
 *.zhao.1984.city
 *.zhengjian.org
