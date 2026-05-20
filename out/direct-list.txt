@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-19 09:50:04
+; 更新时间：2026-05-20 09:49:56
 ; cn域名都不走代理
 *.cn
 
@@ -1747,6 +1747,7 @@ ff00:*
 *.123242.com
 *.123245.com
 *.123254.com
+*.123278.com
 *.123294.com
 *.123295.com
 *.12333.com
@@ -3869,6 +3870,7 @@ ff00:*
 *.332831.com
 *.333-555.com
 *.333.com
+*.3331.com
 *.33315.com
 *.333232.xyz
 *.333333.com
@@ -12607,6 +12609,7 @@ ff00:*
 *.ant-financial.com
 *.ant-open.com
 *.anta.com
+*.antafu.com
 *.antaiib.com
 *.antairui.net
 *.antangbusiness.com
@@ -16020,6 +16023,7 @@ ff00:*
 *.bhshunhui.com
 *.bhshyy.com
 *.bhsr.com
+*.bhsun.com
 *.bhszyyy.com
 *.bhtv.cc
 *.bhuitong.com
@@ -49091,7 +49095,6 @@ ff00:*
 *.hujingnb.com
 *.huke88.com
 *.hukeck.com
-*.hukelc.com
 *.hukenb.com
 *.hukexyy.com
 *.hukou021.com
@@ -50303,6 +50306,7 @@ ff00:*
 *.hzzp.com
 *.hzzpko3186.vip
 *.hzzqzc.com
+*.hzzred.com
 *.hzzrmc.com
 *.hzzsfs.com
 *.hzzsxh.com
@@ -54488,6 +54492,7 @@ ff00:*
 *.jidubook.com
 *.jidujiao.com
 *.jidujiasu.com
+*.jie.ge
 *.jieanjiaotong.com
 *.jiebai.com
 *.jiebanchuyou.com
@@ -54816,6 +54821,7 @@ ff00:*
 *.jingdudai.com
 *.jingdukaoyan.com
 *.jingdw.com
+*.jingeshou.com
 *.jingge.com
 *.jinggeng.net
 *.jinggon.com
@@ -55499,6 +55505,7 @@ ff00:*
 *.jj0833.com
 *.jj20.com
 *.jj59.com
+*.jj5agame.com
 *.jj831.com
 *.jj99.icu
 *.jjbang.com
@@ -55966,7 +55973,6 @@ ff00:*
 *.jnyng.com
 *.jnyyjt.com
 *.jnzhuoxin.com
-*.jnzjzx.net
 *.jnzl.com
 *.jnzongchi.com
 *.jnzx.cc
@@ -67356,6 +67362,7 @@ ff00:*
 *.modelevel.com
 *.modelltd.com
 *.modelones.com
+*.modelscope.ai
 *.modelscope.net
 *.modelwhale.com
 *.modeng178.com
@@ -77484,7 +77491,6 @@ ff00:*
 *.qygjyey.com
 *.qyglzz.com
 *.qygvip128.com
-*.qygvip40.com
 *.qyhgsb.com
 *.qyhl.vip
 *.qyhr.org
@@ -78448,7 +78454,6 @@ ff00:*
 *.rightpaddle.com
 *.rigol.com
 *.rigouwang.com
-*.riitao.com
 *.riji001.com
 *.riji100zi.com
 *.rijigu.com
@@ -79465,6 +79470,7 @@ ff00:*
 *.safetyimg.com
 *.safetystatic.com
 *.safetyvod.com
+*.safewk.com
 *.safround.com
 *.sagewc-exp.com
 *.sagigame.net
@@ -80501,7 +80507,6 @@ ff00:*
 *.sdglql.com
 *.sdgmjiaoyun.com
 *.sdgren.com
-*.sdgsdggg.xyz
 *.sdgsgcjsjt.com
 *.sdgsjc.com
 *.sdgslb.com
@@ -80578,6 +80583,7 @@ ff00:*
 *.sdjcf.com
 *.sdjcsh.com
 *.sdjcw.com
+*.sdjcxxgs.com
 *.sdjiance.com
 *.sdjiankan.com
 *.sdjianmei.com
@@ -95515,6 +95521,7 @@ ff00:*
 *.wcjm.org
 *.wclbox.com
 *.wcloud.com
+*.wcloudcdn.com
 *.wcode.net
 *.wcp.hk
 *.wcqjyw.com
@@ -97271,7 +97278,6 @@ ff00:*
 *.wise-iot.com
 *.wise99.com
 *.wiseasy.com
-*.wisebond.net
 *.wisecity.net
 *.wisecotech.com
 *.wisedoo.com
@@ -98327,6 +98333,7 @@ ff00:*
 *.wujue.com
 *.wukaikai.tech
 *.wukao.com
+*.wukazhifupos.com
 *.wukong.com
 *.wukong.la
 *.wukongbjb.com
@@ -109752,6 +109759,7 @@ ff00:*
 *.zhenyunpan.com
 *.zhenzhuchanfu.com
 *.zheshenet.com
+*.zheshouka.com
 *.zhetao.com
 *.zhetian.org
 *.zhetouniu.com
@@ -113319,12 +113327,10 @@ cn-smp-paymentservices.apple.com
 cn.download.nvidia.com
 cn.widevine.com
 cn.windowssearch.com
-cnappinstall.googleadapis.com
 communities.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
 connectivitycheck.gstatic.com
-content.googleadapis.com
 crashlyticsreports-pa.googleapis.com
 crl-lb.apple.com.akadns.net
 crl.apple.com
@@ -113383,7 +113389,6 @@ doubleclick.net
 download.developer.apple.com
 download.microsoft.com
 download.mlcc.google.com
-download.qatp1.net
 download.tensorflow.google.com
 download.visualstudio.microsoft.com
 downloaddispatch.itunes.apple.com
@@ -113391,7 +113396,6 @@ ea2cn-dev-outlet.dell.com
 ea2cn-prod-outlet.dell.com
 ea2cn-staging-outlet.dell.com
 edge.geo.kaspersky.com
-emmapplecodevice.googleapis.com
 emoi-cncdn.bing.com
 end-api.shallow.ink
 end.shallow.ink
@@ -113415,7 +113419,6 @@ g3.gstatic.com
 gbxgateway-dev.dell.com
 gbxgateway.dell.com
 geetest.datasink.sensorsdata.cn
-go.corp.google.com
 gog-cdn-fastly.gog.com
 gog-cdn.akamaized.net
 gog.qtlglb.com
@@ -113538,11 +113541,7 @@ ksn-url-geo.kaspersky-labs.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict-geo.kaspersky-labs.com
 ksn-verdict.geoksn.kaspersky.com
-l2-uberproxy.corp.google.com
 learn.microsoft.com
-logger-dev.corp.google.com
-logger.corp.google.com
-login.corp.google.com
 lv.queniujq.cn
 maps.apple.com
 mdr.ksn.kaspersky-labs.com
@@ -113552,7 +113551,6 @@ mesu-china.apple.com.akadns.net
 mesu.apple.com
 misc-assets.itunes.apple.com
 ml.cdn-apple.com
-monitoring.qpdp1.net
 moocs.unipus.cn
 music.apple.com
 musicstatus.music.apple.com
@@ -113636,16 +113634,9 @@ prod-databe.floonet.goog
 prod-support.apple-support.akadns.net
 prod.databe.floonet.goog
 productcard.gog-statics.com
-proxyconfig.corp.google.com
 publicassets.cdn-apple.com
-qagpublic.qatp1.net
-qgadmin.qcpp1.net
 qiao-cn.com
 qpx.googleflights.net
-qualysapi.qatp1.net
-qualysguard.qpdp1.net
-r.cert.corp.google.com
-rapture-prod.corp.google.com
 recaptcha-cn.net
 recaptcha.net
 redirector.bdn.dev
@@ -113691,7 +113682,6 @@ s4.mzstatic.com
 s5.mzstatic.com
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
-scanservice1.qcpp1.net
 scene7-cdn.dell.com
 sdx.microsoft.com
 se-edge.itunes.apple.com
@@ -113717,7 +113707,6 @@ speedysub.music.apple.com
 ss.bjmu.edu.cn
 ssl-google-analytics.l.google.com
 ssl.gstatic.com
-sslredirect.corp.google.com
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
 staging.databe.floonet.goog
@@ -113732,15 +113721,9 @@ store.apple.com.edgekey.net.globalredir.akadns.net
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
 storeedgefd.dsx.mp.microsoft.com
-streaming-uberproxy-rotation.corp.google.com
-streaming-uberproxy.corp.google.com
 streamingaudio.itunes.apple.com
 study.163.com
 su.itunes.apple.com
-sup-ssh-relay.corp.google.com
-sup-ssh-relay2.corp.google.com
-sup.corp.google.com
-sup.l.google.com
 support-china.apple-support.akadns.net
 support.apple.com
 supportassist.dell.com
@@ -113759,18 +113742,13 @@ sylvan.apple.com
 sync.itunes.apple.com
 tac.googleapis.com
 tesla-cdn.thron.cn
-test.gbugs-qa.chromium.org
 tf-feedback.itunes.apple.com
 time.amazonaws.cn
 time.izatcloud.net
 time.xtracloud.net
 tj-pod1-smp-device.apple.com
 tools.google.com
-tools.l.google.com
 tp.louisvuitton.com
-uberproxy-debug4.corp.google.com
-uberproxy.corp.google.com
-uberproxy6.corp.google.com
 universal-activity-service.itunes.apple.com
 update.crashlytics.com
 update.googleapis.com
@@ -113806,7 +113784,6 @@ www.pxcc.com
 www.recaptcha.net
 www.support.apple.com
 www4-static.gog-statics.com
-xn--flw351e.com
 xp.apple.com
 xtratime.qcomgeo2.com
 xz.pphimalayanrt.com
