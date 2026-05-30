@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-29 09:47:39
+; 更新时间：2026-05-30 09:31:39
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2260,6 +2260,7 @@
 *.arxiv.org
 *.arzon.jp
 *.as-hp.ca
+*.as.mr
 *.asacp.org
 *.asagaku.com
 *.asahi.com
@@ -9491,6 +9492,7 @@
 *.gemfury.com
 *.gemini.com
 *.gen.lib.rus.ec
+*.gencraft.com
 *.gendai.net
 *.generated.photos
 *.genetic-technologies.am
@@ -22700,6 +22702,7 @@
 *.vdoav.com
 *.vecchiescopate.casa
 *.vector.im
+*.veed.io
 *.veet.at
 *.veet.be
 *.veet.ca
@@ -25084,7 +25087,6 @@
 *.yhy.cool
 *.yibaochina.com
 *.yibei.org
-*.yidio.com
 *.yigeni.com
 *.yimg.com
 *.yimg.jp
