@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-05-30 09:31:39
+; 更新时间：2026-05-31 09:54:06
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -13785,6 +13785,7 @@
 *.livexxx.me
 *.livingstream.com
 *.livingyourambition.com
+*.livinno.org
 *.livrariart.com.br
 *.lizardporn.com
 *.lizol.co.in
@@ -16967,6 +16968,7 @@
 *.ootbstudio.co.kr
 *.op.gg
 *.op7979.com
+*.opac-project.eu
 *.open.firstory.me
 *.openai.com
 *.openamt.com
