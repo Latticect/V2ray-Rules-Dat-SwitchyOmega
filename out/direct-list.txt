@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-01 10:02:41
+; 更新时间：2026-06-02 10:04:04
 ; cn域名都不走代理
 *.cn
 
@@ -24711,6 +24711,7 @@ ff00:*
 *.cnsihai.com
 *.cnsikao.com
 *.cnsimeng.com
+*.cnsimg.net
 *.cnsimin.com
 *.cnsiwu.com
 *.cnskg.com
@@ -89764,6 +89765,7 @@ ff00:*
 *.tianxingjianyiliao.com
 *.tianxinkeji.com
 *.tianya.com
+*.tianya.net
 *.tianya.tv
 *.tianya66.com
 *.tianyabook.com
@@ -100673,6 +100675,7 @@ ff00:*
 *.xinmeijiutian.com
 *.xinmeinuo.com
 *.xinmem.com
+*.xinmeng.info
 *.xinmenglife.com
 *.xinmeow.com
 *.xinmeti.com
