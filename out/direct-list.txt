@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-03 10:12:39
+; 更新时间：2026-06-04 10:10:40
 ; cn域名都不走代理
 *.cn
 
@@ -17878,6 +17878,7 @@ ff00:*
 *.brightdairy.com
 *.brightdecolighting.com
 *.brightfood.com
+*.brighticecream.com
 *.brightliao.com
 *.brightmeat.com
 *.brilliance-auto.com
@@ -21822,6 +21823,7 @@ ff00:*
 *.chinacordblood.org
 *.chinacosco.com
 *.chinacourt.org
+*.chinacow.com
 *.chinacpda.com
 *.chinacpda.org
 *.chinacqme.com
@@ -100557,6 +100559,7 @@ ff00:*
 *.xinlingletu.com
 *.xinlip.com
 *.xinlischool.com
+*.xinlishumeng.com
 *.xinliwanju.com
 *.xinlixinli.net
 *.xinlong-holding.com
