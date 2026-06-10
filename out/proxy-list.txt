@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-09 09:31:36
+; 更新时间：2026-06-10 09:53:50
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -12058,6 +12058,7 @@
 *.infocert.it
 *.infoglobo.com.br
 *.infolinker.com.tw
+*.infoq.com
 *.infoq.jp
 *.informs.org
 *.infosec.exchange
@@ -16798,6 +16799,7 @@
 *.nxta.org
 *.nxtdig.com.hk
 *.nxtdig.com.tw
+*.nxtv.jp
 *.nyaa.eu
 *.nyaa.net
 *.nyaa.si
@@ -22655,6 +22657,9 @@
 *.underhentai.net
 *.underlords.com
 *.underwoodammo.com
+*.unext-info.jp
+*.unext.co.jp
+*.unext.jp
 *.unfiltered.news
 *.unholyknight.com
 *.unidraw.io

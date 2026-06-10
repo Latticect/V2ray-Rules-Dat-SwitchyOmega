@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-09 09:31:36
+; 更新时间：2026-06-10 09:53:50
 ; cn域名都不走代理
 *.cn
 
@@ -51620,7 +51620,6 @@ ff00:*
 *.infomorning.com
 *.infong.net
 *.infoobs.com
-*.infoq.com
 *.infoqstatic.com
 *.inforbus.com
 *.inforeenviro.com
@@ -51951,7 +51950,6 @@ ff00:*
 *.iouluo.com
 *.ioxqm.com
 *.ioxunyun.com
-*.ip-cdn.com
 *.ip-guard.net
 *.ip-hercules.com
 *.ip-soc.com
