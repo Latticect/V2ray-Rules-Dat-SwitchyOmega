@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-10 09:53:50
+; 更新时间：2026-06-11 10:05:03
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1392,6 +1392,7 @@
 *.allizom.net
 *.allizom.org
 *.alljapanesepass.com
+*.allkeyshop.com
 *.allmomsex.com
 *.allmovie.com
 *.allover30.com
@@ -2632,6 +2633,7 @@
 *.avdwang.xyz
 *.avelip.com
 *.aventertainments.com
+*.avermedia.com
 *.aversbank.ru
 *.avfox.cc
 *.avg.com
@@ -3436,6 +3438,7 @@
 *.bextbuy.com
 *.beyondcore.com
 *.bfa.ru
+*.bfads.net
 *.bffshd.com
 *.bfnn.org
 *.bfsh.hk
@@ -4659,6 +4662,7 @@
 *.buypass.com
 *.buypass.no
 *.buypass.se
+*.buyservices.com
 *.buyshoponly.com
 *.buzzardflapper.com
 *.buzzav.com
@@ -5660,6 +5664,7 @@
 *.coinbene.com
 *.coindesk.com
 *.coinex.com
+*.coingate.com
 *.coingecko.com
 *.coingi.com
 *.coinglass.com
@@ -6692,6 +6697,9 @@
 *.discountbeatsstore.com
 *.discountedporn.com
 *.discountporn.club
+*.discourse-cdn.com
+*.discourse.group
+*.discourse.org
 *.discovershiretoko.org
 *.discoveryplus.com
 *.discreet.com
@@ -7323,6 +7331,10 @@
 *.eater.com
 *.ebahy.com
 *.ebalovo.com
+*.ebates.ca
+*.ebates.kr
+*.ebates.sg
+*.ebatescanada.com
 *.ebay-authenticate.net
 *.ebay-confirm.com
 *.ebay-course.com
@@ -7505,6 +7517,7 @@
 *.ebtcbank.com
 *.ebuyer.com
 *.ebuyheadphones.com
+*.ecbsn.com
 *.ecchinohentai.ru
 *.ecert.gov.hk
 *.ecfa.org.tw
@@ -7588,6 +7601,7 @@
 *.electronicarts.fr
 *.electronicsignature.ru
 *.electronjs.org
+*.elegantthemes.com
 *.element.io
 *.elementary.io
 *.elephantlist.com
@@ -8464,6 +8478,7 @@
 *.fasttrackreadysupport.com
 *.fatbtc.com
 *.fatstube.com
+*.fatwallet.com
 *.favebook.com
 *.favelaporno.com
 *.favepornmovs.com
@@ -8602,6 +8617,7 @@
 *.ficador.com
 *.ficbook.net
 *.ficeboock.com
+*.ficgs.com
 *.ficmania.com
 *.fictionmania.tv
 *.fiddle.jshell.net
@@ -9281,6 +9297,7 @@
 *.fullpornnetwork.com
 *.fullservicegame.com
 *.fullsexmovs.com
+*.fullstory.com
 *.fulltaboo.tv
 *.fullxxxmovies.net
 *.fundaiphone5s.com
@@ -9397,7 +9414,9 @@
 *.gamesfuckgirls.com
 *.gamesofdesire.com
 *.gamespark.jp
+*.gamesplanet.com
 *.gamesstack.com
+*.gametap.com
 *.gameuxmasterguide.com
 *.gamez.com.tw
 *.gaming-notebooks.com
@@ -9673,6 +9692,7 @@
 *.gfx.ms
 *.gfycat.com
 *.gfysex.com
+*.gg.deals
 *.ggdiao.com
 *.ggjav.com
 *.ggoogle.com
@@ -9685,6 +9705,7 @@
 *.gh.io
 *.ghbi.ir
 *.ghcr.io
+*.ghe.com
 *.ghettotube.com
 *.ghidra-sre.org
 *.ghostarchive.org
@@ -10277,6 +10298,7 @@
 *.governmentengineer.com
 *.govforce.com
 *.gpb.ru
+*.gpstatic.com
 *.gpstheseries.com
 *.gputechconf.co.kr
 *.gputechconf.com
@@ -11531,6 +11553,7 @@
 *.hyper.is
 *.hyperbeam.com
 *.hyperdreams.com
+*.hyperliquid.xyz
 *.hyperrate.com
 *.hyperscan.io
 *.hypnohub.net
@@ -13404,6 +13427,7 @@
 *.kingofpics.com
 *.kingstagram.com
 *.kingstone.com.tw
+*.kinguin.net
 *.kinguno.xyz
 *.kink.com
 *.kinkbook.com
@@ -13754,6 +13778,8 @@
 *.lifewire.com
 *.lightbridge.com
 *.lighten.org.tw
+*.lighter.exchange
+*.lighter.xyz
 *.lighti.me
 *.lightnovel.cn
 *.lightxxxtube.com
@@ -16193,7 +16219,9 @@
 *.nexon.co.jp
 *.nexon.com
 *.nexon.io
+*.nexon.net
 *.nexoncdn.co.kr
+*.nexongames.co.kr
 *.nexpart.com
 *.nexpart.tv
 *.next.com
@@ -16260,6 +16288,10 @@
 *.nhentaihaven.com
 *.nhentaihaven.org
 *.nheos.com
+*.nhk
+*.nhk.jp
+*.nhk.or.jp
+*.nhkworld.jp
 *.nhncorp.jp
 *.nic.cz.cc
 *.nic.gov
@@ -18876,7 +18908,10 @@
 *.rakuten.com
 *.rakuten.com.tw
 *.rakuten.ne.jp
+*.rakuten.tv
 *.rakuten.tw
+*.rakutenadvertising.com
+*.rakutengiftcards.ca
 *.rakuya.com.tw
 *.ramcity.com.au
 *.randyblue.com
@@ -19315,6 +19350,7 @@
 *.rpmfusion.org
 *.rprimelab.com
 *.rqbank.ir
+*.rrcbsn.com
 *.rrl28.buzz
 *.rrs1.xyz
 *.rrtis.com
@@ -23140,6 +23176,7 @@
 *.viewpointsfromfacebook.com
 *.vigorgame.com
 *.viju.ru
+*.viki.com
 *.vikiporn.com
 *.vilanet.me
 *.vilavpn.com
@@ -24303,6 +24340,7 @@
 *.woolyss.com
 *.woopie.jp
 *.woopie.tv
+*.wordcamp.org
 *.wordpress.com
 *.wordpress.net
 *.wordpress.org
@@ -25774,6 +25812,7 @@
 *.zipcine.com
 *.ziraatbank.ru
 *.zishy.com
+*.zklighter.elliot.ai
 *.zlib.life
 *.zlibcdn.com
 *.zlibcdn2.com

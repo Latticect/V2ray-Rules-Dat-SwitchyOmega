@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-10 09:53:50
+; 更新时间：2026-06-11 10:05:03
 ; cn域名都不走代理
 *.cn
 
@@ -10794,6 +10794,7 @@ ff00:*
 *.ahceisc.com
 *.ahcfrc.com
 *.ahchanye.com
+*.ahcjw.com
 *.ahcnb.com
 *.ahcoating.com
 *.ahcsdz.com
@@ -42146,6 +42147,7 @@ ff00:*
 *.gxxlzyc.com
 *.gxxmglzx.com
 *.gxxmjjs.com
+*.gxxmt.com
 *.gxxmyjs.com
 *.gxxqsm.com
 *.gxxrf.com
@@ -52259,6 +52261,7 @@ ff00:*
 *.ishenping.com
 *.ishenyou.com
 *.ishijing.com
+*.ishijue.com
 *.ishipoffshore.com
 *.ishouhong.com
 *.ishouka.com
@@ -60063,6 +60066,7 @@ ff00:*
 *.landed.cc
 *.landhonor.com
 *.landi.com
+*.landian.news
 *.landian.vip
 *.landian.xyz
 *.landiannews.com
@@ -69219,6 +69223,7 @@ ff00:*
 *.nfmedia.com
 *.nfmrtfv.com
 *.nfnews.com
+*.nfpeople.com
 *.nfqbyp.com
 *.nfs-china.com
 *.nfschina.com
@@ -70660,6 +70665,7 @@ ff00:*
 *.nprc.net
 *.npsdyyy.com
 *.npsel.com
+*.npsv6.com
 *.nptpark.com
 *.nptparking.com
 *.nptwedding.com
@@ -92184,6 +92190,7 @@ ff00:*
 *.ucpaas.com
 *.ucpchina.com
 *.ucpopo.com
+*.ucppt.com
 *.ucren.com
 *.ucsanya.com
 *.ucss.ninja
@@ -93231,6 +93238,7 @@ ff00:*
 *.vcd.io
 *.vcdnga.com
 *.vcg.com
+*.vcgapi.com
 *.vchangyi.com
 *.vcimg.com
 *.vcinchina.com
