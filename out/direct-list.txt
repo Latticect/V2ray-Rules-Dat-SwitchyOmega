@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-11 10:05:03
+; 更新时间：2026-06-12 10:00:51
 ; cn域名都不走代理
 *.cn
 
@@ -3368,6 +3368,7 @@ ff00:*
 *.264006.com
 *.264321.com
 *.264400.com
+*.265.com
 *.26582.vip
 *.26595.com
 *.265g.com
@@ -112555,7 +112556,6 @@ ff00:*
 *.zzzyyy.com
 *.zzzzaaaa.com
 *.zzzzzz.me
-265.com
 2mdn-cn.net
 2mdn.net
 a1.mzstatic.com
@@ -113109,6 +113109,7 @@ www.entrust.cn
 www.gstatic.com
 www.microsoft.com
 www.pxcc.com
+www.recaptcha-cn.net
 www.recaptcha.net
 www.support.apple.com
 www4-static.gog-statics.com
