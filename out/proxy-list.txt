@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-12 10:00:51
+; 更新时间：2026-06-13 09:53:38
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -16633,6 +16633,7 @@
 *.nsfw247.to
 *.nsfwmemes.com
 *.nsimg.net
+*.nspk.ru
 *.ntc.party
 *.ntd.com
 *.ntd.tv
