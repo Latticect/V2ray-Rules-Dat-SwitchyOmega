@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-13 09:53:38
+; 更新时间：2026-06-14 10:03:09
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -9333,18 +9333,31 @@
 *.futanarihq.com
 *.futhead.com
 *.futpromos.com
+*.futu.cn
+*.futu.link
+*.futu5.com
+*.futuau.com
+*.futuesop.com
 *.futufin.com
 *.futuhk.com
+*.futuhk1.com
+*.futuhk2.com
 *.futuhkapp.com
 *.futuhn.com
 *.futuholdings.com
 *.futunited.com
+*.futuniuniu.com
+*.futunn.com
+*.futuoa.com
 *.future-cs.ru
 *.futuremessage.org
 *.futureofbritishmanufacturing.com
 *.futureofbusinesssurvey.org
 *.futureofmaktingthings.com
 *.futureshop.ca
+*.futusg.com
+*.futustatic.com
+*.fututrade.com
 *.fuxporn.com
 *.fuzokudx.com
 *.fw.cm
@@ -13609,6 +13622,7 @@
 *.lanternal.com
 *.laogai.org
 *.laogairesearch.org
+*.laohu8.com
 *.laosijifuli9009.top
 *.laowang.vip
 *.lapriere.jp
@@ -13972,11 +13986,13 @@
 *.londonreal.tv
 *.lonestarnaughtygirls.com
 *.longbridge.cloud
+*.longbridge.cn
 *.longbridge.com
 *.longbridge.global
 *.longbridge.hk
 *.longbridge.sg
 *.longbridgeapp.com
+*.longbridgehk.com
 *.longmabook.com
 *.longmabookcn.com
 *.longman.ch
@@ -20422,6 +20438,7 @@
 *.skysports.ie
 *.skysportsonline.com
 *.skysportsracing.com
+*.skytigris.cn
 *.skyvegas.com
 *.skyxvpn.com
 *.sl99mod.buzz
@@ -21969,6 +21986,8 @@
 *.tiendabestbuy.com
 *.tiffany-towers.com
 *.tig-ol-bitties.live
+*.tigerbbs.cn
+*.tigerbbs.com
 *.tigervpn.com
 *.tik-tokapi.com
 *.tiktok-minis.com
@@ -24624,6 +24643,7 @@
 *.xiaofu.me
 *.xiaogirls.com
 *.xiaohexie.com
+*.xiaohu8.com
 *.xiaolan.me
 *.xiaoma.org
 *.xiaomi.eu
@@ -26431,6 +26451,7 @@ steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
 steampipe.akamaized.net
 steamstore-a.akamaihd.net
+steamugcquincy.blob.core.windows.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
