@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-14 10:03:09
+; 更新时间：2026-06-15 10:06:09
 ; cn域名都不走代理
 *.cn
 
@@ -38885,7 +38885,6 @@ ff00:*
 *.gmtv.cc
 *.gmtzy.com
 *.gmugmu.com
-*.gmw.com
 *.gmwiki.com
 *.gmxmym.ren
 *.gmya.net
@@ -65347,11 +65346,11 @@ ff00:*
 *.meishi13.com
 *.meishichina.com
 *.meishiffx.online
-*.meishij.net
 *.meishijr.com
 *.meishilife.com
 *.meishiqin.com
 *.meishischool.com
+*.meishitx.com
 *.meishiwangluo.com
 *.meishizuofa.com
 *.meishow.com
@@ -100219,7 +100218,6 @@ ff00:*
 *.xinshengsemi.com
 *.xinshi525.com
 *.xinshiba.com
-*.xinshipu.com
 *.xinshishen.com
 *.xinshouyou.com
 *.xinshouzhanzhang.com
