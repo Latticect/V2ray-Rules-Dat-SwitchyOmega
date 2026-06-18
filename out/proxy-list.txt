@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-17 10:06:35
+; 更新时间：2026-06-18 10:04:04
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1845,6 +1845,7 @@
 *.appbridge.it
 *.appcenter.ms
 *.appcloud.com
+*.appconsent.io
 *.appdomain.cloud
 *.appdynamics.co.uk
 *.appdynamics.com
@@ -2740,6 +2741,7 @@
 *.awwcn.xyz
 *.awxcdn.com
 *.axbdoll.com.tw
+*.axept.io
 *.axios.com
 *.axureformac.com
 *.ayabank.com
@@ -5052,6 +5054,7 @@
 *.cdkworkshop.com
 *.cdmatech.com
 *.cdn-apple.com
+*.cdn-cookieyes.com
 *.cdn-telegram.org
 *.cdn-terapeak.com
 *.cdn-tinkoff.ru
@@ -5773,6 +5776,7 @@
 *.conquerwithcharacter.com
 *.conscrypt.com
 *.conscrypt.org
+*.consentmanager.net
 *.consentpro.com
 *.constructware.com
 *.consul.io
@@ -5782,9 +5786,11 @@
 *.contentful.com
 *.contest.com
 *.convrgencegame.com
+*.cookiebot.com
 *.cookiechoices.org
 *.cookielaw.org
 *.cookiepro.com
+*.cookieyes.com
 *.cool-comics.com
 *.cool18.com
 *.cool3c.com
@@ -21266,7 +21272,6 @@
 *.supchina.com
 *.superadultgames.com
 *.supercell.com
-*.supercell.helpshift.com
 *.supercell.net
 *.supercellcreators.com
 *.supercellgames.com
@@ -21673,6 +21678,7 @@
 *.teraperk.com
 *.terk.nl
 *.termius.com
+*.termly.io
 *.termux.com
 *.termux.dev
 *.termux.org
@@ -22336,6 +22342,7 @@
 *.truenas.com
 *.trunest.com
 *.trust-provider.com
+*.trustarc.com
 *.trustcor.ca
 *.trustcor.com
 *.trustdoc.ch
@@ -26505,6 +26512,8 @@ steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamvideo-a.akamaihd.net
 straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+supercell.helpshift.com
+supercell.zendesk.com
 t.ssp.hinet.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
