@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-19 10:32:29
+; 更新时间：2026-06-20 09:53:30
 ; cn域名都不走代理
 *.cn
 
@@ -13884,6 +13884,7 @@ ff00:*
 *.azuiblc.com
 *.azure-wave.com
 *.azure.cc
+*.azureflame.cloud
 *.azureflying.com
 *.azuremigrate.download.prss.microsoft.com
 *.azuremigratetest.download.prss.microsoft.com
@@ -16481,6 +16482,7 @@ ff00:*
 *.bjartmuseum.com
 *.bjatv.com
 *.bjbaidianfeng.com
+*.bjbaifan.com
 *.bjbalb.com
 *.bjbaodao.net
 *.bjbb.com
@@ -18918,6 +18920,7 @@ ff00:*
 *.cangfengzhe.com
 *.canghaiip.com
 *.canghaimachine.com
+*.cangjggame.com
 *.canglanghospital.com
 *.cangmang.xyz
 *.cangoonline.com
@@ -20535,6 +20538,7 @@ ff00:*
 *.chachengji.com
 *.chacihai.com
 *.chacuo.net
+*.chadaodao.com
 *.chadianhua.net
 *.chadoc.com
 *.chaej.com
@@ -34462,6 +34466,7 @@ ff00:*
 *.feiersmart.com
 *.feifandesign.com
 *.feifanindustry.com
+*.feifanmi.com
 *.feifantxt.com
 *.feifantxt.net
 *.feifdx.com
@@ -75191,6 +75196,7 @@ ff00:*
 *.qingnianlvxing.com
 *.qingniantuzhai.com
 *.qingnianwang.com
+*.qingning88.com
 *.qingpanduola.com
 *.qingpin.vip
 *.qingping.co
@@ -92181,6 +92187,7 @@ ff00:*
 *.uniow.com
 *.unipack-tech.com
 *.uniproud.com
+*.unisapps.com
 *.uniscope.com
 *.unisdigital.com
 *.unisedu.com
@@ -92415,7 +92422,6 @@ ff00:*
 *.urumqimtr.com
 *.us-ex.com
 *.us-qianzheng.com
-*.us.ci
 *.us0.me
 *.usa-gam.com
 *.usa-idc.com
