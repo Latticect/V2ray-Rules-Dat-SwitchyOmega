@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-23 09:49:06
+; 更新时间：2026-06-24 09:46:45
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1405,6 +1405,7 @@
 *.allspyclips.com
 *.allswingersclubs.org
 *.allthefallen.moe
+*.almalinux.org
 *.alohatube.com
 *.alotporn.com
 *.alphabet.asia
@@ -4646,6 +4647,7 @@
 *.bustyoldsluts.com
 *.bustysammieblack.com
 *.busu.org
+*.busybox.net
 *.buy-from-shanghai.com
 *.buyaapl.com
 *.buyaapl.net
@@ -8035,6 +8037,7 @@
 *.exoav.com
 *.exotic-ghana.com
 *.exoticuganda.com
+*.exp-tas.com
 *.expatshield.com
 *.expecthim.com
 *.expekt.com
@@ -9829,6 +9832,7 @@
 *.gitgud.io
 *.github.ai
 *.github.blog
+*.github.career
 *.github.com
 *.github.community
 *.github.dev
@@ -13836,6 +13840,7 @@
 *.licensebuttons.net
 *.licenseparser.com
 *.life-global.org
+*.lifeatspotify.com
 *.lifemiles.com
 *.lifeselector.com
 *.lifestyle-tec.ru
@@ -14341,6 +14346,7 @@
 *.manhwa24h.com
 *.manhwahentai.me
 *.maniakey.homes
+*.manjaro.org
 *.manorama.com
 *.manoramanews.com
 *.manoramaonline.com
@@ -19391,6 +19397,7 @@
 *.rocksextube.com
 *.rockstargames.com
 *.rockstarnorth.com
+*.rockylinux.org
 *.rojo.com
 *.roku.com
 *.rokutime.com
@@ -20910,6 +20917,7 @@
 *.spotifycharts.com
 *.spotifycodes.com
 *.spotifyforbrands.com
+*.spotifyforvendors.com
 *.spotifyjobs.com
 *.spraynwash.com
 *.spreadprivacy.com
@@ -23889,7 +23897,10 @@
 *.vscale.ru
 *.vscode-cdn.net
 *.vscode-unpkg.net
+*.vscode-webview.net
 *.vscode.dev
+*.vscodeedu.app
+*.vscodeedu.com
 *.vsemrabota.ru
 *.vsex.in
 *.vsezoo.com
