@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-25 09:50:30
+; 更新时间：2026-06-26 09:53:31
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5901,6 +5901,7 @@
 *.crazyxxxworld.com
 *.crbug.com
 *.crchina.org
+*.creader.com
 *.creaders.net
 *.creamasia.com
 *.creamlemon.info
@@ -26212,7 +26213,6 @@ dlmobilegarena-a.akamaihd.net
 dmqdd6hw24ucf.cloudfront.net
 docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 docker-pinata-support.s3.amazonaws.com
-download.visualstudio.microsoft.com
 dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 ds-linear-abematv.akamaized.net
