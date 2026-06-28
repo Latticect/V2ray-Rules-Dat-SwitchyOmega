@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-27 09:46:16
+; 更新时间：2026-06-28 09:54:45
 ; cn域名都不走代理
 *.cn
 
@@ -7647,6 +7647,7 @@ ff00:*
 *.71k.com
 *.71lady.com
 *.71p.net
+*.71shi.net
 *.71tao.com
 *.71tech.com
 *.71txt.com
@@ -8743,6 +8744,7 @@ ff00:*
 *.8liuxing.com
 *.8llp.com
 *.8lun.com
+*.8m2.net
 *.8m8t.com
 *.8mcn.com
 *.8mhh.com
@@ -10413,6 +10415,7 @@ ff00:*
 *.adpsh.com
 *.adqtt.net
 *.adquan.com
+*.adrkwai.com
 *.ads66.com
 *.ads8.com
 *.adsalecdn.com
@@ -12257,6 +12260,7 @@ ff00:*
 *.aniu.so
 *.aniu.tv
 *.aniworld.tv
+*.anixplayer.net
 *.anjgas.com
 *.anji-ceva.com
 *.anji-logistics.com
@@ -12762,6 +12766,7 @@ ff00:*
 *.apowogame.com
 *.apoyl.com
 *.app-router.com
+*.app-static.com
 *.app001.com
 *.app0772.com
 *.app111.com
@@ -13275,6 +13280,7 @@ ff00:*
 *.at317.com
 *.at58.com
 *.at78.com
+*.at8.fun
 *.at98.com
 *.ata-edu.com
 *.ata-test.net
@@ -18919,6 +18925,7 @@ ff00:*
 *.cantonfairad.com
 *.cantontower.com
 *.canvcan.com
+*.canviewone.com
 *.canway.net
 *.canwayit.com
 *.canwaysoft.com
@@ -22274,6 +22281,7 @@ ff00:*
 *.chinaweizheng.com
 *.chinawepon.com
 *.chinawerewolf.com
+*.chinawestagr.com
 *.chinawie.com
 *.chinawindnews.com
 *.chinawinjoy.com
@@ -22922,6 +22930,7 @@ ff00:*
 *.cilgroup.org
 *.cilin.org
 *.cilishenqi.cc
+*.cilisouou.com
 *.cilogo.com
 *.cim2025.net
 *.cimamotor.com
@@ -23565,6 +23574,7 @@ ff00:*
 *.cm-inv.com
 *.cm-iov.com
 *.cm-worklink.com
+*.cm1.hk
 *.cm233.com
 *.cm3721.com
 *.cm442.com
@@ -26849,6 +26859,7 @@ ff00:*
 *.cxumol.com
 *.cxw.com
 *.cxwl.com
+*.cxwlad.com
 *.cxxjs.com
 *.cxy521.com
 *.cxy61.com
@@ -27192,6 +27203,7 @@ ff00:*
 *.d1f41d7b74d2717d.com
 *.d1ld.com
 *.d1lx.com
+*.d1mgroup.com
 *.d1miao.com
 *.d1mm.com
 *.d1net.com
@@ -27605,7 +27617,6 @@ ff00:*
 *.dandanhou.net
 *.dandanjiang.tv
 *.dandanman.com
-*.dandanplay.com
 *.dandantang.com
 *.dandanvoice.com
 *.dandanz.com
@@ -30805,6 +30816,7 @@ ff00:*
 *.duiduihuishou.com
 *.duiduilian.com
 *.duiduipengds.com
+*.duifene.com
 *.duijie666.com
 *.duikuang.com
 *.duimg.com
@@ -34295,6 +34307,7 @@ ff00:*
 *.fdbatt.com
 *.fdc0746.com
 *.fdcjj.org
+*.fdctax.com
 *.fdcyun.com
 *.fdczbstatic.com
 *.fdd0cd79c10281.beer
@@ -34358,6 +34371,7 @@ ff00:*
 *.feelnowtrip.com
 *.feelsoar.com
 *.feemoo.com
+*.feemoo.hk
 *.feemoo.vip
 *.feepan.com
 *.feeprint.com
@@ -35992,6 +36006,7 @@ ff00:*
 *.fthformal.com
 *.fthgz.com
 *.fthimalayandb.com
+*.ftihzjg.com
 *.ftium4.com
 *.ftlcloud.com
 *.ftls.xyz
@@ -37462,6 +37477,7 @@ ff00:*
 *.gdroro.com
 *.gdrqj.org
 *.gdrsrc.com
+*.gdrtt.net
 *.gdruien.com
 *.gdruisheng.com
 *.gdrxyy.com
@@ -39968,6 +39984,7 @@ ff00:*
 *.gugu.fun
 *.gugud.com
 *.gugudang.com
+*.gugudata.com
 *.guguread.com
 *.gugushuzi.com
 *.guguyu.com
@@ -43796,6 +43813,7 @@ ff00:*
 *.haowen100.com
 *.haowenbo.com
 *.haowenshi.com
+*.haowenti.net
 *.haowu.com
 *.haowu.link
 *.haowusong.com
@@ -46632,6 +46650,7 @@ ff00:*
 *.holoalpha.com
 *.holsauto.com
 *.holteksupport.com
+*.holy58.com
 *.holymalls.com
 *.holyxiongan.com
 *.home0311.com
@@ -51421,6 +51440,7 @@ ff00:*
 *.innopro.cc
 *.innos.com
 *.innoscience.com
+*.innosystemtech.com
 *.innotechx.com
 *.innotek-co.com
 *.innotimegood.com
@@ -52098,6 +52118,7 @@ ff00:*
 *.italyvisacenterd.com
 *.itamt.com
 *.itangbole.com
+*.itangsoft.com
 *.itangyuan.com
 *.itanlian.com
 *.itany.com
@@ -53192,6 +53213,7 @@ ff00:*
 *.jfchinese.com
 *.jfcjt.com
 *.jfcoo.com
+*.jfcoop.com
 *.jfdaily.com
 *.jfedu.net
 *.jfgjwl.com
@@ -66731,6 +66753,7 @@ ff00:*
 *.molimoli.tech
 *.moliplayer.com
 *.molipy.com
+*.moliranran.com
 *.molishe.com
 *.molixiangce.com
 *.mollervilla.com
@@ -67596,6 +67619,7 @@ ff00:*
 *.myfans.cc
 *.myfdmg.com
 *.myfhospital.com
+*.myfilm.cc
 *.myfrfr.com
 *.myfun7.com
 *.myfund.com
@@ -70814,6 +70838,7 @@ ff00:*
 *.oemsocuat.download.prss.microsoft.com
 *.oemssl.cn.cdn.cloudflare.net
 *.oemxitong.com
+*.oend.net
 *.oeob.net
 *.oepkgs.net
 *.oepkgs.org
@@ -71194,6 +71219,7 @@ ff00:*
 *.onthetrip.com
 *.onthink.com
 *.onwaf.com
+*.onwaytech.com
 *.onwear.net
 *.onwork.com
 *.onwsw.com
@@ -75116,6 +75142,7 @@ ff00:*
 *.qingtiancms.net
 *.qingting.fm
 *.qingting123.com
+*.qingtingai.net
 *.qingtingfm.com
 *.qingtingip.com
 *.qingtingjh.com
@@ -93624,6 +93651,7 @@ ff00:*
 *.vt-pharm.com
 *.vtache.com
 *.vtcsy.com
+*.vtdd.vip
 *.vteamgroup.com
 *.vtears.com
 *.vtepai.com
@@ -94120,6 +94148,7 @@ ff00:*
 *.wanh5.com
 *.wanhea.com
 *.wanhebin.com
+*.wanhengtech.com
 *.wanheweb.com
 *.wanhi.com
 *.wanhongbao.com
@@ -97003,6 +97032,7 @@ ff00:*
 *.wsipv6.com
 *.wsisp.com
 *.wsisp.net
+*.wsjqnmmrmv.world
 *.wsjtxia.com
 *.wskam.com
 *.wskj16818.xyz
@@ -98302,6 +98332,7 @@ ff00:*
 *.xdj-sz.com
 *.xdja.com
 *.xdjcgs.com
+*.xdjk.net
 *.xdju.com
 *.xdjunxiao.com
 *.xdjy369.com
@@ -100517,6 +100548,7 @@ ff00:*
 *.xloveyoux.com
 *.xlpai.com
 *.xlpan.com
+*.xlps.site
 *.xlqeai.com
 *.xlqzh.com
 *.xlread.com
@@ -107809,6 +107841,7 @@ ff00:*
 *.zggua.com
 *.zggwy.com
 *.zggwy.org
+*.zggx100.com
 *.zggxgp.com
 *.zggxhj.com
 *.zggxlbc.com
@@ -108655,6 +108688,7 @@ ff00:*
 *.zhihuiep.com
 *.zhihuifangdong.net
 *.zhihuihongze.com
+*.zhihuihub.com
 *.zhihuihuiwu.com
 *.zhihuihutong.com
 *.zhihuiji.com
