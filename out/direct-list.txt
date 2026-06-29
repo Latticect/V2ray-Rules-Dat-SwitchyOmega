@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-06-28 09:54:45
+; 更新时间：2026-06-29 09:57:18
 ; cn域名都不走代理
 *.cn
 
@@ -58854,7 +58854,6 @@ ff00:*
 *.kschuangku.com
 *.kscloudapi.com
 *.ksco.cc
-*.kscord.com
 *.ksdedu.com
 *.ksdhgy.com
 *.ksecit.com
