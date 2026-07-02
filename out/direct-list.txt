@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-01 09:57:26
+; 更新时间：2026-07-02 09:51:11
 ; cn域名都不走代理
 *.cn
 
@@ -7852,6 +7852,7 @@ ff00:*
 *.777haoka.com
 *.777lala.com
 *.777moban.com
+*.777ppt.com
 *.777sy.com
 *.777yh.am
 *.7788.com
@@ -10361,6 +10362,7 @@ ff00:*
 *.admin5.net
 *.admin6.com
 *.admin88.com
+*.admincdn.com
 *.adminer.com
 *.admintony.com
 *.adminxe.com
@@ -15209,6 +15211,7 @@ ff00:*
 *.beidousafety.org
 *.beidouxingxueche.com
 *.beiduolab.com
+*.beie.org
 *.beierbio.com
 *.beierjin.net
 *.beieryouxi.com
@@ -40109,6 +40112,7 @@ ff00:*
 *.guojiayikao.com
 *.guojiayixuekaoshi.com
 *.guojiazhiyezige.com
+*.guojibk.com
 *.guojiexpress.com
 *.guojijinjia.com
 *.guojimami.com
@@ -77862,6 +77866,7 @@ ff00:*
 *.rrjc.com
 *.rrkf.com
 *.rrky.com
+*.rrmj.plus
 *.rrmj.tv
 *.rrppt.com
 *.rrrdai.com
@@ -89718,6 +89723,7 @@ ff00:*
 *.tokenglish.com
 *.tokensky.net
 *.tokimekiclub.org
+*.tol.vip
 *.tol24.com
 *.tom.cat
 *.tom.com
@@ -93427,6 +93433,7 @@ ff00:*
 *.vpsrb.com
 *.vpsss.net
 *.vpssw.com
+*.vpsvs.com
 *.vpsvsvps.com
 *.vpszh.com
 *.vptek.com
@@ -95112,6 +95119,7 @@ ff00:*
 *.wenmi114.com
 *.wenmingban.com
 *.wenneart.com
+*.wenpai.org
 *.wenpie.com
 *.wenqy.com
 *.wenroo.com
@@ -96735,6 +96743,7 @@ ff00:*
 *.wpceo.com
 *.wpcio.com
 *.wpcsh.com
+*.wpcy.com
 *.wpdaxue.com
 *.wpdian.com
 *.wpengapp.com
