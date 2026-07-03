@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-02 09:51:11
+; 更新时间：2026-07-03 09:19:41
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5821,6 +5821,7 @@
 *.coova.com
 *.coova.net
 *.coova.org
+*.copilot.com
 *.copro.pw
 *.copy-manga.com
 *.copy20.com
@@ -24154,6 +24155,7 @@
 *.webpkgcache.com
 *.webrtc.org
 *.websdr.org
+*.webshare.io
 *.website.new
 *.webtoons.com
 *.webtoonscorp.com
@@ -26409,6 +26411,7 @@ onekey.zendesk.com
 oneocsp.microsoft.com
 ood.opsource.net
 openaiapi-site.azureedge.net
+openaiassets.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
