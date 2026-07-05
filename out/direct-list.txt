@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-04 09:19:47
+; 更新时间：2026-07-05 09:26:22
 ; cn域名都不走代理
 *.cn
 
@@ -12319,6 +12319,7 @@ ff00:*
 *.anqingzhiyun.com
 *.anqn.com
 *.anqu.com
+*.anquan
 *.anquan.info
 *.anquan.org
 *.anquanbao.com
@@ -32542,7 +32543,6 @@ ff00:*
 *.embryochina.com
 *.embsky.com
 *.emby.men
-*.emby.yun
 *.embyvip.org
 *.emcbj.com
 *.emcdir.com
@@ -81846,6 +81846,7 @@ ff00:*
 *.shouhuisoft.com
 *.shouhuojiyun.com
 *.shouhuola.com
+*.shouji
 *.shouji.com
 *.shouji.racing
 *.shouji10086.com
@@ -82753,6 +82754,7 @@ ff00:*
 *.simwe.com
 *.simxhs.com
 *.sin0sites.com
+*.sina
 *.sina-cf.com
 *.sina.com
 *.sina.lt
@@ -94628,6 +94630,7 @@ ff00:*
 *.weibang.vip
 *.weibangong.com
 *.weibanzhushou.com
+*.weibo
 *.weibo.com
 *.weibo.tv
 *.weibocdn.com
@@ -99348,6 +99351,7 @@ ff00:*
 *.xihazsww.com
 *.xihegp.com
 *.xiherencai.com
+*.xihuan
 *.xihuan.me
 *.xihusgh.com
 *.xiimoon.com
@@ -100641,6 +100645,7 @@ ff00:*
 *.xn--91-y60d638c.xyz
 *.xn--9et52u
 *.xn--9kr72kqwe.com
+*.xn--9krt00a
 *.xn--9myo55bi8l.com
 *.xn--9pr56vfna007k.com
 *.xn--9pry86bq5ex68c.org
@@ -105948,6 +105953,7 @@ ff00:*
 *.yumingyouhui.com
 *.yummy.tech
 *.yumstone.com
+*.yun
 *.yun-ac.com
 *.yun-dns.com
 *.yun-gu.com
@@ -111994,6 +112000,7 @@ edge.geo.kaspersky.com
 emoi-cncdn.bing.com
 end-api.shallow.ink
 end.shallow.ink
+entitlements-edge.itunes.apple.com
 experiments.apple.com
 f.c2r.ts.cdn.office.net
 fcs.dell.com
@@ -112002,6 +112009,7 @@ firebase-settings.crashlytics.com
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
+fpinit.itunes.apple.com
 fta.dell.com
 ftaapj.dell.com
 ftaemea.dell.com
