@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-07 09:26:36
+; 更新时间：2026-07-08 09:13:03
 ; cn域名都不走代理
 *.cn
 
@@ -91113,6 +91113,7 @@ ff00:*
 *.twty.vip
 *.twwtn.com
 *.twyuxin.com
+*.twyxh.com
 *.twyxi.com
 *.twzilla.com
 *.twzui6.com
@@ -111338,6 +111339,7 @@ ff00:*
 *.zwzyzx.com
 *.zx-tour.com
 *.zx-xcx.com
+*.zx.com
 *.zx0093.com
 *.zx017.com
 *.zx017.net

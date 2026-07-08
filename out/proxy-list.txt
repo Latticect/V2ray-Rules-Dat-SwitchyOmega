@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-07 09:26:36
+; 更新时间：2026-07-08 09:13:03
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -8859,6 +8859,8 @@
 *.flowgpt.com
 *.flowhongkong.net
 *.flowtype.org
+*.flowwow-images.com
+*.flowwow.com
 *.fluffychat.im
 *.fluidfxapp.com
 *.fluidpreview.com
@@ -9360,6 +9362,8 @@
 *.funkyimg.com
 *.funnyfacebook.org
 *.funnyordie.com
+*.funpay.com
+*.funpay.ru
 *.funshemale.com
 *.fuq.com
 *.fuqqt.com
@@ -20205,6 +20209,7 @@
 *.sforce.com
 *.sfshibao.com
 *.sftuk.org
+*.sfunpay.com
 *.sfx.ms
 *.sg120.me
 *.sg1lib.org
@@ -22137,6 +22142,7 @@
 *.tilda.ws
 *.tildaapi.com
 *.tildacdn.com
+*.tildacdn.net
 *.tiltbrush.com
 *.timdir.com
 *.time-messenger.ru
