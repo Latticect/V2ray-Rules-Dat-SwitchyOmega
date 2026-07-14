@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-13 09:14:50
+; 更新时间：2026-07-14 09:04:43
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1297,7 +1297,6 @@
 *.alexa.com
 *.alexanderstreet.com
 *.alfa.me
-*.alfabank.oavdo.amc
 *.alfabank.ru
 *.alfabank.st
 *.alfadirect.ru
@@ -5192,6 +5191,7 @@
 *.chatango.com
 *.chatgpt.com
 *.chatgpt.livekit.cloud
+*.chatgpt.site
 *.chatgptvideo.xyz
 *.chatgptvideob.buzz
 *.chatpdf.com
@@ -10052,7 +10052,6 @@
 *.gonike.com
 *.gonzo-movies.com
 *.gonzo.com
-*.goo
 *.goo.gl
 *.goo.ne.jp
 *.gooblox.com
@@ -12290,7 +12289,6 @@
 *.intagrm.com
 *.intc.com
 *.integral7.com
-*.intel
 *.intel-research.net
 *.intel-university-collaboration.net
 *.intel.ac
@@ -13465,6 +13463,7 @@
 *.khotruyentranhx.com
 *.kichiku-doujinko.com
 *.kichikuou.com
+*.kick.com
 *.kickporn.com
 *.kickshatchannel.com
 *.kicksnike1.com
@@ -13591,7 +13590,6 @@
 *.konachan.com
 *.konachan.net
 *.konachan.wjcodes.com
-*.konami
 *.konami-igaming.online
 *.konami.co.jp
 *.konami.com
@@ -26456,11 +26454,7 @@ play-edge.itunes.apple.com
 poshtestgallery.cloudapp.net
 ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
-practivate.adobe
 practivate.adobe.com
-practivate.adobe.ipp
-practivate.adobe.newoa
-practivate.adobe.ntp
 prd-priconne-redive.akamaized.net
 preprod-publicca.googleapis.com
 prodforza.blob.core.windows.net
