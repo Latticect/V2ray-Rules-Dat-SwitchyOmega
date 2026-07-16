@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-15 09:02:00
+; 更新时间：2026-07-16 09:10:09
 ; cn域名都不走代理
 *.cn
 
@@ -112078,7 +112078,6 @@ swscan.apple.com
 sylvan.apple.com
 sync.itunes.apple.com
 tac.googleapis.com
-tesla-cdn.thron.cn
 tf-feedback.itunes.apple.com
 time.amazonaws.cn
 time.izatcloud.net
