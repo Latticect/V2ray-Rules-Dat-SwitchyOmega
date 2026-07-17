@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-16 09:10:09
+; 更新时间：2026-07-17 09:14:30
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -16251,6 +16251,7 @@
 *.nettyinternet.com
 *.netvideogirls.com
 *.netvigator.com
+*.netxh.blog
 *.netzerobuildings.com
 *.netzerobuildingstudio.com
 *.neuerporno.com

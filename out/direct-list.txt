@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-16 09:10:09
+; 更新时间：2026-07-17 09:14:30
 ; cn域名都不走代理
 *.cn
 
@@ -28064,6 +28064,7 @@ ff00:*
 *.dcyz.com
 *.dcyzq.com
 *.dczcsc.com
+*.dczcy.com
 *.dczkj.com
 *.dczy168.com
 *.dd-advisor.com
@@ -29044,6 +29045,7 @@ ff00:*
 *.didichuxing.com
 *.dididapiao.com
 *.dididi88.com
+*.didifinance.com
 *.didiglobal.com
 *.didimobility.com
 *.didiopenapi.com
@@ -35883,6 +35885,7 @@ ff00:*
 *.fuca-china.com
 *.fucantec.com
 *.fuchaipower.com
+*.fuchenkj.com
 *.fuchuangyu.com
 *.fucnm.com
 *.fucol.club
@@ -47100,6 +47103,7 @@ ff00:*
 *.hrs100.com
 *.hrsalon.org
 *.hrsay.com
+*.hrsecn.com
 *.hrsee.com
 *.hrsel.com
 *.hrsoft-china.com
@@ -53705,6 +53709,7 @@ ff00:*
 *.jieshui8.com
 *.jieshuitech.com
 *.jieshuwang.com
+*.jietianz.com
 *.jietu365.com
 *.jietuhb.com
 *.jietuosh.com
@@ -79462,6 +79467,7 @@ ff00:*
 *.sdseshealth.com
 *.sdsfjy.com
 *.sdshangya.com
+*.sdshdc.com
 *.sdshgk.com
 *.sdshihua.com
 *.sdshitu.com
@@ -81146,6 +81152,7 @@ ff00:*
 *.shicaizhanlan.com
 *.shicehao.com
 *.shichangbu.com
+*.shicheng6.com
 *.shichengbao.com
 *.shichengyi.com
 *.shichuangsj.com
@@ -91572,6 +91579,7 @@ ff00:*
 *.ulikestatic.com
 *.ulinix.com
 *.ulinix.tv
+*.ulongemg.com
 *.ulpay.com
 *.ultracachenode.com
 *.ultraeda.com
@@ -106346,6 +106354,7 @@ ff00:*
 *.yximgs.com
 *.yxin18.com
 *.yxinbao.com
+*.yxingfan.com
 *.yxintent.com
 *.yxit.net
 *.yxixy.com
@@ -111575,6 +111584,7 @@ aod-ssl.itunes.apple.com
 aod.itunes.apple.com
 api-edge.apps.apple.com
 api.alibabacloud.com
+api.blipsandchitz.me
 app-analytics-services.com
 app-measurement-cn.com
 app-measurement.com
