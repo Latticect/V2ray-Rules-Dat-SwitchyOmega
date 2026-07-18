@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-17 09:14:30
+; 更新时间：2026-07-18 09:06:43
 ; cn域名都不走代理
 *.cn
 
@@ -67282,6 +67282,7 @@ ff00:*
 *.mychunyan.net
 *.myckjr.com
 *.mycleanmymac.com
+*.mycloudnas.com
 *.mycloudstudy.com
 *.myclub2.com
 *.mycnc.org
