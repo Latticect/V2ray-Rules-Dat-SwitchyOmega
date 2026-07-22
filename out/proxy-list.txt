@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-21 09:11:40
+; 更新时间：2026-07-22 09:09:45
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -25996,6 +25996,7 @@
 *.zenlesszonezero.com
 *.zenmate.com
 *.zenmate.com.ru
+*.zenmux.ai
 *.zenodo.org
 *.zeplin.dev
 *.zeplin.io
