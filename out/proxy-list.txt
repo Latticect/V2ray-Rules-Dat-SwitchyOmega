@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-22 09:09:45
+; 更新时间：2026-07-23 09:16:10
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -22266,6 +22266,7 @@
 *.tok.media
 *.token.im
 *.tokenlon.im
+*.tokenplus.app
 *.tokyo-hot.com
 *.tokyo-porn-tube.com
 *.tokyo-sports.co.jp
