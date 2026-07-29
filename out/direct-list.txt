@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-28 09:07:37
+; 更新时间：2026-07-29 09:11:08
 ; cn域名都不走代理
 *.cn
 
@@ -100358,6 +100358,7 @@ ff00:*
 *.xmmuye.com
 *.xmnjdwx.com
 *.xmocloud01.com
+*.xmoj.tech
 *.xmonecode.com
 *.xmos.tv
 *.xmov.ai
