@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-07-30 09:04:00
+; 更新时间：2026-07-31 09:16:06
 ; cn域名都不走代理
 *.cn
 
@@ -170,6 +170,7 @@ ff00:*
 *.008n0l12145.xin
 *.008sport.com
 *.009.xin
+*.009513.xyz
 *.009y.com
 *.00bx.com
 *.00cdn.com
@@ -2805,6 +2806,7 @@ ff00:*
 *.2023game.com
 *.2024qq.com
 *.2025.net
+*.2026cname.com
 *.202m.com
 *.202wan.com
 *.2048ai.net
@@ -3172,6 +3174,7 @@ ff00:*
 *.258ch.com
 *.258en.com
 *.258fuwu.com
+*.258jrs.com
 *.258sd.com
 *.258weishi.com
 *.258zw.com
@@ -4108,6 +4111,7 @@ ff00:*
 *.365xuet.com
 *.365yarn.com
 *.365yg.com
+*.365ym.com
 *.365you.com
 *.365yyf.com
 *.365zhaopin.com
@@ -6493,6 +6497,7 @@ ff00:*
 *.591adb.com
 *.591con.com
 *.591hx.com
+*.591ll.com
 *.591master.com
 *.591moto.com
 *.591moto.net
@@ -9141,6 +9146,7 @@ ff00:*
 *.95en.com
 *.95epay.com
 *.95fenapp.com
+*.95fk.net
 *.95ib.com
 *.95ip.com
 *.95jizhang.com
@@ -15543,6 +15549,7 @@ ff00:*
 *.bh-mangrove.com
 *.bh-med.com
 *.bh-xhhd.com
+*.bh.sb
 *.bh1t.com
 *.bh3.com
 *.bh5.com
@@ -19620,6 +19627,7 @@ ff00:*
 *.cdn-v.com
 *.cdn.fun
 *.cdn.jetbrains.com
+*.cdn.me
 *.cdn.samsung.com
 *.cdn.shanghai.nyu.edu
 *.cdn.show
@@ -19629,6 +19637,7 @@ ff00:*
 *.cdn1.vip
 *.cdn1008.com
 *.cdn1218.com
+*.cdn123.cc
 *.cdn16.com
 *.cdn20.com
 *.cdn20.info
@@ -24204,6 +24213,7 @@ ff00:*
 *.cnpowdertech.com
 *.cnpp100.com
 *.cnppa.org
+*.cnprac.xyz
 *.cnpressphoto.com
 *.cnprofit.com
 *.cnprs.com
@@ -26025,6 +26035,7 @@ ff00:*
 *.csgky.net
 *.csgocn.net
 *.csgongshui.com
+*.csgozbt.com
 *.csgpc.org
 *.csgwexpo.com
 *.csgxyl.com
@@ -27497,6 +27508,7 @@ ff00:*
 *.daododo.com
 *.daoduoduo.com
 *.daofengdj.com
+*.daogou.ai
 *.daoguo.com
 *.daohang198.com
 *.daohang4.com
@@ -31008,6 +31020,7 @@ ff00:*
 *.dysj.com
 *.dysji.com
 *.dyspcdntip.com
+*.dyswl.com
 *.dytmgm.com
 *.dytss.com
 *.dytt2028.cc
@@ -44447,6 +44460,7 @@ ff00:*
 *.heerit.com
 *.hefagear.com
 *.hefei.cc
+*.hefei.website
 *.hefeilaws.com
 *.hefeimarathon.com
 *.heflc.com
@@ -45630,6 +45644,7 @@ ff00:*
 *.hklmoto.com
 *.hklmxcx.com
 *.hkm168.com
+*.hkmanga.com
 *.hkmedtime.com
 *.hkmeinian.com
 *.hkmipo.com
@@ -49943,6 +49958,7 @@ ff00:*
 *.idcdoc.com
 *.idceb.com
 *.idcfengye.com
+*.idcfx.net
 *.idcgcloudcs.com
 *.idchz.com
 *.idchz.net
@@ -53892,6 +53908,7 @@ ff00:*
 *.jingshun-wl.com
 *.jingshzh.com
 *.jingsocial.com
+*.jingsoft.com
 *.jingtai-group.com
 *.jingtanggame.com
 *.jingtao58.com
@@ -55549,6 +55566,7 @@ ff00:*
 *.jsjdzf.com
 *.jsjeda.com
 *.jsjffj.com
+*.jsjform.com
 *.jsjfz.com
 *.jsjgbxg.com
 *.jsjgtz.com
@@ -56110,6 +56128,7 @@ ff00:*
 *.julongchina.com
 *.julonggr.com
 *.juluape.com
+*.julycloud.net
 *.julycn.com
 *.julydate.com
 *.julyedu.com
@@ -60209,6 +60228,7 @@ ff00:*
 *.lelepyq.com
 *.leletv.com
 *.leletv.net
+*.leleyun.icu
 *.lelinly.com
 *.lelongpp.com
 *.lemai.com
@@ -63838,6 +63858,7 @@ ff00:*
 *.managershare.com
 *.manamana.net
 *.manben.com
+*.manbenapi.com
 *.manbetxoo.com
 *.manbetxrr.com
 *.manboker.com
@@ -64178,6 +64199,7 @@ ff00:*
 *.maxamchina.com
 *.maxd.cloud
 *.maxdo.net
+*.maxesads.com
 *.maxfinesthair.com
 *.maxfor-tool.com
 *.maxgamehub.com
@@ -66907,6 +66929,7 @@ ff00:*
 *.mutian.net
 *.mutianyugreatwall.com
 *.mutieffect.com
+*.mutoglobal.vip
 *.mutouxb.com
 *.mutouyu.com
 *.mutualhunter.com
@@ -67479,6 +67502,7 @@ ff00:*
 *.n63.com
 *.n69.com
 *.n78785.com
+*.n7r65.com
 *.n802.com
 *.n8soft.com
 *.n9z.net
@@ -69966,6 +69990,7 @@ ff00:*
 *.ntsanxin.com
 *.ntsgx.com
 *.ntsuye.com
+*.nttcname.com
 *.ntwikis.com
 *.ntwzy.com
 *.ntxx.net
@@ -71364,6 +71389,7 @@ ff00:*
 *.p6air.com
 *.p6sai.com
 *.p77777777.com
+*.p8.ink
 *.p80.net
 *.p8games.com
 *.p96q3p1m93.world
@@ -73939,6 +73965,7 @@ ff00:*
 *.qfeiche.com
 *.qfiee.com
 *.qfihdr.com
+*.qfkjnb.club
 *.qfns1.com
 *.qfpay.com
 *.qfpq.com
@@ -74234,6 +74261,7 @@ ff00:*
 *.qianxuew.com
 *.qianxueyunke.com
 *.qianxun.com
+*.qianxun1688.com
 *.qianxunclub.com
 *.qianxungroup.com
 *.qianxuntrip.com
@@ -84342,6 +84370,7 @@ ff00:*
 *.starrevs.com
 *.starrockinvest.com
 *.starrtc.com
+*.starryblu.com
 *.starrydyn.com
 *.starryfrp.com
 *.starrymed.com
@@ -89300,6 +89329,7 @@ ff00:*
 *.tomson-group.com
 *.tomson-riviera.com
 *.tomwx.net
+*.ton51.com
 *.tone-sun.com
 *.tonebj.com
 *.tonechemical.com
@@ -90719,6 +90749,7 @@ ff00:*
 *.txjscl.com
 *.txjsjgs888.com
 *.txjy689.com
+*.txkjaisa.asia
 *.txlctong.com
 *.txleshare.com
 *.txlivecdn.com
@@ -92156,6 +92187,7 @@ ff00:*
 *.vbkrhk.com
 *.vbmnmy.com
 *.vbsemi.com
+*.vbw432.com
 *.vc800.com
 *.vcarepharmatech.com
 *.vcbeat.net
@@ -98117,6 +98149,7 @@ ff00:*
 *.xiamenwater.com
 *.xiami.com
 *.xiami.net
+*.xiamiapi.xyz
 *.xiamo.fun
 *.xiamoyun.com
 *.xiamp4.com
@@ -98339,6 +98372,7 @@ ff00:*
 *.xiaobool.com
 *.xiaobot.net
 *.xiaobu.tech
+*.xiaobu.xin
 *.xiaobu121.com
 *.xiaobuwq.com
 *.xiaocanapp.com
@@ -99313,6 +99347,7 @@ ff00:*
 *.xinlilw.com
 *.xinlinghuayuan.com
 *.xinlingletu.com
+*.xinlingshou.com
 *.xinlip.com
 *.xinlischool.com
 *.xinlishumeng.com
@@ -102620,6 +102655,7 @@ ff00:*
 *.yfmhw.com
 *.yfp2p.net
 *.yfpayment.com
+*.yfqh.tech
 *.yfsafety.com
 *.yfsail.net
 *.yfscdn.net
@@ -103143,6 +103179,7 @@ ff00:*
 *.yinchengpai.com
 *.yinchuanwater.com
 *.yinchuanzxd.com
+*.yindo-ohm.com
 *.yindon.com
 *.yindu.com
 *.yinduchina.com
@@ -106223,6 +106260,7 @@ ff00:*
 *.yyds.space
 *.yydsmh.com
 *.yydsok.com
+*.yydsym.com
 *.yydszp.com
 *.yydy.com
 *.yydzh.com
@@ -110848,6 +110886,7 @@ ff00:*
 *.zxczw.com
 *.zxd.com
 *.zxd666.com
+*.zxdj.club
 *.zxdkj.com
 *.zxdu.net
 *.zxerp.com
@@ -111085,6 +111124,7 @@ ff00:*
 *.zyyimin.com
 *.zyykj168.com
 *.zyylee.com
+*.zyyun.xyz
 *.zyz119.com
 *.zyzhan.com
 *.zyzl120.com
