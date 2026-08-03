@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-02 09:17:01
+; 更新时间：2026-08-03 09:16:56
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -18852,7 +18852,6 @@
 *.pure18.com
 *.pureapk.com
 *.pureconcepts.net
-*.puredns.org
 *.pureinsight.org
 *.purelov5.com
 *.purelyceleb.com
@@ -19069,7 +19068,6 @@
 *.radiofarda.com
 *.radioglobo.com.br
 *.radiohilight.net
-*.radiojar.com
 *.radioline.co
 *.radiomango.fm
 *.radiomarsho.com
@@ -24690,7 +24688,6 @@
 *.www.ajsands.com
 *.www.antd.org
 *.www.aolnews.com
-*.www.clashverge.dev
 *.www.cmoinc.org
 *.www.destinationurl.com
 *.www.eastturkistan.net
