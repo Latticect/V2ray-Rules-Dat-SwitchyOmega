@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-04 09:09:05
+; 更新时间：2026-08-05 09:07:59
 ; cn域名都不走代理
 *.cn
 
@@ -111533,6 +111533,8 @@ time.amazonaws.cn
 time.izatcloud.net
 time.xtracloud.net
 tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 tools.google.com
 tp.louisvuitton.com
 universal-activity-service.itunes.apple.com
