@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-05 09:07:59
+; 更新时间：2026-08-06 09:07:52
 ; cn域名都不走代理
 *.cn
 
@@ -63402,6 +63402,7 @@ ff00:*
 *.madajiefood.com
 *.madaomall.com
 *.madboxi.com
+*.made-in-china.com
 *.madefuns.com
 *.madeinchinastone.com
 *.madewei.com
@@ -65140,6 +65141,7 @@ ff00:*
 *.microxiang.com
 *.microyan.com
 *.microzuji.com
+*.micstatic.com
 *.mictormedical.com
 *.micu.hk
 *.micun.com
@@ -72742,6 +72744,7 @@ ff00:*
 *.powercx.com
 *.powerde.com
 *.powereasy.net
+*.poweremarket.com
 *.powerex1.com
 *.powerflow-tech.com
 *.powerfulchina.com
