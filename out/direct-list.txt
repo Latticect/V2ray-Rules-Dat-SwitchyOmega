@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-07 09:52:30
+; 更新时间：2026-08-08 08:33:09
 ; cn域名都不走代理
 *.cn
 
@@ -60710,6 +60710,7 @@ ff00:*
 *.lifevc.com
 *.lifevccdn.com
 *.lifeweeker.com
+*.lifexue.com
 *.lifeyk.com
 *.lifeyn.net
 *.lifezb.com
