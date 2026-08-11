@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-10 08:37:18
+; 更新时间：2026-08-11 08:36:07
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6887,6 +6887,7 @@
 *.disqusservice.com
 *.dit-inc.us
 *.divas.com.uy
+*.divdyn.com
 *.diwodiwo.xyz
 *.diyarbakirescort.com
 *.diyin.org
