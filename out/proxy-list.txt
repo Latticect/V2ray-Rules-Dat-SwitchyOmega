@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-11 08:36:07
+; 更新时间：2026-08-12 08:42:56
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -737,6 +737,9 @@
 *.activelearnprimary.com.au
 *.activematter.game
 *.activeteachonline.com
+*.activision.com
+*.activisionblizzard.com
+*.activisionblizzardmedia.com
 *.activpn.com
 *.actualidad-rt.com
 *.aculo.us
@@ -3355,6 +3358,7 @@
 *.bellotube.com
 *.bellsouth.net
 *.benaughty.fun
+*.benefitsforeveryworld.com
 *.bengalisexvideos.com
 *.benliton.com
 *.bentobox.tv
@@ -4811,6 +4815,11 @@
 *.callbackkiller.com
 *.callersbane.com
 *.callhulu.com
+*.callofduty.com
+*.callofdutyendowment.com
+*.callofdutyendowment.org
+*.callofdutyleague.com
+*.callofdutymobile.com
 *.cam-duct.com
 *.cam4.com
 *.cam69.com
@@ -4862,6 +4871,7 @@
 *.camwhoria.com
 *.canada-beatsbydre.com
 *.candidforum-videos.com
+*.candycrush.com
 *.candycumcity.com
 *.candypleasure.com
 *.canny.io
@@ -5931,6 +5941,7 @@
 *.crackle.com
 *.craigslist.org
 *.crankplayer.com
+*.crashbandicoot.com
 *.crashlytics.com
 *.crates.io
 *.crazy-amateurs.com
@@ -6507,6 +6518,7 @@
 *.demo.unlock-music.dev
 *.democracy.earth
 *.demonoid.is
+*.demonware.net
 *.demoprint.com
 *.demosisto.hk
 *.denfaminicogamer.jp
@@ -6627,7 +6639,9 @@
 *.dgwav.com
 *.dh44.lol
 *.dhlestudio.com.co
+*.diablo.com
 *.diablo3.com
+*.diablo4.com
 *.diabloimmortal.com
 *.diabrowser.com
 *.diabrowser.engineering
@@ -8062,6 +8076,7 @@
 *.europeansustainabledesign.net
 *.europeansustainabledesigncouncil.com
 *.europeansustainabledesigncouncil.net
+*.europeanwarzoneseries.com
 *.europepmc.org
 *.europornstar.com
 *.eurosexscene.com
@@ -11086,6 +11101,7 @@
 *.hifuli.com
 *.highbolt.net
 *.highdefinitionbeatsbydre.com
+*.highmoonstudios.com
 *.highporn.net
 *.highrockmedia.com
 *.hightopnikes.com
@@ -12232,6 +12248,7 @@
 *.industrialtoys.com
 *.infinitetoons.com
 *.infinitetube.com
+*.infinityward.com
 *.influencersgonewild.com
 *.info-graf.fr
 *.infocert.digital
@@ -13579,6 +13596,7 @@
 *.kindnudist.com
 *.kindteenporn.com
 *.kinescopecdn.net
+*.king.com
 *.kingcomix.com
 *.kingdomsalvation.org
 *.kingextre.me
@@ -19174,6 +19192,7 @@
 *.ratedgross.com
 *.rateyourmusic.com
 *.rationalwiki.org
+*.ravensoftware.com
 *.ravm.tv
 *.raw.githack.com
 *.rawgit.com
@@ -20068,6 +20087,7 @@
 *.seiron-sankei.com
 *.sejie80.com
 *.sekai.colorfulpalette.org
+*.sekirothegame.com
 *.seksmet.nl
 *.sekswebsite.nl
 *.sekur1213.guru
@@ -20525,6 +20545,7 @@
 *.sidelinesnews.com
 *.sider.ai
 *.siege-amazon.com
+*.sierragames.com
 *.sifangclub.com
 *.sigcomm.org
 *.sigmoidoscopeexam.com
@@ -20651,6 +20672,7 @@
 *.sky.com
 *.skyassets.com
 *.skybet.com
+*.skylanders.com
 *.skymansion.net
 *.skymatter.com
 *.skyoceanrescue.com
@@ -20693,6 +20715,7 @@
 *.sldolls.com
 *.sleazyfork.org
 *.sleazyneasy.com
+*.sledgehammergames.com
 *.slheng.com
 *.slickvpn.com
 *.slides.com
@@ -20839,6 +20862,7 @@
 *.solarsystem.nasa.gov
 *.solid.ru
 *.solidifi.app
+*.solidstate.com
 *.solostudioksale.com
 *.solscan.io
 *.solutionstation.com
@@ -21095,6 +21119,7 @@
 *.sputnikmediabank.com
 *.sputniknews.com
 *.spyjinx.com
+*.spyrothedragon.com
 *.sqlite.org
 *.sqlserveronlinux.com
 *.sqool.net
@@ -22376,6 +22401,8 @@
 *.toncenter.com
 *.tonec.com
 *.tonicmovies.com
+*.tonyhawk.com
+*.tonyhawkthegame.com
 *.toolforge.org
 *.toolmaking-cadcam.com
 *.toomadporn.pro
@@ -22527,6 +22554,7 @@
 *.trendmicro.com
 *.trendsmap.com
 *.trendyporn.com
+*.treyarch.com
 *.trezor.io
 *.triballo.net
 *.tribler.org
@@ -24683,6 +24711,7 @@
 *.worldscientific.com
 *.worldsecureemail.com
 *.worldsecuresystems.com
+*.worldseriesofwarzone.com
 *.worldsex.com
 *.worldsfastestgamer.net
 *.worldvpn.net
