@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-12 08:42:56
+; 更新时间：2026-08-13 08:44:22
 ; cn域名都不走代理
 *.cn
 
@@ -2485,6 +2485,7 @@ ff00:*
 *.194nb.com
 *.195155.com
 *.195268032591463.icu
+*.1958xy.com
 *.195idc.com
 *.196b7adb23969e39.com
 *.196g.com
@@ -4141,6 +4142,7 @@ ff00:*
 *.36kr.net
 *.36krcdn.com
 *.36krcnd.com
+*.36linkr.com
 *.36pnes36t0qs.com
 *.36qp.com
 *.36rv3j3.shop
@@ -14222,7 +14224,6 @@ ff00:*
 *.bamboofactorychina.com
 *.bambooolab.com
 *.bambu-lab.com
-*.bambulab.com
 *.bamengame.com
 *.bamensq.com
 *.bamenzhushou.com
@@ -16777,6 +16778,7 @@ ff00:*
 *.bktsj.com
 *.bkvps.com
 *.bkweek.com
+*.bkzhibo.com
 *.bkzzy.com
 *.bl.com
 *.bl0757.com
@@ -52749,6 +52751,7 @@ ff00:*
 *.jgsemicon.com
 *.jgstour.com
 *.jgsxfw.com
+*.jgtab.link
 *.jgtc315.com
 *.jguanjia.com
 *.jgums.com
@@ -54502,6 +54505,7 @@ ff00:*
 *.jkyule.com
 *.jkzhilu.com
 *.jkzl.com
+*.jkzlrs.com
 *.jkzn365.com
 *.jl-er.com
 *.jl-jssk.com
@@ -56164,6 +56168,7 @@ ff00:*
 *.juwanhezi.com
 *.juwanshe.com
 *.juweixin.com
+*.juwinmedia.com
 *.juxia.com
 *.juxian.com
 *.juxiang3d.com
@@ -85270,6 +85275,7 @@ ff00:*
 *.sxyj.net
 *.sxyqgs.asia
 *.sxyyc.net
+*.sxyygh.com
 *.sxzhaobiao.com
 *.sxzhongfei.com
 *.sxzhyy.com
@@ -97772,6 +97778,7 @@ ff00:*
 *.xhscdn.net
 *.xhsd.com
 *.xhsd.net
+*.xhsdzd.com
 *.xhsf.com
 *.xhslink.com
 *.xhslw.com
@@ -104158,7 +104165,6 @@ ff00:*
 *.youlesp.com
 *.youletd.com
 *.youleyou.com
-*.youlian.fun
 *.youlianfuwu.com
 *.youliangda.com
 *.youlianghz.com

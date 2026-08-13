@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-12 08:42:56
+; 更新时间：2026-08-13 08:44:22
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4611,6 +4611,7 @@
 *.buicha.social
 *.building3dcontent.com
 *.builtfromebay.com
+*.builtwithnix.org
 *.bukkake-jav.com
 *.bullguard.com
 *.bullog.org
@@ -16062,6 +16063,7 @@
 *.mynavi.jp
 *.mynetname.net
 *.mynike.com
+*.mynixos.com
 *.myoctocat.com
 *.myparagliding.com
 *.mypearson.com
@@ -16756,7 +16758,15 @@
 *.nivod.tv
 *.nivodi.tv
 *.nivodz.com
+*.nix-community.org
+*.nix.dev
+*.nix.store
+*.nixcon.org
+*.nixcon2017.org
+*.nixlang.com
 *.nixos.org
+*.nixos.wiki
+*.nixpkgs.org
 *.niziero.info
 *.njactb.org
 *.njav.tv
@@ -25627,6 +25637,7 @@
 *.yandex.eu
 *.yandex.fi
 *.yandex.fr
+*.yandex.it
 *.yandex.jobs
 *.yandex.kg
 *.yandex.kz
@@ -26577,6 +26588,7 @@ mwf-service.akamaized.net
 na1r.services.adobe.com
 nbbb1bb7.pmhcjk.com
 netflix.com.edgesuite.net
+nix-community.github.io
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notebooklm-pa.googleapis.com
