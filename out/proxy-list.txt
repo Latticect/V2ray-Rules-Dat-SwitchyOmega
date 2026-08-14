@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-13 08:44:22
+; 更新时间：2026-08-14 08:43:50
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -19627,6 +19627,7 @@
 *.rsdlmonitor.com
 *.rsf-chinese.org
 *.rsf.org
+*.rsg.ms
 *.rsg.sc
 *.rshb.ru
 *.rsk.co
@@ -19953,6 +19954,8 @@
 *.sbux.com.my
 *.sbuxcard.com
 *.sc-cdn.net
+*.sc-gw.com
+*.sc-static.net
 *.sc.com
 *.sca-tolo.info
 *.scala-lang.org
