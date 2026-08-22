@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-22 08:01:41
+; 更新时间：2026-08-23 07:59:59
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -11130,6 +11130,7 @@
 *.hippyhillscomix.com
 *.hipzoom.net
 *.hiroshimabank.co.jp
+*.historylines.net
 *.historyofdota.com
 *.historyofdota.net
 *.historyofdota.org
@@ -13646,6 +13647,7 @@
 *.kiwi.jp
 *.kiwi.kz
 *.kiwibrowser.com
+*.kiwix.org
 *.kiyobank.co.jp
 *.kk-whys.co.jp
 *.kk.stream
@@ -14767,6 +14769,7 @@
 *.mcdonaldsapps.com
 *.mcdonaldsarabia.com
 *.mcdonaldsparties.co.nz
+*.mceindex.com
 *.mcisco.com
 *.mcpeaceofmind.com
 *.mcrouter.net
