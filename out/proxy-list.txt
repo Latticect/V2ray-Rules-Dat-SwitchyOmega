@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-23 07:59:59
+; 更新时间：2026-08-24 07:59:51
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1824,6 +1824,7 @@
 *.api.moomoobull.com
 *.api.news
 *.api.palworldgame.com
+*.api.shuaiapi.com
 *.apiary.io
 *.apiauto.ru
 *.apibay.org
@@ -24877,6 +24878,7 @@
 *.x3guide.com
 *.x3vid.com
 *.x6av.com
+*.x86.fr
 *.x99av.com
 *.xamarin.com
 *.xandr.com
