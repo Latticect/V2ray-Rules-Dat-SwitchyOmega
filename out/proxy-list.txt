@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-27 13:07:49
+; 更新时间：2026-08-28 15:06:15
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -19433,6 +19433,7 @@
 *.relateiq.com
 *.religionnews.com
 *.remirepo.net
+*.remna.st
 *.rencapbank.ru
 *.renchead.com
 *.rencredit.ru
@@ -24770,6 +24771,7 @@
 *.wpoforum.com
 *.wpvip.com
 *.wrenchead.com
+*.write.as
 *.writesonic.com
 *.ws-blau.com
 *.ws-tcg.com
