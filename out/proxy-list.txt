@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-08-31 09:39:35
+; 更新时间：2026-09-01 10:04:22
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -3702,6 +3702,7 @@
 *.blackandstacked.com
 *.blackboxgames.com
 *.blacked.com
+*.blackedraw.com
 *.blackfridaydrebeatsnew.com
 *.blackfridaydrebeatsshop.com
 *.blackhomeporn.com
@@ -9615,6 +9616,8 @@
 *.gate.cc
 *.gate.com
 *.gate.io
+*.gate.tv
+*.gateapi.io
 *.gatecoin.com
 *.gatedata.org
 *.gateimg.com
@@ -15116,6 +15119,7 @@
 *.milftube.pro
 *.milftugs.com
 *.milfvr.com
+*.milfy.com
 *.milfzr.com
 *.miliav.com
 *.milkmanbook.com
@@ -20749,6 +20753,7 @@
 *.slashine.onl
 *.slavbank.ru
 *.slavicstar.com
+*.slayed.com
 *.slc.tl
 *.sldolls.com
 *.sleazyfork.org
@@ -22771,6 +22776,7 @@
 *.tusco.ru
 *.tushy.com
 *.tushycash.com
+*.tushyraw.com
 *.tuta.com
 *.tuta.io
 *.tutamail.com
@@ -23755,6 +23761,7 @@
 *.vivaxnxx.com
 *.vivthomas.com
 *.vixen.com
+*.vixengroup.com
 *.vixvids.to
 *.vjav.com
 *.vjmedia.com.hk
