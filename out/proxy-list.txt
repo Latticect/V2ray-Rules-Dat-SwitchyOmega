@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-09-06 09:20:58
+; 更新时间：2026-09-07 09:19:15
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -26600,6 +26600,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 impala-media-production.s3.amazonaws.com
 imperial.insendi.com
+lastfm-img.freetls.fastly.net
 lastfm.freetls.fastly.net
 lazer.ppy.sh
 lgcscc-hamivideo2.cdn.hinet.net
