@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-09-08 09:27:37
+; 更新时间：2026-09-09 09:36:50
 ; cn域名都不走代理
 *.cn
 
@@ -104537,6 +104537,7 @@ ff00:*
 *.yuanpanguoji.com
 *.yuanqiao.net
 *.yuanqiao.pw
+*.yuanqidesk.com
 *.yuanqilt.com
 *.yuanqingsh.com
 *.yuanqisenlin.com
