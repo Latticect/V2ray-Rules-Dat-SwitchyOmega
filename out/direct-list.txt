@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-09-20 09:42:37
+; 更新时间：2026-09-21 09:43:54
 ; cn域名都不走代理
 *.cn
 
@@ -34896,6 +34896,7 @@ ff00:*
 *.fnos.net
 *.fnrcw.com
 *.fnrczp.com
+*.fnrrc.com
 *.fnsbqvz.com
 *.fnscore.com
 *.fnwlzz.com
@@ -38452,6 +38453,7 @@ ff00:*
 *.gongkongsaas.com
 *.gonglf.com
 *.gonglve.net
+*.gongniukaiguan.net
 *.gongnou.com
 *.gongpin.net
 *.gongpingjia.com
@@ -63945,6 +63947,7 @@ ff00:*
 *.mdbchina.com
 *.mdbimg.com
 *.mdclub.org
+*.mddclass.com
 *.mdddg.com
 *.mddj.com
 *.mddlsa.com
@@ -75007,6 +75010,7 @@ ff00:*
 *.qudao168.com
 *.qudaowuyou.com
 *.qudayun.com
+*.qudian.com
 *.qudingshui.com
 *.qudong.com
 *.qudong51.net
@@ -90492,6 +90496,7 @@ ff00:*
 *.uboat100.com
 *.uborn.net
 *.uboxol.com
+*.uboxs.com
 *.ubs001.com
 *.ubssdic.com
 *.ubt.tripcdn.com
@@ -92593,6 +92598,7 @@ ff00:*
 *.vx.com
 *.vx56.com
 *.vxe.com
+*.vxhcm.com
 *.vxia.net
 *.vxiaocheng.com
 *.vxinyou.com
@@ -103717,6 +103723,7 @@ ff00:*
 *.youbangyun.com
 *.youbbs.org
 *.youbian.com
+*.youbianku.com
 *.youbibi.com
 *.youbike.me
 *.youbikecn.com
@@ -107817,6 +107824,7 @@ ff00:*
 *.zhonglianhuashu.com
 *.zhonglianhuaxin.com
 *.zhonglianyx.com
+*.zhongliujie.com
 *.zhongliusp.com
 *.zhongliuyiyuan.com
 *.zhonglue-consulting.com
@@ -110023,6 +110031,7 @@ ff00:*
 *.zuixu.com
 *.zuiyanke.com
 *.zuiyou.com
+*.zuiyou.tv
 *.zuiyouxi.com
 *.zuizhifu.com
 *.zuji360.com
