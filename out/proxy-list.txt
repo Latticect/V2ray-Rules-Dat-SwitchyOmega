@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-09-21 09:43:54
+; 更新时间：2026-09-22 09:55:21
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -5386,6 +5386,7 @@
 *.chinesegay.org
 *.chinesen.de
 *.chinesenews.net.au
+*.chineseposters.net
 *.chineseradioseattle.com
 *.chinesespanking.com
 *.chineseupress.com
@@ -16845,6 +16846,7 @@
 *.norsk.mobi
 *.norton.com
 *.nos.nl
+*.note.com
 *.notegpt.io
 *.notepad-plus-plus.org
 *.noticias-rt.com
