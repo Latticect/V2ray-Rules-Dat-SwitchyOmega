@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-09-22 09:55:21
+; 更新时间：2026-09-23 09:50:21
 ; cn域名都不走代理
 *.cn
 
@@ -82165,6 +82165,7 @@ ff00:*
 *.sjf029.com
 *.sjfcdn.com
 *.sjfh168.com
+*.sjfls6.com
 *.sjfpro.com
 *.sjfzxm.com
 *.sjg8.com
@@ -110851,6 +110852,7 @@ download.visualstudio.microsoft.com
 downloaddispatch.itunes.apple.com
 dreamspark.download.prss.microsoft.com
 dreamsparkuat.download.prss.microsoft.com
+drivers.amd.com
 edge.geo.kaspersky.com
 end-api.shallow.ink
 end.shallow.ink
