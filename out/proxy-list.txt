@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-09-26 10:02:58
+; 更新时间：2026-09-27 09:52:48
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -4769,6 +4769,7 @@
 *.c-msedge.net
 *.c-span.org
 *.c-spanvideo.org
+*.c.go-mpulse.net
 *.c.mi.com
 *.c0930.com
 *.c2cx.com
@@ -23313,6 +23314,7 @@
 *.vaultify.info
 *.vaultify.net
 *.vaultproject.io
+*.vava8.com
 *.vbcdn.com
 *.vbcdn.net
 *.vbejeyv.shop
