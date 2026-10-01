@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-09-30 10:26:54
+; 更新时间：2026-10-01 10:29:18
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -9517,6 +9517,7 @@
 *.fututrade.com
 *.fututrustee.com
 *.fuxporn.com
+*.fuyin116.com
 *.fuzokudx.com
 *.fw.cm
 *.fxcm-chinese.com
