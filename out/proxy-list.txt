@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-04 10:52:38
+; 更新时间：2026-10-05 10:25:34
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -10421,6 +10421,7 @@
 *.googlepagecreator.com
 *.googlephotos.com
 *.googleplay.com
+*.googleplaycensorship.com
 *.googleplus.com
 *.googlescholar.com
 *.googlesource.com
