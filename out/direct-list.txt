@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-07 10:43:21
+; 更新时间：2026-10-08 11:00:33
 ; cn域名都不走代理
 *.cn
 
@@ -3734,6 +3734,7 @@ ff00:*
 *.3464.com
 *.346888.com
 *.346g4247o9.world
+*.346tudx.com
 *.348b60ac51011.beer
 *.34a14155f1016.beer
 *.34c5fe453528e605.com
@@ -8745,6 +8746,7 @@ ff00:*
 *.91meitu.com
 *.91mh.me
 *.91miaoshou.com
+*.91mtp.com
 *.91muzhi.com
 *.91ninthpalace.com
 *.91nzh.com
@@ -10092,6 +10094,7 @@ ff00:*
 *.adlainortye.com
 *.adlefee.com
 *.adlefei.com
+*.adlingsi.com
 *.adlo.net
 *.adluckin.com
 *.adm88888.com
@@ -10314,6 +10317,7 @@ ff00:*
 *.aflytec.com
 *.afriendx.com
 *.afrindex.com
+*.afs-static.com
 *.afshanghai.org
 *.afszc.com
 *.aft1v1.com
@@ -24808,6 +24812,7 @@ ff00:*
 *.cosyjoy.com
 *.cosz.com
 *.cotek-robotics.com
+*.cotenhao31.net
 *.cotong.com
 *.cotticoffee.com
 *.cotv.tv
@@ -26354,6 +26359,7 @@ ff00:*
 *.cupmcn.com
 *.cuppot.com
 *.curlc.com
+*.curlymobi.com
 *.current.vc
 *.cursor.zone
 *.curtisasia.com
@@ -27454,6 +27460,7 @@ ff00:*
 *.dashu.com
 *.dashubaba.com
 *.dashuju123.com
+*.dasiotravel.com
 *.dasiyingyu.com
 *.dasong108.com
 *.dasoujia.com
@@ -28339,6 +28346,7 @@ ff00:*
 *.dfjyun.com
 *.dfkhgj.com
 *.dfkj.cc
+*.dfldgx.com
 *.dflzm.com
 *.dflzmxs.com
 *.dfmc.com
@@ -29426,6 +29434,7 @@ ff00:*
 *.dnsis.net
 *.dnsjia.com
 *.dnsjiasu001.com
+*.dnsjp.cc
 *.dnsjxla.com
 *.dnslin.com
 *.dnsmeasurement.com
@@ -30046,6 +30055,7 @@ ff00:*
 *.dptechnology.net
 *.dptel.com
 *.dpurat.com
+*.dpweixin.com
 *.dpwl.net
 *.dpxkjw.com
 *.dpxq.com
@@ -32245,6 +32255,7 @@ ff00:*
 *.enfodesk.com
 *.enforever.com
 *.eng24.com
+*.engagelab.email
 *.engeniustec.com
 *.engeyuan.com
 *.engkoo.com
@@ -35656,6 +35667,7 @@ ff00:*
 *.fuma-carbide.com
 *.fumake.com
 *.fumaofawu.com
+*.fumhwl.com
 *.fumi.com
 *.fumiaoyinpin.com
 *.fumin.com
@@ -38357,6 +38369,7 @@ ff00:*
 *.goertek.com
 *.goetheslz.com
 *.gofarqzyy.com
+*.goflac.com
 *.goforandroid.com
 *.gofreeplay.com
 *.gofrp.org
@@ -40028,6 +40041,7 @@ ff00:*
 *.gxcmgr.com
 *.gxcncec.com
 *.gxcors.com
+*.gxcould.com
 *.gxcounty.com
 *.gxcpa.com
 *.gxcq188.com
@@ -42033,6 +42047,7 @@ ff00:*
 *.gzqixun-tech.com
 *.gzqljxd.com
 *.gzqsts.com
+*.gzquans.com
 *.gzqunsheng.com
 *.gzqygl.com
 *.gzqz.com
@@ -52628,6 +52643,7 @@ ff00:*
 *.jhconba.com
 *.jhctbank.com
 *.jhddsz.com
+*.jhdexpress.com
 *.jhdmro.com
 *.jhdpower.com
 *.jhdxjk.com
@@ -52895,6 +52911,7 @@ ff00:*
 *.jianguoyun.com
 *.jiangweishan.com
 *.jiangxiatech.com
+*.jiangxin-tech.com
 *.jiangxinkeji.club
 *.jiangxiol.com
 *.jiangxirc.com
@@ -53734,6 +53751,7 @@ ff00:*
 *.jinmenrc.com
 *.jinming.net
 *.jinmixuetang.com
+*.jinmo.tech
 *.jinmogame.com
 *.jinmuinfo.com
 *.jinnong.cc
@@ -53796,6 +53814,7 @@ ff00:*
 *.jinshanmz.com
 *.jinshasitemuseum.com
 *.jinshaxuexiao.com
+*.jinsheng73.com
 *.jinshengceramics.com
 *.jinshengtang.net
 *.jinsheyi.com
@@ -56970,6 +56989,7 @@ ff00:*
 *.kaowana.com
 *.kaowang.com
 *.kaowx.com
+*.kaoyagogo.com
 *.kaoyan.com
 *.kaoyan.org
 *.kaoyan1v1.com
@@ -62239,6 +62259,7 @@ ff00:*
 *.luckao.com
 *.luckeeinc.com
 *.luckforcalendar.com
+*.luckin.com
 *.luckincalendar.com
 *.luckincdn.com
 *.luckincoffee.co
@@ -66343,6 +66364,7 @@ ff00:*
 *.mtab.cc
 *.mtadvert.com
 *.mtadx.com
+*.mtakm.com
 *.mtaokj.com
 *.mtavip.com
 *.mtblj.com
@@ -70005,6 +70027,7 @@ ff00:*
 *.ofo.com
 *.ofpay.com
 *.ofpay365.com
+*.ofulai.com
 *.ofuns.com
 *.ofweek.com
 *.ofweek.net
@@ -70907,6 +70930,7 @@ ff00:*
 *.owulia.com
 *.oxbridgedu.org
 *.oxerr.net
+*.oxflac.com
 *.oxiang.com
 *.oxiaohua.com
 *.oxiranchem.com
@@ -74911,6 +74935,7 @@ ff00:*
 *.qrtest.com
 *.qrtz.co
 *.qrx.cc
+*.qrytsa.com
 *.qrzxx.com
 *.qs-jt.net
 *.qs12315.com
@@ -77617,6 +77642,7 @@ ff00:*
 *.safenext.com
 *.safetyimg.com
 *.safetystatic.com
+*.safetytaxfree.com
 *.safetyvod.com
 *.safewk.com
 *.safround.com
@@ -83469,6 +83495,7 @@ ff00:*
 *.sparkeduapi.com
 *.sparkeducdn.com
 *.sparkletour.com
+*.sparknexa.com
 *.spasvo.com
 *.spawor.com
 *.spay365.com
@@ -84384,6 +84411,7 @@ ff00:*
 *.sungent.com
 *.sungesoft.com
 *.sungine.com
+*.sungivenplus.com
 *.sunglow-tec.com
 *.sungoal.org
 *.sungoedu.com
@@ -84758,6 +84786,7 @@ ff00:*
 *.svipgulr.com
 *.sviping.com
 *.svlik.com
+*.svlqgh.com
 *.svn999.com
 *.svnbucket.com
 *.svnspot.com
@@ -86623,6 +86652,7 @@ ff00:*
 *.taoniupin.com
 *.taooo.cc
 *.taopb.com
+*.taopianzy.com
 *.taopiaopiao.com
 *.taopic.com
 *.taopinquan.com
@@ -91074,6 +91104,7 @@ ff00:*
 *.union555.com
 *.unioncom.cc
 *.unioncyber.net
+*.unionflink.com
 *.unionli.com
 *.unionpay.com
 *.unionpay.net
@@ -98488,6 +98519,7 @@ ff00:*
 *.xijingjianzhan9.com
 *.xikang365.net
 *.xikcloud.com
+*.xikestor.com
 *.xikii.com
 *.xikoutourism.com
 *.xikuan.com
@@ -99902,6 +99934,7 @@ ff00:*
 *.xn--xkr190gv5p.com
 *.xn--xkr999cp4fv97a.com
 *.xn--xkrs9ba41r.com
+*.xn--xwrq59aduur60a.com
 *.xn--y8jhmm6gn.moe
 *.xn--yetw60a.xyz
 *.xn--ygtp21bwyedsq.com
@@ -100207,6 +100240,7 @@ ff00:*
 *.xthinking.net
 *.xthtc.com
 *.xthyjt.com
+*.xtia.design
 *.xtiai.com
 *.xtianlang.com
 *.xtibet.com
@@ -102889,6 +102923,7 @@ ff00:*
 *.yinjispace.com
 *.yinka.co
 *.yinkead.com
+*.yinkeshidai.com
 *.yinlimedia.com
 *.yinlingshuyuan.com
 *.yinmakeji.com
@@ -104434,6 +104469,7 @@ ff00:*
 *.yr-info.com
 *.yr17.net
 *.yr3.com
+*.yr4c3jo8ry.com
 *.yra2.com
 *.yracc.com
 *.yrapp.net
@@ -105633,6 +105669,7 @@ ff00:*
 *.yx1312.com
 *.yx192.com
 *.yx231.com
+*.yx338.com
 *.yx643.com
 *.yx7088.com
 *.yx74.com
@@ -105875,6 +105912,7 @@ ff00:*
 *.yytek.com
 *.yytfood.com
 *.yytiflytek.com
+*.yytsks.com
 *.yyuap.com
 *.yyutfzv.com
 *.yywd.com
@@ -105922,6 +105960,7 @@ ff00:*
 *.yz-li.com
 *.yz-machinery.com
 *.yz-proton.com
+*.yz-shield.com
 *.yz-show.com
 *.yz-xd.com
 *.yz0752.com
