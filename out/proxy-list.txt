@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-15 09:52:56
+; 更新时间：2026-10-16 09:42:27
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -18336,6 +18336,7 @@
 *.playstation
 *.playstation.com
 *.playstation.net
+*.playstationnetwork.com
 *.playvalorant.com
 *.playvids.com
 *.playwarcraft3.com
@@ -20096,6 +20097,7 @@
 *.scatville.com
 *.scb.ru
 *.scdn.co
+*.scea.com
 *.scene7.com
 *.scenesource.me
 *.scharferporno.com
@@ -21060,6 +21062,7 @@
 *.sony.com.pa
 *.sony.com.pe
 *.sony.com.ph
+*.sony.com.py
 *.sony.com.sg
 *.sony.com.sv
 *.sony.com.tr
@@ -21103,8 +21106,10 @@
 *.sonydna.com
 *.sonyentertainmentnetwork.com
 *.sonyglobalsolutions.jp
+*.sonyinteractive.com
 *.sonykigyo.jp
 *.sonylatvija.com
+*.sonymusic.com.hk
 *.sonynetwork.co.jp
 *.sonypcl.jp
 *.sonypictures.com
