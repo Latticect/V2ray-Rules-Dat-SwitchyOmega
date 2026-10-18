@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-17 09:35:39
+; 更新时间：2026-10-18 09:34:01
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -6134,6 +6134,7 @@
 *.cursor.com
 *.cursor.sh
 *.cursorapi.com
+*.cursorvm.com
 *.curve.fi
 *.curvefish.com
 *.curvybbwwives.com
@@ -17472,6 +17473,7 @@
 *.opac-project.eu
 *.open.firstory.me
 *.openai.com
+*.openai.org
 *.openamt.com
 *.openapiplatform.com
 *.openapiservice.com
@@ -20112,6 +20114,7 @@
 *.schwab.com.hk
 *.schwab.com.sg
 *.schwabassetmanagement.com
+*.schwabcdn.com
 *.schwabplan.com
 *.sci-hub.ee
 *.sci-hub.it.nf
@@ -22471,6 +22474,8 @@
 *.timestalks.com
 *.timeweb.cloud
 *.timeweb.com
+*.timeweb.tech
+*.timewebcloud.kz
 *.timi1.me
 *.timo0.com
 *.timtales.com
@@ -23048,6 +23053,7 @@
 *.typekit.net
 *.typenetwork.com
 *.typepad.com
+*.typesafe.ai
 *.typeset.io
 *.typesquare.com
 *.typography.com
