@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-18 09:34:01
+; 更新时间：2026-10-19 09:49:25
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2370,7 +2370,6 @@
 *.asmr.gay
 *.asmrbuluo.com
 *.asn-online.org
-*.asobostudio.com
 *.asp-cc.com
 *.asp.net
 *.aspbjournals.org
@@ -3356,8 +3355,15 @@
 *.beforeigners.com
 *.befuck.com
 *.befuck.net
+*.beget.app
+*.beget.cloud
 *.beget.com
+*.beget.de
+*.beget.hosting
+*.beget.pro
 *.beget.ru
+*.beget.tech
+*.begetcdn.cloud
 *.begin-trade.com
 *.behance.net
 *.behindthescreenz.com
@@ -3390,6 +3396,7 @@
 *.berlinerbericht.de
 *.berlintwitterwall.com
 *.beru.ru
+*.beserver.ru
 *.best-sex-games.com
 *.best2pay.net
 *.best4bim.com
@@ -3500,6 +3507,7 @@
 *.bffshd.com
 *.bfnn.org
 *.bfsh.hk
+*.bget.ru
 *.bgicdn.com
 *.bgm.tv
 *.bgme.me
@@ -8967,7 +8975,6 @@
 *.flickr
 *.flickr.com
 *.flickr.net
-*.flightsimulator.com
 *.flipboard.com
 *.flipfap.com
 *.flipkart.com
@@ -19075,6 +19082,7 @@
 *.pussyspace.net
 *.putinho.net
 *.putty.org
+*.pv-cdn.net
 *.pvp.net
 *.pvp.tv
 *.pvt.sexy
@@ -21265,6 +21273,7 @@
 *.springwood.me
 *.sprinklesapp.com
 *.sproutcore.com
+*.sprut.io
 *.sptvbroadcast.com
 *.sputnikglobe.com
 *.sputnikimages.com
@@ -25247,6 +25256,7 @@
 *.xn--90ab.com
 *.xn--90ab2c.xn--p1ai
 *.xn--90absjljw3g.xn--p1ai
+*.xn--90aefb9d.xn--p1ai
 *.xn--90aifd0az.shop
 *.xn--90aifd0azb.xn--p1acf
 *.xn--90wwvt03e.com
@@ -26630,6 +26640,7 @@ d2vjef5jvl6bfs.cloudfront.net
 d2xmjdvx03ij56.cloudfront.net
 d31dormfno8pk4.cloudfront.net
 d33wubrfki0l68.cloudfront.net
+d348twzf7a8p5.cloudfront.net
 d36nr0u3xmc4mm.cloudfront.net
 d3aqoihi2n8ty8.cloudfront.net
 d3c27h4odz752x.cloudfront.net
@@ -26654,6 +26665,7 @@ deribit.cdn.prismic.io
 deutschewelle.h-cdn.com
 developer.microsoft.com
 developers.facebook.com
+devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 dfp6rglgjqszk.cloudfront.net
 dgeft87wbj63p.cloudfront.net
 discord-attachments-uploads-prd.storage.googleapis.com
@@ -26664,6 +26676,7 @@ dlmobilegarena-a.akamaihd.net
 dmqdd6hw24ucf.cloudfront.net
 docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 docker-pinata-support.s3.amazonaws.com
+doy2mn9upadnk.cloudfront.net
 dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 ds-linear-abematv.akamaized.net
@@ -26711,7 +26724,6 @@ firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 firstsearch.oclc.org
-flightsimulator.azureedge.net
 fontshop-prod-responsive-images.s3.amazonaws.com
 foxnewsplayer-a.akamaihd.net
 gamedownloads-rockstargames-com.akamaized.net
