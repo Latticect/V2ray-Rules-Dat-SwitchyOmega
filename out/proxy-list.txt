@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-20 10:08:48
+; 更新时间：2026-10-21 10:03:36
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2687,8 +2687,10 @@
 *.avinin.com
 *.avira.com
 *.avistaz.to
+*.avito.com
 *.avito.ru
 *.avito.st
+*.avito.tech
 *.avizoon.site
 *.avizoone.com
 *.avjb.com

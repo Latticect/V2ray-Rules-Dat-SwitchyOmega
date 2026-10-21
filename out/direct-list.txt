@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-20 10:08:48
+; 更新时间：2026-10-21 10:03:36
 ; cn域名都不走代理
 *.cn
 
@@ -85310,6 +85310,8 @@ ff00:*
 *.szty56.com
 *.sztz.org
 *.sztzzs.com
+*.szu.app
+*.szu.moe
 *.szuavia.org
 *.szudad.com
 *.szunionlab.com
