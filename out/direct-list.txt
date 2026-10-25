@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-24 10:00:46
+; 更新时间：2026-10-25 09:44:46
 ; cn域名都不走代理
 *.cn
 
@@ -19190,6 +19190,7 @@ ff00:*
 *.cdqz.net
 *.cdrbs.net
 *.cdrcb.com
+*.cdrcbank.com
 *.cdren.net
 *.cdrich.com
 *.cdrjob.com
@@ -25055,6 +25056,7 @@ ff00:*
 *.cqyygz.com
 *.cqyyjc.com
 *.cqyysx.com
+*.cqyyxc.com
 *.cqyyzy.com
 *.cqyznews.com
 *.cqzbcg.com
@@ -48564,6 +48566,7 @@ ff00:*
 *.ibaizhu.com
 *.ibanana.club
 *.ibanbu.com
+*.ibangbank.com
 *.ibanggo.com
 *.ibangkf.com
 *.ibangtiao.com
@@ -50635,6 +50638,7 @@ ff00:*
 *.isi-gf.com
 *.isiabio.com
 *.isign.ren
+*.isigning.com
 *.isigu.com
 *.isilent.me
 *.isilicontech.com
@@ -65012,7 +65016,6 @@ ff00:*
 *.moefactory.com
 *.moefantasy.com
 *.moefou.org
-*.moegirl.org
 *.moegirl.tw
 *.moehot.com
 *.moehu.org
@@ -66445,6 +66448,7 @@ ff00:*
 *.nannjlnk.com
 *.nanobody-biolab.com
 *.nanochrom.com
+*.nanocorechip.com
 *.nanoeast.net
 *.nanoer.net
 *.nanoinglobal.com
@@ -109781,6 +109785,7 @@ app-analytics-services.com
 app-measurement-cn.com
 app-measurement.com
 app-site-association.cdn-apple.com
+app.moegirl.org.cn
 appldnld.apple.com
 appldnld.g.aaplimg.com
 appleid.cdn-apple.com
@@ -110229,6 +110234,7 @@ statics.teams.cdn.office.net
 status.alibabacloud.com
 stocks-sparkline-lb.apple.com.akadns.net
 stocks-sparkline.apple.com
+storage.moegirl.org.cn
 store.apple.com
 store.apple.com.edgekey.net
 store.apple.com.edgekey.net.globalredir.akadns.net
