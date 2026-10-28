@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-27 10:27:25
+; 更新时间：2026-10-28 10:35:50
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -2301,6 +2301,7 @@
 *.artel.watch
 *.arteldoc.com
 *.arteldoc.tv
+*.artificialanalysis.ai
 *.artixlinux.org
 *.artnudegalleries.com
 *.artoferotica.info
@@ -5621,6 +5622,7 @@
 *.clickserve.cc-dt.com
 *.clickserver.googleads.com
 *.climate-server.com
+*.cline.bot
 *.clinica-tibet.ru
 *.clinical-videos.com
 *.clinicalkey.com
@@ -5864,6 +5866,7 @@
 *.comixzilla.com
 *.comm-verse.com
 *.commandandconquer.com
+*.commandcode.ai
 *.comments.app
 *.commentshk.com
 *.commerceos.com
@@ -5916,6 +5919,7 @@
 *.contechacademy.com
 *.contentful.com
 *.contest.com
+*.context7.com
 *.convrgencegame.com
 *.cookiebot.com
 *.cookiechoices.org
@@ -15043,6 +15047,7 @@
 *.met-nude.com
 *.meta.ai
 *.meta.com
+*.metaaiusercontent.com
 *.metaaivm.com
 *.metabora.io
 *.metabrainz.org
@@ -17004,6 +17009,7 @@
 *.notion.so
 *.notionusercontent.com
 *.nottinghampost.com
+*.nousresearch.com
 *.novelai.net
 *.noveltrove.com
 *.novids.com
@@ -22361,6 +22367,7 @@
 *.thinkgeek.com
 *.thinkingtaiwan.com
 *.thinkofliving.com
+*.thinkorswim.com
 *.thinkquarterly.co.uk
 *.thinkquarterly.com
 *.thinkwithgoogle.com

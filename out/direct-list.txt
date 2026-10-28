@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-10-27 10:27:25
+; 更新时间：2026-10-28 10:35:50
 ; cn域名都不走代理
 *.cn
 
@@ -60921,8 +60921,6 @@ ff00:*
 *.longanlaw.com
 *.longau.com
 *.longbenren.com
-*.longbridgeapp.com
-*.longbridgehk.com
 *.longcai.com
 *.longcai027.com
 *.longcat.chat
@@ -110218,7 +110216,9 @@ seed.siri.apple.com
 sequoia.apple.com
 service.urchin.com
 sf-api-token-service.itunes.apple.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 shazam-insights.cdn-apple.com
 shell.cdn.office.net
 smp-device-content.apple.com
