@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-01 10:39:18
+; 更新时间：2026-11-02 10:46:15
 ; cn域名都不走代理
 *.cn
 
@@ -17164,6 +17164,7 @@ ff00:*
 *.bustoprint.com
 *.bustruckexpo.com
 *.busuanzi.cc
+*.busyming.com
 *.but7.com
 *.butair.com
 *.butao.com
@@ -29172,6 +29173,7 @@ ff00:*
 *.doubanio.com
 *.doubao-dev.com
 *.doubao.com
+*.doubaoapps.com
 *.doubaocdn.com
 *.doubaozhidao.com
 *.doubean.com
@@ -109421,6 +109423,7 @@ ff00:*
 *.zymc1.com
 *.zymkcdn.com
 *.zymkshop.com
+*.zymls.com
 *.zyoffice.com
 *.zyoo.net
 *.zyoogame.com
