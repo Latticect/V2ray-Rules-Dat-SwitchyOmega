@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-10 12:48:08
+; 更新时间：2026-11-11 11:08:20
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -10613,6 +10613,8 @@
 *.grabhentai.com
 *.grabpussy.com
 *.gradeuptube.com
+*.grafana.com
+*.grafana.net
 *.grafolio.com
 *.graias.com
 *.graiasmovies.com
@@ -19280,6 +19282,7 @@
 *.quatrowireless.com
 *.quatrum.com.br
 *.quay.io
+*.questionablequesting.com
 *.questvisual.com
 *.quicinc.com
 *.quickbook.com.br
@@ -21265,6 +21268,7 @@
 *.soyjak.party
 *.soyjak.st
 *.sp.cool
+*.spacebattles.com
 *.spaceexplored.com
 *.spaceforce.mil
 *.spacely.com.au
@@ -23434,6 +23438,7 @@
 *.v.recipes
 *.v2.help
 *.v2.hysteria.network
+*.v2ex.co
 *.v2ex.com
 *.v2fly.org
 *.v2ph.com

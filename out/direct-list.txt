@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-10 12:48:08
+; 更新时间：2026-11-11 11:08:20
 ; cn域名都不走代理
 *.cn
 
@@ -67158,6 +67158,7 @@ ff00:*
 *.nhzs.com
 *.ni8.com
 *.ni93.com
+*.nia-teams.com
 *.nianchu.net
 *.nianhuawan.com
 *.niankawang.com
