@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-13 11:38:41
+; 更新时间：2026-11-14 11:37:21
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -392,6 +392,7 @@
 *.51luoben.com
 *.51luoli.info
 *.51mh.app
+*.51papaya.com
 *.51pincha.cc
 *.51tuqiang.com
 *.520aa.tv
