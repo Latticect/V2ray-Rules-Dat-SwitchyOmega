@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-14 11:37:21
+; 更新时间：2026-11-15 11:08:18
 ; cn域名都不走代理
 *.cn
 
@@ -465,9 +465,7 @@ ff00:*
 *.03bcyh2069.xin
 *.03cl.xin
 *.03cz8604316.xin
-*.03d882c8810271.beer
 *.03dq.com
-*.03f99b91610271.beer
 *.03fcw.com
 *.03k.org
 *.03supin.com
@@ -930,7 +928,6 @@ ff00:*
 *.0941.org
 *.09451.com
 *.094j35.com
-*.095.xin
 *.095196555.com
 *.09527.xin
 *.0952xh.com
@@ -964,7 +961,6 @@ ff00:*
 *.0b4xq91061.xin
 *.0b6e0659811021.beer
 *.0b8ky116130.xin
-*.0bb875c361022.beer
 *.0bbd0e535194e7f7.com
 *.0bdfe52341114.beer
 *.0bef0493410272.beer
@@ -997,7 +993,6 @@ ff00:*
 *.0duw.com
 *.0dxkge0412.xin
 *.0e0c2e9e94622290.com
-*.0e38e883511032.beer
 *.0e7o6216306.xin
 *.0easy.com
 *.0ee18d4c192243b3.com
@@ -1908,7 +1903,6 @@ ff00:*
 *.16885.com
 *.16886000.com
 *.16888.com
-*.1688988.com
 *.1688du.com
 *.1688e.com
 *.1688eric.com
@@ -3079,7 +3073,6 @@ ff00:*
 *.26923.com
 *.26a9118418e77c84.com
 *.26c23b9f311042.beer
-*.26ce3e05310251.beer
 *.26d124fdb11032.beer
 *.26duc.com
 *.26e02ca8210272.beer
@@ -3126,7 +3119,6 @@ ff00:*
 *.288idc.com
 *.289.com
 *.2898.com
-*.28d4cc3671024.beer
 *.28e4cd79f1023.beer
 *.28gl.com
 *.28ka.com
@@ -3194,7 +3186,6 @@ ff00:*
 *.2dph.com
 *.2du.net
 *.2dyou.com
-*.2e30175771022.beer
 *.2e30a72a21023.beer
 *.2ea31935add3d6b0.com
 *.2eb4189e6451af49.com
@@ -3207,7 +3198,6 @@ ff00:*
 *.2f.com
 *.2f24ad2dc10261.beer
 *.2fa.vip
-*.2facb31bb10272.beer
 *.2fda37d4c10292.beer
 *.2gdt.com
 *.2gei.com
@@ -3584,7 +3574,6 @@ ff00:*
 *.346888.com
 *.346g4247o9.world
 *.346tudx.com
-*.34f04e8d410291.beer
 *.34lou.com
 *.34wl.com
 *.34xian.com
@@ -4490,7 +4479,6 @@ ff00:*
 *.437zhifu.com
 *.43803a8c410261.beer
 *.4393ce88a10272.beer
-*.4395e6c8b10291.beer
 *.4399.com
 *.4399.net
 *.43999yx.com
@@ -4603,7 +4591,6 @@ ff00:*
 *.47964154c11021.beer
 *.479d8573510301.beer
 *.47daili.com
-*.47e17a13ee18fa43.com
 *.47gs.com
 *.47rq.com
 *.47zu.com
@@ -4629,7 +4616,6 @@ ff00:*
 *.4901.com
 *.490186.com
 *.491.com
-*.492f2622e64c138e.com
 *.4930.com
 *.4933.com
 *.49358.com
@@ -4686,7 +4672,6 @@ ff00:*
 *.4ef06207210281.beer
 *.4ef870db01022.beer
 *.4everdns.com
-*.4f0b987b410311.beer
 *.4f61.com
 *.4f89.com
 *.4fang.net
@@ -5010,7 +4995,6 @@ ff00:*
 *.51ean.com
 *.51ean.xin
 *.51easymaster.com
-*.51eb0685c11021.beer
 *.51ebo.com
 *.51ebooks.com
 *.51eduline.com
@@ -6848,7 +6832,6 @@ ff00:*
 *.68u.co
 *.68websoft.com
 *.68zhan.net
-*.69090.com
 *.6912s.com
 *.6917.com
 *.692657.com
@@ -7106,7 +7089,6 @@ ff00:*
 *.72287o.xyz
 *.7230.com
 *.7239ll.net
-*.723e7a5a510261.beer
 *.7245f7d6211012.beer
 *.724pride.com
 *.724pridecryogenics.com
@@ -7422,7 +7404,6 @@ ff00:*
 *.7down.net
 *.7e.hk
 *.7e051eec511021.beer
-*.7e9dba1891021.beer
 *.7east.com
 *.7ed.net
 *.7edown.com
@@ -8990,7 +8971,6 @@ ff00:*
 *.9duw.com
 *.9dwork.com
 *.9e.gs
-*.9eacc080d10291.beer
 *.9earth.com
 *.9eip.com
 *.9ele.com
@@ -9136,7 +9116,6 @@ ff00:*
 *.a-startech.com
 *.a-sy.com
 *.a-xun.com
-*.a049636971024.beer
 *.a04d48409e40ca3f.com
 *.a0598.com
 *.a0770.com
@@ -9632,6 +9611,7 @@ ff00:*
 *.adpfm513.com
 *.adplusx.com
 *.adpsh.com
+*.adqiyu.com
 *.adqtt.net
 *.adquan.com
 *.adrkwai.com
@@ -9722,7 +9702,6 @@ ff00:*
 *.adznb.com
 *.adzshd.com
 *.ae-inbr.xin
-*.ae0f9d6cf11021.beer
 *.ae1234.com
 *.ae256.com
 *.ae3a6d6e09359c15.com
@@ -14784,7 +14763,6 @@ ff00:*
 *.bf-jxqc.com
 *.bf-z.com
 *.bf-zhengzhou.com
-*.bf07e33c810281.beer
 *.bf35.com
 *.bf99.com
 *.bfcdnbf.com
@@ -16016,7 +15994,6 @@ ff00:*
 *.bjxf315.com
 *.bjxhly.com
 *.bjximei.com
-*.bjxingma.com
 *.bjxingzheng.com
 *.bjxinku.com
 *.bjxjyy666.com
@@ -17892,7 +17869,6 @@ ff00:*
 *.caiweiming.com
 *.caiwennews.com
 *.caiwuchina.com
-*.caixadirectaanalisar.com
 *.caixin.com
 *.caixinfoundation.org
 *.caixinmedia.com
@@ -19153,7 +19129,6 @@ ff00:*
 *.ce-air.com
 *.ce04.com
 *.ce2293.com
-*.cea45b9f61023.beer
 *.ceacq.com
 *.ceair.com
 *.ceairdutyfree.com
@@ -21742,7 +21717,6 @@ ff00:*
 *.chuansong.me
 *.chuansongme.com
 *.chuantec.com
-*.chuantiegroup.com
 *.chuanye.com
 *.chuanyejinxuan.xyz
 *.chuanyifu.com
@@ -23899,7 +23873,6 @@ ff00:*
 *.collect-med.com
 *.college-ing.com
 *.collt.org
-*.colly-pink.com
 *.colobu.com
 *.colocess.com
 *.color-measure.com
@@ -26348,7 +26321,6 @@ ff00:*
 *.daduoduo.com
 *.daduofa.com
 *.dadushixiecheng.com
-*.daeac4faf10292.beer
 *.daerzhu.com
 *.daeshin-china.com
 *.daetool.com
@@ -26429,7 +26401,6 @@ ff00:*
 *.daigou.com
 *.daihing.com
 *.daijun.com
-*.daikandq.com
 *.daikuan.com
 *.daili321.com
 *.dailianmama.com
@@ -27298,7 +27269,6 @@ ff00:*
 *.de1000.com
 *.de123.net
 *.de1919.com
-*.de2edec3011032.beer
 *.de83cc01111.xin
 *.de9745f491023.beer
 *.deaconhousewuxi.com
@@ -27668,7 +27638,6 @@ ff00:*
 *.dfdinsin.com
 *.dfebda0512.vip
 *.dfedu.com
-*.dfeeb7ee91022.beer
 *.dfev.net
 *.dffcw.net
 *.dfgiso.com
@@ -31585,7 +31554,6 @@ ff00:*
 *.enjoyor.net
 *.enjoyyue.com
 *.enjoyz.com
-*.enketu.com
 *.enkichen.com
 *.enkj.com
 *.enkris.com
@@ -32536,7 +32504,6 @@ ff00:*
 *.f79ca805111881f6.com
 *.f7aa9093710281.beer
 *.f7chinavip.com
-*.f7e84829210281.beer
 *.f7yuncdn.com
 *.f831fb9ce11031.beer
 *.f92ec0629f52f064.com
@@ -34929,7 +34896,6 @@ ff00:*
 *.fumiaoyinpin.com
 *.fumin.com
 *.fumu.com
-*.fumubang.com
 *.fumuhui.com
 *.fun.tv
 *.fun4go.com
@@ -37875,7 +37841,6 @@ ff00:*
 *.google-hub.com
 *.googlebbs.net
 *.googlenav.com
-*.googleplus.party
 *.googleppy.com
 *.googlevoice.org
 *.googleyixia.com
@@ -49355,7 +49320,6 @@ ff00:*
 *.iikuzhan.com
 *.iikx.com
 *.iinhotel.com
-*.iinorii.com
 *.iiolink.com
 *.iiong.com
 *.iipcloud.com
@@ -52021,7 +51985,6 @@ ff00:*
 *.jiancepai.com
 *.jiancepaper.com
 *.jiancesys.com
-*.jianchiapp.com
 *.jianchihu.net
 *.jiandaima.com
 *.jiandan.net
@@ -55011,7 +54974,6 @@ ff00:*
 *.juming-xz.com
 *.juming.com
 *.jumingwang.com
-*.jumold.com
 *.jumore.com
 *.jump-center.com
 *.jump-game.com
@@ -56606,7 +56568,6 @@ ff00:*
 *.kfhome.com
 *.kfhty.com
 *.kfj.cc
-*.kfjd.com
 *.kfjyd.com
 *.kfjyjt.com
 *.kflhgs.com
@@ -57203,7 +57164,6 @@ ff00:*
 *.kopperchem.com
 *.koreabt.com
 *.koreavisa-wh.com
-*.korirl.com
 *.kormee.com
 *.kornsweets.com
 *.koronsoft.com
@@ -65381,7 +65341,6 @@ ff00:*
 *.mrjjxw.com
 *.mrlian.club
 *.mrlika.com
-*.mrlxc51byo.com
 *.mrmfsc.ltd
 *.mro365.com
 *.mro9.com
@@ -67733,7 +67692,6 @@ ff00:*
 *.njnewgreen.com
 *.njnfwl.com
 *.njnhsx.net
-*.njnhyx.net
 *.njnii.com
 *.njningyi.com
 *.njnkxt.com
@@ -72263,7 +72221,6 @@ ff00:*
 *.pzfc.com
 *.pzfcw.com
 *.pzhccb.com
-*.pzhdahe.com
 *.pzhedu.com
 *.pzhl.net
 *.pzhol.com
@@ -72348,7 +72305,6 @@ ff00:*
 *.qc6.com
 *.qc99.com
 *.qca.org
-*.qcaipiao.com
 *.qcbaas.com
 *.qcbone.com
 *.qcc.com
@@ -79984,7 +79940,6 @@ ff00:*
 *.shonfer.com
 *.shootmedia.net
 *.shop-isv.com
-*.shop265.com
 *.shop2cn.com
 *.shopbackdrop.com
 *.shopchaoren.com
@@ -80428,7 +80383,6 @@ ff00:*
 *.shujubang.com
 *.shujubo.com
 *.shujujishi.com
-*.shujulin.com
 *.shujupie.com
 *.shujutang.com
 *.shujuwa.net
@@ -95460,7 +95414,6 @@ ff00:*
 *.wwejds.com
 *.wwenglish.com
 *.wwenglish.org
-*.wwentua.com
 *.wwfchina.org
 *.wwhlian.com
 *.wwjie.com
@@ -106464,7 +106417,6 @@ ff00:*
 *.zhhaitai.com
 *.zhheo.com
 *.zhhfedu.com
-*.zhhlaw.com
 *.zhhlogistics.com
 *.zhhrm.com
 *.zhhs-china.com
@@ -109746,7 +109698,6 @@ ff00:*
 *.zzwonder.com
 *.zzwqqx.com
 *.zzwro.com
-*.zzwtjx.com
 *.zzwwiidd.com
 *.zzwzj.com
 *.zzxca.com
