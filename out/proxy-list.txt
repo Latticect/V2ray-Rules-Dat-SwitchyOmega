@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-18 12:43:54
+; 更新时间：2026-11-19 12:33:56
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -7818,6 +7818,7 @@
 *.elephanttubenew.com
 *.elevenlabs.com
 *.elevenlabs.io
+*.elevenlabsusercontent.com
 *.elgaronline.com
 *.elgoog.im
 *.elifesciences.org
@@ -25950,7 +25951,6 @@
 *.yandexgo.com
 *.yandexlyceum.ru
 *.yandexwebcache.net
-*.yandexwebcache.org
 *.yango-b2b.com
 *.yango-team.com
 *.yango-tech.com

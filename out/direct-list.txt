@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-18 12:43:54
+; 更新时间：2026-11-19 12:33:56
 ; cn域名都不走代理
 *.cn
 
@@ -59080,6 +59080,7 @@ ff00:*
 *.lenovoconnect.com
 *.lenovoeservice.com
 *.lenovofile.com
+*.lenovofuturecenter.com
 *.lenovogame.com
 *.lenovohci.com
 *.lenovohuishang.com
@@ -73747,6 +73748,7 @@ ff00:*
 *.qpkaifa.com
 *.qplus.com
 *.qplusstatic.com
+*.qpmcn.com
 *.qpoc.com
 *.qpstar.com
 *.qpwater.com
@@ -88531,6 +88533,7 @@ ff00:*
 *.trpc.center
 *.trpc.group
 *.trpc.tech
+*.trpcdn.com
 *.trpcdn.net
 *.trs-logistics.com
 *.trsoft.vip
@@ -106132,6 +106135,7 @@ ff00:*
 *.zhaokuaizhao.com
 *.zhaolaobanla.com
 *.zhaoliangji.com
+*.zhaoliangjipc.com
 *.zhaoliming.net
 *.zhaoming.biz
 *.zhaomishijie.com
