@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-23 12:02:52
+; 更新时间：2026-11-24 15:06:32
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -9822,6 +9822,7 @@
 *.gemfire.net
 *.gemfury.com
 *.gemini.com
+*.gemma.ai
 *.gen.lib.rus.ec
 *.genbank.ru
 *.gencraft.com
