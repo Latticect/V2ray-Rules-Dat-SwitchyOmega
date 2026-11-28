@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-; 更新时间：2026-11-27 13:25:04
+; 更新时间：2026-11-28 13:00:15
 *.000webhost.com
 *.01.org
 *.02weqj32.com
@@ -1067,6 +1067,7 @@
 *.ai91porn.cc
 *.aiaa.org
 *.aiasahi.jp
+*.aicu.cc
 *.aidc.com.tw
 *.aihub.top
 *.aimei133.com
@@ -6262,6 +6263,7 @@
 *.dandanplay.net
 *.dandanzan.cc
 *.danke4china.net
+*.danmakus.com
 *.danmarkbeatsbydrdre.com
 *.danskpornofilm.com
 *.dansmovies.com
@@ -8722,6 +8724,7 @@
 *.fc2ppv.tv
 *.fcacebook.com
 *.fcaebook.com
+*.fce.gg
 *.fcebook.com
 *.fcebookk.com
 *.fcfacebook.com
@@ -21202,6 +21205,7 @@
 *.soyjak.st
 *.sp.cool
 *.spacebattles.com
+*.spacedesk.net
 *.spaceexplored.com
 *.spaceforce.mil
 *.spacely.com.au
@@ -26574,6 +26578,7 @@ asahishimbun.sc.omtrdc.net
 assets.ppy.sh
 audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
+aurora-customization-usw2.lithium.com
 avatargarenanow-a.akamaihd.net
 az764295.vo.msecnd.net
 azure.microsoft.com
